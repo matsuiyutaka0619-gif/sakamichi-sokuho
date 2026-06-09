@@ -1,0 +1,33 @@
+{
+  "groups": [
+    {
+      "name": "乃木坂46",
+      "color": "#812990",
+      "links": [
+        { "label": "公式サイト", "url": "https://www.nogizaka46.com/" },
+        { "label": "公式YouTube", "url": "https://www.youtube.com/@nogizakahaishinchu" },
+        { "label": "乃木坂配信中", "url": "https://www.youtube.com/@nogizakahaishinchu" },
+        { "label": "公式X", "url": "https://x.com/nogizaka46" }
+      ]
+    },
+    {
+      "name": "櫻坂46",
+      "color": "#f19db5",
+      "links": [
+        { "label": "公式サイト", "url": "https://sakurazaka46.com/" },
+        { "label": "公式YouTube", "url": "https://www.youtube.com/@sakurazaka46SMEJ" },
+        { "label": "公式X", "url": "https://x.com/sakurazaka46" }
+      ]
+    },
+    {
+      "name": "日向坂46",
+      "color": "#7cc7e8",
+      "links": [
+        { "label": "公式サイト", "url": "https://www.hinatazaka46.com/" },
+        { "label": "公式YouTube", "url": "https://www.youtube.com/@46officialyoutubechannel99" },
+        { "label": "日向坂ちゃんねる", "url": "https://www.youtube.com/@hinatazakachannel" },
+        { "label": "公式X", "url": "https://x.com/hinatazaka46" }
+      ]
+    }
+  ]
+}

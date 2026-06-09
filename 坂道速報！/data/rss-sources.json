@@ -1,0 +1,198 @@
+[
+  {
+    "name": "日刊スポーツ 芸能",
+    "url": "https://www.nikkansports.com/entertainment/atom.xml",
+    "enabled": true,
+    "priority": "high",
+    "notes": "公式RSS一覧あり"
+  },
+  {
+    "name": "日刊スポーツ AKB48",
+    "url": "https://www.nikkansports.com/entertainment/akb48/atom.xml",
+    "enabled": true,
+    "priority": "high",
+    "notes": "坂道関連記事が混ざる可能性あり"
+  },
+  {
+    "name": "ORICON NEWS",
+    "url": "https://www.oricon.co.jp/rss/news.xml",
+    "enabled": false,
+    "priority": "high",
+    "notes": "現在HTTP 410または取得不可。代替RSSが確認できたら有効化"
+  },
+  {
+    "name": "モデルプレス",
+    "url": "https://mdpr.jp/rss",
+    "enabled": true,
+    "priority": "high",
+    "notes": "RSS取得確認済み"
+  },
+  {
+    "name": "リアルサウンド",
+    "url": "https://realsound.jp/feed",
+    "enabled": false,
+    "priority": "high",
+    "notes": "トップフィードは取得不可。カテゴリフィードを使用"
+  },
+  {
+    "name": "リアルサウンド 音楽",
+    "url": "https://realsound.jp/music/feed",
+    "enabled": true,
+    "priority": "high",
+    "notes": "音楽カテゴリ"
+  },
+  {
+    "name": "リアルサウンド 映画部",
+    "url": "https://realsound.jp/movie/feed",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "OGのドラマ・映画出演向け"
+  },
+  {
+    "name": "音楽ナタリー",
+    "url": "https://natalie.mu/music/feed/news",
+    "enabled": true,
+    "priority": "high",
+    "notes": "取得できない場合は自動でスキップ"
+  },
+  {
+    "name": "ナタリー",
+    "url": "https://natalie.mu/feed/news",
+    "enabled": false,
+    "priority": "medium",
+    "notes": "総合フィードは取得不可。音楽ナタリーを使用"
+  },
+  {
+    "name": "マイナビニュース エンタメ",
+    "url": "https://news.mynavi.jp/rss/entertainment/entertainment",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "AdSense導入前に利用条件を再確認"
+  },
+  {
+    "name": "マイナビニュース 芸能",
+    "url": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "AdSense導入前に利用条件を再確認"
+  },
+  {
+    "name": "マイナビニュース テレビ",
+    "url": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "番組出演ニュース向け"
+  },
+  {
+    "name": "マイナビニュース 映画",
+    "url": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "OGの映画出演ニュース向け"
+  },
+  {
+    "name": "ENCOUNT",
+    "url": "https://encount.press/feed/",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "芸能ニュース"
+  },
+  {
+    "name": "クランクイン！",
+    "url": "https://www.crank-in.net/rss/news.xml",
+    "enabled": false,
+    "priority": "medium",
+    "notes": "現在RSS取得不可"
+  },
+  {
+    "name": "WEBザテレビジョン",
+    "url": "https://thetv.jp/rss/news.xml",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "取得できない場合は自動でスキップ"
+  },
+  {
+    "name": "シネマトゥデイ",
+    "url": "https://www.cinematoday.jp/rss/N.xml",
+    "enabled": false,
+    "priority": "medium",
+    "notes": "現在RSS取得不可"
+  },
+  {
+    "name": "BARKS",
+    "url": "https://www.barks.jp/feed/",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "RSS取得確認済み"
+  },
+  {
+    "name": "QJWeb",
+    "url": "https://qjweb.jp/feed/",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "アイドル・カルチャー系"
+  },
+  {
+    "name": "Bezzy",
+    "url": "https://bezzy.jp/feed/",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "音楽・映画系"
+  },
+  {
+    "name": "otocoto",
+    "url": "https://otocoto.jp/feed/",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "映画・エンタメ系"
+  },
+  {
+    "name": "Sirabee",
+    "url": "https://sirabee.com/feed/",
+    "enabled": true,
+    "priority": "low",
+    "notes": "芸能記事が多い"
+  },
+  {
+    "name": "J-CASTトレンド",
+    "url": "https://www.j-cast.com/trend/feed/",
+    "enabled": false,
+    "priority": "low",
+    "notes": "現在RSS取得不可"
+  },
+  {
+    "name": "めざましmedia",
+    "url": "https://mezamashi.media/feed/",
+    "enabled": false,
+    "priority": "medium",
+    "notes": "現在RSS取得不可"
+  },
+  {
+    "name": "TVガイドWeb",
+    "url": "https://www.tvguide.or.jp/feed/",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "テレビ出演情報向け"
+  },
+  {
+    "name": "WWSチャンネル",
+    "url": "https://www.wws-channel.com/feed",
+    "enabled": true,
+    "priority": "medium",
+    "notes": "アイドル・音楽イベント系"
+  },
+  {
+    "name": "Edge Line",
+    "url": "https://www.edgeline-tokyo.com/feed",
+    "enabled": true,
+    "priority": "low",
+    "notes": "舞台・イベント系"
+  },
+  {
+    "name": "Yahoo!ニュース RSS",
+    "url": "https://news.yahoo.co.jp/rss/topics/entertainment.xml",
+    "enabled": false,
+    "priority": "excluded",
+    "notes": "公開サイトでの利用が許可されていないため除外"
+  }
+]
