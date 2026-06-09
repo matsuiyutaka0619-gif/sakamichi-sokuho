@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T09:29:32.354Z",
+  "updatedAt": "2026-06-09T12:52:52.415Z",
   "articles": [
     {
       "id": "4c3f8fc7ee82a1ee",
@@ -46,20 +46,6 @@
       ]
     },
     {
-      "id": "4a63aff8b25fb6b6",
-      "title": "日向坂、ゴスペラーズ、坂本冬美、水谷千重子が「Mフェア」出演 「また君に恋してる」コラボも",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675359",
-      "publishedAt": "2026-06-09T03:32:00.000Z",
-      "summary": "6月13日18:00より放送のフジテレビ系「SHIONOGI MUSIC FAIR」に日向坂46、ゴスペラーズ、坂本冬美、水谷千重子が出演する。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "37d4b9fbd1b234a4",
       "title": "舘ひろし、西野七瀬との共演シーンを回顧「いいシーンになったと思います」 映画『免許返納!?』大ヒット祈願イベント",
       "sourceName": "マイナビニュース エンタメ",
@@ -80,42 +66,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "f2a267a39911f202",
-      "title": "日向坂46藤嶌果歩が黒ドレスで大人びた表情、1st写真集の先行カット公開",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675336",
-      "publishedAt": "2026-06-09T03:00:00.000Z",
-      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集（タイトル未定）より、先行カット第6弾が公開された。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "218e7cb45c950a36",
-      "title": "櫻坂46「What's \"KAZOKU\"?」ミュージックビデオ公開、現実と空想が交差する“家”が舞台",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675318",
-      "publishedAt": "2026-06-08T13:10:00.000Z",
-      "summary": "櫻坂46の新曲「What's \"KAZOKU\"?」のミュージックビデオがYouTubeで公開された。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "1a711c040a02d1c0",
@@ -331,28 +281,6 @@
         {
           "name": "潮紗理菜",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a79efc7b5c5eae55",
-      "title": "降幡愛“憧れの声優”を告白「男の子の声を演じたり、色っぽい声も演じられたり…」声優を目指した経緯も明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260605-4545346/",
-      "publishedAt": "2026-06-05T11:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。6月1日（月）の放送には、声優の降幡愛さんが登場！ 本記事では、降幡さんが声優を目指したきっかけや憧れの声優について語った模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -1023,28 +951,6 @@
           "name": "片山紗希",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9e6211130388ec60",
-      "title": "川上未映子の長編を初映画化『すべて真夜中の恋人たち』に森田望智、深川麻衣、塩野瑛久ら",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/83652/",
-      "publishedAt": "2026-04-03T00:00:00.000Z",
-      "summary": "川上未映子の初の恋愛小説を原作に、岸井ゆきのと浅野忠信の共演で映画化される『すべて真夜中の恋人たち』の追加キャストが解禁された。 本作は、人との関わりを拒んで生きてきた女性が年上の男性と出会い、自らの孤独と向き合う姿を描く物語。原作者の川上は『乳と卵』（2008年）で芥川賞、『夏物語』（2019）では毎日出版文化賞を受賞し国内外から熱い支持を得ており、自身の",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     }
