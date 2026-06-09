@@ -2,198 +2,1155 @@
   "updatedAt": "2026-06-09",
   "note": "初期辞書です。卒業・改名・表記ゆれは data/members.json を直接編集して調整してください。",
   "members": [
-    { "name": "伊藤理々杏", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "岩本蓮加", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "梅澤美波", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "久保史緒里", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "吉田綾乃クリスティー", "group": "乃木坂46", "status": "active", "aliases": ["吉田綾乃"] },
-    { "name": "遠藤さくら", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "賀喜遥香", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "金川紗耶", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "黒見明香", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "佐藤璃果", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "柴田柚菜", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "田村真佑", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "筒井あやめ", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "林瑠奈", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "松尾美佑", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "矢久保美緒", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "弓木奈於", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "五百城茉央", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "池田瑛紗", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "一ノ瀬美空", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "井上和", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "岡本姫奈", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "小川彩", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "奥田いろは", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "川﨑桜", "group": "乃木坂46", "status": "active", "aliases": ["川崎桜"] },
-    { "name": "菅原咲月", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "冨里奈央", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "中西アルノ", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "愛宕心響", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "大越ひなの", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "小津玲奈", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "海邉朱莉", "group": "乃木坂46", "status": "active", "aliases": ["海辺朱莉"] },
-    { "name": "川端晃菜", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "鈴木佑捺", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "瀬戸口心月", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "長嶋凛桜", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "増田三莉音", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "森平麗心", "group": "乃木坂46", "status": "active", "aliases": [] },
-    { "name": "矢田萌華", "group": "乃木坂46", "status": "active", "aliases": [] },
-
-    { "name": "石森璃花", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "遠藤光莉", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "遠藤理子", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "大園玲", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "大沼晶保", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "小田倉麗奈", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "小池美波", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "幸阪茉里乃", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "小島凪紗", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "武元唯衣", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "谷口愛季", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "田村保乃", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "中嶋優月", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "藤吉夏鈴", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "増本綺良", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "松田里奈", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "的野美青", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "向井純葉", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "村井優", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "村山美羽", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "森田ひかる", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "守屋麗奈", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "山﨑天", "group": "櫻坂46", "status": "active", "aliases": ["山崎天"] },
-    { "name": "山下瞳月", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "浅井恋乃未", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "稲熊ひな", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "勝又春", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "佐藤愛桜", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "中川智尋", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "松本和子", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "目黒陽色", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "山川宇衣", "group": "櫻坂46", "status": "active", "aliases": [] },
-    { "name": "山田桃実", "group": "櫻坂46", "status": "active", "aliases": [] },
-
-    { "name": "石塚瑶季", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "金村美玖", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "上村ひなの", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "小坂菜緒", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "小西夏菜実", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "清水理央", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "正源司陽子", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "髙橋未来虹", "group": "日向坂46", "status": "active", "aliases": ["高橋未来虹"] },
-    { "name": "竹内希来里", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "平尾帆夏", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "平岡海月", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "藤嶌果歩", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "宮地すみれ", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "森本茉莉", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "山口陽世", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "山下葉留花", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "渡辺莉奈", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "大田美月", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "大野愛実", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "片山紗希", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "蔵盛妃那乃", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "坂井新奈", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "佐藤優羽", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "下田衣珠季", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "高井俐香", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "鶴崎仁香", "group": "日向坂46", "status": "active", "aliases": [] },
-    { "name": "松尾桜", "group": "日向坂46", "status": "active", "aliases": [] },
-
-    { "name": "秋元真夏", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "生田絵梨花", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "生駒里奈", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "市來玲奈", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "伊藤かりん", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "伊藤純奈", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "伊藤万理華", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "井上小百合", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "衛藤美彩", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "川後陽菜", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "川村真洋", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "北野日奈子", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "齋藤飛鳥", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "斎藤ちはる", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "斉藤優里", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "相楽伊織", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "桜井玲香", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "佐々木琴子", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "佐藤楓", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "白石麻衣", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "新内眞衣", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "鈴木絢音", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "高山一実", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "寺田蘭世", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "中田花奈", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "中元日芽香", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "西野七瀬", "group": "乃木坂46", "status": "og", "aliases": ["なぁちゃん"] },
-    { "name": "能條愛未", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "橋本奈々未", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "畠中清羅", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "樋口日奈", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "深川麻衣", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "星野みなみ", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "堀未央奈", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "松村沙友理", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "宮澤成良", "group": "乃木坂46", "status": "og", "aliases": ["宮沢成良"] },
-    { "name": "山崎怜奈", "group": "乃木坂46", "status": "og", "aliases": ["山﨑怜奈"] },
-    { "name": "若月佑美", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "和田まあや", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "大園桃子", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "阪口珠美", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "中村麗乃", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "向井葉月", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "山下美月", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "与田祐希", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "掛橋沙耶香", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "北川悠理", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "清宮レイ", "group": "乃木坂46", "status": "og", "aliases": [] },
-    { "name": "早川聖来", "group": "乃木坂46", "status": "og", "aliases": [] },
-
-    { "name": "井口眞緒", "group": "日向坂46", "status": "og", "aliases": ["井口真緒"] },
-    { "name": "柿崎芽実", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "影山優佳", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "加藤史帆", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "齊藤京子", "group": "日向坂46", "status": "og", "aliases": ["斉藤京子"] },
-    { "name": "佐々木久美", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "佐々木美玲", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "高瀬愛奈", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "高本彩花", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "長濱ねる", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "東村芽依", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "潮紗理菜", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "渡邉美穂", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "丹生明里", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "濱岸ひより", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "富田鈴花", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "松田好花", "group": "日向坂46", "status": "og", "aliases": [] },
-    { "name": "河田陽菜", "group": "日向坂46", "status": "og", "aliases": ["河田陽菜"] },
-
-    { "name": "石森虹花", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "今泉佑唯", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "上村莉菜", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "尾関梨香", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "織田奈那", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "小林由依", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "齋藤冬優花", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "佐藤詩織", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "志田愛佳", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "菅井友香", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "鈴本美愉", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "長沢菜々香", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "土生瑞穂", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "原田葵", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "平手友梨奈", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "守屋茜", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "米谷奈々未", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "渡辺梨加", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "渡邉理佐", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "長濱ねる", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "松平璃子", "group": "櫻坂46", "status": "og", "aliases": [] },
-    { "name": "関有美子", "group": "櫻坂46", "status": "og", "aliases": [] }
+    {
+      "name": "伊藤理々杏",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "岩本蓮加",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "梅澤美波",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "久保史緒里",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "吉田綾乃クリスティー",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": [
+        "吉田綾乃"
+      ]
+    },
+    {
+      "name": "遠藤さくら",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "賀喜遥香",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "金川紗耶",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "黒見明香",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "佐藤璃果",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "柴田柚菜",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "田村真佑",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "筒井あやめ",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "林瑠奈",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "松尾美佑",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "矢久保美緒",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "弓木奈於",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "五百城茉央",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "池田瑛紗",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "一ノ瀬美空",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "井上和",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "岡本姫奈",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小川彩",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "奥田いろは",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "川﨑桜",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": [
+        "川崎桜"
+      ]
+    },
+    {
+      "name": "菅原咲月",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "冨里奈央",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "中西アルノ",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "愛宕心響",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "大越ひなの",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小津玲奈",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "海邉朱莉",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": [
+        "海辺朱莉"
+      ]
+    },
+    {
+      "name": "川端晃菜",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "鈴木佑捺",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "瀬戸口心月",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "長嶋凛桜",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "増田三莉音",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "森平麗心",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "矢田萌華",
+      "group": "乃木坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "石森璃花",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "遠藤光莉",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "遠藤理子",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "大園玲",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "大沼晶保",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小田倉麗奈",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小池美波",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "幸阪茉里乃",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小島凪紗",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "武元唯衣",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "谷口愛季",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "田村保乃",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "中嶋優月",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "藤吉夏鈴",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "増本綺良",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "松田里奈",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "的野美青",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "向井純葉",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "村井優",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "村山美羽",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "森田ひかる",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "守屋麗奈",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "山﨑天",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": [
+        "山崎天"
+      ]
+    },
+    {
+      "name": "山下瞳月",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "浅井恋乃未",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "稲熊ひな",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "勝又春",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "佐藤愛桜",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "中川智尋",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "松本和子",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "目黒陽色",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "山川宇衣",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "山田桃実",
+      "group": "櫻坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "石塚瑶季",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "金村美玖",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "上村ひなの",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小坂菜緒",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "小西夏菜実",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "清水理央",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "正源司陽子",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "髙橋未来虹",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": [
+        "高橋未来虹"
+      ]
+    },
+    {
+      "name": "竹内希来里",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "平尾帆夏",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "平岡海月",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "藤嶌果歩",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "宮地すみれ",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "森本茉莉",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "山口陽世",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "山下葉留花",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "渡辺莉奈",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "大田美月",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "大野愛実",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "片山紗希",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "蔵盛妃那乃",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "坂井新奈",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "佐藤優羽",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "下田衣珠季",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "高井俐香",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "鶴崎仁香",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "松尾桜",
+      "group": "日向坂46",
+      "status": "active",
+      "aliases": []
+    },
+    {
+      "name": "秋元真夏",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "生田絵梨花",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "生駒里奈",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "市來玲奈",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "伊藤かりん",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "伊藤純奈",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "伊藤万理華",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "井上小百合",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "衛藤美彩",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "川後陽菜",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "川村真洋",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "北野日奈子",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "齋藤飛鳥",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "斎藤ちはる",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "斉藤優里",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "相楽伊織",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "桜井玲香",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "佐々木琴子",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "佐藤楓",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "白石麻衣",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "新内眞衣",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "鈴木絢音",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "高山一実",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "寺田蘭世",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "中田花奈",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "中元日芽香",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "西野七瀬",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": [
+        "なぁちゃん"
+      ]
+    },
+    {
+      "name": "能條愛未",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "橋本奈々未",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "畠中清羅",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "樋口日奈",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "深川麻衣",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "星野みなみ",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "堀未央奈",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "松村沙友理",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "宮澤成良",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": [
+        "宮沢成良"
+      ]
+    },
+    {
+      "name": "山崎怜奈",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": [
+        "山﨑怜奈"
+      ]
+    },
+    {
+      "name": "若月佑美",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "和田まあや",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "大園桃子",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "阪口珠美",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "中村麗乃",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "向井葉月",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "山下美月",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "与田祐希",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "掛橋沙耶香",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "北川悠理",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "清宮レイ",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "早川聖来",
+      "group": "乃木坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "井口眞緒",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": [
+        "井口真緒"
+      ]
+    },
+    {
+      "name": "柿崎芽実",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "影山優佳",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "加藤史帆",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "齊藤京子",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": [
+        "斉藤京子"
+      ]
+    },
+    {
+      "name": "佐々木久美",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "佐々木美玲",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "高瀬愛奈",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "高本彩花",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "長濱ねる",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "東村芽依",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "潮紗理菜",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "渡邉美穂",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "丹生明里",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "濱岸ひより",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "富田鈴花",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "松田好花",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "河田陽菜",
+      "group": "日向坂46",
+      "status": "og",
+      "aliases": [
+        "河田陽菜"
+      ]
+    },
+    {
+      "name": "石森虹花",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "今泉佑唯",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "上村莉菜",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "尾関梨香",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "織田奈那",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "小林由依",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "齋藤冬優花",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "佐藤詩織",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "志田愛佳",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "菅井友香",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "鈴本美愉",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "長沢菜々香",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "土生瑞穂",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "原田葵",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "平手友梨奈",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "守屋茜",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "米谷奈々未",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "渡辺梨加",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "渡邉理佐",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "長濱ねる",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "松平璃子",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    },
+    {
+      "name": "関有美子",
+      "group": "櫻坂46",
+      "status": "og",
+      "aliases": []
+    }
   ]
 }
