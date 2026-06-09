@@ -1,46 +1,24 @@
 {
-  "updatedAt": "2026-06-09T06:26:57.438Z",
+  "updatedAt": "2026-06-09T09:29:32.354Z",
   "articles": [
     {
-      "id": "1be2bfc3b9d7330e",
-      "title": "櫻坂46森田ひかる 光る“２人”の森田ひかる 坂道初ダブルＡ面センターの大役",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202606090000503.html",
-      "publishedAt": "2026-06-09T05:19:29.000Z",
-      "summary": "櫻坂46森田ひかる（24）が、明日10日発売の15枚目シングル「Lonesome rabbit／What’s“KAZOKU”？」への思いを語った。坂道グループ史上初のダブルA面シングルで2曲ともにセンターの大役。常に新たな挑戦を続けてい…",
+      "id": "4c3f8fc7ee82a1ee",
+      "title": "生田絵梨花主演ドラマ『天城越え』NHK総合で7月放送決定 松本清張の名作をドラマ化",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2420480.html",
+      "publishedAt": "2026-06-09T08:27:24.000Z",
+      "summary": "生田絵梨花が主演を務めるドラマ『天城越え』が、7月11日と18日にNHK総合テレビで前後編にわたり放送されることが決定した。 松本清張の短編集『黒い画集』に収められた一編「天城越え」をドラマ化した本作。2025年5月",
       "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "19d46fa2b1d71284",
-      "title": "影山優佳、W杯の見どころは…サッカートークで岡田准一“監督”圧倒「これ監督交代した方が…」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606090000344.html",
-      "publishedAt": "2026-06-09T05:10:30.000Z",
-      "summary": "女優影山優佳（25）が9日、都内で、マクドナルド「VIVA！ワールドマック」新商品発表会にゲスト登壇した。 今月16日から放映される新TVCM「代表発表」編で、「VIVA！ワールドマック」の監督役を演じた俳優岡田准一（45）とはこの日が…",
-      "groups": [
-        "日向坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "影山優佳",
-          "group": "日向坂46",
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -64,50 +42,6 @@
           "name": "筒井あやめ",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "36491f7bf659f0c9",
-      "title": "岡田准一、初共演の影山優佳に質問「知っていますか？僕アイドルだった」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1011188/",
-      "publishedAt": "2026-06-09T04:03:44.000Z",
-      "summary": "俳優の岡田准一、元日向坂46でタレントの影山優佳、サッカー元日本代表の中澤佑二が9日、都内で行われた『VIVA！ワールドマック』新商品発表イベントに出席した。『VIVA！ワールドマック』新商品発表イベント 俳優の岡田准 […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "205db229a5577f76",
-      "title": "影山優佳のサッカー知識に共演者が感嘆 元代表・中澤佑二「やっぱり詳しい。普段から見ている人」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1011061/",
-      "publishedAt": "2026-06-09T03:35:29.000Z",
-      "summary": "俳優の岡田准一、元日向坂46でタレントの影山優佳、サッカー元日本代表の中澤佑二が9日、都内で行われた『VIVA！ワールドマック』新商品発表イベントに参加。影山のサッカー知識に岡田と中澤が感嘆する場面があった。 『VIVA […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
@@ -206,24 +140,10 @@
       ]
     },
     {
-      "id": "708db7cdf6b85b8a",
-      "title": "「音楽の日2026」にEBiDAN、HANA、&TEAM、INI、櫻坂46、ふるっぱー、イコラブら10組出演決定",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675294",
-      "publishedAt": "2026-06-08T12:00:00.000Z",
-      "summary": "7月18日に生放送されるTBS系の夏の大型音楽特番「音楽の日2026」の出演アーティスト第1弾が発表された。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "c8d76515eaf3bc5d",
       "title": "「ボケは才能、ツッコミは努力」トンツカタン森本が伝授…会話が上手になる“ツッコミ作法”",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260608-4556318/",
       "publishedAt": "2026-06-08T12:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。5月25日（月）～28日（木）の4日間は、ラジオ局の垣根を越えて、さまざまな番組のパーソナリティが登場する“ラジオフレンズWEEK♪”をお届け。 5月28日（木）の放送では、Podcast番組「トン",
@@ -434,28 +354,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "0fb1b4eb88cc88bb",
-      "title": "狂気と絶叫から別の物語へ――中西アルノ、『惡の華』の空気を変える存在感 明るさと孤独…常磐文に重なる二面性",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260605-4543682/",
-      "publishedAt": "2026-06-05T02:28:33.000Z",
-      "summary": "少年・少女の「不安」「葛藤」「痛み」を描くテレビ東京のドラマ『惡の華』(毎週木曜24:00～)の第9話が、4日に放送された。今回は、高校生編のヒロインともいえる常磐を演じる中西アルノと、この原作の世界観を忠実に描き出している監督陣・ポールヤングと井口昇について語ってみたい。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "中西アルノ",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
