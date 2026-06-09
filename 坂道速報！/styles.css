@@ -672,6 +672,110 @@ main {
   transform: rotate(28deg);
 }
 
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  margin-bottom: 12px;
+}
+
+.footer-links a {
+  color: var(--text);
+  font-weight: 750;
+  text-decoration: none;
+  border-bottom: 2px solid rgba(241, 157, 181, 0.65);
+}
+
+.footer-links a:hover {
+  border-bottom-color: var(--brand-hinata);
+}
+
+.static-page {
+  background:
+    linear-gradient(#ffffff, #ffffff) padding-box,
+    linear-gradient(135deg, rgba(129, 41, 144, 0.16), rgba(241, 157, 181, 0.13), rgba(124, 199, 232, 0.16)) border-box;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  padding: clamp(20px, 4vw, 34px);
+  margin-bottom: 26px;
+}
+
+.static-page h2 {
+  margin: 28px 0 8px;
+  font-size: 1.1rem;
+  line-height: 1.35;
+}
+
+.static-page p {
+  margin: 0 0 12px;
+  color: var(--muted);
+}
+
+.static-page a {
+  color: var(--brand-nogi);
+  font-weight: 750;
+}
+
+.static-list {
+  margin: 0 0 12px;
+  padding-left: 1.25rem;
+  color: var(--muted);
+}
+
+.static-date {
+  margin-top: 26px;
+  font-size: 0.9rem;
+}
+
+.notice-box {
+  border: 1px solid rgba(124, 199, 232, 0.5);
+  border-radius: 8px;
+  background: rgba(124, 199, 232, 0.1);
+  padding: 14px;
+  margin: 16px 0;
+}
+
+.notice-box p {
+  margin: 0;
+}
+
+.contact-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, rgba(129, 41, 144, 0.11), rgba(241, 157, 181, 0.14), rgba(124, 199, 232, 0.16));
+  border: 1px solid var(--line-strong);
+  color: var(--text) !important;
+  padding: 0 16px;
+  text-decoration: none;
+}
+
+.info-list {
+  display: grid;
+  gap: 10px;
+  margin: 0 0 22px;
+}
+
+.info-list div {
+  display: grid;
+  grid-template-columns: 140px minmax(0, 1fr);
+  gap: 14px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 10px;
+}
+
+.info-list dt {
+  color: var(--text);
+  font-weight: 800;
+}
+
+.info-list dd {
+  margin: 0;
+  color: var(--muted);
+}
+
 .empty-state {
   grid-column: 1 / -1;
   background: var(--surface);
@@ -770,6 +874,11 @@ main {
 
   .article-meta {
     flex-direction: column;
+    gap: 2px;
+  }
+
+  .info-list div {
+    grid-template-columns: 1fr;
     gap: 2px;
   }
 
