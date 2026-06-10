@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-10T09:25:18.431Z",
+  "updatedAt": "2026-06-10T12:45:18.725Z",
   "articles": [
+    {
+      "id": "b1966046e8fce9b9",
+      "title": "山下美月ベルーナドーム西武VS広島セレモニアルピッチ登板！「楽しく投げることができました」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199359",
+      "publishedAt": "2026-06-10T11:39:25.000Z",
+      "summary": "俳優・山下美月が6月10日に埼玉・ベルーナドームで開催された交流戦シリーズ 2026 -黒獅子奮迅-埼玉西武ライオンズ vs 広島東洋カープ戦のセレモニアルピッチに登板した。 本イベントは山下主演で7月4日より上演予...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "12cda4c05feb1194",
       "title": "佐々木久美SSFF & ASIAレッドカーペットに黒のワンショルダードレスで来場",
@@ -36,72 +58,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "617bf2effc2ef3f6",
-      "title": "櫻坂46森田ひかる、本日発売「少年マガジン」登場",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675521",
-      "publishedAt": "2026-06-10T05:38:00.000Z",
-      "summary": "本日6月10日発売の雑誌「週刊少年マガジン」28号の表紙を、櫻坂46の森田ひかるが飾っている。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b2d117330ad513bd",
-      "title": "日向坂46藤嶌果歩1st写真集は「果実の歩幅」4種の表紙カット公開",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675477",
-      "publishedAt": "2026-06-10T03:00:00.000Z",
-      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集のタイトルが「果実の歩幅」に決定。これにあわせて、4種類の表紙画像が公開された。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7f5981feccc3551d",
-      "title": "「絶対泣いちゃいけないと思って…」「我慢したのに泣いちゃって申し訳なかった」三田寛子、長男・中村橋之助の披露宴を回顧",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260610-4551163/",
-      "publishedAt": "2026-06-09T21:30:00.000Z",
-      "summary": "タレントの三田寛子が、3日に放送されたTBSラジオ『パンサー向井の#ふらっと』(毎週月～木曜 8:30～11:00)に出演。5月30日に都内で行われた、長男で歌舞伎俳優の中村橋之助と元乃木坂46の能條愛未の挙式・披露宴について振り返った。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "能條愛未",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "f4ecfeba72b7d4a6",
