@@ -1,46 +1,60 @@
 {
-  "updatedAt": "2026-06-10T05:14:36.673Z",
+  "updatedAt": "2026-06-10T09:25:18.431Z",
   "articles": [
     {
-      "id": "d9bd5b42b0e94f00",
-      "title": "news23小川彩佳「富裕層のための大会のように…」サッカーＷ杯めぐる異様な価格高騰に懸念",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606100000535.html",
-      "publishedAt": "2026-06-10T04:27:34.000Z",
-      "summary": "TBS系「news23」でメインキャスターを務めるフリーアナウンサー小川彩佳は9日夜の放送で、開幕が迫るFIFAワールドカップ（W杯）北中米大会をめぐり、チケット代金や宿泊施設、交通手段などにかなりの価格高騰がみられることについて、「富…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "47afd2a1d36e8e74",
-      "title": "日向坂46藤嶌果歩、写真集のタイトルが「果実の歩幅」に決定！カバー４種も一挙に公開",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606100000367.html",
-      "publishedAt": "2026-06-10T03:40:32.000Z",
-      "summary": "日向坂46藤嶌果歩（19）のファースト写真集（8月4日発売、集英社）のタイトルが「果実の歩幅」に決定した。また、カバー4種も公開された。 通常版以外に、＠Loppi＆HMV限定カバー版、Sony Music Shop限定カバー版、紀伊國…",
+      "id": "12cda4c05feb1194",
+      "title": "佐々木久美SSFF & ASIAレッドカーペットに黒のワンショルダードレスで来場",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199352",
+      "publishedAt": "2026-06-10T07:35:12.000Z",
+      "summary": "俳優・佐々木久美が6月10日に東京・LINE CUBE SHIBUYA（渋谷公会堂）で『ショートショート フィルムフェスティバル & アジア 2026』アワードセレモニー＆レッドカーペット セレモニーに出席し...",
       "groups": [
         "日向坂46"
       ],
       "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐々木久美",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1941fcefa9432a9e",
+      "title": "宮崎県日向市のJR日向市駅が“日向坂46駅”に",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675551",
+      "publishedAt": "2026-06-10T07:03:00.000Z",
+      "summary": "日向坂46が9月5、6日に宮崎・ひなたサンマリンスタジアム宮崎でライブイベント「ひなたフェス2026」を開催する。これを記念し、宮崎県日向市のJR日向市駅が期間限定で「日向坂46駅」となることが決定した。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "617bf2effc2ef3f6",
+      "title": "櫻坂46森田ひかる、本日発売「少年マガジン」登場",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675521",
+      "publishedAt": "2026-06-10T05:38:00.000Z",
+      "summary": "本日6月10日発売の雑誌「週刊少年マガジン」28号の表紙を、櫻坂46の森田ひかるが飾っている。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
+          "name": "森田ひかる",
+          "group": "櫻坂46",
           "status": "active"
         }
       ]
@@ -90,24 +104,10 @@
       ]
     },
     {
-      "id": "62d6bcb265ee6422",
-      "title": "櫻坂46両A面シングルの歌唱メンバー発表、BACKS曲と四期生曲も2曲ずつ",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675460",
-      "publishedAt": "2026-06-09T12:58:00.000Z",
-      "summary": "櫻坂46が明日6月10日にリリースする両A面シングル「Lonesome rabbit / What's \"KAZOKU\"?」の収録曲の歌唱メンバーが発表された。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "f4ecfeba72b7d4a6",
       "title": "乃木坂46賀喜遥香「梅澤美波さんがセンターで披露するのが最後で…」バスラ1日目に初披露した楽曲「君ばかり」への思いを語る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260609-4560108/",
       "publishedAt": "2026-06-09T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月4日（木）の放送では、5月19日（火）～5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE」（以下、バスラ）の振り返り授業をお届け！ 本記事では、バスラ1日",
