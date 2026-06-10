@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T19:50:15.431Z",
+  "updatedAt": "2026-06-10T05:14:36.674Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -59,8 +59,7 @@
     {
       "source": "WEBザテレビジョン",
       "count": 0,
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true
     },
     {
       "source": "BARKS",

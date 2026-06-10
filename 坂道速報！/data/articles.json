@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-06-09T19:50:15.430Z",
+  "updatedAt": "2026-06-10T05:14:36.673Z",
   "articles": [
+    {
+      "id": "d9bd5b42b0e94f00",
+      "title": "news23小川彩佳「富裕層のための大会のように…」サッカーＷ杯めぐる異様な価格高騰に懸念",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606100000535.html",
+      "publishedAt": "2026-06-10T04:27:34.000Z",
+      "summary": "TBS系「news23」でメインキャスターを務めるフリーアナウンサー小川彩佳は9日夜の放送で、開幕が迫るFIFAワールドカップ（W杯）北中米大会をめぐり、チケット代金や宿泊施設、交通手段などにかなりの価格高騰がみられることについて、「富…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "47afd2a1d36e8e74",
+      "title": "日向坂46藤嶌果歩、写真集のタイトルが「果実の歩幅」に決定！カバー４種も一挙に公開",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606100000367.html",
+      "publishedAt": "2026-06-10T03:40:32.000Z",
+      "summary": "日向坂46藤嶌果歩（19）のファースト写真集（8月4日発売、集英社）のタイトルが「果実の歩幅」に決定した。また、カバー4種も公開された。 通常版以外に、＠Loppi＆HMV限定カバー版、Sony Music Shop限定カバー版、紀伊國…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b2d117330ad513bd",
+      "title": "日向坂46藤嶌果歩1st写真集は「果実の歩幅」4種の表紙カット公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675477",
+      "publishedAt": "2026-06-10T03:00:00.000Z",
+      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集のタイトルが「果実の歩幅」に決定。これにあわせて、4種類の表紙画像が公開された。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7f5981feccc3551d",
+      "title": "「絶対泣いちゃいけないと思って…」「我慢したのに泣いちゃって申し訳なかった」三田寛子、長男・中村橋之助の披露宴を回顧",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260610-4551163/",
+      "publishedAt": "2026-06-09T21:30:00.000Z",
+      "summary": "タレントの三田寛子が、3日に放送されたTBSラジオ『パンサー向井の#ふらっと』(毎週月～木曜 8:30～11:00)に出演。5月30日に都内で行われた、長男で歌舞伎俳優の中村橋之助と元乃木坂46の能條愛未の挙式・披露宴について振り返った。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "能條愛未",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "62d6bcb265ee6422",
       "title": "櫻坂46両A面シングルの歌唱メンバー発表、BACKS曲と四期生曲も2曲ずつ",
@@ -40,28 +128,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4c3f8fc7ee82a1ee",
-      "title": "生田絵梨花主演ドラマ『天城越え』NHK総合で7月放送決定 松本清張の名作をドラマ化",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2420480.html",
-      "publishedAt": "2026-06-09T08:27:24.000Z",
-      "summary": "生田絵梨花が主演を務めるドラマ『天城越え』が、7月11日と18日にNHK総合テレビで前後編にわたり放送されることが決定した。 松本清張の短編集『黒い画集』に収められた一編「天城越え」をドラマ化した本作。2025年5月",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -126,55 +192,6 @@
       "memberMatches": [
         {
           "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9a998ca2c7f08864",
-      "title": "中村芝翫『リア王』を「老害」で表現で「怒る」に不安？若い人へのバトン考える",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/198988",
-      "publishedAt": "2026-06-08T08:31:23.000Z",
-      "summary": "舞台『リア王』（演出：井上尊晶）製作発表記者会見が6月8日に都内で開催され主演の歌舞伎俳優・中村芝翫をはじめ俳優・松下由樹、三浦涼介、朝月希和、井上小百合、大野拓朗、村田雄浩、演出を担当する井上尊晶氏が出席した。 芝...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上小百合",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "16764734cddd80d9",
-      "title": "井上小百合 中村橋之助＆能條愛未披露宴に「号泣」思い出！友達の義父・中村芝翫共演に「不思議」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199185",
-      "publishedAt": "2026-06-08T06:11:19.000Z",
-      "summary": "俳優・井上小百合が6月8日に都内で舞台『リア王』（演出：井上尊晶）製作発表記者会見に、主演の歌舞伎俳優・中村芝翫をはじめ、俳優・松下由樹、三浦涼介、朝月希和、大野拓朗、村田雄浩、演出を担当する井上尊晶氏とともに出席した...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上小百合",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "能條愛未",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -257,28 +274,6 @@
         {
           "name": "山崎怜奈",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "37af468f51a68863",
-      "title": "EXILE NESMITH B'z松本孝弘とのコラボ楽曲に大感激！「すべての音が松本孝弘さんなんですよ」ベストアルバム『24karats GOLDEN BEST』への思いも",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260605-4545478/",
-      "publishedAt": "2026-06-05T11:50:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。5月30日（土）の放送には、EXILE NESMITHさんが登場！",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
