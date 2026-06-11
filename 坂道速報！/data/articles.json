@@ -1,6 +1,87 @@
 {
-  "updatedAt": "2026-06-11T12:59:55.285Z",
+  "updatedAt": "2026-06-11T14:27:21.496Z",
   "articles": [
+    {
+      "id": "f0301b66f5eadcc8",
+      "title": "乃木坂46、42枚目シングルのタイトルが「是非に及ばず」に決定！センターは5期生・一ノ瀬美空",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/630300.html",
+      "publishedAt": "2026-06-11T13:00:45.000Z",
+      "summary": "乃木坂46が7月22日に発売するニューシングルのタイトルが「是非に及ばず」に決定した。あわせて、42枚目シングルのフォーメーションセンターを5期生の一ノ瀬美空が務めることも発表された。グループとして初の東京ドーム3daysを開催し、3日間で14万人のファンとともに14回 ... The post 乃木坂46、42枚目シングルのタイトルが「是非に及ばず」に決定",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "74ac23390039d064",
+      "title": "乃木坂46賀喜遥香「簡単なように見えてカッコよく踊るのが…」バスラで一番練習した“シングル曲”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260611-4568699/",
+      "publishedAt": "2026-06-11T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月4日（木）の放送では、5月19日（火）～5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE」（以下、バスラ）の振り返り授業をお届け！ 本記事では、バスラ1日",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f0eda03320bea2f6",
+      "title": "日向坂46 三期生全員で“ランニング”にドハマり中！始めた理由を髙橋未来虹が明かす「4人とも20歳を過ぎて…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260611-4568580/",
+      "publishedAt": "2026-06-11T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月5日（金）の放",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "4dadbca3d5076692",
       "title": "フジテレビ「STAR」次回はきゃりー、コブクロ、櫻坂46、DEAN FUJIOKA、NiziU、WATWING",
