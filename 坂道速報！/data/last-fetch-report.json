@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T14:27:21.498Z",
+  "updatedAt": "2026-06-11T23:12:00.225Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -78,9 +78,8 @@
     },
     {
       "source": "otocoto",
-      "count": 0,
-      "ok": false,
-      "error": "This operation was aborted"
+      "count": 10,
+      "ok": true
     },
     {
       "source": "Sirabee",
