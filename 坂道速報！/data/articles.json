@@ -1,14 +1,28 @@
 {
-  "updatedAt": "2026-06-11T09:36:16.612Z",
+  "updatedAt": "2026-06-11T12:59:55.285Z",
   "articles": [
     {
-      "id": "68e9e2c672af6e86",
-      "title": "中島健人、最新主演作のイベント影ナレで観客沸かす ヒロイン役の長濱ねるは映画初出演「幸せ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1012342/",
-      "publishedAt": "2026-06-11T09:31:52.000Z",
-      "summary": "俳優でタレントの中島健人と長濱ねるが11日、都内で行われた映画『ラブ≠コメディ』（7月3日公開、読み：ラブノットコメディ）の完成披露試写会に出席した。同作にまつわるトークで展開した。映画『ラブ≠コメディ』完成披露試写会に […]",
+      "id": "4dadbca3d5076692",
+      "title": "フジテレビ「STAR」次回はきゃりー、コブクロ、櫻坂46、DEAN FUJIOKA、NiziU、WATWING",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675778",
+      "publishedAt": "2026-06-11T11:00:00.000Z",
+      "summary": "フジテレビ系の音楽番組「STAR」の6月18日放送回にきゃりーぱみゅぱみゅ、コブクロ、櫻坂46、DEAN FUJIOKA、NiziU、WATWINGが出演する。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1c3d3732e515e8a2",
+      "title": "中島健人×長濱ねる「ラブ≠コメディ」、ケンティーのセリフすぎるアドリブに共演者驚愕",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675773",
+      "publishedAt": "2026-06-11T10:51:00.000Z",
+      "summary": "中島健人、長濱ねる、板谷由夏、塩野瑛久、今野大輝（B＆ZAI）、光石研、紙谷楓監督が、本日6月11日に東京・TOHOシネマズ 六本木ヒルズで行われた映画「ラブ≠コメディ」の完成披露試写会に登壇した。",
       "groups": [
         "日向坂46",
         "櫻坂46"
@@ -26,6 +40,50 @@
           "name": "長濱ねる",
           "group": "櫻坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "dcec1222d7b8be97",
+      "title": "乃木坂46、一ノ瀬美空がセンター務める「是非に及ばず」先行配信決定",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675771",
+      "publishedAt": "2026-06-11T10:27:00.000Z",
+      "summary": "乃木坂46の新曲「是非に及ばず」が6月13日に配信リリースされる。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e08568f69ef0dcaa",
+      "title": "乃木坂46が最新シングル「是非に及ばず」を6月13日先行配信、“全ツ”初日に勢いをつける",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87684/",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "summary": "乃木坂46が、7月22日(水)に発売する42ndシングル表題曲「是非に及ばず」を6月13日(土)に先行配信することが決定した。 恒例となる夏の全国ツアー「真夏の全国ツアー2026」を今週末よりスタートさせる乃木坂46。最新シングル「是非に及ばず」では5期生・一ノ瀬美空が初めて表題曲センターを務めることが先日発表され、合わせて公開された新アーティスト写真も夏を",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -69,56 +127,6 @@
         {
           "name": "佐々木美玲",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "40477243ae235c6d",
-      "title": "白石麻衣がブランドミューズに！Re・De新CMで「まいにち、マイ R…",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260611-4566519/",
-      "publishedAt": "2026-06-11T02:18:06.000Z",
-      "summary": "女優・モデルの白石麻衣さんがウェルネスブランド「Re・De」のブランドミューズに就任し、新CM「まいにち、マイ Re・De。」が公開されます。忙しい日々の中で「もう少し丁寧に暮らしたい」と感じる現代…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "75d842a6de89db2b",
-      "title": "中島健人と長濱ねるが大激突、「ラブ≠コメディ」顔合わせシーンで火花散らす",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675642",
-      "publishedAt": "2026-06-11T02:00:00.000Z",
-      "summary": "7月3日より全国の劇場で公開される、中島健人の主演映画「ラブ≠コメディ」の本編映像がYouTubeにて公開された。",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
           "status": "og"
         }
       ]
@@ -197,8 +205,8 @@
     {
       "id": "178fa46fac4c1e30",
       "title": "『乃木坂46のオールナイトニッポン』名物キャラ・鷲尾さんが川崎桜＆小川彩でドラマ化「誰かの“好き”を大切にするきっかけに」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260611-4563724/",
       "publishedAt": "2026-06-10T18:00:00.000Z",
       "summary": "乃木坂46の川崎桜が主演、小川彩が出演するFOD SHORTのドラマ『野球少女鷲尾』(全60話)が、12日0時より独占配信される。同作は、ニッポン放送『乃木坂46のオールナイトニッポン』から生まれた名物キャラクター「鷲尾さん」を完全オリジナルドラマとして実写化。野球が大好きなのに、過去のトラウマからその思いを隠してきた大学生・鷲尾史保が、自分の“好き”と向き",
@@ -382,43 +390,6 @@
         {
           "name": "一ノ瀬美空",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "78b47ffc45ac8515",
-      "title": "6月8日に誕生日！日向坂46松尾桜が“21歳”の抱負を語る「大人のエスカレーターを上りたい」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260606-4549187/",
-      "publishedAt": "2026-06-06T12:00:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。5月29日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -1040,20 +1011,6 @@
       "articleUrl": "https://bezzy.jp/2026/04/84231/",
       "publishedAt": "2026-04-09T09:20:00.000Z",
       "summary": "乃木坂46が5月13日(水)にリリースするLIVE Blu-ray＆DVD『13th YEAR BIRTHDAY LIVE』の全ジャケットアートワークが公開された。 新加入した6期生11名が参加し、乃木坂46にとって新体制初ライブとなった「13th YEAR BIRTHDAY LIVE」は、昨年5月に東京・味の素スタジアムにて開催。DAY1、DAY2で全く異",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7c6adca98d57c128",
-      "title": "俳優・伊藤健太郎を育てた街と人。痛くてエモい、でも心地いい青春懐古トーク",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/83489/",
-      "publishedAt": "2026-04-06T10:00:00.000Z",
-      "summary": "伊藤健太郎の取材は、楽しい。たぶんそれは彼が垣根をつくらないから。杓子定規な一問一答ではなく、雑談みたいに広がっていく会話の中から見える、地元の兄ちゃんのような気さくな素顔が、彼の一番の魅力だ。 主演舞台『赤坂檜町テキサスハウス』で演じるのは、昭和の流行を数多く生み出した日本芸能史の星・永六輔。終戦間もない日本を舞台に、赤坂・乃木坂にあった木造二階建てのアメ",
       "groups": [
         "乃木坂46"
       ],
