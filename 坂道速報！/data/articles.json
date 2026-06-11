@@ -1,14 +1,42 @@
 {
-  "updatedAt": "2026-06-10T23:53:00.003Z",
+  "updatedAt": "2026-06-11T09:36:16.612Z",
   "articles": [
     {
-      "id": "d1c92ead7c94501a",
-      "title": "水上恒司主演映画『本当にあった話（の話）』10月2日公開決定 共演に黒木華、山下美月ら",
+      "id": "68e9e2c672af6e86",
+      "title": "中島健人、最新主演作のイベント影ナレで観客沸かす ヒロイン役の長濱ねるは映画初出演「幸せ」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1012342/",
+      "publishedAt": "2026-06-11T09:31:52.000Z",
+      "summary": "俳優でタレントの中島健人と長濱ねるが11日、都内で行われた映画『ラブ≠コメディ』（7月3日公開、読み：ラブノットコメディ）の完成披露試写会に出席した。同作にまつわるトークで展開した。映画『ラブ≠コメディ』完成披露試写会に […]",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "574ff5054fb67e6b",
+      "title": "山下美月、ライオンズユニフォームでワンバン投球 自身の役・成瀬あかりと同じ衣装を披露",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2422388.html",
-      "publishedAt": "2026-06-10T23:00:26.000Z",
-      "summary": "水上恒司が主演を務め、黒木華、山下美月、小池栄子、佐々木蔵之介が共演する映画『本当にあった話（の話）』が10月2日に公開されることが決定した。 本作は、鴻池留衣の小説『フェミニストのままじゃいられない』（文藝春秋）を",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2423422.html",
+      "publishedAt": "2026-06-11T09:20:23.000Z",
+      "summary": "俳優・モデルの山下美月がInstagramを更新。6月10日にベルーナドームにて行われた、埼玉西武ライオンズ vs 広島東洋カープ戦のセレモニアルピッチに登板した際の写真を投稿した。 投稿には、山下が観客席でボールを",
       "groups": [
         "乃木坂46"
       ],
@@ -19,6 +47,78 @@
         {
           "name": "山下美月",
           "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "cc5ac2d0f2585820",
+      "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87486/",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐々木美玲",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "40477243ae235c6d",
+      "title": "白石麻衣がブランドミューズに！Re・De新CMで「まいにち、マイ R…",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260611-4566519/",
+      "publishedAt": "2026-06-11T02:18:06.000Z",
+      "summary": "女優・モデルの白石麻衣さんがウェルネスブランド「Re・De」のブランドミューズに就任し、新CM「まいにち、マイ Re・De。」が公開されます。忙しい日々の中で「もう少し丁寧に暮らしたい」と感じる現代…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "75d842a6de89db2b",
+      "title": "中島健人と長濱ねるが大激突、「ラブ≠コメディ」顔合わせシーンで火花散らす",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675642",
+      "publishedAt": "2026-06-11T02:00:00.000Z",
+      "summary": "7月3日より全国の劇場で公開される、中島健人の主演映画「ラブ≠コメディ」の本編映像がYouTubeにて公開された。",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
           "status": "og"
         }
       ]
@@ -68,27 +168,13 @@
       ]
     },
     {
-      "id": "047604d8523170f8",
-      "title": "櫻坂46はなぜフェスに求められるのか 国立公演を経た熱量、『ロッキン』出演決定で考えるライブの強さ",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2420813.html",
-      "publishedAt": "2026-06-10T20:50:35.000Z",
-      "summary": "櫻坂46が『ROCK IN JAPAN FESTIVAL 2026』に出演することが発表された。4月にはMUFGスタジアムで『5th YEAR ANNIVERSARY LIVE』を開催し、2日間で計14万人を動員。単独公演で大きな到達点を示したグループが、今度はフェスの場でどんな存在感を見せるのか。本稿では、櫻坂46がなぜフェスに求められるのか、その理由を考",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e3588195be23c94b",
-      "title": "乃木坂46ANNの名物キャラ“鷲尾さん”が川﨑桜主演でドラマ化！小川彩も出演",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675625",
-      "publishedAt": "2026-06-10T18:00:00.000Z",
-      "summary": "乃木坂46の川﨑桜と小川彩が出演する縦型ショートドラマ「野球少女鷲尾」が、明日6月12日よりFODショートで配信される。",
+      "id": "a41fb537567b6015",
+      "title": "川﨑桜主演、小川彩出演「野球少女鷲尾」がFOD SHORTで独占配信へ",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/web/630170.html",
+      "publishedAt": "2026-06-10T21:00:54.000Z",
+      "summary": "フジテレビが運営する縦型ショートドラマアプリ「FOD SHORT」にて、乃木坂46の川﨑桜が主演を務め、小川彩が出演するドラマ「野球少女鷲尾」が、6月12日0時より独占配信される。同作は、ニッポン放送「乃木坂46のオールナイトニッポン」の人気コーナーから生まれた名物キャ ... The post 川﨑桜主演、小川彩出演「野球少女鷲尾」がFOD SHORTで独",
       "groups": [
         "乃木坂46"
       ],
@@ -136,24 +222,10 @@
       ]
     },
     {
-      "id": "c9432e945994cfe8",
-      "title": "ライブ規模ランキングTOP30（2026年5月）：back number、嵐、SEVENTEEN、乃木坂46、B’zら上位に",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2421534.html",
-      "publishedAt": "2026-06-10T13:30:30.000Z",
-      "summary": "リアルサウンドのオリジナルコンテンツ「ライブ規模ランキングTOP30」2026年5月分を公開。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "44876b60758fae68",
       "title": "乃木坂46賀喜遥香 同期の“バディ\"遠藤さくらに感謝「さくちゃんがいてくれたから頑張ってこられた」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260610-4564481/",
       "publishedAt": "2026-06-10T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月4日（木）の放送では、5月19日（火）～5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE」（以下、バスラ）の振り返り授業をお届け！ 本記事では、バスラで披",
@@ -177,28 +249,6 @@
       ]
     },
     {
-      "id": "0a5fe216074e399b",
-      "title": "櫻坂46の15thシングルBACKSライブ開催決定、2日目に増本綺良の卒業セレモニー",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675621",
-      "publishedAt": "2026-06-10T12:47:00.000Z",
-      "summary": "櫻坂46のBACKSメンバーによるライブ「15th Single BACKS LIVE!!」が9月29、30日に東京・TOYOTA ARENA TOKYOで開催される。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "増本綺良",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "b1966046e8fce9b9",
       "title": "山下美月ベルーナドーム西武VS広島セレモニアルピッチ登板！「楽しく投げることができました」",
       "sourceName": "Edge Line",
@@ -216,28 +266,6 @@
         {
           "name": "山下美月",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "12cda4c05feb1194",
-      "title": "佐々木久美SSFF & ASIAレッドカーペットに黒のワンショルダードレスで来場",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199352",
-      "publishedAt": "2026-06-10T07:35:12.000Z",
-      "summary": "俳優・佐々木久美が6月10日に東京・LINE CUBE SHIBUYA（渋谷公会堂）で『ショートショート フィルムフェスティバル & アジア 2026』アワードセレモニー＆レッドカーペット セレモニーに出席し...",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐々木久美",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -392,28 +420,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e3eb3c9dc6b2dae1",
-      "title": "降幡愛「ラブライブ！サンシャイン!!」黒澤ルビィは“憧れの女の子\"「自分と違う部分がたくさんある」AiScReam卒業にも言及",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260606-4548878/",
-      "publishedAt": "2026-06-06T10:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。6月1日（月）の放送には、声優の降幡愛さんが登場！ 本記事では、降幡さんが2015年から声を担当している「ラブライブ！サンシャイン!!」の黒澤ルビィのことや、2026年3月に卒業した声優ユニット・A",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -1053,38 +1059,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "7347460d7ebc1b42",
-      "title": "日向坂46の新シングル『Kind of love』5月20日リリース、藤嶌果歩が表題曲で初単独センターに",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/83878/",
-      "publishedAt": "2026-04-05T12:30:00.000Z",
-      "summary": "日向坂46が、17thシングル『Kind of love』を5月20日(水)にリリースすることを発表した。 4月4日(土)・5日(日)に横浜スタジアムにて「7回目のひな誕祭」を開催した日向坂46。新シングルの情報は本日行われた2日目公演のWアンコール中に流れた映像でサプライズ解禁されたもので、発売情報だけでなく選抜メンバーの発表、さらにそのまま表題曲が初パフ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "片山紗希",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
