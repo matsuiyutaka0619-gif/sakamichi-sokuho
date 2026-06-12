@@ -1,36 +1,128 @@
 {
-  "updatedAt": "2026-06-12T09:59:35.823Z",
+  "updatedAt": "2026-06-12T12:42:53.239Z",
   "articles": [
     {
-      "id": "300851c684328793",
-      "title": "Aぇ！group正門良規、Snow Man向井康二のアドリブに驚き「爪痕の残し方が尋常じゃなかった」",
+      "id": "b721d41fd97d7570",
+      "title": "「立体感すごい」肌見せ衣装の長濱ねるにネット衝撃 「本当に美しすぎる」「破壊力」",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1013056/",
-      "publishedAt": "2026-06-12T09:34:11.000Z",
-      "summary": "Aぇ! group（正門良規、末澤誠也、小島健、佐野晶哉）が12日、都内で行われた映画『おそ松さん 人類クズ化計画!!!!!?』初日舞台あいさつに、西村拓哉、渡邉美穂、大貫勇輔、なえなの、野口衣織（＝LOVE）、メガホン […]",
+      "articleUrl": "https://encount.press/archives/1013165/",
+      "publishedAt": "2026-06-12T11:52:39.000Z",
+      "summary": "俳優・長濱ねるのスタッフアカウントのXが12日に更新され、印象的なドレス姿に称賛の声が集まっている。出演映画の完成披露試写会 俳優・長濱ねるのスタッフアカウントのXが12日に更新され、印象的なドレス姿に称賛の声が集まっ […]",
       "groups": [
-        "日向坂46"
+        "日向坂46",
+        "櫻坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "渡邉美穂",
+          "name": "長濱ねる",
           "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "1cba555597a421e2",
-      "title": "Aぇ! group佐野晶哉、LINE友だちに「平泉成」 メンバーからツッコミ「友だちって言うな！」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1012755/",
-      "publishedAt": "2026-06-12T09:13:00.000Z",
-      "summary": "Aぇ! group（正門良規、末澤誠也、小島健、佐野晶哉）が12日、都内で行われた映画『おそ松さん 人類クズ化計画!!!!!?』初日舞台あいさつに、西村拓哉、渡邉美穂、大貫勇輔、なえなの、野口衣織（＝LOVE）、メガホン […]",
+      "id": "fead0f136fbce1e6",
+      "title": "「ミュージックライン」にリトグリ、櫻坂46、Lavt、FANTASTICS、テレビ大陸音頭が登場",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675979",
+      "publishedAt": "2026-06-12T11:48:00.000Z",
+      "summary": "NHK-FM「ミュージックライン」の6月15日から19日までの放送回にLittle Glee Monster、櫻坂46、Lavt、FANTASTICS、テレビ大陸音頭が出演する。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "199f27d6d82021f8",
+      "title": "蒼井翔太、4thアルバム『LIMITLESS』よりリード曲「Facing My Shadow」先行配信＆MV公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1071053",
+      "publishedAt": "2026-06-12T11:05:00.000Z",
+      "summary": "蒼井翔太が約3年ぶり・4枚目のフルアルバム『LIMITLESS』からリード曲「Facing My Shadow」を配信開始。あわせてミュージックビデオも公開した。 ミュージックビデオでは蒼井を取り囲むように仮面を付けたバンドメンバーが楽器を奏でていく演出が繰り広げられる。歌詞ともリンクした内容だ。 こちらの『LIMITLESS』を引っ提げたライブツアー＜蒼井",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b4ffb35ec0ad24c0",
+      "title": "中島健人、主演映画主題歌「Fiction Love」配信＆MV公開。自身振り付けダンスで贈るキュートな日常",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1071105",
+      "publishedAt": "2026-06-12T11:00:01.000Z",
+      "summary": "中島健人が、新曲「Fiction Love」のミュージックビデオを公開した。本楽曲は7月3日(金)より全国劇場で公開となる、中島健人の主演映画『ラブ≠コメディ』の主題歌となっている。 新曲「Fiction Love」は、もしもドラマの中の俳優たちが役を外れた現実世界でも恋におちたら…？というフィクションストーリーを描いた作品。恋する相手の気まぐれな一挙手一投",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "e2144a8d78b4c473",
+      "title": "水着姿の藤嶌果歩が浜辺に降臨、1st写真集「果実の歩幅」先行カット公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/675965",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集「果実の歩幅」より、先行カット第7弾が公開された。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1342b49af3d199f1",
+      "title": "「レべチ」「お顔が強すぎる」元日向坂46の証明写真に驚きの声 Xで運転免許証を公開【1,100万表示超え】",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260612-4555686/",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "summary": "「アー写みたい」「お顔が強すぎる」元日向坂46の影山優佳が、Xで運転免許証を公開。そのビジュアルに驚きの声が多く寄せられ、注目を集めている。",
       "groups": [
         "日向坂46"
       ],
@@ -39,7 +131,7 @@
       ],
       "memberMatches": [
         {
-          "name": "渡邉美穂",
+          "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
         }
@@ -68,46 +160,10 @@
       ]
     },
     {
-      "id": "a43afd70c1c47a88",
-      "title": "今夜の「バズリズム」は日向坂46近況報告、メンバー自撮りのプライベート動画を公開",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675884",
-      "publishedAt": "2026-06-12T06:16:00.000Z",
-      "summary": "明日6月12日25:14から日本テレビ系で放送される「バズリズム02」に日向坂46、Aぇ! group、八木勇征（FANTASTICS）、RAZORが出演する。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "da580dc572ec75da",
-      "title": "山下幸輝と久保史緒里、松村北斗主演ラブサスペンス出演 主人公務める化粧品会社の社員に",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675840",
-      "publishedAt": "2026-06-12T03:00:00.000Z",
-      "summary": "山下幸輝（WILD BLUE）、久保史緒里（ex. 乃木坂46）が7月期に日本テレビ系で放送される連続ドラマ「告白-25年目の秘密-」に出演する。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "55ffef257bc05139",
       "title": "春日(鈴木福)から常磐(中西アルノ)への告白に「表情が本当に良すぎて痺れた」『惡の華』青春キラキラシーンに反響",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260612-4570982/",
       "publishedAt": "2026-06-12T02:54:12.000Z",
       "summary": "少年・少女の「不安」「葛藤」「痛み」を描くテレビ東京のドラマ『惡の華』(毎週木曜24:00～)の第10話が、11日に放送された。",
@@ -267,28 +323,6 @@
       "memberMatches": [
         {
           "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "88abf28cb876d964",
-      "title": "中村橋之助と能條愛未夫妻『新婚さんいらっしゃい！』に！結婚決意きっかけや中村米吉と尾上右近VTRも",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199379",
-      "publishedAt": "2026-06-10T22:30:31.000Z",
-      "summary": "歌舞伎俳優・中村橋之助とその妻で元『乃木坂46』の能條愛未夫妻が6月14日放送のバラエティ番組『新婚さんいらっしゃい！』（ABCテレビ、午後0時55分～）の番組55周年を記念した1時間スペシャルに出演する。 2人は2...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "能條愛未",
           "group": "乃木坂46",
           "status": "og"
         }
