@@ -1,28 +1,14 @@
 {
-  "updatedAt": "2026-06-13T10:16:56.291Z",
+  "updatedAt": "2026-06-13T17:03:40.625Z",
   "articles": [
     {
-      "id": "6e482796745c1a5b",
-      "title": "日向坂46、生バンド迎えてメンバーも楽器演奏した7回目のひな誕祭が映像作品化",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676071",
-      "publishedAt": "2026-06-13T09:28:00.000Z",
-      "summary": "日向坂46のライブBlu-ray＆DVD「7周年記念MEMORIAL LIVE「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」in 横浜スタジアム」が8月5日にリリースされる。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "88bb10689063b25b",
-      "title": "乃木坂46金川紗耶、1st写真集より新たなランジェリーカット公開 フルーツを手にしゃがみ込む",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676059",
-      "publishedAt": "2026-06-13T08:00:00.000Z",
-      "summary": "6月30日に発売される金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」の先行カット第7弾が公開された。",
+      "id": "0048d0cf544a8697",
+      "title": "乃木坂46、新曲「是非に及ばず」先行配信スタート 真夏の全国ツアー2026が福井で開幕",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/631114.html",
+      "publishedAt": "2026-06-13T13:30:33.000Z",
+      "summary": "乃木坂46の真夏の全国ツアー2026が、6月13日に福井・サンドーム福井で開幕した。ツアー初日となった福井公演では、7月22日に発売される42ndシングル「是非に及ばず」のセンターを務める一ノ瀬美空が、乃木坂46と過ごす夏を選んでくれてありがとうと感謝を伝えた。キャプテ ... The post 乃木坂46、新曲「是非に及ばず」先行配信スタート 真夏の全国ツ",
       "groups": [
         "乃木坂46"
       ],
@@ -31,25 +17,110 @@
       ],
       "memberMatches": [
         {
-          "name": "金川紗耶",
+          "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
         }
       ]
     },
     {
-      "id": "1e71796167ca177d",
-      "title": "日向坂46、＜7回目のひな誕祭＞が映像作品化",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1071186",
-      "publishedAt": "2026-06-13T07:48:15.000Z",
-      "summary": "日向坂46のLIVE Blu-ray＆DVD『7周年記念MEMORIAL LIVE「7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜」in 横浜スタジアム』が8月5日にリリースされることが決定した。 これは日向坂46公式Instagramでのインスタライブ内にて発表されたもの。“7回目のひな誕祭”は今年の4月4日・5日に横",
+      "id": "c4b12d073931acd1",
+      "title": "日向坂46“7回目のひな誕祭”が8月商品化、ラストに「Kind of love」を初披露したDAY2完全収録",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87734/",
+      "publishedAt": "2026-06-13T12:40:00.000Z",
+      "summary": "日向坂46が、今年4月4日(土)・5日(日)に横浜スタジアムで開催したグループ結成7周年ライブ「7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜」の映像作品を8月5日(水)にリリースすることを発表した。 グループ公式Instagramでのインスタライブにて発表された「7回目のひな誕祭」の映像化。“ひな誕祭”として初めてサブ",
       "groups": [
         "日向坂46"
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "bb0c69c25f97d02f",
+      "title": "乃木坂46、真夏の全国ツアー開幕 新センター・一ノ瀬美空「乃木坂46と過ごす夏を選んでくれてありがとう！」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1013744/",
+      "publishedAt": "2026-06-13T12:33:57.000Z",
+      "summary": "アイドルグループ・乃木坂46の“真夏の全国ツアー2026”が13日、福井・サンドーム福井にてツアー初日を迎え、ツアー開幕の狼煙をあげた。菅原咲月はキャプテンとして初の全国ツアー アイドルグループ・乃木坂46の“真夏の全 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "353665e2d64daadc",
+      "title": "日向坂46、7周年記念ライブ「7回目のひな誕祭」映像作品を8月5日にリリース",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/631044.html",
+      "publishedAt": "2026-06-13T11:00:37.000Z",
+      "summary": "日向坂46のLIVE Blu-ray＆DVD「7周年記念MEMORIAL LIVE 7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜 in 横浜スタジアム」が、8月5日にリリースされることが決定した。同作のリリースは、日向坂46公式I ... The post 日向坂46、7周年記念ライブ「7回目のひな誕祭」映像作品を8月",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "2b6d267b9359ed71",
+      "title": "「めちゃくちゃ面白い」「興奮がすごい」「帰って観たいな～」Netflix配信開始のドラマを大絶賛 元日向坂46松田好花が熱弁",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260613-4576083/",
+      "publishedAt": "2026-06-13T11:00:00.000Z",
+      "summary": "「帰って観たいな～。もう観たくなっちゃう」元日向坂46でタレントの松田好花が、フジテレビ系ドラマ『古畑任三郎』の魅力を熱弁した――。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "31b0a8bb46f50c76",
+      "title": "櫻坂46、15th Single BACKS LIVE!!開催決定！増本綺良の卒業セレモニーも実施",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/631033.html",
+      "publishedAt": "2026-06-13T10:30:45.000Z",
+      "summary": "櫻坂46が、9月29日と30日に東京・TOYOTA ARENA TOKYOで「15th Single BACKS LIVE!!」を開催することが決定した。9月30日公演では、15thシングルの活動をもって卒業することを発表している二期生・増本綺良の卒業セレモニーも行われ ... The post 櫻坂46、15th Single BACKS LIVE!!開催",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "増本綺良",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "d7f0f3428efbbf34",
@@ -72,20 +143,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "226073b7fc02272b",
-      "title": "乃木坂46、公式YouTube「乃木坂配信中」と「真夏の全国ツアー2026」の連動企画が始動",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/630604.html",
-      "publishedAt": "2026-06-12T13:00:42.000Z",
-      "summary": "乃木坂46が、全国8都市18公演を巡る「真夏の全国ツアー2026」の開催に合わせ、公式YouTubeチャンネル「乃木坂配信中」との連動企画をスタートさせた。同企画では、「乃木坂配信中」の定番シリーズや過去に反響を集めた動画を、「真夏の全国ツアー2026」の開催地で撮影。 ... The post 乃木坂46、公式YouTube「乃木坂配信中」と「真夏の全国ツ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "d55a4ab6d454cb62",
@@ -134,28 +191,6 @@
           "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9cfe765038362cf5",
-      "title": "ミュージカル『民王』有澤樟太郎ら9人ビジュアル！スポット映像公開",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199472",
-      "publishedAt": "2026-06-12T09:00:10.000Z",
-      "summary": "俳優・有澤樟太郎主演で別所哲也、豊原江理佳、『乃木坂46』林瑠奈、山崎大輝、上川一哉、福田転球、一路真輝、竹中直人が共演し2026年9月6日より上演予定のミュージカル『民王』（演出：永井誠）。作品のビジュアル第1弾とス...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "林瑠奈",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -429,28 +464,6 @@
           "name": "森田ひかる",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c8d76515eaf3bc5d",
-      "title": "「ボケは才能、ツッコミは努力」トンツカタン森本が伝授…会話が上手になる“ツッコミ作法”",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260608-4556318/",
-      "publishedAt": "2026-06-08T12:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。5月25日（月）～28日（木）の4日間は、ラジオ局の垣根を越えて、さまざまな番組のパーソナリティが登場する“ラジオフレンズWEEK♪”をお届け。 5月28日（木）の放送では、Podcast番組「トン",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
