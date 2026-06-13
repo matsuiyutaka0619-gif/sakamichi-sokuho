@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-06-12T23:03:59.933Z",
+  "updatedAt": "2026-06-13T10:16:56.291Z",
   "articles": [
+    {
+      "id": "6e482796745c1a5b",
+      "title": "日向坂46、生バンド迎えてメンバーも楽器演奏した7回目のひな誕祭が映像作品化",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676071",
+      "publishedAt": "2026-06-13T09:28:00.000Z",
+      "summary": "日向坂46のライブBlu-ray＆DVD「7周年記念MEMORIAL LIVE「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」in 横浜スタジアム」が8月5日にリリースされる。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "88bb10689063b25b",
+      "title": "乃木坂46金川紗耶、1st写真集より新たなランジェリーカット公開 フルーツを手にしゃがみ込む",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676059",
+      "publishedAt": "2026-06-13T08:00:00.000Z",
+      "summary": "6月30日に発売される金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」の先行カット第7弾が公開された。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1e71796167ca177d",
+      "title": "日向坂46、＜7回目のひな誕祭＞が映像作品化",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1071186",
+      "publishedAt": "2026-06-13T07:48:15.000Z",
+      "summary": "日向坂46のLIVE Blu-ray＆DVD『7周年記念MEMORIAL LIVE「7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜」in 横浜スタジアム』が8月5日にリリースされることが決定した。 これは日向坂46公式Instagramでのインスタライブ内にて発表されたもの。“7回目のひな誕祭”は今年の4月4日・5日に横",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d7f0f3428efbbf34",
+      "title": "内田理央×渡邊圭祐『夫を殺したはずなのに』に箭内夢菜、曽田陵介、丹生明里ら出演へ",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2425544.html",
+      "publishedAt": "2026-06-13T03:00:45.000Z",
+      "summary": "7月6日よりテレ東系で放送がスタートする内田理央主演ドラマ『夫を殺したはずなのに』の追加キャストとして、箭内夢菜、曽田陵介、小林亮太、丹生明里、紺野まひる、山下容莉枝の出演が発表された。 本作は、CLLENNとテレ東",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "丹生明里",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "226073b7fc02272b",
       "title": "乃木坂46、公式YouTube「乃木坂配信中」と「真夏の全国ツアー2026」の連動企画が始動",
@@ -18,8 +90,8 @@
     {
       "id": "d55a4ab6d454cb62",
       "title": "平手友梨奈「今までの曲がバラエティ豊富すぎて…」ソロ初アルバム『無表情な表情』制作秘話を明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260612-4573111/",
       "publishedAt": "2026-06-12T12:50:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月6日（土）の放送には、平手友梨奈さんが登場！ 6月3日（水）にリリースしたファーストアルバム『無表情な表情』について伺いました。",
@@ -44,46 +116,10 @@
       ]
     },
     {
-      "id": "fead0f136fbce1e6",
-      "title": "「ミュージックライン」にリトグリ、櫻坂46、Lavt、FANTASTICS、テレビ大陸音頭が登場",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/675979",
-      "publishedAt": "2026-06-12T11:48:00.000Z",
-      "summary": "NHK-FM「ミュージックライン」の6月15日から19日までの放送回にLittle Glee Monster、櫻坂46、Lavt、FANTASTICS、テレビ大陸音頭が出演する。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "199f27d6d82021f8",
-      "title": "蒼井翔太、4thアルバム『LIMITLESS』よりリード曲「Facing My Shadow」先行配信＆MV公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1071053",
-      "publishedAt": "2026-06-12T11:05:00.000Z",
-      "summary": "蒼井翔太が約3年ぶり・4枚目のフルアルバム『LIMITLESS』からリード曲「Facing My Shadow」を配信開始。あわせてミュージックビデオも公開した。 ミュージックビデオでは蒼井を取り囲むように仮面を付けたバンドメンバーが楽器を奏でていく演出が繰り広げられる。歌詞ともリンクした内容だ。 こちらの『LIMITLESS』を引っ提げたライブツアー＜蒼井",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "1342b49af3d199f1",
       "title": "「レべチ」「お顔が強すぎる」元日向坂46の証明写真に驚きの声 Xで運転免許証を公開【1,100万表示超え】",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260612-4555686/",
       "publishedAt": "2026-06-12T10:00:00.000Z",
       "summary": "「アー写みたい」「お顔が強すぎる」元日向坂46の影山優佳が、Xで運転免許証を公開。そのビジュアルに驚きの声が多く寄せられ、注目を集めている。",
@@ -140,28 +176,6 @@
       "memberMatches": [
         {
           "name": "中西アルノ",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "f0301b66f5eadcc8",
-      "title": "乃木坂46、42枚目シングルのタイトルが「是非に及ばず」に決定！センターは5期生・一ノ瀬美空",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/630300.html",
-      "publishedAt": "2026-06-11T13:00:45.000Z",
-      "summary": "乃木坂46が7月22日に発売するニューシングルのタイトルが「是非に及ばず」に決定した。あわせて、42枚目シングルのフォーメーションセンターを5期生の一ノ瀬美空が務めることも発表された。グループとして初の東京ドーム3daysを開催し、3日間で14万人のファンとともに14回 ... The post 乃木坂46、42枚目シングルのタイトルが「是非に及ばず」に決定",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -586,28 +600,6 @@
       "memberMatches": [
         {
           "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "07ca1c0418898f13",
-      "title": "「もっとさげすんだ感じで…」西野七瀬が明かした舘ひろしからの“お願い”とは",
-      "sourceName": "マイナビニュース 映画",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
-      "articleUrl": "https://news.mynavi.jp/article/20260521-4481783/",
-      "publishedAt": "2026-05-21T13:00:00.000Z",
-      "summary": "「『もっと冷たく言っていいよ』と言ってくださって」俳優の西野七瀬が、映画『免許返納!?』の舞台あいさつに登壇。舘ひろし演じる主人公を厳しく支えるマネージャー役を演じるにあたり、舘本人から受けた“お願い”を明かした。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
         }
