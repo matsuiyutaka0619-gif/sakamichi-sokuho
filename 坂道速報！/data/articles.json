@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-06-13T17:03:40.625Z",
+  "updatedAt": "2026-06-13T22:19:14.231Z",
   "articles": [
+    {
+      "id": "17ffcfdc5861bdff",
+      "title": "大地真央は「天然を超えたところがある」 12歳下の夫・森田恭通氏が不可解な行動に言及",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260614-4575665/",
+      "publishedAt": "2026-06-13T21:00:00.000Z",
+      "summary": "俳優の大地真央が、14日に放送される日本テレビ系トーク番組『おしゃれクリップ』(毎週日曜22:00～)に出演する。初舞台から52年、退団後も表舞台に立ち続ける“キセキの70歳”の生き方をひも解くほか、結婚19年目を迎えた12歳下の夫・森田恭通氏が「天然を超えたところがある」と語る私生活、長濱ねるや松嶋菜々子らとのシール交換、真矢ミキが明かす“ギャップ萌え”な",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "0048d0cf544a8697",
       "title": "乃木坂46、新曲「是非に及ばず」先行配信スタート 真夏の全国ツアー2026が福井で開幕",
@@ -36,33 +64,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "bb0c69c25f97d02f",
-      "title": "乃木坂46、真夏の全国ツアー開幕 新センター・一ノ瀬美空「乃木坂46と過ごす夏を選んでくれてありがとう！」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1013744/",
-      "publishedAt": "2026-06-13T12:33:57.000Z",
-      "summary": "アイドルグループ・乃木坂46の“真夏の全国ツアー2026”が13日、福井・サンドーム福井にてツアー初日を迎え、ツアー開幕の狼煙をあげた。菅原咲月はキャプテンとして初の全国ツアー アイドルグループ・乃木坂46の“真夏の全 […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅原咲月",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "353665e2d64daadc",
