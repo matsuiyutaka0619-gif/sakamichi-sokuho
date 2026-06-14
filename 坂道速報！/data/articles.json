@@ -1,25 +1,47 @@
 {
-  "updatedAt": "2026-06-14T17:03:25.501Z",
+  "updatedAt": "2026-06-14T22:45:40.708Z",
   "articles": [
     {
-      "id": "b4258c2b162a9244",
-      "title": "久保史緒里、クレヨンしんちゃん実写化ショートムービーに出演",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606140001615.html",
-      "publishedAt": "2026-06-14T15:00:00.000Z",
-      "summary": "元乃木坂46久保史緒里（24）が15日公開の「やかんの麦茶from爽健美茶」実写化ショートムービー「もうひとつのクレヨンしんちゃんやかんの家族だゾ！」シーズン2第3話「一途なあいちゃんだゾ！」編に登場する。 同シリーズは、いつの時代も明…",
+      "id": "dc8572e08a3bfe08",
+      "title": "相楽伊織、美貌きわだつ私服コーデにファン絶賛「どれも素敵な写真」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/630624.html",
+      "publishedAt": "2026-06-14T21:45:12.000Z",
+      "summary": "タレントで元乃木坂46の相楽伊織が6月12日までに自身のInstagramを更新した。相楽伊織はブラウンのタイトなオフショルダートップスにデニムと細ベルトを合わせた、自然光に映える大人っぽさと抜け感を引き立てたカジュアルな衣装で「天気が安定しなくても、心はまぁまぁ晴れ」 ... The post 相楽伊織、美貌きわだつ私服コーデにファン絶賛「どれも素敵な写真",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "久保史緒里",
+          "name": "相楽伊織",
           "group": "乃木坂46",
-          "status": "active"
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b29aba8e89800764",
+      "title": "サッカー“神解説”の影山優佳が取得した、スゴすぎる資格 「めちゃくちゃ天才やん」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/06/15/20163556880/",
+      "publishedAt": "2026-06-14T21:30:00.000Z",
+      "summary": "アイドルグループ・日向坂46の元メンバーで、サッカー通で知られる俳優・影山優佳（25）さん。 前回のFIFAワールドカップカタール大会以降、彼女が新たに取得した資格が話題に。 ■プロ顔負けの解説、日本の歴史的快挙を的中 …",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
@@ -229,28 +251,6 @@
           "name": "長濱ねる",
           "group": "櫻坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "0048d0cf544a8697",
-      "title": "乃木坂46、新曲「是非に及ばず」先行配信スタート 真夏の全国ツアー2026が福井で開幕",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/631114.html",
-      "publishedAt": "2026-06-13T13:30:33.000Z",
-      "summary": "乃木坂46の真夏の全国ツアー2026が、6月13日に福井・サンドーム福井で開幕した。ツアー初日となった福井公演では、7月22日に発売される42ndシングル「是非に及ばず」のセンターを務める一ノ瀬美空が、乃木坂46と過ごす夏を選んでくれてありがとうと感謝を伝えた。キャプテ ... The post 乃木坂46、新曲「是非に及ばず」先行配信スタート 真夏の全国ツ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
