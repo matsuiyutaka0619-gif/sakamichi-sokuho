@@ -1,14 +1,58 @@
 {
-  "updatedAt": "2026-06-15T18:14:18.655Z",
+  "updatedAt": "2026-06-16T00:16:26.158Z",
   "articles": [
     {
-      "id": "bd8a1b7a12bfb472",
-      "title": "影山優佳、ユニフォーム姿をW杯現地からお届け 日本代表に「こんな壮大な夢を皆さんのおかげ」",
+      "id": "95e4f11925de0de3",
+      "title": "深川麻衣、『Tokyo middle 30』で3人目の主人公に 仲里依紗＆のんと初共演",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2428300.html",
-      "publishedAt": "2026-06-15T07:50:14.000Z",
-      "summary": "タレント・影山優佳の公式Instagramが更新され、FIFAワールドカップ2026の開催地で日本代表を取材した際のオフショットが公開された。 投稿された写真には、日本代表のユニフォームをまとい、大会のアクセスパスを",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2428586.html",
+      "publishedAt": "2026-06-15T21:00:50.000Z",
+      "summary": "フジテレビ系連続ドラマ『Tokyo middle 30』に深川麻衣が出演することが発表された。仲里依紗、のんと共に35歳の女性3人を演じる。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d0e4cf86e7f88c1f",
+      "title": "深川麻衣、同棲4年でプロポーズ待ちの35歳に 初共演の仲里依紗＆のんと同級生役",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260616-4586453/",
+      "publishedAt": "2026-06-15T21:00:00.000Z",
+      "summary": "俳優の深川麻衣が、7月22日にスタートするフジテレビ系ドラマ『Tokyo middle 30』(毎週水曜22:00～)に出演することが16日、明らかになった。仲里依紗、のんに続く3人目の主人公を演じ、フジテレビ制作の連続ドラマに初出演する。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "7211223e3dbd4bce",
+      "title": "『ダブルエッジ～甦った男』に津田健次郎ら出演 織田裕二と和久井映見が34年ぶりの共演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2428672.html",
+      "publishedAt": "2026-06-15T20:30:48.000Z",
+      "summary": "6月27日に放送される織田裕二主演のテレビ朝日ドラマプレミアム『ダブルエッジ～甦った男』の追加キャストとして、津田健次郎、明日海りお、細田善彦、影山優佳、和久井映見、音尾琢真、光石研の出演が発表された。 本作は、車椅",
       "groups": [
         "日向坂46"
       ],
@@ -86,48 +130,6 @@
           "name": "相楽伊織",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a22a52481c80e0f6",
-      "title": "櫻坂46・山崎天、藤吉夏鈴、森田ひかる、的野美青、山下瞳月「MUSIC AWARDS JAPAN 2026」レッドカーペットに",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/199805",
-      "publishedAt": "2026-06-14T14:52:59.000Z",
-      "summary": "アイドルグループ『櫻坂46』の山崎天、藤吉夏鈴、森田ひかる、的野美青、山下瞳月が6月13日に東京・有明のTOYOTA ARENA TOKYO前の歩道で開催された国際音楽賞『MUSIC AWARDS JAPAN 2026...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤吉夏鈴",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "的野美青",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下瞳月",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     },
