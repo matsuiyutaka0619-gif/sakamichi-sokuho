@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-06-16T13:24:47.388Z",
+  "updatedAt": "2026-06-16T18:22:13.158Z",
   "articles": [
+    {
+      "id": "186f38e986844bbc",
+      "title": "日テレ「THE MUSIC DAY」出演者第2弾はINI、あいみょん、kurayamisaka、Snow Man、日向坂46ら14組",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676464",
+      "publishedAt": "2026-06-16T15:54:00.000Z",
+      "summary": "7月4日に日本テレビ系で生放送される音楽特番「THE MUSIC DAY 2026」の出演アーティスト第2弾が発表された。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "efd15421a5b63a08",
       "title": "ももクロ、読売ジャイアンツ・田中将大投手の登場曲「SECOND ROUTE」配信記念のハイレゾDLキャンペーン開催決定",
@@ -14,28 +28,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "812a1e58d07f867e",
-      "title": "日テレ同期の市來玲奈アナとフリー転身岩田絵里奈が共演「Zip朝からクエスチョン」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606160001423.html",
-      "publishedAt": "2026-06-16T11:17:09.000Z",
-      "summary": "日本テレビ市來玲奈アナウンサー（30）が月～水曜のエンタメキャスターを務める情報番組「ZIP！」（月～金曜午前5時50分）に16日、今年3月で同局を退社してフリーアナウンサーになった岩田絵里奈（30）がゲスト出演した。公式TikTok「…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "市來玲奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "208fba417b5a118c",
@@ -112,8 +104,8 @@
     {
       "id": "d0e4cf86e7f88c1f",
       "title": "深川麻衣、同棲4年でプロポーズ待ちの35歳に 初共演の仲里依紗＆のんと同級生役",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260616-4586453/",
       "publishedAt": "2026-06-15T21:00:00.000Z",
       "summary": "俳優の深川麻衣が、7月22日にスタートするフジテレビ系ドラマ『Tokyo middle 30』(毎週水曜22:00～)に出演することが16日、明らかになった。仲里依紗、のんに続く3人目の主人公を演じ、フジテレビ制作の連続ドラマに初出演する。",
@@ -170,28 +162,6 @@
       "memberMatches": [
         {
           "name": "相楽伊織",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "e074077415fcbe24",
-      "title": "若月佑美、短パンモノトーンコーデ！「若月はいつまで綺麗でいるつもりなんだ」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/630633.html",
-      "publishedAt": "2026-06-14T12:45:14.000Z",
-      "summary": "タレントで元乃木坂46の若月佑美が6月12日までに自身のInstagramを更新した。若月佑美は黒のロングジャケットに白ブラウスとミニボトムを合わせた、きちんと感と脚長シルエットを引き立てた大人可愛いモノトーン衣装で「電波ジャック可愛いお衣装とヘアメイクでし」とコメント ... The post 若月佑美、短パンモノトーンコーデ！「若月はいつまで綺麗でいるつ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "若月佑美",
           "group": "乃木坂46",
           "status": "og"
         }
