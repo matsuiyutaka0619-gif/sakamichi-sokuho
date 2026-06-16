@@ -1,14 +1,28 @@
 {
-  "updatedAt": "2026-06-16T00:16:26.158Z",
+  "updatedAt": "2026-06-16T13:24:47.388Z",
   "articles": [
     {
-      "id": "95e4f11925de0de3",
-      "title": "深川麻衣、『Tokyo middle 30』で3人目の主人公に 仲里依紗＆のんと初共演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2428586.html",
-      "publishedAt": "2026-06-15T21:00:50.000Z",
-      "summary": "フジテレビ系連続ドラマ『Tokyo middle 30』に深川麻衣が出演することが発表された。仲里依紗、のんと共に35歳の女性3人を演じる。",
+      "id": "efd15421a5b63a08",
+      "title": "ももクロ、読売ジャイアンツ・田中将大投手の登場曲「SECOND ROUTE」配信記念のハイレゾDLキャンペーン開催決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1071677",
+      "publishedAt": "2026-06-16T12:00:00.000Z",
+      "summary": "ももいろクローバーZが、プロ野球の読売ジャイアンツ・田中将大投手の2026年シーズン登場曲である「SECOND ROUTE」の配信を記念して、「田中将大投手サイン入り野球ボール」「ももいろクローバーZメンバー別サイン入りカラーボール」が当たるダウンロードキャンペーンの開催を発表した。 このキャンペーンでは、キャンペーン期間中にレコチョク・moraでそれぞれ「",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "812a1e58d07f867e",
+      "title": "日テレ同期の市來玲奈アナとフリー転身岩田絵里奈が共演「Zip朝からクエスチョン」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606160001423.html",
+      "publishedAt": "2026-06-16T11:17:09.000Z",
+      "summary": "日本テレビ市來玲奈アナウンサー（30）が月～水曜のエンタメキャスターを務める情報番組「ZIP！」（月～金曜午前5時50分）に16日、今年3月で同局を退社してフリーアナウンサーになった岩田絵里奈（30）がゲスト出演した。公式TikTok「…",
       "groups": [
         "乃木坂46"
       ],
@@ -17,7 +31,79 @@
       ],
       "memberMatches": [
         {
-          "name": "深川麻衣",
+          "name": "市來玲奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "208fba417b5a118c",
+      "title": "横田真悠、長濱ねる、中村里帆がVOCEベストコスメ企画に登場",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/631587.html",
+      "publishedAt": "2026-06-16T09:00:03.000Z",
+      "summary": "横田真悠、長濱ねる、中村里帆が、6月22日発売の美容誌「VOCE」2026年8月号に登場する。同号では、2026年上半期の「VOCEベストコスメ」を特集。エントリーされた2383個のコスメから、美容のプロ72名がトレンド感、使い心地、肌実感、価格を含めて総合的に評価し、 ... The post 横田真悠、長濱ねる、中村里帆がVOCEベストコスメ企画に登場 ",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "19e585f938061929",
+      "title": "伊藤万理華主演『擬人化ドラマ 被告人エモい』6月23日放送 “エモい”と古参の形容詞が激突",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2429626.html",
+      "publishedAt": "2026-06-16T08:17:02.000Z",
+      "summary": "伊藤万理華が主演を務める『擬人化ドラマ 被告人 被告人エモい』が、6月23日23時よりNHK総合で放送されることが決定した。 水野宗徳が脚本を手がける本作は、擬人化された“言葉”たちが法廷で繰り広げる超法廷劇。若者を",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤万理華",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "291595f2f194ae05",
+      "title": "映画『免許返納!?』 舘ひろし演じる大スターの“ドS”マネージャー役・西野七瀬ナレーションの特別映像公開",
+      "sourceName": "otocoto",
+      "sourceUrl": "https://otocoto.jp/feed/",
+      "articleUrl": "https://otocoto.jp/news/menkyohenno-movie0616/",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "summary": "御年75歳を迎えながら出演作が相次ぐ舘ひろしが、免許返納の世論に巻き込まれる大スター・南条弘役で主演する、映画『免許返納!?』。このたび本作で、南条のマネージャ...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -41,50 +127,6 @@
         {
           "name": "深川麻衣",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "7211223e3dbd4bce",
-      "title": "『ダブルエッジ～甦った男』に津田健次郎ら出演 織田裕二と和久井映見が34年ぶりの共演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2428672.html",
-      "publishedAt": "2026-06-15T20:30:48.000Z",
-      "summary": "6月27日に放送される織田裕二主演のテレビ朝日ドラマプレミアム『ダブルエッジ～甦った男』の追加キャストとして、津田健次郎、明日海りお、細田善彦、影山優佳、和久井映見、音尾琢真、光石研の出演が発表された。 本作は、車椅",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b8082c00617d48ea",
-      "title": "影山優佳の着用ユニフォーム、じつは… 「着こなせるのすごい！」「発想はなかった」驚きの声",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/06/15/20163557288/",
-      "publishedAt": "2026-06-15T07:45:00.000Z",
-      "summary": "アイドルグループ・日向坂46の元メンバーで女優の影山優佳が14日、公式Xを更新し、サッカー日本代表のユニフォームを着用している写真を投稿。そのユニフォームの“サイズ”が話題となっている。 【今回の投稿】着用しているユニフ…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -152,43 +194,6 @@
           "name": "若月佑美",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6fc926628360a6fb",
-      "title": "櫻坂46、黒の大人スタイルでレッドカーペットに登場！〈MUSIC AWARDS JAPAN 2026〉",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/631231.html",
-      "publishedAt": "2026-06-14T03:06:33.000Z",
-      "summary": "国内最大規模の国際音楽賞「MUSIC AWARDS JAPAN 2026」の授賞式が6 月 13 日（土）、TOYOTA ARENA TOKYOで開催され、レッドカーペットに櫻坂46が登場した。今回レッドカーペットに登壇したのは、山下瞳月、山﨑天、森田ひかる、藤吉夏鈴、 ... The post 櫻坂46、黒の大人スタイルでレッドカーペットに登場！〈MUSI",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤吉夏鈴",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下瞳月",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     },
@@ -428,60 +433,6 @@
           "name": "山下美月",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "178fa46fac4c1e30",
-      "title": "『乃木坂46のオールナイトニッポン』名物キャラ・鷲尾さんが川崎桜＆小川彩でドラマ化「誰かの“好き”を大切にするきっかけに」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260611-4563724/",
-      "publishedAt": "2026-06-10T18:00:00.000Z",
-      "summary": "乃木坂46の川崎桜が主演、小川彩が出演するFOD SHORTのドラマ『野球少女鷲尾』(全60話)が、12日0時より独占配信される。同作は、ニッポン放送『乃木坂46のオールナイトニッポン』から生まれた名物キャラクター「鷲尾さん」を完全オリジナルドラマとして実写化。野球が大好きなのに、過去のトラウマからその思いを隠してきた大学生・鷲尾史保が、自分の“好き”と向き",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "44876b60758fae68",
-      "title": "乃木坂46賀喜遥香 同期の“バディ\"遠藤さくらに感謝「さくちゃんがいてくれたから頑張ってこられた」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260610-4564481/",
-      "publishedAt": "2026-06-10T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月4日（木）の放送では、5月19日（火）～5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE」（以下、バスラ）の振り返り授業をお届け！ 本記事では、バスラで披",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "遠藤さくら",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
