@@ -1,6 +1,264 @@
 {
-  "updatedAt": "2026-06-17T13:04:21.852Z",
+  "updatedAt": "2026-06-17T23:12:27.917Z",
   "articles": [
+    {
+      "id": "9983dd3d4e4c3a28",
+      "title": "乃木坂46 井上和＆令和ロマン 松井ケムリ、『トイ・ストーリー5』新キャラの日本版声優に",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2430826.html",
+      "publishedAt": "2026-06-17T21:00:23.000Z",
+      "summary": "7月3日に日本公開されるディズニー＆ピクサー映画『トイ・ストーリー5』の新たな日本版声優として、乃木坂46の井上和と令和ロマンの松井ケムリの出演が発表された。 世界初の長編フルCGアニメーションとして映画史を変えた1",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c7394e39a28de95a",
+      "title": "乃木坂46井上和が大好きな「トイ・ストーリー」の日本語版声優に「あの世界に自分が入れるんだ」",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676645",
+      "publishedAt": "2026-06-17T21:00:00.000Z",
+      "summary": "7月3日に全国の劇場で公開される映画「トイ・ストーリー5」に、乃木坂46の井上和が日本版声優として出演することが決定した。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7a3f6217867d3b78",
+      "title": "井上和＆松井ケムリが『トイ・ストーリー5』新キャラ声優に M!LK佐野勇斗と“テックトリオ”…本編シーンも解禁",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1016066/",
+      "publishedAt": "2026-06-17T21:00:00.000Z",
+      "summary": "アイドルグループ・乃木坂46の井上和と、お笑いコンビ・令和ロマンの松井ケムリが、7月3日に公開されるディズニー＆ピクサー映画『トイ・ストーリー5』で、新キャラクターの日本版声優として出演することが18日、発表された。スナ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "fb6a40e8523b91e9",
+      "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87909/",
+      "publishedAt": "2026-06-17T21:00:00.000Z",
+      "summary": "7月3日(金)に全国公開される映画『トイ・ストーリー５』に登場する新キャラクターの日本版声優を乃木坂46・井上和と令和ロマン・松井ケムリが務めることが決定した。 おもちゃと人との絆を描き、世代を超えて愛されてきたディズニー＆ピクサーの『トイ・ストーリー』シリーズ。最新作ではウッディ役の唐沢寿明やバズ役の所ジョージが続投するほか、新たにリリーパッド役の広瀬アリ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d17856e8bcf849ba",
+      "title": "影山優佳「３人さんべっぴんさん」なでしこ選手と米国で再会「ズルすぎる可愛い」３ショット公開",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606180000005.html",
+      "publishedAt": "2026-06-17T20:55:00.000Z",
+      "summary": "元日向坂48で女優の影山優佳（25）が17日、自身のインスタグラムを更新。サッカー女子日本代表「なでしこジャパン」MF長谷川唯（29＝マンチェスターシティ）、DF清水梨紗（30＝リバプール）との3ショットを投稿した。 影山はW杯（ワール…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "091ce33644140f34",
+      "title": "日向坂46『17th Single ひなた坂46 LIVE』2日目公演公式レポート！平岡海月「私はまた次の夢を見てもいいんだ」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200012",
+      "publishedAt": "2026-06-17T14:22:37.000Z",
+      "summary": "アイドルグループ『日向坂46』の四期生＆五期生の若手メンバーの石塚瑶季、小西夏菜実、竹内希来里、平尾帆夏、平岡海月、山下葉留花、大田美月、蔵盛妃那乃、坂井新奈、佐藤優羽、下田衣珠季、高井俐香、鶴崎仁香が6月16日と6月...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "石塚瑶季",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "小西夏菜実",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "竹内希来里",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "平尾帆夏",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "平岡海月",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "大田美月",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "蔵盛妃那乃",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "坂井新奈",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐藤優羽",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "下田衣珠季",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "高井俐香",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "鶴崎仁香",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ba1fbe639973497a",
+      "title": "乃木坂46賀喜遥香「3～4日は“梅澤美波ロス”でした」卒業コンサート後のリアルな心境を告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260617-4595718/",
+      "publishedAt": "2026-06-17T13:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4741d6e71368a53d",
+      "title": "乃木坂46賀喜遥香「同期の田村真佑と弓木奈於が…」梅澤美波の卒業コンサートで披露した“キュンセリフ”の裏話を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260617-4595529/",
+      "publishedAt": "2026-06-17T12:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "田村真佑",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "弓木奈於",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "95e0a648b515e089",
       "title": "櫻坂46、MUSIC AWARDS JAPAN 2026のリクエスト特別賞で最優秀アーティストに決定",
@@ -220,28 +478,6 @@
           "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "74ac23390039d064",
-      "title": "乃木坂46賀喜遥香「簡単なように見えてカッコよく踊るのが…」バスラで一番練習した“シングル曲”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260611-4568699/",
-      "publishedAt": "2026-06-11T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月4日（木）の放送では、5月19日（火）～5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE」（以下、バスラ）の振り返り授業をお届け！ 本記事では、バスラ1日",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -919,28 +1155,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "26cdccb67f5ad0b0",
-      "title": "菅井友香×中村ゆりか『チェイサーゲームW 水魚の交わり』“いつ×ふゆ”の変化を描いた予告解禁",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/84209/",
-      "publishedAt": "2026-04-10T03:00:00.000Z",
-      "summary": "菅井友香と中村ゆりかがW主演を務め、5月15日(金)より全国公開される映画『チェイサーゲームW 水魚の交わり』の予告映像が解禁された。 2024年に放送され、ゲーム業界のリアルと、女性同士の恋愛を繊細に描き大きな反響を呼んだドラマ『チェイサーゲームW』。その続編となる今回の映画では、恋人から家族へと関係を変え共に歩むことを選んだふたりの主人公・樹（菅井友香）",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "菅井友香",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
     }
   ]
 }
