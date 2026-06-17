@@ -1,33 +1,41 @@
 {
-  "updatedAt": "2026-06-16T18:22:13.158Z",
+  "updatedAt": "2026-06-17T13:04:21.852Z",
   "articles": [
     {
-      "id": "186f38e986844bbc",
-      "title": "日テレ「THE MUSIC DAY」出演者第2弾はINI、あいみょん、kurayamisaka、Snow Man、日向坂46ら14組",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676464",
-      "publishedAt": "2026-06-16T15:54:00.000Z",
-      "summary": "7月4日に日本テレビ系で生放送される音楽特番「THE MUSIC DAY 2026」の出演アーティスト第2弾が発表された。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "efd15421a5b63a08",
-      "title": "ももクロ、読売ジャイアンツ・田中将大投手の登場曲「SECOND ROUTE」配信記念のハイレゾDLキャンペーン開催決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1071677",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "summary": "ももいろクローバーZが、プロ野球の読売ジャイアンツ・田中将大投手の2026年シーズン登場曲である「SECOND ROUTE」の配信を記念して、「田中将大投手サイン入り野球ボール」「ももいろクローバーZメンバー別サイン入りカラーボール」が当たるダウンロードキャンペーンの開催を発表した。 このキャンペーンでは、キャンペーン期間中にレコチョク・moraでそれぞれ「",
+      "id": "95e0a648b515e089",
+      "title": "櫻坂46、MUSIC AWARDS JAPAN 2026のリクエスト特別賞で最優秀アーティストに決定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/631923.html",
+      "publishedAt": "2026-06-17T11:00:10.000Z",
+      "summary": "USENは、一般社団法人カルチャー アンド エンタテインメント産業振興会が主催する国際音楽賞「MUSIC AWARDS JAPAN 2026」において、リクエスト特別賞「推し活リクエスト・アーティスト・オブ・ザ・イヤー powered by USEN」の最優秀アーティス ... The post 櫻坂46、MUSIC AWARDS JAPAN 2026のリク",
       "groups": [
         "櫻坂46"
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "de61469770926cc3",
+      "title": "制作発表が過酷なステージに？『シークレットNGハウス Season2』“リアル記者”の潜入レポート",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87711/",
+      "publishedAt": "2026-06-17T09:00:00.000Z",
+      "summary": "記者会見なのに、誰も本音を言わない。質問に答えるたび、登壇者たちの表情が強張る。いつもなら華やかなはずの制作発表の場が、異様な緊張感に包まれていた。 これは、Prime Videoで5月より配信中の人気番組『シークレットNGハウス』シーズン2の制作発表記者会見。だが、この会見そのものが、プレーヤーたちが挑む過酷なゲームステージだった。MCの二宮和也が司会を務",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "208fba417b5a118c",
@@ -53,28 +61,6 @@
         {
           "name": "長濱ねる",
           "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "19e585f938061929",
-      "title": "伊藤万理華主演『擬人化ドラマ 被告人エモい』6月23日放送 “エモい”と古参の形容詞が激突",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2429626.html",
-      "publishedAt": "2026-06-16T08:17:02.000Z",
-      "summary": "伊藤万理華が主演を務める『擬人化ドラマ 被告人 被告人エモい』が、6月23日23時よりNHK総合で放送されることが決定した。 水野宗徳が脚本を手がける本作は、擬人化された“言葉”たちが法廷で繰り広げる超法廷劇。若者を",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "伊藤万理華",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -140,28 +126,6 @@
       "memberMatches": [
         {
           "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "dc8572e08a3bfe08",
-      "title": "相楽伊織、美貌きわだつ私服コーデにファン絶賛「どれも素敵な写真」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/630624.html",
-      "publishedAt": "2026-06-14T21:45:12.000Z",
-      "summary": "タレントで元乃木坂46の相楽伊織が6月12日までに自身のInstagramを更新した。相楽伊織はブラウンのタイトなオフショルダートップスにデニムと細ベルトを合わせた、自然光に映える大人っぽさと抜け感を引き立てたカジュアルな衣装で「天気が安定しなくても、心はまぁまぁ晴れ」 ... The post 相楽伊織、美貌きわだつ私服コーデにファン絶賛「どれも素敵な写真",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "相楽伊織",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -260,28 +224,6 @@
       ]
     },
     {
-      "id": "55ffef257bc05139",
-      "title": "春日(鈴木福)から常磐(中西アルノ)への告白に「表情が本当に良すぎて痺れた」『惡の華』青春キラキラシーンに反響",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260612-4570982/",
-      "publishedAt": "2026-06-12T02:54:12.000Z",
-      "summary": "少年・少女の「不安」「葛藤」「痛み」を描くテレビ東京のドラマ『惡の華』(毎週木曜24:00～)の第10話が、11日に放送された。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "中西アルノ",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "74ac23390039d064",
       "title": "乃木坂46賀喜遥香「簡単なように見えてカッコよく踊るのが…」バスラで一番練習した“シングル曲”とは？",
       "sourceName": "マイナビニュース 芸能",
@@ -299,43 +241,6 @@
         {
           "name": "賀喜遥香",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "f0eda03320bea2f6",
-      "title": "日向坂46 三期生全員で“ランニング”にドハマり中！始めた理由を髙橋未来虹が明かす「4人とも20歳を過ぎて…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260611-4568580/",
-      "publishedAt": "2026-06-11T12:00:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月5日（金）の放",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -1036,42 +941,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "b366bc8fa4c99b54",
-      "title": "日向坂46新シングルのひなた坂46フォーメーション発表、四期生・平岡海月が初センターに",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/84234/",
-      "publishedAt": "2026-04-09T11:55:00.000Z",
-      "summary": "日向坂46が、5月20日(水)に発売する17thシングル『Kind of love』に収録するひなた坂46楽曲（アンダーメンバーによる共通カップリング曲）のフォーメーションを発表した。 グループの公式SNSで投稿された動画で解禁となった今回の楽曲タイトルは「Empty」。本楽曲では本日4月9日に誕生日を迎えた四期生・平岡海月が初めてセンターを務める。 また、",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "平岡海月",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "89568fc5e43b2d47",
-      "title": "乃木坂46「13thバスラ」映像作品のジャケット公開、スタジアムならではの熱狂切り取った全6種",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/84231/",
-      "publishedAt": "2026-04-09T09:20:00.000Z",
-      "summary": "乃木坂46が5月13日(水)にリリースするLIVE Blu-ray＆DVD『13th YEAR BIRTHDAY LIVE』の全ジャケットアートワークが公開された。 新加入した6期生11名が参加し、乃木坂46にとって新体制初ライブとなった「13th YEAR BIRTHDAY LIVE」は、昨年5月に東京・味の素スタジアムにて開催。DAY1、DAY2で全く異",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
