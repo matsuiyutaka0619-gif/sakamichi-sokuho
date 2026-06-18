@@ -1,58 +1,206 @@
 {
-  "updatedAt": "2026-06-17T23:12:27.917Z",
+  "updatedAt": "2026-06-18T12:35:42.891Z",
   "articles": [
     {
-      "id": "9983dd3d4e4c3a28",
-      "title": "乃木坂46 井上和＆令和ロマン 松井ケムリ、『トイ・ストーリー5』新キャラの日本版声優に",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2430826.html",
-      "publishedAt": "2026-06-17T21:00:23.000Z",
-      "summary": "7月3日に日本公開されるディズニー＆ピクサー映画『トイ・ストーリー5』の新たな日本版声優として、乃木坂46の井上和と令和ロマンの松井ケムリの出演が発表された。 世界初の長編フルCGアニメーションとして映画史を変えた1",
+      "id": "7550dd390ef85427",
+      "title": "18歳で日向坂46に加入…松田好花がアイドルとして“消去”したもの「しゃべったこともない人が…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260618-4597982/",
+      "publishedAt": "2026-06-18T12:00:00.000Z",
+      "summary": "「しゃべったこともない人が友達に……」元日向坂46でタレントの松田好花が、アイドルになったときのエピソードを語った――。",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
     {
-      "id": "c7394e39a28de95a",
-      "title": "乃木坂46井上和が大好きな「トイ・ストーリー」の日本語版声優に「あの世界に自分が入れるんだ」",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676645",
-      "publishedAt": "2026-06-17T21:00:00.000Z",
-      "summary": "7月3日に全国の劇場で公開される映画「トイ・ストーリー5」に、乃木坂46の井上和が日本版声優として出演することが決定した。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7a3f6217867d3b78",
-      "title": "井上和＆松井ケムリが『トイ・ストーリー5』新キャラ声優に M!LK佐野勇斗と“テックトリオ”…本編シーンも解禁",
+      "id": "1f3ca8f26e1aef9b",
+      "title": "黒川想矢、事務所の大先輩・舘ひろしは「“かんひろし”だと…」 舘プロ入社きっかけは“直談判”",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1016066/",
-      "publishedAt": "2026-06-17T21:00:00.000Z",
-      "summary": "アイドルグループ・乃木坂46の井上和と、お笑いコンビ・令和ロマンの松井ケムリが、7月3日に公開されるディズニー＆ピクサー映画『トイ・ストーリー5』で、新キャラクターの日本版声優として出演することが18日、発表された。スナ […]",
+      "articleUrl": "https://encount.press/archives/1016685/",
+      "publishedAt": "2026-06-18T10:31:05.000Z",
+      "summary": "俳優の黒川想矢が18日、都内で行われた映画『免許返納!?』公開前夜祭に、主演を務める舘ひろしをはじめ、西野七瀬、八嶋智人、河合勇人監督と共に登壇した。映画『免許返納!?』公開前夜祭 俳優の黒川想矢が18日、都内で行われ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "322a285a5944996d",
+      "title": "西野七瀬「あの写真は人に見せたくない」と封印誓うもの？『免許返納!?』へ自信",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200090",
+      "publishedAt": "2026-06-18T10:16:13.000Z",
+      "summary": "俳優・西野七瀬が6月18日に東京・新宿バルト9で映画『免許返納!?』（監督：河合勇人／配給：東映）公開前夜祭を俳優・舘ひろし、黒川想矢、八嶋智人、河合勇人監督とともに登場した。 俳優仲間が映画の撮影前にバイク事故を起...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "432b1c1749bd6471",
+      "title": "乃木坂46・小川彩と柴田柚菜、千葉ロッテ「BLACK SUMMER WEEK」スペシャルリポーターに決定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/632077.html",
+      "publishedAt": "2026-06-18T10:15:31.000Z",
+      "summary": "千葉ロッテマリーンズは、7月23日にZOZOマリンスタジアムで開催される楽天戦に、乃木坂46の小川彩と柴田柚菜が来場し、夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ」のスペシャルリポーターを務めることを発表した。2人 ... The post 乃木坂46・小川彩と柴田柚菜、千葉ロッテ「BLACK SUMM",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6cdc395e6c1c0b6e",
+      "title": "乃木坂46賀喜遥香「美波さんがどれだけ大切にされてきたか…」梅澤美波の卒業コンサートで一番“心に残った楽曲”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260618-4599656/",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2096ebc682dc36e6",
+      "title": "舘ひろし『あぶない刑事』深い思い入れでエピソード続々！西野七瀬と再共演なら関係性は『免許返納!?』",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200093",
+      "publishedAt": "2026-06-18T09:55:07.000Z",
+      "summary": "俳優・舘ひろしが6月18日に東京・新宿バルト9で主演映画『免許返納!?』（監督：河合勇人／配給：東映）公開前夜祭を俳優・西野七瀬、黒川想矢、八嶋智人、河合勇人監督とともに開いた。 俳優仲間が映画の撮影前にバイク事故を...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "073171cf49d5f476",
+      "title": "乃木坂46小川彩＆柴田柚菜、千葉ロッテマリーンズ「BLACK SUMMER WEEK」でスペシャルリポーター",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676768",
+      "publishedAt": "2026-06-18T08:05:00.000Z",
+      "summary": "プロ野球パ・リーグの千葉ロッテマリーンズが7月10日より恒例のイベントゲーム「BLACK SUMMER WEEK supported by クーリッシュ」を開催する。このうち7月23日の東北楽天ゴールデンイーグルス戦に乃木坂46の小川彩と柴田柚菜が来場する。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bd22b285d6a6ef1a",
+      "title": "旧市街に金川紗耶、こちらに手を差し伸べる 写真集「好きのグラデーション」新カット公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676729",
+      "publishedAt": "2026-06-18T08:00:00.000Z",
+      "summary": "6月30日に発売される金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」の先行カット第8弾が公開された。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a079f64520276373",
+      "title": "乃木坂46 井上和、納得の『トイ・ストーリー5』声優抜擢 “好き”を原動力に掴んだ夢の舞台",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2432320.html",
+      "publishedAt": "2026-06-18T07:30:42.000Z",
+      "summary": "乃木坂46の中心メンバーである井上和は、近年演技の幅を広げており、映画『トイ・ストーリー5』の日本版声優に抜擢されるなど役者としても注目を集めている。",
       "groups": [
         "乃木坂46"
       ],
@@ -62,6 +210,62 @@
       "memberMatches": [
         {
           "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b0c4aeaff25ccd84",
+      "title": "日向坂46大野愛実が「CanCam」専属モデル就任3カ月で初表紙、山下美月との初対面時の衝撃を明かす",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676685",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "summary": "6月23日発売の雑誌「CanCam」8月号通常版の表紙を、日向坂46の大野愛実が飾る。",
+      "groups": [
+        "日向坂46",
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "22e0b5388de86fe3",
+      "title": "ロッテ、7月23日の楽天戦で乃木坂46の小川彩さん・柴田柚菜さんが来場 イ…",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260618-4599241/",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "千葉ロッテマリーンズは7月23日楽天戦(ZOZOマリンスタジアム、18時00分試合開始) において、乃木坂46の小川彩さん・柴田柚菜さんが来場し、夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ」…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -90,24 +294,29 @@
       ]
     },
     {
-      "id": "d17856e8bcf849ba",
-      "title": "影山優佳「３人さんべっぴんさん」なでしこ選手と米国で再会「ズルすぎる可愛い」３ショット公開",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606180000005.html",
-      "publishedAt": "2026-06-17T20:55:00.000Z",
-      "summary": "元日向坂48で女優の影山優佳（25）が17日、自身のインスタグラムを更新。サッカー女子日本代表「なでしこジャパン」MF長谷川唯（29＝マンチェスターシティ）、DF清水梨紗（30＝リバプール）との3ショットを投稿した。 影山はW杯（ワール…",
+      "id": "a46e5246a5214546",
+      "title": "ロッテ、7月23日の楽天戦で乃木坂46小川彩さんと柴田柚菜さんがBSWスペシャルリポーター決定",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260618-4598226/",
+      "publishedAt": "2026-06-17T18:56:49.000Z",
+      "summary": "ロッテは18日、7月23日の楽天戦で乃木坂46の小川彩さん・柴田柚菜さんが来場し、夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ」のスペシャルリ…",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -196,8 +405,8 @@
     {
       "id": "ba1fbe639973497a",
       "title": "乃木坂46賀喜遥香「3～4日は“梅澤美波ロス”でした」卒業コンサート後のリアルな心境を告白",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260617-4595718/",
       "publishedAt": "2026-06-17T13:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
@@ -224,8 +433,8 @@
     {
       "id": "4741d6e71368a53d",
       "title": "乃木坂46賀喜遥香「同期の田村真佑と弓木奈於が…」梅澤美波の卒業コンサートで披露した“キュンセリフ”の裏話を明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260617-4595529/",
       "publishedAt": "2026-06-17T12:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
@@ -324,28 +533,6 @@
       ]
     },
     {
-      "id": "291595f2f194ae05",
-      "title": "映画『免許返納!?』 舘ひろし演じる大スターの“ドS”マネージャー役・西野七瀬ナレーションの特別映像公開",
-      "sourceName": "otocoto",
-      "sourceUrl": "https://otocoto.jp/feed/",
-      "articleUrl": "https://otocoto.jp/news/menkyohenno-movie0616/",
-      "publishedAt": "2026-06-16T07:00:00.000Z",
-      "summary": "御年75歳を迎えながら出演作が相次ぐ舘ひろしが、免許返納の世論に巻き込まれる大スター・南条弘役で主演する、映画『免許返納!?』。このたび本作で、南条のマネージャ...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "d0e4cf86e7f88c1f",
       "title": "深川麻衣、同棲4年でプロポーズ待ちの35歳に 初共演の仲里依紗＆のんと同級生役",
       "sourceName": "マイナビニュース テレビ",
@@ -362,28 +549,6 @@
       "memberMatches": [
         {
           "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "478e7fda711691ba",
-      "title": "西野七瀬インタビュー 舘ひろし演じる大スターを支える 愛ある“ドS”なマネージャー『免許返納!?』",
-      "sourceName": "otocoto",
-      "sourceUrl": "https://otocoto.jp/feed/",
-      "articleUrl": "https://otocoto.jp/interview/menkyohenno-movie0615/",
-      "publishedAt": "2026-06-15T07:15:35.000Z",
-      "summary": "「あぶない刑事」シリーズなどのダンディーなイメージを覆す、舘ひろし主演のノンストップドライブコメディ映画『免許返納!?』。舘ひろしが演じるのは、アクション映画で...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -455,28 +620,6 @@
         {
           "name": "平手友梨奈",
           "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "1342b49af3d199f1",
-      "title": "「レべチ」「お顔が強すぎる」元日向坂46の証明写真に驚きの声 Xで運転免許証を公開【1,100万表示超え】",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260612-4555686/",
-      "publishedAt": "2026-06-12T10:00:00.000Z",
-      "summary": "「アー写みたい」「お顔が強すぎる」元日向坂46の影山優佳が、Xで運転免許証を公開。そのビジュアルに驚きの声が多く寄せられ、注目を集めている。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
