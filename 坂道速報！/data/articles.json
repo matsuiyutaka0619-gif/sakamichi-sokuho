@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-06-19T13:01:56.085Z",
+  "updatedAt": "2026-06-19T22:12:46.730Z",
   "articles": [
+    {
+      "id": "27623923a74942d8",
+      "title": "伊藤万理華主演、NHK「擬人化ドラマ 被告人エモい」6月23日放送",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/632325.html",
+      "publishedAt": "2026-06-19T22:00:08.000Z",
+      "summary": "元乃木坂46の伊藤万理華が主演を務めるNHK総合の新作「擬人化ドラマ 被告人エモい」が、6月23日午後11時から11時29分まで放送される。同作は、擬人化したモノやコトが繰り広げる法廷ドラマ「擬人化ドラマ 被告人」の新作。若者を中心に多用される、なんとも言えない感情を表 ... The post 伊藤万理華主演、NHK「擬人化ドラマ 被告人エモい」6月23日",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤万理華",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "f16495f4aa8c8db7",
+      "title": "［週間アクセスランキング］今年の「MAJ」受賞したのは",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677002",
+      "publishedAt": "2026-06-19T15:00:00.000Z",
+      "summary": "2026年6月11日から6月17日にかけて最も注目された記事は「MUSIC AWARDS JAPAN 2026」、画像は乃木坂46の金川紗耶に関するものだった。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1538e07e9843e822",
+      "title": "ひなた坂46、TOYOTA ARENA TOKYOで2daysライブ開催！平岡海月が涙のスピーチ「絶対に必要な場所です」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/632229.html",
+      "publishedAt": "2026-06-19T14:00:01.000Z",
+      "summary": "日向坂46のひなた坂46が、6月16日、17日の2日間にわたり、TOYOTA ARENA TOKYOにて「17th Single ひなた坂46 LIVE」を開催した。ひなた坂46は、日向坂46のシングル表題曲を歌う選抜メンバー以外で構成されたグループ。今回は平岡海月を座 ... The post ひなた坂46、TOYOTA ARENA TOKYOで2days",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "平岡海月",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8b28a10689a87fb9",
+      "title": "梅澤美波が乃木坂46卒業後初メディア生出演、“公式お兄ちゃん”バナナマン設楽と語り合う",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677027",
+      "publishedAt": "2026-06-19T13:06:00.000Z",
+      "summary": "本日6月19日深夜より放送されるTBSラジオ「JUNK バナナマンのバナナムーンGOLD」に、元乃木坂46の梅澤美波が出演する。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d810dac87655f6cb",
+      "title": "櫻坂46浅井恋乃未「覚悟が決まった1曲になりました」新曲で憧れの先輩・森田ひかるの隣へ…フロントメンバーとしての喜びと葛藤を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4604553/",
+      "publishedAt": "2026-06-19T12:50:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月13日（土）の放送には、櫻坂46・浅井恋乃未さんが登場！ 6月10日（水）にリリースされたダブルAサイドシングル「Lonesome rabbit / What's “KAZOKU”?」に",
+      "groups": [
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "浅井恋乃未",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "601d45fc34d7efed",
       "title": "“生配信ラジオ”7年以上継続、ダウ90000蓮見の助言で再生数アップ…ニューヨークが明かすYouTubeへのこだわり",
@@ -18,28 +140,6 @@
       "memberMatches": [
         {
           "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "45fc79a3fe4d590e",
-      "title": "井之脇海、亡き母の時計を紛失 引越し準備で発見「思わず泣いてしまった」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1017399/",
-      "publishedAt": "2026-06-19T11:11:39.000Z",
-      "summary": "俳優の井之脇海が19日、都内で行われた映画『君は映画』の初日舞台あいさつに、伊藤万理華、藤谷理子、金丸慎太郎、上田誠監督とともに登壇。亡き母との思い出が詰まった時計にまつわるエピソードを明かした。映画『君は映画』初日舞台 […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "伊藤万理華",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -64,50 +164,6 @@
           "name": "藤嶌果歩",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c3eeee83d5648fbd",
-      "title": "伊藤万理華「過去を回収する旅」 井之脇海「母にもらった時計」泣けた出来事を明かす",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606190001470.html",
-      "publishedAt": "2026-06-19T10:40:20.000Z",
-      "summary": "元乃木坂46伊藤万理華（30）井之脇海（30）が19日、東京・TOHOシネマズ日比谷で、ダブル主演映画「君は映画」（上田誠監督）の初日舞台あいさつに出席した。 下北沢を舞台にした作品で、伊藤は「古着屋さんもめぐりましたし、舞台に出たり、…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "伊藤万理華",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9d15f9dfba96a274",
-      "title": "クラウドナイン初の主催フェスを9月に開催 ファントムシータやshallm、栗林みな実ら所属9組が集結",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676899",
-      "publishedAt": "2026-06-19T10:00:00.000Z",
-      "summary": "Adoや平手友梨奈が所属する音楽事務所・クラウドナインが、初の主催音楽フェス「Cloud Nine Fes 2026『滴音録-Tekinroku-』」を9月19日に東京・恵比寿ザ・ガーデンホールで開催する。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
         }
       ]
     },
@@ -270,33 +326,6 @@
       ]
     },
     {
-      "id": "432b1c1749bd6471",
-      "title": "乃木坂46・小川彩と柴田柚菜、千葉ロッテ「BLACK SUMMER WEEK」スペシャルリポーターに決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/632077.html",
-      "publishedAt": "2026-06-18T10:15:31.000Z",
-      "summary": "千葉ロッテマリーンズは、7月23日にZOZOマリンスタジアムで開催される楽天戦に、乃木坂46の小川彩と柴田柚菜が来場し、夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ」のスペシャルリポーターを務めることを発表した。2人 ... The post 乃木坂46・小川彩と柴田柚菜、千葉ロッテ「BLACK SUMM",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴田柚菜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "6cdc395e6c1c0b6e",
       "title": "乃木坂46賀喜遥香「美波さんがどれだけ大切にされてきたか…」梅澤美波の卒業コンサートで一番“心に残った楽曲”とは？",
       "sourceName": "マイナビニュース 芸能",
@@ -431,28 +460,6 @@
           "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d0e4cf86e7f88c1f",
-      "title": "深川麻衣、同棲4年でプロポーズ待ちの35歳に 初共演の仲里依紗＆のんと同級生役",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260616-4586453/",
-      "publishedAt": "2026-06-15T21:00:00.000Z",
-      "summary": "俳優の深川麻衣が、7月22日にスタートするフジテレビ系ドラマ『Tokyo middle 30』(毎週水曜22:00～)に出演することが16日、明らかになった。仲里依紗、のんに続く3人目の主人公を演じ、フジテレビ制作の連続ドラマに初出演する。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
