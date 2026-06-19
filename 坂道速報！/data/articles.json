@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-19T00:14:17.758Z",
+  "updatedAt": "2026-06-19T13:01:56.085Z",
   "articles": [
     {
-      "id": "ab55174795c38019",
-      "title": "武井壮、衝撃の“小顔女子”芸能人を告白「初めてシュトンプフヒメカメレオンを見た時の…」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606190000125.html",
-      "publishedAt": "2026-06-18T22:16:41.000Z",
-      "summary": "タレント武井壮（53）が19日までに、自身のXを更新。衝撃的な「小顔女子」だった芸能人を明かした。 武井は「小顔女子はたくさんいるが、齋藤飛鳥の顔面を生で見た時の衝撃は、初めてティーカッププードルや豆柴を見た時の『小さっ！』を遥かに上回…",
+      "id": "601d45fc34d7efed",
+      "title": "“生配信ラジオ”7年以上継続、ダウ90000蓮見の助言で再生数アップ…ニューヨークが明かすYouTubeへのこだわり",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4604373/",
+      "publishedAt": "2026-06-19T11:50:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・ニューヨーク（嶋佐和也さん、屋敷裕政さん）が登場！ 本記事では、ニューヨークさんのYouTubeチャンネル「ニューヨーク Official Channel」について伺っ",
       "groups": [
         "乃木坂46"
       ],
@@ -17,20 +17,108 @@
       ],
       "memberMatches": [
         {
-          "name": "齋藤飛鳥",
+          "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "f4c810353a7100af",
-      "title": "舘ひろし、主演映画「免許返納！？」公開前夜祭舞台あいさつ「笑いあり、涙ありすばらしい作品」",
+      "id": "45fc79a3fe4d590e",
+      "title": "井之脇海、亡き母の時計を紛失 引越し準備で発見「思わず泣いてしまった」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1017399/",
+      "publishedAt": "2026-06-19T11:11:39.000Z",
+      "summary": "俳優の井之脇海が19日、都内で行われた映画『君は映画』の初日舞台あいさつに、伊藤万理華、藤谷理子、金丸慎太郎、上田誠監督とともに登壇。亡き母との思い出が詰まった時計にまつわるエピソードを明かした。映画『君は映画』初日舞台 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤万理華",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b600002de5f6686f",
+      "title": "M!LK佐野勇斗が「東京カレンダー」表紙に登場、日向坂46藤嶌果歩は串に刺さない焼き鳥を初体験",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676998",
+      "publishedAt": "2026-06-19T10:56:00.000Z",
+      "summary": "本日6月19日発売の「東京カレンダー」8月号特別増刊の表紙を、M!LKの佐野勇斗が飾っている。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c3eeee83d5648fbd",
+      "title": "伊藤万理華「過去を回収する旅」 井之脇海「母にもらった時計」泣けた出来事を明かす",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606180001444.html",
-      "publishedAt": "2026-06-18T21:55:00.000Z",
-      "summary": "俳優舘ひろし（76）が18日、東京・新宿バルト9で、主演映画「免許返納！？」（河合勇人監督）の公開前夜祭の舞台あいさつに、西野七瀬、黒川想矢、八嶋智人らと出席した。観客と握手するなどしてサービスたっぷりに登場。「ひろし！」の声も飛び、手…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606190001470.html",
+      "publishedAt": "2026-06-19T10:40:20.000Z",
+      "summary": "元乃木坂46伊藤万理華（30）井之脇海（30）が19日、東京・TOHOシネマズ日比谷で、ダブル主演映画「君は映画」（上田誠監督）の初日舞台あいさつに出席した。 下北沢を舞台にした作品で、伊藤は「古着屋さんもめぐりましたし、舞台に出たり、…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤万理華",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "9d15f9dfba96a274",
+      "title": "クラウドナイン初の主催フェスを9月に開催 ファントムシータやshallm、栗林みな実ら所属9組が集結",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/676899",
+      "publishedAt": "2026-06-19T10:00:00.000Z",
+      "summary": "Adoや平手友梨奈が所属する音楽事務所・クラウドナインが、初の主催音楽フェス「Cloud Nine Fes 2026『滴音録-Tekinroku-』」を9月19日に東京・恵比寿ザ・ガーデンホールで開催する。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "平手友梨奈",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "9d09550e74e4f263",
+      "title": "舘ひろし、西野七瀬から「雑談とかはそんなに(していない)」と明かされ…映画『免許返納!?』共演エピソードを回顧",
+      "sourceName": "マイナビニュース 映画",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/movie",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4602641/",
+      "publishedAt": "2026-06-19T04:15:00.000Z",
+      "summary": "「世代のギャップがありますからね、あまり変なこと言うと、いろいろ危ないんですよ」――。舘ひろしが、西野七瀬との共演を振り返った。劇中のあるシーンで「もっと冷たく、僕を見下したように」と演技をリクエストするなど、コミュニケーションを重ねた撮影秘話を明かしている。",
       "groups": [
         "乃木坂46"
       ],
@@ -42,6 +130,28 @@
           "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "ebe1819361f8311f",
+      "title": "中西アルノのキスシーンに悲鳴「本当にするの!?」「うわあああ!」 あののロングヘアにも反響『惡の華』",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
+      "articleUrl": "https://news.mynavi.jp/article/20260619-4602404/",
+      "publishedAt": "2026-06-19T02:26:16.000Z",
+      "summary": "少年・少女の「不安」「葛藤」「痛み」を描くテレビ東京のドラマ『惡の華』(毎週木曜24:00～)の第11話が、18日に放送された。SNSでは、中西アルノのキスシーンに「やめて～!」「まさかの現役アイドルがキスシーン。ファンはどう思うんだろう」などの反応があったほか、「アルノちゃんの演技がすごい」、「あのちゃん、ロング髪も似合う」と多種多様なコメントが上がってい",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "中西アルノ",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -70,8 +180,8 @@
     {
       "id": "c952edc6552ad21c",
       "title": "乃木坂46賀喜遥香「最後の最後までキャプテンでした」卒業コンサート後に梅澤美波から直接贈られた言葉とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260618-4600118/",
       "publishedAt": "2026-06-18T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
@@ -96,32 +206,10 @@
       ]
     },
     {
-      "id": "7550dd390ef85427",
-      "title": "18歳で日向坂46に加入…松田好花がアイドルとして“消去”したもの「しゃべったこともない人が…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260618-4597982/",
-      "publishedAt": "2026-06-18T12:00:00.000Z",
-      "summary": "「しゃべったこともない人が友達に……」元日向坂46でタレントの松田好花が、アイドルになったときのエピソードを語った――。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "b5a22cbc0c8c00de",
       "title": "日向坂46髙橋未来虹 同期・山口陽世に打ち明けた“悩み”を告白「私を説得してくれたんです」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260618-4600028/",
       "publishedAt": "2026-06-18T12:00:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月12日（金）の",
@@ -211,8 +299,8 @@
     {
       "id": "6cdc395e6c1c0b6e",
       "title": "乃木坂46賀喜遥香「美波さんがどれだけ大切にされてきたか…」梅澤美波の卒業コンサートで一番“心に残った楽曲”とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260618-4599656/",
       "publishedAt": "2026-06-18T10:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
@@ -233,28 +321,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2096ebc682dc36e6",
-      "title": "舘ひろし『あぶない刑事』深い思い入れでエピソード続々！西野七瀬と再共演なら関係性は『免許返納!?』",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200093",
-      "publishedAt": "2026-06-18T09:55:07.000Z",
-      "summary": "俳優・舘ひろしが6月18日に東京・新宿バルト9で主演映画『免許返納!?』（監督：河合勇人／配給：東映）公開前夜祭を俳優・西野七瀬、黒川想矢、八嶋智人、河合勇人監督とともに開いた。 俳優仲間が映画の撮影前にバイク事故を...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -345,20 +411,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "95e0a648b515e089",
-      "title": "櫻坂46、MUSIC AWARDS JAPAN 2026のリクエスト特別賞で最優秀アーティストに決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/631923.html",
-      "publishedAt": "2026-06-17T11:00:10.000Z",
-      "summary": "USENは、一般社団法人カルチャー アンド エンタテインメント産業振興会が主催する国際音楽賞「MUSIC AWARDS JAPAN 2026」において、リクエスト特別賞「推し活リクエスト・アーティスト・オブ・ザ・イヤー powered by USEN」の最優秀アーティス ... The post 櫻坂46、MUSIC AWARDS JAPAN 2026のリク",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "de61469770926cc3",
@@ -1078,20 +1130,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "b4d32c82b3839b60",
-      "title": "櫻坂46が国立ライブ最後にサプライズ連発、15thシングル発売＆新ツアー・6thアニラ開催決定",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/84511/",
-      "publishedAt": "2026-04-12T13:00:00.000Z",
-      "summary": "櫻坂46が、坂道グループ初となる両A面シングル『Lonesome rabbit/ What’s “KAZOKU”?』を15thシングルとして6月10日(水)に発売することが決定。さらに7月から全国アリーナツアー、11月に「6th YEAR ANNIVERSARY LIVE」を開催することを発表した。 4月11日(土)・12日(日)にグループ5周年記念ライブ「",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
