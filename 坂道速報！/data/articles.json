@@ -1,6 +1,100 @@
 {
-  "updatedAt": "2026-06-18T12:35:42.891Z",
+  "updatedAt": "2026-06-19T00:14:17.758Z",
   "articles": [
+    {
+      "id": "ab55174795c38019",
+      "title": "武井壮、衝撃の“小顔女子”芸能人を告白「初めてシュトンプフヒメカメレオンを見た時の…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606190000125.html",
+      "publishedAt": "2026-06-18T22:16:41.000Z",
+      "summary": "タレント武井壮（53）が19日までに、自身のXを更新。衝撃的な「小顔女子」だった芸能人を明かした。 武井は「小顔女子はたくさんいるが、齋藤飛鳥の顔面を生で見た時の衝撃は、初めてティーカッププードルや豆柴を見た時の『小さっ！』を遥かに上回…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "f4c810353a7100af",
+      "title": "舘ひろし、主演映画「免許返納！？」公開前夜祭舞台あいさつ「笑いあり、涙ありすばらしい作品」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606180001444.html",
+      "publishedAt": "2026-06-18T21:55:00.000Z",
+      "summary": "俳優舘ひろし（76）が18日、東京・新宿バルト9で、主演映画「免許返納！？」（河合勇人監督）の公開前夜祭の舞台あいさつに、西野七瀬、黒川想矢、八嶋智人らと出席した。観客と握手するなどしてサービスたっぷりに登場。「ひろし！」の声も飛び、手…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "2fe2375f203d6431",
+      "title": "相沢菜月、ブラックドレスで流線美！思わず二度見の美しさ！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/631769.html",
+      "publishedAt": "2026-06-18T21:00:30.000Z",
+      "summary": "6月16日、タレントの相沢菜月が自身のInstagramを更新した。相沢菜月はストレートのロングヘアに、タイトな黒のキャミソールロングワンピースを合わせた、シンプルで大人シックなファッションを披露！本投稿にファンからは、「黒も似合いますね。美しいですね。」「なぁちゃんう ... The post 相沢菜月、ブラックドレスで流線美！思わず二度見の美しさ！ fi",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "c952edc6552ad21c",
+      "title": "乃木坂46賀喜遥香「最後の最後までキャプテンでした」卒業コンサート後に梅澤美波から直接贈られた言葉とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260618-4600118/",
+      "publishedAt": "2026-06-18T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "7550dd390ef85427",
       "title": "18歳で日向坂46に加入…松田好花がアイドルとして“消去”したもの「しゃべったこともない人が…」",
@@ -24,24 +118,44 @@
       ]
     },
     {
-      "id": "1f3ca8f26e1aef9b",
-      "title": "黒川想矢、事務所の大先輩・舘ひろしは「“かんひろし”だと…」 舘プロ入社きっかけは“直談判”",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1016685/",
-      "publishedAt": "2026-06-18T10:31:05.000Z",
-      "summary": "俳優の黒川想矢が18日、都内で行われた映画『免許返納!?』公開前夜祭に、主演を務める舘ひろしをはじめ、西野七瀬、八嶋智人、河合勇人監督と共に登壇した。映画『免許返納!?』公開前夜祭 俳優の黒川想矢が18日、都内で行われ […]",
+      "id": "b5a22cbc0c8c00de",
+      "title": "日向坂46髙橋未来虹 同期・山口陽世に打ち明けた“悩み”を告白「私を説得してくれたんです」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260618-4600028/",
+      "publishedAt": "2026-06-18T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月12日（金）の",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山口陽世",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
         }
       ]
     },
@@ -145,133 +259,6 @@
       ]
     },
     {
-      "id": "073171cf49d5f476",
-      "title": "乃木坂46小川彩＆柴田柚菜、千葉ロッテマリーンズ「BLACK SUMMER WEEK」でスペシャルリポーター",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676768",
-      "publishedAt": "2026-06-18T08:05:00.000Z",
-      "summary": "プロ野球パ・リーグの千葉ロッテマリーンズが7月10日より恒例のイベントゲーム「BLACK SUMMER WEEK supported by クーリッシュ」を開催する。このうち7月23日の東北楽天ゴールデンイーグルス戦に乃木坂46の小川彩と柴田柚菜が来場する。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴田柚菜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "bd22b285d6a6ef1a",
-      "title": "旧市街に金川紗耶、こちらに手を差し伸べる 写真集「好きのグラデーション」新カット公開",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676729",
-      "publishedAt": "2026-06-18T08:00:00.000Z",
-      "summary": "6月30日に発売される金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」の先行カット第8弾が公開された。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a079f64520276373",
-      "title": "乃木坂46 井上和、納得の『トイ・ストーリー5』声優抜擢 “好き”を原動力に掴んだ夢の舞台",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2432320.html",
-      "publishedAt": "2026-06-18T07:30:42.000Z",
-      "summary": "乃木坂46の中心メンバーである井上和は、近年演技の幅を広げており、映画『トイ・ストーリー5』の日本版声優に抜擢されるなど役者としても注目を集めている。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b0c4aeaff25ccd84",
-      "title": "日向坂46大野愛実が「CanCam」専属モデル就任3カ月で初表紙、山下美月との初対面時の衝撃を明かす",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676685",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "summary": "6月23日発売の雑誌「CanCam」8月号通常版の表紙を、日向坂46の大野愛実が飾る。",
-      "groups": [
-        "日向坂46",
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "大野愛実",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "22e0b5388de86fe3",
-      "title": "ロッテ、7月23日の楽天戦で乃木坂46の小川彩さん・柴田柚菜さんが来場 イ…",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260618-4599241/",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "千葉ロッテマリーンズは7月23日楽天戦(ZOZOマリンスタジアム、18時00分試合開始) において、乃木坂46の小川彩さん・柴田柚菜さんが来場し、夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ」…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴田柚菜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "fb6a40e8523b91e9",
       "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
       "sourceName": "Bezzy",
@@ -289,115 +276,6 @@
         {
           "name": "井上和",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a46e5246a5214546",
-      "title": "ロッテ、7月23日の楽天戦で乃木坂46小川彩さんと柴田柚菜さんがBSWスペシャルリポーター決定",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260618-4598226/",
-      "publishedAt": "2026-06-17T18:56:49.000Z",
-      "summary": "ロッテは18日、7月23日の楽天戦で乃木坂46の小川彩さん・柴田柚菜さんが来場し、夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ」のスペシャルリ…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴田柚菜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "091ce33644140f34",
-      "title": "日向坂46『17th Single ひなた坂46 LIVE』2日目公演公式レポート！平岡海月「私はまた次の夢を見てもいいんだ」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200012",
-      "publishedAt": "2026-06-17T14:22:37.000Z",
-      "summary": "アイドルグループ『日向坂46』の四期生＆五期生の若手メンバーの石塚瑶季、小西夏菜実、竹内希来里、平尾帆夏、平岡海月、山下葉留花、大田美月、蔵盛妃那乃、坂井新奈、佐藤優羽、下田衣珠季、高井俐香、鶴崎仁香が6月16日と6月...",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "石塚瑶季",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "小西夏菜実",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "竹内希来里",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "平尾帆夏",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "平岡海月",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "大田美月",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "蔵盛妃那乃",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "坂井新奈",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "佐藤優羽",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "下田衣珠季",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "高井俐香",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "鶴崎仁香",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -505,34 +383,6 @@
       ]
     },
     {
-      "id": "208fba417b5a118c",
-      "title": "横田真悠、長濱ねる、中村里帆がVOCEベストコスメ企画に登場",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/631587.html",
-      "publishedAt": "2026-06-16T09:00:03.000Z",
-      "summary": "横田真悠、長濱ねる、中村里帆が、6月22日発売の美容誌「VOCE」2026年8月号に登場する。同号では、2026年上半期の「VOCEベストコスメ」を特集。エントリーされた2383個のコスメから、美容のプロ72名がトレンド感、使い心地、肌実感、価格を含めて総合的に評価し、 ... The post 横田真悠、長濱ねる、中村里帆がVOCEベストコスメ企画に登場 ",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "d0e4cf86e7f88c1f",
       "title": "深川麻衣、同棲4年でプロポーズ待ちの35歳に 初共演の仲里依紗＆のんと同級生役",
       "sourceName": "マイナビニュース テレビ",
@@ -555,34 +405,6 @@
       ]
     },
     {
-      "id": "17ffcfdc5861bdff",
-      "title": "大地真央は「天然を超えたところがある」 12歳下の夫・森田恭通氏が不可解な行動に言及",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260614-4575665/",
-      "publishedAt": "2026-06-13T21:00:00.000Z",
-      "summary": "俳優の大地真央が、14日に放送される日本テレビ系トーク番組『おしゃれクリップ』(毎週日曜22:00～)に出演する。初舞台から52年、退団後も表舞台に立ち続ける“キセキの70歳”の生き方をひも解くほか、結婚19年目を迎えた12歳下の夫・森田恭通氏が「天然を超えたところがある」と語る私生活、長濱ねるや松嶋菜々子らとのシール交換、真矢ミキが明かす“ギャップ萌え”な",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "c4b12d073931acd1",
       "title": "日向坂46“7回目のひな誕祭”が8月商品化、ラストに「Kind of love」を初披露したDAY2完全収録",
       "sourceName": "Bezzy",
@@ -595,34 +417,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "d55a4ab6d454cb62",
-      "title": "平手友梨奈「今までの曲がバラエティ豊富すぎて…」ソロ初アルバム『無表情な表情』制作秘話を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260612-4573111/",
-      "publishedAt": "2026-06-12T12:50:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月6日（土）の放送には、平手友梨奈さんが登場！ 6月3日（水）にリリースしたファーストアルバム『無表情な表情』について伺いました。",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "e08568f69ef0dcaa",
