@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-06-19T22:12:46.730Z",
+  "updatedAt": "2026-06-20T10:22:16.737Z",
   "articles": [
+    {
+      "id": "4fc75c7e54f84100",
+      "title": "樋口日奈主演、新ドラマ「酒巻さんと不思議なBAR」が7月2日放送スタート",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/tv/632373.html",
+      "publishedAt": "2026-06-20T09:30:06.000Z",
+      "summary": "樋口日奈が主演を務めるBS日テレの新ドラマ「酒巻さんと不思議なBAR」が、7月2日よる9時54分より6週連続で放送される。本作は、仕事や恋、人間関係に悩む29歳のヒロイン・酒巻雫が、ひっそりと佇むBARで不思議な体験を重ねていく1話5分の完全オリジナル連続ミニドラマ。グ ... The post 樋口日奈主演、新ドラマ「酒巻さんと不思議なBAR」が7月2日放",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "樋口日奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fcfe639d148af493",
+      "title": "プールサイドに藤嶌果歩、強い日差しで白ビキニが眩しい1st写真集「果実の歩幅」先行カット",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677043",
+      "publishedAt": "2026-06-20T03:00:00.000Z",
+      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集「果実の歩幅」より、先行カット第10弾が公開された。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "27623923a74942d8",
       "title": "伊藤万理華主演、NHK「擬人化ドラマ 被告人エモい」6月23日放送",
@@ -92,8 +136,8 @@
     {
       "id": "d810dac87655f6cb",
       "title": "櫻坂46浅井恋乃未「覚悟が決まった1曲になりました」新曲で憧れの先輩・森田ひかるの隣へ…フロントメンバーとしての喜びと葛藤を明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260619-4604553/",
       "publishedAt": "2026-06-19T12:50:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月13日（土）の放送には、櫻坂46・浅井恋乃未さんが登場！ 6月10日（水）にリリースされたダブルAサイドシングル「Lonesome rabbit / What's “KAZOKU”?」に",
@@ -126,8 +170,8 @@
     {
       "id": "601d45fc34d7efed",
       "title": "“生配信ラジオ”7年以上継続、ダウ90000蓮見の助言で再生数アップ…ニューヨークが明かすYouTubeへのこだわり",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260619-4604373/",
       "publishedAt": "2026-06-19T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・ニューヨーク（嶋佐和也さん、屋敷裕政さん）が登場！ 本記事では、ニューヨークさんのYouTubeチャンネル「ニューヨーク Official Channel」について伺っ",
@@ -142,28 +186,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b600002de5f6686f",
-      "title": "M!LK佐野勇斗が「東京カレンダー」表紙に登場、日向坂46藤嶌果歩は串に刺さない焼き鳥を初体験",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/676998",
-      "publishedAt": "2026-06-19T10:56:00.000Z",
-      "summary": "本日6月19日発売の「東京カレンダー」8月号特別増刊の表紙を、M!LKの佐野勇斗が飾っている。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
@@ -208,28 +230,6 @@
           "name": "中西アルノ",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2fe2375f203d6431",
-      "title": "相沢菜月、ブラックドレスで流線美！思わず二度見の美しさ！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/631769.html",
-      "publishedAt": "2026-06-18T21:00:30.000Z",
-      "summary": "6月16日、タレントの相沢菜月が自身のInstagramを更新した。相沢菜月はストレートのロングヘアに、タイトな黒のキャミソールロングワンピースを合わせた、シンプルで大人シックなファッションを披露！本投稿にファンからは、「黒も似合いますね。美しいですね。」「なぁちゃんう ... The post 相沢菜月、ブラックドレスで流線美！思わず二度見の美しさ！ fi",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -300,28 +300,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "322a285a5944996d",
-      "title": "西野七瀬「あの写真は人に見せたくない」と封印誓うもの？『免許返納!?』へ自信",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200090",
-      "publishedAt": "2026-06-18T10:16:13.000Z",
-      "summary": "俳優・西野七瀬が6月18日に東京・新宿バルト9で映画『免許返納!?』（監督：河合勇人／配給：東映）公開前夜祭を俳優・舘ひろし、黒川想矢、八嶋智人、河合勇人監督とともに登場した。 俳優仲間が映画の撮影前にバイク事故を起...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
