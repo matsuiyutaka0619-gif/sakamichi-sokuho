@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-06-20T10:22:16.737Z",
+  "updatedAt": "2026-06-20T17:10:37.713Z",
   "articles": [
+    {
+      "id": "b88b6f3305710653",
+      "title": "ニューヨーク嶋佐＆屋敷 そろって“40歳”に…時間の早さに驚き「30代が早すぎた」「次50代やん！」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260620-4608530/",
+      "publishedAt": "2026-06-20T11:50:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・ニューヨーク（嶋佐和也さん、屋敷裕政さん）が登場！ 本記事では、お2人が40歳を迎えた今のリアルな心境や、ニューヨークが若手だった頃と現在の若手芸人との違いについて語っ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "9154f94b2d95254c",
+      "title": "銀シャリ橋本「大御所の2人がコンプラ違反の発言を…」忘れられない“番組ロケ”を告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260620-4608531/",
+      "publishedAt": "2026-06-20T11:50:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・銀シャリ（鰻和弘さん、橋本直さん）が登場！ 本記事では、橋本さんが体験したロケ現場でのエピソードを語った模様をお届けします。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "75d94240e4556ca3",
+      "title": "僕が見たかった青空、初野外ライブは強雨に「まだまだ。いつか青空を」「富士山みたいに…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606200001301.html",
+      "publishedAt": "2026-06-20T10:30:00.000Z",
+      "summary": "乃木坂46の公式ライバルアイドルグループ「僕が見たかった青空」が20日、山梨・河口湖ステラシアターで結成3周年記念「僕が観たかった『青空野外』ライブ2026」を開催した。 澄み渡った青空を見たかったが、会場周辺は大粒の雨に見舞われた。ラ…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "4fc75c7e54f84100",
       "title": "樋口日奈主演、新ドラマ「酒巻さんと不思議なBAR」が7月2日放送スタート",
@@ -68,28 +126,6 @@
       ]
     },
     {
-      "id": "f16495f4aa8c8db7",
-      "title": "［週間アクセスランキング］今年の「MAJ」受賞したのは",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677002",
-      "publishedAt": "2026-06-19T15:00:00.000Z",
-      "summary": "2026年6月11日から6月17日にかけて最も注目された記事は「MUSIC AWARDS JAPAN 2026」、画像は乃木坂46の金川紗耶に関するものだった。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "1538e07e9843e822",
       "title": "ひなた坂46、TOYOTA ARENA TOKYOで2daysライブ開催！平岡海月が涙のスピーチ「絶対に必要な場所です」",
       "sourceName": "WWSチャンネル",
@@ -108,28 +144,6 @@
           "name": "平岡海月",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8b28a10689a87fb9",
-      "title": "梅澤美波が乃木坂46卒業後初メディア生出演、“公式お兄ちゃん”バナナマン設楽と語り合う",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677027",
-      "publishedAt": "2026-06-19T13:06:00.000Z",
-      "summary": "本日6月19日深夜より放送されるTBSラジオ「JUNK バナナマンのバナナムーンGOLD」に、元乃木坂46の梅澤美波が出演する。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
