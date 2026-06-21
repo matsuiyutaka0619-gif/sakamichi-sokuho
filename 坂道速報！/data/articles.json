@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-20T22:46:01.780Z",
+  "updatedAt": "2026-06-21T11:35:15.425Z",
   "articles": [
     {
-      "id": "7f2b409228a64c0c",
-      "title": "齊藤京子、日向坂46時代は「一歩引いてクールキャラは狙い目かもなって思った時はありました」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606200001496.html",
-      "publishedAt": "2026-06-20T21:55:00.000Z",
-      "summary": "元日向坂46で女優の齊藤京子（28）が20日、都内で初主演映画「恋愛裁判」のBlu－ray＆DVD発売記念トークイベントに登壇した。 アイドルの恋愛禁止ルールをテーマに描く物語。劇中では個性の異なる5人組アイドルのセンターを演じた。日向…",
+      "id": "8bb102580d0d8216",
+      "title": "影山優佳、W杯生中継のわずか3秒が大バズり 揺れる姿に「ほんとかわいらしい」「ジュリアナ」の声",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1018343/",
+      "publishedAt": "2026-06-21T11:02:03.000Z",
+      "summary": "サッカー北中米ワールドカップ（W杯）の1次リーグF組に属する日本代表は、日本時間21日にチュニジア代表と対戦し、4－0で勝利を収めた。DAZNの現地レポーターを務めている影山優佳が勝利の舞を踊るたった3秒がXで話題になっ […]",
       "groups": [
         "日向坂46"
       ],
@@ -17,34 +17,20 @@
       ],
       "memberMatches": [
         {
-          "name": "齊藤京子",
+          "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "99421023277ed296",
-      "title": "僕が見たかった青空 河口湖で初の野外ライブ 須永心海「富士山みたいにでっかいグループに」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606200001488.html",
-      "publishedAt": "2026-06-20T21:55:00.000Z",
-      "summary": "乃木坂46の公式ライバルアイドルグループ「僕が見たかった青空」が20日、山梨・河口湖ステラシアターで結成3周年を記念した初の野外ライブを開催した。結成直後にメンバー合宿を行った思い出の地で、多くのファンを熱狂させた。 澄み渡った青空を見…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bad6596e03cbc412",
-      "title": "丸山隆平、主演舞台『water』上演決定 共演者に伊藤万理華、男性ブランコ・平井まさあきら",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1017926/",
-      "publishedAt": "2026-06-20T19:00:00.000Z",
-      "summary": "SUPER EIGHTの丸山隆平が主演を務める舞台『water』の上演が決定したことが21日、発表された。9月27日から10月25日まで東京グローブ座、11月7日から11月10日まで京都劇場で上演される。丸山×藤田貴大氏 […]",
+      "id": "24f4ae13cd1f177b",
+      "title": "山崎怜奈「“東京”で20分のネタが作れるってすごい」銀シャリの“47都道府県漫才”を絶賛！「地理の授業で流したほうがいい」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260621-4612177/",
+      "publishedAt": "2026-06-21T10:00:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・銀シャリ（鰻和弘さん、橋本直さん）が登場！ 本記事では、現在開催中の銀シャリ単独ライブ2026「ベシャリの帝王 萬才銀次郎」の話や、YouTubeの「銀シャリチャンネ",
       "groups": [
         "乃木坂46"
       ],
@@ -53,7 +39,7 @@
       ],
       "memberMatches": [
         {
-          "name": "伊藤万理華",
+          "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -62,8 +48,8 @@
     {
       "id": "b88b6f3305710653",
       "title": "ニューヨーク嶋佐＆屋敷 そろって“40歳”に…時間の早さに驚き「30代が早すぎた」「次50代やん！」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260620-4608530/",
       "publishedAt": "2026-06-20T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・ニューヨーク（嶋佐和也さん、屋敷裕政さん）が登場！ 本記事では、お2人が40歳を迎えた今のリアルな心境や、ニューヨークが若手だった頃と現在の若手芸人との違いについて語っ",
@@ -84,8 +70,8 @@
     {
       "id": "9154f94b2d95254c",
       "title": "銀シャリ橋本「大御所の2人がコンプラ違反の発言を…」忘れられない“番組ロケ”を告白",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260620-4608531/",
       "publishedAt": "2026-06-20T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・銀シャリ（鰻和弘さん、橋本直さん）が登場！ 本記事では、橋本さんが体験したロケ現場でのエピソードを語った模様をお届けします。",
@@ -100,28 +86,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "fcfe639d148af493",
-      "title": "プールサイドに藤嶌果歩、強い日差しで白ビキニが眩しい1st写真集「果実の歩幅」先行カット",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677043",
-      "publishedAt": "2026-06-20T03:00:00.000Z",
-      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集「果実の歩幅」より、先行カット第10弾が公開された。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
