@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-21T18:08:13.489Z",
+  "updatedAt": "2026-06-21T22:46:02.238Z",
   "articles": [
+    {
+      "id": "aa5b3053f38cd8c5",
+      "title": "生田絵梨花×原嶋凛が支えていた『風、薫る』看護婦養成所編 “同期”の成長の今後は？",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2434210.html",
+      "publishedAt": "2026-06-21T20:30:44.000Z",
+      "summary": "『風、薫る』の養成所編で、生田絵梨花演じる多江と原嶋凛演じるトメが個性を経て成長。看護婦となった今後の2人の活躍に期待が高まる。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "24f4ae13cd1f177b",
       "title": "山崎怜奈「“東京”で20分のネタが作れるってすごい」銀シャリの“47都道府県漫才”を絶賛！「地理の授業で流したほうがいい」",
@@ -62,28 +84,6 @@
       "memberMatches": [
         {
           "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "4fc75c7e54f84100",
-      "title": "樋口日奈主演、新ドラマ「酒巻さんと不思議なBAR」が7月2日放送スタート",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/632373.html",
-      "publishedAt": "2026-06-20T09:30:06.000Z",
-      "summary": "樋口日奈が主演を務めるBS日テレの新ドラマ「酒巻さんと不思議なBAR」が、7月2日よる9時54分より6週連続で放送される。本作は、仕事や恋、人間関係に悩む29歳のヒロイン・酒巻雫が、ひっそりと佇むBARで不思議な体験を重ねていく1話5分の完全オリジナル連続ミニドラマ。グ ... The post 樋口日奈主演、新ドラマ「酒巻さんと不思議なBAR」が7月2日放",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "樋口日奈",
           "group": "乃木坂46",
           "status": "og"
         }
