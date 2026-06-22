@@ -1,14 +1,64 @@
 {
-  "updatedAt": "2026-06-21T22:46:02.238Z",
+  "updatedAt": "2026-06-22T18:05:42.523Z",
   "articles": [
     {
-      "id": "aa5b3053f38cd8c5",
-      "title": "生田絵梨花×原嶋凛が支えていた『風、薫る』看護婦養成所編 “同期”の成長の今後は？",
+      "id": "979991f612447ef0",
+      "title": "長濱ねる、激変ショート「髪を切った」メイキング動画公開「私服選ぶのが新鮮」黒コーデも",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606220001556.html",
+      "publishedAt": "2026-06-22T12:04:24.000Z",
+      "summary": "元欅坂46メンバーで女優の長濱ねる（27）が22日、自身のインスタグラムを更新。髪の毛を大胆にカットした激変の様子を動画投稿した。 「ありがとうございました」と美容師の方々にカットやカラーリング、セットの動画などを公開。素の表情から完成…",
+      "groups": [
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "e0a5a842e10c8234",
+      "title": "影山優佳、チュニジア戦快勝で最高の笑顔 「みんなで分かち合える喜びに感謝」",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2434210.html",
-      "publishedAt": "2026-06-21T20:30:44.000Z",
-      "summary": "『風、薫る』の養成所編で、生田絵梨花演じる多江と原嶋凛演じるトメが個性を経て成長。看護婦となった今後の2人の活躍に期待が高まる。",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2436364.html",
+      "publishedAt": "2026-06-22T10:00:29.000Z",
+      "summary": "影山優佳のInstagramが更新され、FIFAワールドカップ2026のチュニジア戦を現地で取材した際のオフショットが公開された。 投稿された写真には、日本代表のユニフォームをまとい、中継に携わった共演者たちと肩を並",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "dc0ba341693d6607",
+      "title": "舘ひろし主演 映画『免許返納!?』公開3日成績で好スタート！南野陽子、高見沢俊彦登場イベントも",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200305",
+      "publishedAt": "2026-06-22T09:00:23.000Z",
+      "summary": "俳優・舘ひろし主演で西野七瀬、黒川想矢、吉田鋼太郎、宇崎竜童、大地真央、真矢ミキ、南野陽子、MEGUMI、八嶋智人らが共演し6月19日より公開している映画『免許返納!?』（監督：河合勇人／配給：東映）。本作の公開日3日...",
       "groups": [
         "乃木坂46"
       ],
@@ -17,17 +67,61 @@
       ],
       "memberMatches": [
         {
-          "name": "生田絵梨花",
+          "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "24f4ae13cd1f177b",
-      "title": "山崎怜奈「“東京”で20分のネタが作れるってすごい」銀シャリの“47都道府県漫才”を絶賛！「地理の授業で流したほうがいい」",
+      "id": "036944edf5293dcd",
+      "title": "菅井友香「母が昔から宇宙人だと言われている」 父が測定器を向けると…",
       "sourceName": "マイナビニュース エンタメ",
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260622-4614707/",
+      "publishedAt": "2026-06-22T03:25:00.000Z",
+      "summary": "菅井友香が、母親の不思議な体質について語った。昔から「宇宙人だと言われている」といい、父親が周波数測定器を向けた際には、思わぬ反応があったという。スタジオも驚いたエピソードとは。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "菅井友香",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "eee679bffe198bd6",
+      "title": "乃木坂46が巨大な花の下に集う新シングルジャケット公開、コンセプトは「眩光を探して」",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88043/",
+      "publishedAt": "2026-06-22T03:00:00.000Z",
+      "summary": "乃木坂46が7月22日(水)に発売する42ndシングル『是非に及ばず』のジャケットアートワークが公開された。 「眩光（げんこう）を探して」というコンセプトを掲げた今回のビジュアルでは、眩い光・太陽の象徴として散りばめた巨大な花の下に集うメンバーの姿を撮影。クリエイティブは鈴木司が担当し、まだ見ぬ夏の輝きに向かって進む軽やかなアクティブさと花の持つ強さを重ね、",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "24f4ae13cd1f177b",
+      "title": "山崎怜奈「“東京”で20分のネタが作れるってすごい」銀シャリの“47都道府県漫才”を絶賛！「地理の授業で流したほうがいい」",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260621-4612177/",
       "publishedAt": "2026-06-21T10:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・銀シャリ（鰻和弘さん、橋本直さん）が登場！ 本記事では、現在開催中の銀シャリ単独ライブ2026「ベシャリの帝王 萬才銀次郎」の話や、YouTubeの「銀シャリチャンネ",
@@ -304,72 +398,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ba1fbe639973497a",
-      "title": "乃木坂46賀喜遥香「3～4日は“梅澤美波ロス”でした」卒業コンサート後のリアルな心境を告白",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260617-4595718/",
-      "publishedAt": "2026-06-17T13:00:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4741d6e71368a53d",
-      "title": "乃木坂46賀喜遥香「同期の田村真佑と弓木奈於が…」梅澤美波の卒業コンサートで披露した“キュンセリフ”の裏話を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260617-4595529/",
-      "publishedAt": "2026-06-17T12:00:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "田村真佑",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "弓木奈於",
           "group": "乃木坂46",
           "status": "active"
         }
