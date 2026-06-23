@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-23T11:48:04.514Z",
+  "updatedAt": "2026-06-23T19:30:45.719Z",
   "articles": [
+    {
+      "id": "78b3e2f88e2af3c0",
+      "title": "乃木坂46賀喜遥香「緊張もあったけど…」グループ初“福井県”でのライブを振り返る",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260623-4620286/",
+      "publishedAt": "2026-06-23T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月18日（木）の放送では、 6月13日（土）、14日（日）に開催された「真夏の全国ツアー2026」福井公演に参加した生徒（リスナー）からのメッセージを紹介しました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "e570c4e3d911c882",
       "title": "「ちょっと挑発した」「ケンカを売られたら…」与田祐希、地元での“やんちゃ”エピソードを告白",
@@ -46,85 +68,13 @@
       ]
     },
     {
-      "id": "ebb549c4cb9c58d5",
-      "title": "長濱ねる、ショートボブへのイメチェン過程を公開 新たな姿に「こういう感じも似合うんですね」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2437438.html",
-      "publishedAt": "2026-06-23T08:38:37.000Z",
-      "summary": "長濱ねるが、ショートボブにイメチェンする様子を自身のInstagramに公開している。 セミロングからショートボブへバッサリとヘアカットした長濱。6月20日に「髪を切った！」と綴り、新たな髪型をアップ。22日には「あ",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "32886f3c3d34c1da",
-      "title": "藤嶌果歩1st写真集「果実の歩幅」4種の裏表紙を一挙公開、朝だったり夕方だったり",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677340",
-      "publishedAt": "2026-06-23T03:00:00.000Z",
-      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集「果実の歩幅」の裏表紙が公開された。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fba71f5de2954584",
-      "title": "A.B.C-Z塚田僚一、加藤史帆ら「マッチング」続編に出演 土屋太鳳と佐久間大介の共演映画",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677335",
-      "publishedAt": "2026-06-22T23:00:00.000Z",
-      "summary": "土屋太鳳が主演を務め、佐久間大介（Snow Man）が出演する今秋公開の映画「マッチング TRUE LOVE」の追加キャスト10人が発表された。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "加藤史帆",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "88e158431a81acad",
-      "title": "ふみの「Tokyo middle 30」の主題歌担当 仲里依紗、のん、深川麻衣出演の新ドラマ",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677329",
+      "id": "997b3ea406682382",
+      "title": "ふみの、新曲「東京」が仲里依紗×のん×深川麻衣共演『Tokyo middle 30』主題歌に決定",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88066/",
       "publishedAt": "2026-06-22T21:30:00.000Z",
-      "summary": "ふみのが、7月22日22:00にスタートする仲里依紗、のん、深川麻衣出演のフジテレビ系新ドラマ「Tokyo middle 30」の主題歌を担当する。",
+      "summary": "シンガーソングライター・ふみのの4thシングル「東京」が、7月22日(水)22時より放送スタートとなるフジテレビ系水曜ドラマ『Tokyo middle 30』の主題歌に決定した。 ちゃんみなが主宰するセルフプロデュース型レーベル「NO LABEL ARTISTS」の第一弾アーティストとして、今年1月にデビューしたふみの。デビュー曲「favorite song",
       "groups": [
         "乃木坂46"
       ],
@@ -134,6 +84,28 @@
       "memberMatches": [
         {
           "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "dc0ba341693d6607",
+      "title": "舘ひろし主演 映画『免許返納!?』公開3日成績で好スタート！南野陽子、高見沢俊彦登場イベントも",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200305",
+      "publishedAt": "2026-06-22T09:00:23.000Z",
+      "summary": "俳優・舘ひろし主演で西野七瀬、黒川想矢、吉田鋼太郎、宇崎竜童、大地真央、真矢ミキ、南野陽子、MEGUMI、八嶋智人らが共演し6月19日より公開している映画『免許返納!?』（監督：河合勇人／配給：東映）。本作の公開日3日...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -158,6 +130,28 @@
           "name": "菅井友香",
           "group": "櫻坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "eee679bffe198bd6",
+      "title": "乃木坂46が巨大な花の下に集う新シングルジャケット公開、コンセプトは「眩光を探して」",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88043/",
+      "publishedAt": "2026-06-22T03:00:00.000Z",
+      "summary": "乃木坂46が7月22日(水)に発売する42ndシングル『是非に及ばず』のジャケットアートワークが公開された。 「眩光（げんこう）を探して」というコンセプトを掲げた今回のビジュアルでは、眩い光・太陽の象徴として散りばめた巨大な花の下に集うメンバーの姿を撮影。クリエイティブは鈴木司が担当し、まだ見ぬ夏の輝きに向かって進む軽やかなアクティブさと花の持つ強さを重ね、",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -376,30 +370,126 @@
       ]
     },
     {
-      "id": "6cdc395e6c1c0b6e",
-      "title": "乃木坂46賀喜遥香「美波さんがどれだけ大切にされてきたか…」梅澤美波の卒業コンサートで一番“心に残った楽曲”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260618-4599656/",
-      "publishedAt": "2026-06-18T10:00:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
+      "id": "fb6a40e8523b91e9",
+      "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87909/",
+      "publishedAt": "2026-06-17T21:00:00.000Z",
+      "summary": "7月3日(金)に全国公開される映画『トイ・ストーリー５』に登場する新キャラクターの日本版声優を乃木坂46・井上和と令和ロマン・松井ケムリが務めることが決定した。 おもちゃと人との絆を描き、世代を超えて愛されてきたディズニー＆ピクサーの『トイ・ストーリー』シリーズ。最新作ではウッディ役の唐沢寿明やバズ役の所ジョージが続投するほか、新たにリリーパッド役の広瀬アリ",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og",
         "active"
       ],
       "memberMatches": [
         {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "賀喜遥香",
+          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "de61469770926cc3",
+      "title": "制作発表が過酷なステージに？『シークレットNGハウス Season2』“リアル記者”の潜入レポート",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87711/",
+      "publishedAt": "2026-06-17T09:00:00.000Z",
+      "summary": "記者会見なのに、誰も本音を言わない。質問に答えるたび、登壇者たちの表情が強張る。いつもなら華やかなはずの制作発表の場が、異様な緊張感に包まれていた。 これは、Prime Videoで5月より配信中の人気番組『シークレットNGハウス』シーズン2の制作発表記者会見。だが、この会見そのものが、プレーヤーたちが挑む過酷なゲームステージだった。MCの二宮和也が司会を務",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c4b12d073931acd1",
+      "title": "日向坂46“7回目のひな誕祭”が8月商品化、ラストに「Kind of love」を初披露したDAY2完全収録",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87734/",
+      "publishedAt": "2026-06-13T12:40:00.000Z",
+      "summary": "日向坂46が、今年4月4日(土)・5日(日)に横浜スタジアムで開催したグループ結成7周年ライブ「7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜」の映像作品を8月5日(水)にリリースすることを発表した。 グループ公式Instagramでのインスタライブにて発表された「7回目のひな誕祭」の映像化。“ひな誕祭”として初めてサブ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e08568f69ef0dcaa",
+      "title": "乃木坂46が最新シングル「是非に及ばず」を6月13日先行配信、“全ツ”初日に勢いをつける",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87684/",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "summary": "乃木坂46が、7月22日(水)に発売する42ndシングル表題曲「是非に及ばず」を6月13日(土)に先行配信することが決定した。 恒例となる夏の全国ツアー「真夏の全国ツアー2026」を今週末よりスタートさせる乃木坂46。最新シングル「是非に及ばず」では5期生・一ノ瀬美空が初めて表題曲センターを務めることが先日発表され、合わせて公開された新アーティスト写真も夏を",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cc5ac2d0f2585820",
+      "title": "佐々木美玲＆森次政裕の健やかさの秘訣。共演してわかった互いの愛され力とは？",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87486/",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "summary": "一夜限りの関係を結んだ相手は、誰もが羨むハイスペ社長だった──。 2026年4月クールで放送中のドラマ特区『あの夜、社長の子供を授かりました』は、一夜の過ちから運命が大きく変わる波乱のラブストーリー。自己評価の低さゆえに、つい自分を犠牲にして他人のために頑張りすぎてしまうヒロイン・花井栞里を佐々木美玲。そんな栞里に無償の愛を注ぐ溺愛社長・瀬古貴人を森次政裕（",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐々木美玲",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "f03cabc1a8fe0618",
+      "title": "水上恒司主演、大型新人監督・武井佑吏の商業デビュー作『本当にあった話（の話）』10月2日公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87650/",
+      "publishedAt": "2026-06-10T23:00:00.000Z",
+      "summary": "水上恒司主演のディストピア映画『本当にあった話（の話）』が10月2日(金)に公開されることが決定し、ティザービジュアルとキャストコメントが解禁された。 原作は、『文學界』2021年12月号（2021年11月6日発売）に掲載された鴻池留衣による『フェミニストのままじゃいられない』。その映画化となる本作には、脚本の面白さから水上恒司をはじめ小池栄子、佐々木蔵之介",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
@@ -422,6 +512,557 @@
           "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1a711c040a02d1c0",
+      "title": "“家”を舞台に櫻坂46の空想があふれ出す、15thシングル「What’s “KAZOKU”?」MV公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87564/",
+      "publishedAt": "2026-06-08T13:10:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売する新シングルから表題曲「What’s “KAZOKU”?」のMusic Videoを公開した。 「What’s “KAZOKU”?」は、MBS／TBS系で現在放送中のTVアニメ『夜桜さんちの大作戦』第2期のオープニングテーマ。本楽曲も収録される15thシングル『Lonesome rabbit / What’s “KAZOK",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "32b77dda4593d434",
+      "title": "乃木坂46の42ndシングルタイトルが『是非に及ばず』に決定、センターは5期生・一ノ瀬美空",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/87521/",
+      "publishedAt": "2026-06-07T16:25:00.000Z",
+      "summary": "乃木坂46が、7月22日(水)に発売する最新42枚目シングルのタイトルが『是非に及ばず』に決定。表題曲のセンターを5期生・一ノ瀬美空が務めることが発表された。 5月にはグループとして初の東京ドーム3daysを開催し、3日間で14万人のファンと共に14回目のバースデーライブを終えた乃木坂46。シングルのタイトルと表題曲のフォーメーションは自身の冠バラエティ番組",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6edf952341e824fc",
+      "title": "日向坂46「ひなたフェス2026」キービジュアル解禁、ジェラードン＆レインボーの出演も決定",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/87126/",
+      "publishedAt": "2026-05-29T08:55:00.000Z",
+      "summary": "日向坂46が9月5日(土)・6日(日)に宮崎県で開催する「ひなたフェス2026」のキービジュアルが公開され、合わせてイベントを盛り上げるスペシャルゲストも発表された。 公開されたキービジュアルでは、「ひなたフェス2026」ロゴTシャツを纏ったメンバーそれぞれの写真を合成。フェスならではの高揚感と一人一人の個性が感じられるビジュアルとなっており、Tシャツには宮",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f016e5adab76bc2a",
+      "title": "櫻坂46の15thシングルから四期生楽曲「We got your back」配信スタート、センターは佐藤愛桜",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/87020/",
+      "publishedAt": "2026-05-27T15:00:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売する15thシングル『Lonesome rabbit / What’s “KAZOKU”?』から四期生楽曲「We got your back」を先行配信リリースした。 今回のシングルは坂道グループ初の両A面シングルとなっており、共に二期生・森田ひかるがセンターを務める表題曲「Lonesome rabbit」「What’s “",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐藤愛桜",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ff484bf6d38935ac",
+      "title": "櫻坂46の最新BACKS曲「コインランドリー」MV公開、遠藤理子センターで感情の“リセット”を描く",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86928/",
+      "publishedAt": "2026-05-25T15:25:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売する15枚目シングル『Lonesome rabbit / What’s “KAZOKU”?』からBACKSメンバーによる楽曲「コインランドリー」の先行配信をスタート。同時にMusic Videoを公開した。 今作のセンターは三期生・遠藤理子。過去に三期生楽曲「本質的なこと」でセンターを務めた経験はあるが、BACKS楽曲のセン",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤理子",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9088bc798c11ad4d",
+      "title": "梅澤美波が残した“一緒につくる”ライブの到達点、ファンと未来を分かち乃木坂46は15年目の新章へ",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86824/",
+      "publishedAt": "2026-05-24T08:00:00.000Z",
+      "summary": "最後の最後まで、本当に強く、偉大で、超カッコいいアイドルグループのキャプテンの姿がそこにはあった。乃木坂46結成を記念して毎年行われる通称「バスラ」、14周年を迎える今年は東京ドームがその舞台として選ばれた。グループ初となるドーム3Daysの最終日はそんな乃木坂46の3代目キャプテン・梅澤美波の卒業コンサートであった。前日のDay2のレポートに続き、ここにそ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "035f50f28d6b3e53",
+      "title": "櫻坂46ニューシングルのジャケット公開、“チーム”をコンセプトに国立ライブを経た結束を表現",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86869/",
+      "publishedAt": "2026-05-23T09:20:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売する両A面シングル『Lonesome rabbit / What’s “KAZOKU”?』のジャケットアートワークを公開した。 上田マルコがディレクションを担当した今作のアートワークのコンセプトは“チーム”。チェスを連想させる空間に佇むスタイリッシュなメンバーが印象的で、MUFGスタジアム（国立競技場）公演を経て、グループ全",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1d1830a4e09d1aad",
+      "title": "乃木坂46が「14thバスラ」で再定義したグループの姿、未来へ描いた言葉たちを振り返る",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86732/",
+      "publishedAt": "2026-05-23T07:30:00.000Z",
+      "summary": "乃木坂46の結成を記念して毎年行われている通称“バスラ”。14回目の開催となる今年の会場は東京ドーム。全体としての感想、それは少々カジュアルな言い回しとなってしまうことをご容赦いただきたいのだが、各メンバーの本公演に対する“頼もしさ、カッコよさ”が凄かったのだ。しかもあとあと確認してみると初日とは全く違ったセットリストではないか。この仕上がりでいながら全く違",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "3de5ad4b6a1b0ec8",
+      "title": "『エミリとマリア』に伊藤万理華が出演、松本まりか＆高橋メアリージュンに気づきを与える役に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86636/",
+      "publishedAt": "2026-05-20T11:30:00.000Z",
+      "summary": "6月18日(木)より放送がスタートする松本まりか＆高橋メアリージュンのダブル主演ドラマ『エミリとマリア』の追加キャストとして、伊藤万理華の出演が解禁された。 本作は、30代後半になるとふと胸に浮かぶ「人生ってこのまま進んでいくの？？」という“なんとも言えないモヤモヤ”を、リアルかつユーモラスな会話劇で描く全4話のガールズコメディ。監督・脚本を本作で初めて連続",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤万理華",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "46b6fdd9c2a85d21",
+      "title": "櫻坂46「Lonesome rabbit」MV公開、森田ひかるセンターで過去最高難易度のダンスを魅せる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86556/",
+      "publishedAt": "2026-05-18T15:35:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売する15thシングル表題曲「Lonesome rabbit」のMusic Videoを公開した。 今作のセンターは二期生・森田ひかる。表題曲でセンターを務めるのは11thシングル「UDAGAWA GENERATION」ぶりで、両A面となる15thシングルではもう一曲の表題曲「What’s “KAZOKU”?」でもセンターを務",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d5eff49ca59e173a",
+      "title": "日向坂46、佐藤優羽が無機質なアンドロイド演じ涙を流す五期生曲「円周率」MV公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86550/",
+      "publishedAt": "2026-05-18T13:40:00.000Z",
+      "summary": "日向坂46が、今週5月20日(水)に発売する17thシングル収録曲から五期生メンバーによる楽曲「円周率」のMusic Videoを公開した。 フォーメーションが明かされていないまま公開された今作で、センターを務めるのは佐藤優羽。自身初の楽曲センターとなり、公開されたMusic Videoでは、効率化だけを求める学校を舞台に無機質なアンドロイドの生徒を演じてい",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐藤優羽",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "171d3b1a8cfe530d",
+      "title": "櫻坂46「Lonesome rabbit」先行配信＆MVは今夜24時、森田ひかるが表題2曲でセンターに",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86472/",
+      "publishedAt": "2026-05-18T01:30:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売する15thシングル『Lonesome rabbit / What’s “KAZOKU”?』の新ビジュアルと配信ジャケットを公開した。 今作は坂道グループとしては初となる両A面シングルとなり、両楽曲とも二期生・森田ひかるがセンターを担当。森田が表題曲のセンターに座るのは11thシングルの「UDAGAWA GENERATION",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c7471ffef9422b37",
+      "title": "日向坂46、平岡海月センターの「Empty」MV公開 “空虚”でも前へ進もうともがく姿を描く",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86350/",
+      "publishedAt": "2026-05-14T15:40:00.000Z",
+      "summary": "日向坂46が、5月20日(水)に発売を控える17thシングル『Kind of love』からアンダーメンバー・ひなた坂46による新曲「Empty」のMusic Videoを公開した。 同時に先行配信もスタートした「Empty」のセンターは、初めて楽曲センターを務める四期生の平岡海月。公開されたMuisic Videoはタイトルの通り、Empty＝空虚な空間を",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "平岡海月",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1555d3e33de08580",
+      "title": "実力派キャストが描く、ショービジネスの光と影。大竹しのぶ主演ミュージカル『GYPSY』開幕",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/85981/",
+      "publishedAt": "2026-05-09T11:45:00.000Z",
+      "summary": "大竹しのぶが主演を務めるMusical『GYPSY』が、5月6日(水)に東京・日本青年館ホールにて開幕。前日の5月5日(火)、公開ゲネプロと記者会見が行われた。 本作は実在のストリッパーであるジプシー・ローズ・リーの回顧録を基に、〈究極のショービジネスマザー〉と称される母＝ローズの視点からショービジネスの世界を描いた名作。2023年、演出・クリストファー・ラ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "富田鈴花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d8c06d622cda832d",
+      "title": "乃木坂46「13thバスラ」映像作品のダイジェスト公開、11万人動員した味スタ2日間の熱狂を凝縮",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/86022/",
+      "publishedAt": "2026-05-09T11:00:00.000Z",
+      "summary": "乃木坂46が、来週5月13日(水)にリリースするライブBlu-ray＆DVD 『13th YEAR BIRTHDAY LIVE』のダイジェスト映像を公開した。 昨年5月に東京・味の素スタジアムにて開催され、2日間で約11万人を動員した乃木坂46恒例のバースデーライブ「13th YEAR BIRTHDAY LIVE」。その映像作品となる本作には、DAY1・DA",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "500006ab2f720bd8",
+      "title": "「ここからイメージを脱却していきたい」新たな夢に向かう富田鈴花が今、伝えておきたいこと",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/85754/",
+      "publishedAt": "2026-05-09T07:00:00.000Z",
+      "summary": "プレゼント用のチェキにサインをしようとして、ついグループ名を書いてしまう。そんな自分のクセに「仕方ないです。8年間もやってたんだから」と富田鈴花は笑った。その笑顔が、眩しく瑞々しい。 2025年8月5日をもって日向坂46を卒業。そこから約半年の充電期間を経て、ついに一人の女優として新たな一歩を踏み出す。そのリスタートの舞台が、Musical『GYPSY』だ。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "富田鈴花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "428e7985b39e2e86",
+      "title": "日向坂46がラテンビートで妖艶に踊る「Kind of love」MV公開、テーマは“一目惚れの瞬間”",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/05/85850/",
+      "publishedAt": "2026-05-06T13:35:00.000Z",
+      "summary": "日向坂46が、5月20日(水)に発売する17枚目シングルの表題曲「Kind of love」のMusic Videoをグループ公式YouTubeチャンネルで公開した。 本楽曲の選抜メンバーは二期生から五期生までの14名で構成されており、センターは四期生・藤嶌果歩（ふじしまかほ）が担当。藤嶌が表題曲でセンターを務めるのは同期の正源司陽子とのWセンター楽曲となっ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3a9088f5f85adf91",
+      "title": "今はとにかく経験が欲しい。乃木坂46・梅澤美波が思う“人の自立に必要なもの”",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85308/",
+      "publishedAt": "2026-04-30T10:00:00.000Z",
+      "summary": "「自分にしかできないこと」を追い求めた10年間。個人として唯一無二になりたいと願っていた梅澤美波は3年前、日本を代表するアイドルグループ・乃木坂46のキャプテンに就任した。そして今、その役目を「私にしかできなかった」と語る彼女は、誰もが認める唯一無二のキャプテンになった。 そんな梅澤美波が、5月にグループから卒業する。大きな転換期を迎えた彼女が、この春放送の",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "55886ae0e237a4da",
+      "title": "櫻坂46「5thアニラ」国立競技場公演からダンスパフォーマンス映像公開、コレオは武元唯衣",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85384/",
+      "publishedAt": "2026-04-26T13:10:00.000Z",
+      "summary": "櫻坂46が、4月11日(土)・12日(日)の2日間開催した「5th YEAR ANNIVERSARY LIVE」の中盤で披露されたダンスパフォーマンス映像を公開した。 このパートのコレオグラフィーを手がけたのは、最新シングル『The growing up train』の活動をもって卒業を発表している二期生・武元唯衣。左右に分かれて鏡写しのように見えるシンメト",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "武元唯衣",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ac89faaacbf0860f",
+      "title": "狂喜を極めた櫻坂46の国立ライブ、世界を見据えるグループが超えたアイドルソングの可能性",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85158/",
+      "publishedAt": "2026-04-25T08:00:00.000Z",
+      "summary": "櫻坂46が、MUFGスタジアム（国立競技場）にてグループの周年を記念する“アニラ”こと「5th YEAR ANNIVERSARY LIVE」を4月11・12日の2日間に渡り開催。坂道グループでの国立競技場での単独公演は初であり、櫻坂46並びにBuddies（櫻坂46のファンの総称）にとっても、もちろん史上最大のステージであった。この公演のリピート配信を前に、",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6b2771a2a9accfa1",
+      "title": "『シークレットNGハウス Season2』ゲストは佐藤健、本田翼、伊野尾慧、乃木坂46一ノ瀬美空ら",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85090/",
+      "publishedAt": "2026-04-23T23:00:00.000Z",
+      "summary": "5月22日(金)よりPrime Videoにて独占配信されるサバイバル・ゲームバラエティ『シークレットNGハウス Season2』に出演するゲスト陣が解禁された。 『シークレットNGハウス』は、MC（ゲームマスター）の二宮和也と若林正恭が密かに設定する「絶対にしてはいけない言動」＝“シークレットNG”を回避しながら、プレーヤーがトークやさまざまなアクティビテ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "28397389ed244de3",
+      "title": "日向坂46ニューシングルの全収録内容解禁、ひなた坂46メンバーによるバックカバーも公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85041/",
+      "publishedAt": "2026-04-22T04:20:00.000Z",
+      "summary": "5月20日(水)に発売される日向坂46の17thシングル『Kind of love』のCD収録楽曲、歌唱メンバー、特典映像の全貌が解禁され、あわせてバックカバーも公開された。 今作の表題曲「Kind of love」は、四期生の藤嶌果歩が初単独センターを務める楽曲で、すでに各音楽配信サイトにて配信中。また、全形態共通のカップリング曲として収録されるひなた坂4",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "平岡海月",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e2390b9ed9f63504",
+      "title": "『時をかける少女』と『セーラー服と機関銃』が舞台化、主演は乃木坂46の小川彩＆菅原咲月",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/85022/",
+      "publishedAt": "2026-04-22T03:00:00.000Z",
+      "summary": "今年2026年に迎える角川映画の誕生50周年を記念したプロジェクトから最新情報が解禁。名作『時をかける少女』と『セーラー服と機関銃』が2027年秋に舞台化され、乃木坂46の小川彩と菅原咲月がそれぞれ主演を務めることが発表された。 1976年（昭和51年）11月13日、『犬神家の一族』の公開で華やかなスタートを切った角川映画。50周年記念プロジェクトではこれま",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "524069f9dc0d128c",
+      "title": "“ドキドキを止めない”日向坂46が示した進化、昨年の狂騒ツアーで纏った全方位型のライブ力とは",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/84818/",
+      "publishedAt": "2026-04-19T04:00:00.000Z",
+      "summary": "グループの生誕を記念する単独公演「ひな誕祭」も今年で7回目。横浜スタジアムを会場としてからは4回目となった。2日目公演のリピート配信が4月19日の18時からと目前に迫る中、本公演をもって8年目の扉を開けたグループがおひさまへ指し示してくれたものとは、改めてここで振り返ってみたいと思う。 開演直前、横浜スタジアムを埋め尽くすおひさまたちにメンバーからライブ中の",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "55610544af2b07c0",
+      "title": "櫻坂46の15thシングル「What’s “KAZOKU”?」今夜24時先行配信、センターは森田ひかる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/04/84862/",
+      "publishedAt": "2026-04-18T14:05:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)にリリースする15枚目シングルより表題曲の一つ「What’s “KAZOKU”?」を4月19日(日)に先行配信することが決定した。 「What’s “KAZOKU”?」は4月12日(日)より放送中のMBS／TBS系TVアニメ『夜桜さんちの大作戦』第2期のオープニングテーマ。4月18日(土)22時にグループ公式YouTubeチャンネ",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
         }
       ]
     }
