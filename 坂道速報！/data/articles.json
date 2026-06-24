@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-06-24T11:23:44.158Z",
+  "updatedAt": "2026-06-24T18:24:11.184Z",
   "articles": [
+    {
+      "id": "1b13403911be3f04",
+      "title": "振り付けは“過去最難関”!? 櫻坂46守屋麗奈「ついていくのに必死です」新曲「Lonesome rabbit / What's “KAZOKU”?」への思いを明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260624-4624148/",
+      "publishedAt": "2026-06-24T12:50:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」。6月3日（水）の放送には、櫻坂46守屋麗奈さんが登場！ 本記事では、6月10日（水）リリースのシングル「Lonesome rabbit / What's “KAZOKU”?」について伺った模様をお届けします。（※この記事は放送当時の内容で",
+      "groups": [
+        "櫻坂46",
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "守屋麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b1d8669b0906a665",
+      "title": "元乃木坂46エースに「似てる！」 男性からの奢りで「自腹でご飯食べたことなかった」豪語したマスク美女の素顔に驚きの声",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1019894/",
+      "publishedAt": "2026-06-24T12:50:00.000Z",
+      "summary": "稲垣吾郎、草彅剛、香取慎吾の3人によるABEMA番組『ななにー 地下ABEMA』が21日、放送された。今回は、「マスクをしたらスターに激似！マスクイケメン＆マスク美女素顔大公開36連発SP!」と題し、人気企画の傑作選が放 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "84eaa3a657d14c87",
+      "title": "乃木坂46最新シングルのアンダーセンターは小川彩、東京体育館2DAYSも決定",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677668",
+      "publishedAt": "2026-06-24T12:38:00.000Z",
+      "summary": "乃木坂46のアンダーメンバーによる新曲のタイトルが「フォルテシモ」に決定。明日6月25日に音源が配信リリースされる。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b3bc432ebeb85c07",
+      "title": "乃木坂46、42ndアンダーセンターは小川彩 楽曲「フォルテシモ」ツアー神奈川公演で初披露",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606240001464.html",
+      "publishedAt": "2026-06-24T12:30:06.000Z",
+      "summary": "乃木坂46が7月22日にリリースする42枚目シングル「是非に及ばず」のアンダー楽曲のタイトルが「フォルテシモ」に決定した。センターは5期生小川彩（18）が務める。 同曲はこの日行われた真夏の全国ツアー2026神奈川公演で発表、初披露され…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9bd7919b4e9ccc50",
+      "title": "乃木坂46の新シングルアンダー曲「フォルテシモ」今夜24時先行配信、センターは5期生・小川彩",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88166/",
+      "publishedAt": "2026-06-24T12:15:00.000Z",
+      "summary": "7月22日(水)にリリースされる乃木坂46・42ndシングルに収録されるアンダーメンバー楽曲のタイトルが「フォルテシモ」に決定した。 今月より「真夏の全国ツアー2026」を開催中の乃木坂46は、本日6月24日(水)に2会場目となる神奈川公演を横浜アリーナにて開催。「フォルテシモ」はそこで初披露され、同時にフォーメーションセンターを5期生の小川彩を務めることが",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "岡本姫奈",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "ba11690544f14afe",
       "title": "乃木坂46、42ndシングル「是非に及ばず」ジャケットアートワーク公開",
@@ -354,76 +473,6 @@
           "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "c952edc6552ad21c",
-      "title": "乃木坂46賀喜遥香「最後の最後までキャプテンでした」卒業コンサート後に梅澤美波から直接贈られた言葉とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260618-4600118/",
-      "publishedAt": "2026-06-18T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月11日（木）の放送では、5月21日（木）におこなわれたライブ「乃木坂46 14th YEAR BIRTHDAY LIVE 〜梅澤美波 卒業コンサート〜」の振り返り授業をおこないました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b5a22cbc0c8c00de",
-      "title": "日向坂46髙橋未来虹 同期・山口陽世に打ち明けた“悩み”を告白「私を説得してくれたんです」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260618-4600028/",
-      "publishedAt": "2026-06-18T12:00:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月12日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山口陽世",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
