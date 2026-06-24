@@ -1,11 +1,113 @@
 {
-  "updatedAt": "2026-06-23T19:30:45.719Z",
+  "updatedAt": "2026-06-24T11:23:44.158Z",
   "articles": [
+    {
+      "id": "ba11690544f14afe",
+      "title": "乃木坂46、42ndシングル「是非に及ばず」ジャケットアートワーク公開",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/633309.html",
+      "publishedAt": "2026-06-24T10:00:21.000Z",
+      "summary": "乃木坂46が、7月22日に発売する42ndシングル「是非に及ばず」のジャケットアートワークを公開した。今作のビジュアルコンセプトは「眩光を探して」。巨大な花を眩い光や太陽の象徴として散りばめ、その下に集うメンバーの姿を撮影したアートワークとなっている。まだ見ぬ夏の輝きに ... The post 乃木坂46、42ndシングル「是非に及ばず」ジャケットアートワ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c2bf6e12fe760faa",
+      "title": "乃木坂46森平麗心が「週刊少年マガジン」初登場、グラビアでさわやかな笑顔",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677623",
+      "publishedAt": "2026-06-24T09:04:00.000Z",
+      "summary": "本日6月24日発売の雑誌「週刊少年マガジン」30号の表紙を、乃木坂46の森平麗心が飾っている。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森平麗心",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0e268ed604ad248d",
+      "title": "齋藤飛鳥 京セラ美術館『テート美術館』来館！決着は「ついたと思います」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/culture/200434",
+      "publishedAt": "2026-06-24T08:56:50.000Z",
+      "summary": "俳優・齋藤飛鳥が6月中に京都市京セラ美術館で開催されている『テート美術館 ― YBA & BEYOND 世界を変えた90s英国アート』を訪れた。 本展は、英国の国立美術館のひとつ・テート美術館の所蔵品を中心...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "e3a837c1954143e5",
+      "title": "影山優佳、メッシ歴代最多得点更新の瞬間を目撃 「彼らの神様だと改めて」「幸せな体験」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/06/post-2438757.html",
+      "publishedAt": "2026-06-24T08:10:58.000Z",
+      "summary": "影山優佳の公式Instagramが更新され、FIFAワールドカップ2026でアルゼンチン代表対オーストリア代表戦を現地観戦した際のオフショットが公開された。 投稿された写真には、黒のウェア姿でスタンドのピッチ際で笑顔",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "a8d1e37e69af35ad",
+      "title": "いちご大福好きの大竹一樹、“変わり種大福”に興奮 「なんでいままで…」「そうとうおいしい」絶賛",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/06/24/20163560298/",
+      "publishedAt": "2026-06-24T07:45:00.000Z",
+      "summary": "23日深夜放送『紙とさまぁ～ず』（テレビ東京系）で、ベテランお笑いコンビ・さまぁ～ずの大竹一樹と三村マサカズが、水戸の新名物とされる“ある大福”を初実食した。 ■紙ゲストは樋口日奈 さまぁ～ずが中心となって作成したアンケ…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "樋口日奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "78b3e2f88e2af3c0",
       "title": "乃木坂46賀喜遥香「緊張もあったけど…」グループ初“福井県”でのライブを振り返る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260623-4620286/",
       "publishedAt": "2026-06-23T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月18日（木）の放送では、 6月13日（土）、14日（日）に開催された「真夏の全国ツアー2026」福井公演に参加した生徒（リスナー）からのメッセージを紹介しました。",
@@ -26,8 +128,8 @@
     {
       "id": "e570c4e3d911c882",
       "title": "「ちょっと挑発した」「ケンカを売られたら…」与田祐希、地元での“やんちゃ”エピソードを告白",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260623-4619505/",
       "publishedAt": "2026-06-23T11:00:00.000Z",
       "summary": "「川に蹴り落としました」元乃木坂46で俳優の与田祐希が、幼少期に地元・志賀島での体験を告白。自然豊かな土地ならではのエピソードにスタジオでは驚きの声があがった。",
@@ -40,28 +142,6 @@
       "memberMatches": [
         {
           "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "62b66d9cd799005b",
-      "title": "山下美月、西武ライオンズのユニフォーム姿を披露 琵琶湖を背に船上のショットも",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2437771.html",
-      "publishedAt": "2026-06-23T08:50:52.000Z",
-      "summary": "俳優・山下美月の公式Instagramが更新され、主演を務める舞台『成瀬は天下を取りにいく』の取材会で訪れた滋賀県大津市でのオフショットが公開された。 投稿された写真は、原作の世界観に浸る山下の姿を収めた5枚。西武ラ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -84,28 +164,6 @@
       "memberMatches": [
         {
           "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "dc0ba341693d6607",
-      "title": "舘ひろし主演 映画『免許返納!?』公開3日成績で好スタート！南野陽子、高見沢俊彦登場イベントも",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200305",
-      "publishedAt": "2026-06-22T09:00:23.000Z",
-      "summary": "俳優・舘ひろし主演で西野七瀬、黒川想矢、吉田鋼太郎、宇崎竜童、大地真央、真矢ミキ、南野陽子、MEGUMI、八嶋智人らが共演し6月19日より公開している映画『免許返納!?』（監督：河合勇人／配給：東映）。本作の公開日3日...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
         }
