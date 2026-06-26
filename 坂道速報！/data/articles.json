@@ -1,6 +1,143 @@
 {
-  "updatedAt": "2026-06-26T11:27:37.480Z",
+  "updatedAt": "2026-06-26T18:15:32.435Z",
   "articles": [
+    {
+      "id": "7b601172ce22bb16",
+      "title": "白石麻衣のドアップ近影ショットにドキドキが止まらない！「ちょっと待って！まいやんさんが綺麗すぎる！」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/633451.html",
+      "publishedAt": "2026-06-26T14:00:49.000Z",
+      "summary": "6月24日、女優でモデルの白石麻衣が自身のInstagramを更新した。白石麻衣は淡いブルーのブラウスを軽やかに着こなし、やわらかな表情で撮影オフショットを披露し「@feliamo_official 」とコメントを寄せた。本投稿にファンからは、「まいやん、相変わらず美し ... The post 白石麻衣のドアップ近影ショットにドキドキが止まらない！「ちょっ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "622241f4674093fb",
+      "title": "櫻坂46「We got your back」MVに映し出されたのは四期生のフレッシュさと力強さ",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/678048",
+      "publishedAt": "2026-06-26T13:00:00.000Z",
+      "summary": "6月10日にリリースされた櫻坂46のシングル「Lonesome rabbit / What's “KAZOKU”?」より、四期生楽曲「We got your back」のミュージックビデオが公開された。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "d6ed45a2c8a09d0c",
+      "title": "櫻坂46・四期生が旗を振り回し躍動する「We got your back」MV公開、センターは佐藤愛桜",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88309/",
+      "publishedAt": "2026-06-26T13:00:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売した15thシングル『Lonesome rabbit / What’s “KAZOKU”?』収録の四期生楽曲「We got your back」のMusic Videoを公開した。 今作では四期生・佐藤愛桜が初めてセンターを担当。今月開催された「四期生ライブ」で初披露された圧巻のパフォーマンスが大きな話題を呼んでおり、そのM",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐藤愛桜",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4cf2c58c2ab10e25",
+      "title": "日向坂46藤嶌果歩 地元・北海道の写真集撮影に感激「久保史緒里さんや渡邉理佐さんが雪景色のなかで撮影されているのを見て…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260626-4632156/",
+      "publishedAt": "2026-06-26T12:50:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月19日（金）の",
+      "groups": [
+        "日向坂46",
+        "乃木坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "渡邉理佐",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d05f8717fa2d9f21",
+      "title": "櫻坂46守屋麗奈「もう足が上がらない！」国立競技場でのライブの裏話を告白…ステージ裏での知られざる苦労に元乃木坂46山崎怜奈も「わかる！」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260626-4632157/",
+      "publishedAt": "2026-06-26T12:50:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」。6月3日（水）の放送には、櫻坂46守屋麗奈さんが登場！ 本記事では、櫻坂46が4月11日、12日にMUFGスタジアム（国立競技場）でおこなったライブ「5th YEAR ANNIVERSARY LIVE」について語った模様をお届けします。",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "守屋麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "9d0f9e0e94cf005a",
       "title": "“北海道在住”5人組バンド・First Love is Never Returned 新曲「Passengers」誕生秘話を明かす！Kazuki Ishida「作曲で行き詰まって『みんな、助けてくれ！』」",
@@ -20,28 +157,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d128bfa64b4aaad9",
-      "title": "金川紗耶1st写真集封入のポストカード絵柄一挙公開、さまざまな水着姿やランジェリーカット",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677922",
-      "publishedAt": "2026-06-26T08:00:00.000Z",
-      "summary": "6月30日に発売される金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」の封入特典ポストカード絵柄が公開された。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -237,28 +352,6 @@
       ]
     },
     {
-      "id": "0e268ed604ad248d",
-      "title": "齋藤飛鳥 京セラ美術館『テート美術館』来館！決着は「ついたと思います」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/culture/200434",
-      "publishedAt": "2026-06-24T08:56:50.000Z",
-      "summary": "俳優・齋藤飛鳥が6月中に京都市京セラ美術館で開催されている『テート美術館 ― YBA & BEYOND 世界を変えた90s英国アート』を訪れた。 本展は、英国の国立美術館のひとつ・テート美術館の所蔵品を中心...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "78b3e2f88e2af3c0",
       "title": "乃木坂46賀喜遥香「緊張もあったけど…」グループ初“福井県”でのライブを振り返る",
       "sourceName": "マイナビニュース 芸能",
@@ -376,50 +469,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260621-4612177/",
       "publishedAt": "2026-06-21T10:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・銀シャリ（鰻和弘さん、橋本直さん）が登場！ 本記事では、現在開催中の銀シャリ単独ライブ2026「ベシャリの帝王 萬才銀次郎」の話や、YouTubeの「銀シャリチャンネ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b88b6f3305710653",
-      "title": "ニューヨーク嶋佐＆屋敷 そろって“40歳”に…時間の早さに驚き「30代が早すぎた」「次50代やん！」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260620-4608530/",
-      "publishedAt": "2026-06-20T11:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・ニューヨーク（嶋佐和也さん、屋敷裕政さん）が登場！ 本記事では、お2人が40歳を迎えた今のリアルな心境や、ニューヨークが若手だった頃と現在の若手芸人との違いについて語っ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9154f94b2d95254c",
-      "title": "銀シャリ橋本「大御所の2人がコンプラ違反の発言を…」忘れられない“番組ロケ”を告白",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260620-4608531/",
-      "publishedAt": "2026-06-20T11:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・銀シャリ（鰻和弘さん、橋本直さん）が登場！ 本記事では、橋本さんが体験したロケ現場でのエピソードを語った模様をお届けします。",
       "groups": [
         "乃木坂46"
       ],
@@ -1127,28 +1176,6 @@
         {
           "name": "大野愛実",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "55610544af2b07c0",
-      "title": "櫻坂46の15thシングル「What’s “KAZOKU”?」今夜24時先行配信、センターは森田ひかる",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/84862/",
-      "publishedAt": "2026-04-18T14:05:00.000Z",
-      "summary": "櫻坂46が、6月10日(水)にリリースする15枚目シングルより表題曲の一つ「What’s “KAZOKU”?」を4月19日(日)に先行配信することが決定した。 「What’s “KAZOKU”?」は4月12日(日)より放送中のMBS／TBS系TVアニメ『夜桜さんちの大作戦』第2期のオープニングテーマ。4月18日(土)22時にグループ公式YouTubeチャンネ",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
