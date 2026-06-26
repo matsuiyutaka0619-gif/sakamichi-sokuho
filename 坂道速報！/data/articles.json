@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-06-25T19:28:24.749Z",
+  "updatedAt": "2026-06-26T11:27:37.480Z",
   "articles": [
+    {
+      "id": "9d0f9e0e94cf005a",
+      "title": "“北海道在住”5人組バンド・First Love is Never Returned 新曲「Passengers」誕生秘話を明かす！Kazuki Ishida「作曲で行き詰まって『みんな、助けてくれ！』」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260626-4631513/",
+      "publishedAt": "2026-06-26T09:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月20日（土）の放送は、北海道北広島市にある「ホクレン くるるの杜」から公開生放送でお届け！ ゲストにFirst Love is Never Returned（ファーストラブイズネバーリタ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d128bfa64b4aaad9",
+      "title": "金川紗耶1st写真集封入のポストカード絵柄一挙公開、さまざまな水着姿やランジェリーカット",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/677922",
+      "publishedAt": "2026-06-26T08:00:00.000Z",
+      "summary": "6月30日に発売される金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」の封入特典ポストカード絵柄が公開された。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "da9d9e81c1c3e4ef",
+      "title": "現役アイドルのベッドシーンに阿鼻叫喚の反響も…「こんなに成功した実写化ドラマも珍しい」原作愛を感じた『惡の華』終幕",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260626-4630298/",
+      "publishedAt": "2026-06-26T03:31:09.000Z",
+      "summary": "少年・少女の「不安」「葛藤」「痛み」を描くテレビ東京のドラマ『惡の華』(毎週木曜24:00～)が25日、ついに最終回を迎えた。SNSでは、乃木坂46・中西アルノのベッドでのシーンに「やめて～!」との悲鳴が上がったのと同時に、「最終回以外は、原作を忠実に表現し、素晴らしいドラマにしてくれたスタッフ・キャストに尊敬の念しかない」と、批判が来がちな実写化ドラマにし",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "中西アルノ",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "e5ecebec6ff4775d",
       "title": "梅澤美波、乃木坂46卒業後初のテレビ出演へ！松村沙友理と「サンデー・ジャポン」生出演",
@@ -31,8 +97,8 @@
     {
       "id": "1254b9c30bc0897d",
       "title": "乃木坂46賀喜遥香「今度は絶対に行きたい！」福井県を訪れるも断念した“観光スポット”とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260625-4628134/",
       "publishedAt": "2026-06-25T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月18日（木）の放送では、6月13日（土）、14日（日）に開催された「真夏の全国ツアー2026」福井公演に参加した生徒（リスナー）からのメッセージを紹介しました。",
@@ -53,8 +119,8 @@
     {
       "id": "28fbf979c8946c6b",
       "title": "日向坂46髙橋未来虹＆藤嶌果歩“姉トーク”で大盛り上がり！髙橋「お姉ちゃんにかわいい表情を見せるって恥ずかしくない？」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260625-4628133/",
       "publishedAt": "2026-06-25T12:50:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月19日（金）の",
@@ -84,133 +150,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "296c4e95daa269e8",
-      "title": "長濱ねる、美しいデコルテ＆背中がざっくり開いた黒のドレス姿 “魅せるカラダ“特集のオフショ披露",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/06/post-2440432.html",
-      "publishedAt": "2026-06-25T12:31:52.000Z",
-      "summary": "長濱ねるが、6月24日発売の『anan』に登場。撮影時のオフショットを自身のInstagramに公開している。",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6d5ff93d9493caf8",
-      "title": "「鳥肌」「奇跡が起こった」ラジオ生放送中に松岡昌宏から突然の連絡 感動と興奮で元日向坂46松田好花は「爆発するかと思った」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260625-4627024/",
-      "publishedAt": "2026-06-25T12:00:00.000Z",
-      "summary": "「松兄には、ちょっとさすがに言えなくて……」元日向坂46でタレントの松田好花が、元TOKIO・松岡昌宏とのエピソードを明かした――。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "e57f24aae08509ab",
-      "title": "与田祐希、『うるわしの宵の月』出演決定 藤木直人は道枝駿佑と9年ぶりの共演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/06/post-2440555.html",
-      "publishedAt": "2026-06-25T10:15:46.000Z",
-      "summary": "10月23日に公開される道枝駿佑と安斉星来のW主演映画『うるわしの宵の月』の追加キャストとして、与田祐希と藤木直人の出演が発表された。 本作は、講談社『デザート』で連載中のやまもり三香による同名漫画を実写映画化するラ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b9b43b53b29dec0b",
-      "title": "櫻坂46田村保乃と大園玲が出会った、じゃがいもの女王",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677540",
-      "publishedAt": "2026-06-25T09:29:00.000Z",
-      "summary": "6月27日18:30より放送の日本テレビ系「満天☆青空レストラン」に、櫻坂46の田村保乃と大園玲が出演する。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "大園玲",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "田村保乃",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "57e7d39f5d22b1f6",
-      "title": "中島健人×長濱ねる「ラブ≠コメディ」雨の豊洲でアルパカに遭遇、スイカは木っ端みじん",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/677760",
-      "publishedAt": "2026-06-25T09:17:00.000Z",
-      "summary": "中島健人と長濱ねるが本日6月25日に東京・ららぽーと豊洲メインステージ シーサイドデッキ前で開催された「『ラブ≠コメディ』大ヒット祈願！公開直前イベント」にアルパカとともに登場した。",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
         }
       ]
     },
@@ -296,20 +235,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "ba11690544f14afe",
-      "title": "乃木坂46、42ndシングル「是非に及ばず」ジャケットアートワーク公開",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/633309.html",
-      "publishedAt": "2026-06-24T10:00:21.000Z",
-      "summary": "乃木坂46が、7月22日に発売する42ndシングル「是非に及ばず」のジャケットアートワークを公開した。今作のビジュアルコンセプトは「眩光を探して」。巨大な花を眩い光や太陽の象徴として散りばめ、その下に集うメンバーの姿を撮影したアートワークとなっている。まだ見ぬ夏の輝きに ... The post 乃木坂46、42ndシングル「是非に及ばず」ジャケットアートワ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "0e268ed604ad248d",
