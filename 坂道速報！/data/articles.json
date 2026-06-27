@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-06-27T09:34:34.587Z",
+  "updatedAt": "2026-06-27T16:19:42.266Z",
   "articles": [
+    {
+      "id": "27dc4a9306ba407a",
+      "title": "櫻坂46・森田ひかる＆りくりゅうペア、マクドナルド新TVCMに初出演！細田守監督作品の名シーンと実写が融合",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/cm/633970.html",
+      "publishedAt": "2026-06-27T10:00:12.000Z",
+      "summary": "日本マクドナルドは、ビッグマックとコカ･コーラのコラボレーションCMとして、コカ･コーラ社のCM楽曲 I FEEL COKE と細田守監督作品のアニメーション映画の名シーンが融合した新TVCM、ビッグマック「あの頃も今も、夏といえば」篇を、6月30日より全国で放映する。 ... The post 櫻坂46・森田ひかる＆りくりゅうペア、マクドナルド新TVCMに",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "2b849225da77acdf",
       "title": "乃木坂46金川紗耶1st写真集発売日にYouTube生配信、本誌未掲載のランジェリーカット公開",
@@ -20,28 +42,6 @@
           "name": "金川紗耶",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6b576e28a3848df6",
-      "title": "YHエンタテインメント所属の5人組グループ・AND2BLE、『THE MUSIC DAY 2026』に初出演決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1074623",
-      "publishedAt": "2026-06-27T08:00:00.000Z",
-      "summary": "2026年5月26日に韓国で正式デビューを果たした、YHエンタテインメント所属の5人組グループ・AND2BLE（アンダブル）が、7月4日に日本テレビ系で生放送される音楽特番『THE MUSIC DAY 2026』に初出演、初パフォーマンスすることを発表した。 『THE MUSIC DAY 2026』は、櫻井翔が総合司会を務める日テレ系夏の音楽の祭典で、202",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "市來玲奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -88,20 +88,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "622241f4674093fb",
-      "title": "櫻坂46「We got your back」MVに映し出されたのは四期生のフレッシュさと力強さ",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/678048",
-      "publishedAt": "2026-06-26T13:00:00.000Z",
-      "summary": "6月10日にリリースされた櫻坂46のシングル「Lonesome rabbit / What's “KAZOKU”?」より、四期生楽曲「We got your back」のミュージックビデオが公開された。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "d6ed45a2c8a09d0c",
@@ -245,33 +231,6 @@
           "name": "中西アルノ",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e5ecebec6ff4775d",
-      "title": "梅澤美波、乃木坂46卒業後初のテレビ出演へ！松村沙友理と「サンデー・ジャポン」生出演",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/633527.html",
-      "publishedAt": "2026-06-25T14:00:22.000Z",
-      "summary": "梅澤美波が、6月28日放送のTBS系「サンデー・ジャポン」に生出演する。乃木坂46卒業後初のテレビ出演となる。梅澤は今年5月21日、東京ドームで開催されたライブをもって乃木坂46を卒業。2016年9月加入の3期生として活動し、2023年からは3代目キャプテンとしてグルー ... The post 梅澤美波、乃木坂46卒業後初のテレビ出演へ！松村沙友理と「サン",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "松村沙友理",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -1193,33 +1152,6 @@
         {
           "name": "菅原咲月",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "524069f9dc0d128c",
-      "title": "“ドキドキを止めない”日向坂46が示した進化、昨年の狂騒ツアーで纏った全方位型のライブ力とは",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/84818/",
-      "publishedAt": "2026-04-19T04:00:00.000Z",
-      "summary": "グループの生誕を記念する単独公演「ひな誕祭」も今年で7回目。横浜スタジアムを会場としてからは4回目となった。2日目公演のリピート配信が4月19日の18時からと目前に迫る中、本公演をもって8年目の扉を開けたグループがおひさまへ指し示してくれたものとは、改めてここで振り返ってみたいと思う。 開演直前、横浜スタジアムを埋め尽くすおひさまたちにメンバーからライブ中の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "大野愛実",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
