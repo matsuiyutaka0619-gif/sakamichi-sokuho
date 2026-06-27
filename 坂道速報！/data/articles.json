@@ -1,31 +1,69 @@
 {
-  "updatedAt": "2026-06-26T22:47:44.989Z",
+  "updatedAt": "2026-06-27T09:34:34.587Z",
   "articles": [
     {
-      "id": "35560cf5d9efcc58",
-      "title": "長濱ねる、背中＆デコルテ大胆露出オフショット公開 イベントで顔寄せ合った動物とは…",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606260001288.html",
-      "publishedAt": "2026-06-26T20:56:00.000Z",
-      "summary": "元欅坂46メンバーで女優の長濱ねる（27）が26日までに、自身のインスタグラムやストーリーズを更新。撮影ショットを投稿した。 「@anan_mag 2501号オフショット」と題し、デコルテを大胆に露出したデザインのノンショルダートップス…",
+      "id": "2b849225da77acdf",
+      "title": "乃木坂46金川紗耶1st写真集発売日にYouTube生配信、本誌未掲載のランジェリーカット公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/678110",
+      "publishedAt": "2026-06-27T08:00:00.000Z",
+      "summary": "金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」が発売される6月30日20:00頃から、乃木坂46のYouTube公式チャンネル「乃木坂配信中」で生配信が行われることが決定。Sony Music Shopでは、配信日の購入特典として、本誌未掲載カットを使用した折り目なしのB3サイズポスターとカードが用意される。",
       "groups": [
-        "櫻坂46",
-        "日向坂46"
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6b576e28a3848df6",
+      "title": "YHエンタテインメント所属の5人組グループ・AND2BLE、『THE MUSIC DAY 2026』に初出演決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1074623",
+      "publishedAt": "2026-06-27T08:00:00.000Z",
+      "summary": "2026年5月26日に韓国で正式デビューを果たした、YHエンタテインメント所属の5人組グループ・AND2BLE（アンダブル）が、7月4日に日本テレビ系で生放送される音楽特番『THE MUSIC DAY 2026』に初出演、初パフォーマンスすることを発表した。 『THE MUSIC DAY 2026』は、櫻井翔が総合司会を務める日テレ系夏の音楽の祭典で、202",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "長濱ねる",
-          "group": "日向坂46",
+          "name": "市來玲奈",
+          "group": "乃木坂46",
           "status": "og"
-        },
+        }
+      ]
+    },
+    {
+      "id": "57634c29c89346cb",
+      "title": "日向坂46藤嶌果歩のおはようカット公開、1st写真集からの先行カット第12弾",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/678082",
+      "publishedAt": "2026-06-27T03:00:00.000Z",
+      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集「果実の歩幅」より、先行カット第12弾が公開された。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
         {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
         }
       ]
     },
@@ -90,8 +128,8 @@
     {
       "id": "4cf2c58c2ab10e25",
       "title": "日向坂46藤嶌果歩 地元・北海道の写真集撮影に感激「久保史緒里さんや渡邉理佐さんが雪景色のなかで撮影されているのを見て…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260626-4632156/",
       "publishedAt": "2026-06-26T12:50:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月19日（金）の",
@@ -140,8 +178,8 @@
     {
       "id": "d05f8717fa2d9f21",
       "title": "櫻坂46守屋麗奈「もう足が上がらない！」国立競技場でのライブの裏話を告白…ステージ裏での知られざる苦労に元乃木坂46山崎怜奈も「わかる！」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260626-4632157/",
       "publishedAt": "2026-06-26T12:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」。6月3日（水）の放送には、櫻坂46守屋麗奈さんが登場！ 本記事では、櫻坂46が4月11日、12日にMUFGスタジアム（国立競技場）でおこなったライブ「5th YEAR ANNIVERSARY LIVE」について語った模様をお届けします。",
@@ -169,8 +207,8 @@
     {
       "id": "9d0f9e0e94cf005a",
       "title": "“北海道在住”5人組バンド・First Love is Never Returned 新曲「Passengers」誕生秘話を明かす！Kazuki Ishida「作曲で行き詰まって『みんな、助けてくれ！』」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260626-4631513/",
       "publishedAt": "2026-06-26T09:00:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月20日（土）の放送は、北海道北広島市にある「ホクレン くるるの杜」から公開生放送でお届け！ ゲストにFirst Love is Never Returned（ファーストラブイズネバーリタ",
@@ -292,28 +330,6 @@
         {
           "name": "松尾桜",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fc65dfc6c4c63c22",
-      "title": "櫻坂46・森田ひかるマクドナルドCMで水色浴衣姿に！今でも「ご褒美として」利用",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/food/200453",
-      "publishedAt": "2026-06-24T19:00:25.000Z",
-      "summary": "アイドルグループ『櫻坂46』森田ひかるが6月30日より全国放送となるビッグマック『あの頃も今も、夏といえば』篇に出演している。 CMはアニメーション映画『時をかける少女』、『サマーウォーズ』、『おおかみこどもの雨と雪...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
