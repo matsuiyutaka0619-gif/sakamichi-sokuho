@@ -1,6 +1,100 @@
 {
-  "updatedAt": "2026-06-27T21:46:37.136Z",
+  "updatedAt": "2026-06-28T10:15:50.866Z",
   "articles": [
+    {
+      "id": "26779b82eb8d7656",
+      "title": "乃木坂46金川紗耶、クロアチアで調達したドレスを着て笑顔 1st写真集特典ポスター公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/678197",
+      "publishedAt": "2026-06-28T08:00:00.000Z",
+      "summary": "6月30日に発売される乃木坂46金川紗耶の1st写真集「好きのグラデーション」の購入特典となるB3サイズのポスタービジュアルが公開された。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "822be25995643c2f",
+      "title": "乃木坂46、5期生・一ノ瀬美空がセンターを務める新曲「是非に及ばず」MV公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1074769",
+      "publishedAt": "2026-06-28T05:30:23.000Z",
+      "summary": "乃木坂46が、7月22日(水)にリリースする42ndシングル「是非に及ばず」のミュージックビデオを公開した。 「是非に及ばず」はCDリリースに先駆けて6月13日(土)に先行配信された楽曲で、5期生・一ノ瀬美空が初めて表題曲のセンターを務める。MVは楽曲の持つ”パンク”な世界観を表現した乃木坂46にとっても意欲的なMVとなった。レトロな質感のカメラワークや、メ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "884a97c9d73368f7",
+      "title": "乃木坂46が力強くパフォーマンス、「是非に及ばず」ミュージックビデオ公開",
+      "sourceName": "音楽ナタリー",
+      "sourceUrl": "https://natalie.mu/music/feed/news",
+      "articleUrl": "https://natalie.mu/music/news/678202",
+      "publishedAt": "2026-06-28T05:00:00.000Z",
+      "summary": "乃木坂46の新曲「是非に及ばず」のミュージックビデオがYouTubeで公開された。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cae6e97ba2b95443",
+      "title": "乃木坂46がパンクな世界観を表現、一ノ瀬美空センターで新境地を拓く「是非に及ばず」MV公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88357/",
+      "publishedAt": "2026-06-28T05:00:00.000Z",
+      "summary": "乃木坂46が、来月7月22日(水)にリリースする42ndシングル表題曲「是非に及ばず」のMusic Videoを公開した。 現在全国8か所18公演を巡る”真夏の全国ツアー2026”を開催中の乃木坂46。「是非に及ばず」はCDリリースに先駆けて6月13日(土)に先行配信がスタートしており、5期生・一ノ瀬美空が初めて表題曲センターを務めることも話題となっている。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "41fffd3263e5f8a9",
+      "title": "日向坂46、FRUITS ZIPPER、CANDY TUNE、≒JOYが横浜アリーナに集結！IRC 2026 A/W出演者第1弾が解禁",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/634027.html",
+      "publishedAt": "2026-06-27T22:00:00.000Z",
+      "summary": "第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER Supported by TGCが、2026年9月20日に横浜アリーナで開催されることが決定した。出演者第1弾として、日向坂46、FRUITS ZIPPER、CANDY TUNE ... The post 日向坂46、FRUITS ZIPPER、CANDY TUNE、",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "25ae58e5c258ec8d",
       "title": "『風、薫る』が映し出す看護婦制度の“光と影” 理不尽な現実を浮き彫りにする衝撃展開に",
@@ -42,72 +136,6 @@
           "name": "森田ひかる",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2b849225da77acdf",
-      "title": "乃木坂46金川紗耶1st写真集発売日にYouTube生配信、本誌未掲載のランジェリーカット公開",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/678110",
-      "publishedAt": "2026-06-27T08:00:00.000Z",
-      "summary": "金川紗耶（乃木坂46）の1st写真集「好きのグラデーション」が発売される6月30日20:00頃から、乃木坂46のYouTube公式チャンネル「乃木坂配信中」で生配信が行われることが決定。Sony Music Shopでは、配信日の購入特典として、本誌未掲載カットを使用した折り目なしのB3サイズポスターとカードが用意される。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "57634c29c89346cb",
-      "title": "日向坂46藤嶌果歩のおはようカット公開、1st写真集からの先行カット第12弾",
-      "sourceName": "音楽ナタリー",
-      "sourceUrl": "https://natalie.mu/music/feed/news",
-      "articleUrl": "https://natalie.mu/music/news/678082",
-      "publishedAt": "2026-06-27T03:00:00.000Z",
-      "summary": "8月4日に発売される藤嶌果歩（日向坂46）の1st写真集「果実の歩幅」より、先行カット第12弾が公開された。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7b601172ce22bb16",
-      "title": "白石麻衣のドアップ近影ショットにドキドキが止まらない！「ちょっと待って！まいやんさんが綺麗すぎる！」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/633451.html",
-      "publishedAt": "2026-06-26T14:00:49.000Z",
-      "summary": "6月24日、女優でモデルの白石麻衣が自身のInstagramを更新した。白石麻衣は淡いブルーのブラウスを軽やかに着こなし、やわらかな表情で撮影オフショットを披露し「@feliamo_official 」とコメントを寄せた。本投稿にファンからは、「まいやん、相変わらず美し ... The post 白石麻衣のドアップ近影ショットにドキドキが止まらない！「ちょっ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -399,28 +427,6 @@
       ]
     },
     {
-      "id": "e570c4e3d911c882",
-      "title": "「ちょっと挑発した」「ケンカを売られたら…」与田祐希、地元での“やんちゃ”エピソードを告白",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260623-4619505/",
-      "publishedAt": "2026-06-23T11:00:00.000Z",
-      "summary": "「川に蹴り落としました」元乃木坂46で俳優の与田祐希が、幼少期に地元・志賀島での体験を告白。自然豊かな土地ならではのエピソードにスタジオでは驚きの声があがった。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "997b3ea406682382",
       "title": "ふみの、新曲「東京」が仲里依紗×のん×深川麻衣共演『Tokyo middle 30』主題歌に決定",
       "sourceName": "Bezzy",
@@ -438,28 +444,6 @@
         {
           "name": "深川麻衣",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "036944edf5293dcd",
-      "title": "菅井友香「母が昔から宇宙人だと言われている」 父が測定器を向けると…",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260622-4614707/",
-      "publishedAt": "2026-06-22T03:25:00.000Z",
-      "summary": "菅井友香が、母親の不思議な体質について語った。昔から「宇宙人だと言われている」といい、父親が周波数測定器を向けた際には、思わぬ反応があったという。スタジオも驚いたエピソードとは。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "菅井友香",
-          "group": "櫻坂46",
           "status": "og"
         }
       ]
@@ -483,28 +467,6 @@
           "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "24f4ae13cd1f177b",
-      "title": "山崎怜奈「“東京”で20分のネタが作れるってすごい」銀シャリの“47都道府県漫才”を絶賛！「地理の授業で流したほうがいい」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260621-4612177/",
-      "publishedAt": "2026-06-21T10:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティをつとめるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。今回の放送では、お笑いコンビ・銀シャリ（鰻和弘さん、橋本直さん）が登場！ 本記事では、現在開催中の銀シャリ単独ライブ2026「ベシャリの帝王 萬才銀次郎」の話や、YouTubeの「銀シャリチャンネ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
