@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-28T10:15:50.866Z",
+  "updatedAt": "2026-06-28T16:44:47.340Z",
   "articles": [
+    {
+      "id": "8f73e0e2b4179515",
+      "title": "東村芽依、甘めメイドから色気漂うブラックコスまで着こなし！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/634158.html",
+      "publishedAt": "2026-06-28T13:15:50.000Z",
+      "summary": "タレントの東村芽依が6月28日までに自身のInstagramを更新した。東村芽依はメイド風の甘めコーデから天使モチーフの白ワンピ、黒のゴシックドレスまで、世界観の異なるファッションショットを披露し「グッズ撮影オフショット」とコメントを寄せた。本投稿には濱岸ひより、佐々木 ... The post 東村芽依、甘めメイドから色気漂うブラックコスまで着こなし！ f",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "東村芽依",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "濱岸ひより",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "26779b82eb8d7656",
       "title": "乃木坂46金川紗耶、クロアチアで調達したドレスを着て笑顔 1st写真集特典ポスター公開",
@@ -18,28 +45,6 @@
       "memberMatches": [
         {
           "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "822be25995643c2f",
-      "title": "乃木坂46、5期生・一ノ瀬美空がセンターを務める新曲「是非に及ばず」MV公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1074769",
-      "publishedAt": "2026-06-28T05:30:23.000Z",
-      "summary": "乃木坂46が、7月22日(水)にリリースする42ndシングル「是非に及ばず」のミュージックビデオを公開した。 「是非に及ばず」はCDリリースに先駆けて6月13日(土)に先行配信された楽曲で、5期生・一ノ瀬美空が初めて表題曲のセンターを務める。MVは楽曲の持つ”パンク”な世界観を表現した乃木坂46にとっても意欲的なMVとなった。レトロな質感のカメラワークや、メ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -114,28 +119,6 @@
           "name": "生田絵梨花",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "27dc4a9306ba407a",
-      "title": "櫻坂46・森田ひかる＆りくりゅうペア、マクドナルド新TVCMに初出演！細田守監督作品の名シーンと実写が融合",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/cm/633970.html",
-      "publishedAt": "2026-06-27T10:00:12.000Z",
-      "summary": "日本マクドナルドは、ビッグマックとコカ･コーラのコラボレーションCMとして、コカ･コーラ社のCM楽曲 I FEEL COKE と細田守監督作品のアニメーション映画の名シーンが融合した新TVCM、ビッグマック「あの頃も今も、夏といえば」篇を、6月30日より全国で放映する。 ... The post 櫻坂46・森田ひかる＆りくりゅうペア、マクドナルド新TVCMに",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     },
