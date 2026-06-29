@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-06-29T14:52:36.615Z",
+  "updatedAt": "2026-06-29T22:34:28.526Z",
   "articles": [
+    {
+      "id": "7283d7a5d81b647b",
+      "title": "なにわ男子・西畑大吾、櫻坂46・大園玲と佐藤愛桜6月30日『オモウマい店』ゲストに",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/food/200746",
+      "publishedAt": "2026-06-29T22:00:18.000Z",
+      "summary": "アイドルグループ『なにわ男子』西畑大吾、アイドルグループ『櫻坂46』大園玲・佐藤愛桜、タレント・狩野英孝が6月30日放送のバラエティ番組『ヒューマングルメンタリー オモウマい店』（中京テレビ･日本テレビ系、午後7時～）...",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "大園玲",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐藤愛桜",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "1c6b01c2b79b58bd",
       "title": "佐々木琴子アニメ『サク山チョコ次郎』出演！飼い猫アッシュくん・さとるくんも声優起用",
