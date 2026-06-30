@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-06-29T22:34:28.526Z",
+  "updatedAt": "2026-06-30T11:31:48.186Z",
   "articles": [
+    {
+      "id": "4b0d4c26c269ffd6",
+      "title": "広瀬アリス、乃木坂46・井上和にデレデレ 舞台挨拶で見つめられ「かわいい…！」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1023692/",
+      "publishedAt": "2026-06-30T10:52:38.000Z",
+      "summary": "俳優の広瀬アリスが30日、都内で行われた映画『トイ・ストーリー5』（7月3日公開）ジャパンプレミアの舞台あいさつに登壇。乃木坂46の井上和らとともにクロストークを展開した。井上和の21歳という年齢に驚き「若いね～」 俳 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "abf42446ca3ed46b",
+      "title": "日向坂46藤嶌果歩、ぴったりキャミ姿にファンくぎ付け「初期りん感がある」「めちゃくちゃかわいい」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1023416/",
+      "publishedAt": "2026-06-30T10:40:24.000Z",
+      "summary": "アイドルグループ・日向坂46の藤嶌果歩が8月4日に1st写真集『果実の歩幅』（集英社）を発売。その公式Xが29日、最新オフショットを公開し、反響を呼んでいる。1st写真集『果実の歩幅』を発売する藤嶌果歩 アイドルグルー […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e1d14dcaef1ea40b",
+      "title": "ニッポン放送2026年6月度の聴取率調査結果発表！SixTONES、JO1、正源司陽子、松田好花らも",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200837",
+      "publishedAt": "2026-06-30T04:36:08.000Z",
+      "summary": "ニッポン放送が6月30日に2026年6月1日から6月7日の期間に行われた2026年6月度『ビデオリサーチ首都圏ラジオ聴取率調査』の同局の結果を発表した。 今回の結果により2026年上半期 ビデオリサーチ首都圏ラジオ聴...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "49a5acae49974aaf",
+      "title": "文化放送2026年6月度『首都圏ラジオ聴取率調査』結果発表！Snow Manの素のまんま、日向坂46の「ひ」個人全体1位に",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200835",
+      "publishedAt": "2026-06-30T04:25:38.000Z",
+      "summary": "文化放送が6月30日に2026年6月度に行われた『首都圏ラジオ聴取率調査』（2026年6月1日～6月7日・ビデオリサーチ社実施）の同局の結果を発表した。 主な結果は以下のとおり。 ■『レコメン！（前半）』、個人全体...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "7283d7a5d81b647b",
       "title": "なにわ男子・西畑大吾、櫻坂46・大園玲と佐藤愛桜6月30日『オモウマい店』ゲストに",
@@ -25,99 +111,6 @@
           "name": "佐藤愛桜",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1c6b01c2b79b58bd",
-      "title": "佐々木琴子アニメ『サク山チョコ次郎』出演！飼い猫アッシュくん・さとるくんも声優起用",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200648",
-      "publishedAt": "2026-06-29T06:00:51.000Z",
-      "summary": "声優・佐々木琴子が5月29日より毎週配信されているアニメ『サク山チョコ次郎』に出演することが6月29日に発表となった。 今年発売10周年を迎えたチョコビスケット『サク山チョコ次郎』がアニメ化。チョコデール山に住む食い...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐々木琴子",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "f40f53aded41df38",
-      "title": "白石麻衣ウィルオブ“特任キャリアアドバイザー”でCM登場！身を乗り出して話を聴く",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/economy/200658",
-      "publishedAt": "2026-06-29T03:18:50.000Z",
-      "summary": "俳優・白石麻衣が6月30日より関東・関西地区でオンエアとなる株式会社ウィルオブ・ワークの新TVCM『ウィルオブとおはなししませんか？』篇に登場する。 総合人材サービスの株式会社ウィルオブ・ワークが白石をウィルオブ“特...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "7c36fcb09575ac36",
-      "title": "白石麻衣 乃木坂46卒業決断を振り返ったり最近のグループも「ワクワク」！「負けず嫌い」生かす",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/economy/200656",
-      "publishedAt": "2026-06-29T02:39:27.000Z",
-      "summary": "俳優・白石麻衣が6月29日に都内で『ウィルオブ新CM発表会』に登場した。 人材業の株式会社ウィルオブ・ワークが白石を起用し6月30日より全国オンエアとなる新TVCM「『ウィルオブとおはなししませんか？』篇」を放映する...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "8f73e0e2b4179515",
-      "title": "東村芽依、甘めメイドから色気漂うブラックコスまで着こなし！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/634158.html",
-      "publishedAt": "2026-06-28T13:15:50.000Z",
-      "summary": "タレントの東村芽依が6月28日までに自身のInstagramを更新した。東村芽依はメイド風の甘めコーデから天使モチーフの白ワンピ、黒のゴシックドレスまで、世界観の異なるファッションショットを披露し「グッズ撮影オフショット」とコメントを寄せた。本投稿には濱岸ひより、佐々木 ... The post 東村芽依、甘めメイドから色気漂うブラックコスまで着こなし！ f",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "東村芽依",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "濱岸ひより",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
