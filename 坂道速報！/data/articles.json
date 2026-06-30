@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-30T11:31:48.186Z",
+  "updatedAt": "2026-06-30T18:25:30.442Z",
   "articles": [
     {
-      "id": "4b0d4c26c269ffd6",
-      "title": "広瀬アリス、乃木坂46・井上和にデレデレ 舞台挨拶で見つめられ「かわいい…！」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1023692/",
-      "publishedAt": "2026-06-30T10:52:38.000Z",
-      "summary": "俳優の広瀬アリスが30日、都内で行われた映画『トイ・ストーリー5』（7月3日公開）ジャパンプレミアの舞台あいさつに登壇。乃木坂46の井上和らとともにクロストークを展開した。井上和の21歳という年齢に驚き「若いね～」 俳 […]",
+      "id": "6d18789a210d4dd4",
+      "title": "井上和、大切なことは乃木坂46のかけ声に「努力し続けること、感謝忘れないこと、笑顔で…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606300001936.html",
+      "publishedAt": "2026-06-30T12:27:50.000Z",
+      "summary": "乃木坂46井上和（21）が30日、都内でディズニー映画「トイ・ストーリー5」（7月3日公開）ジャパンプレミア舞台あいさつに登壇した。 シリーズ開始から30周年で、7年ぶりの新作。本作では、タブレットに夢中な周囲の子どもたちと話が合わず、…",
       "groups": [
         "乃木坂46"
       ],
@@ -24,23 +24,67 @@
       ]
     },
     {
-      "id": "abf42446ca3ed46b",
-      "title": "日向坂46藤嶌果歩、ぴったりキャミ姿にファンくぎ付け「初期りん感がある」「めちゃくちゃかわいい」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1023416/",
-      "publishedAt": "2026-06-30T10:40:24.000Z",
-      "summary": "アイドルグループ・日向坂46の藤嶌果歩が8月4日に1st写真集『果実の歩幅』（集英社）を発売。その公式Xが29日、最新オフショットを公開し、反響を呼んでいる。1st写真集『果実の歩幅』を発売する藤嶌果歩 アイドルグルー […]",
+      "id": "b41c85a887789c8f",
+      "title": "若月佑美、デビュー15周年記念作品集を秋頃発売へ！初の作品展開催も予定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/634616.html",
+      "publishedAt": "2026-06-30T12:00:23.000Z",
+      "summary": "女優・モデルとして活動する若月佑美が、デビュー15周年を記念した作品集を2026年秋頃に発売することを発表した。若月は6月27日、都内で開催したYumi Wakatsuki Birthday Event 2026で同作の刊行を発表。作品集には、長年にわたり創作活動を続け ... The post 若月佑美、デビュー15周年記念作品集を秋頃発売へ！初の作品展開",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "若月佑美",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "5ff662af0883a589",
+      "title": "乃木坂46賀喜遥香「自分がアニメの主人公なんだって…」緊張を力に変えるための“秘策”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260630-4648163/",
+      "publishedAt": "2026-06-30T12:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月25日（木）の放送では、生徒（リスナー）から寄せられたメッセージを紹介。本記事では、緊張したときの対処法について語った模様をお届けします。",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "26bb6d91be4e1b47",
+      "title": "生放送出演の乃木坂46池田瑛紗のビジュアルが話題「1人だけNANAおるw」「まるでマネキン」「なんて美だ」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1023686/",
+      "publishedAt": "2026-06-30T11:50:28.000Z",
+      "summary": "アイドルグループ・乃木坂46が、28日に生放送されたテレビ東京『テレ東音楽祭 2026夏』に登場。あるメンバーのスタイリングが話題となっている。『テレ東音楽祭 2026夏』に登場 アイドルグループ・乃木坂46が、28日 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -337,35 +381,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1b13403911be3f04",
-      "title": "振り付けは“過去最難関”!? 櫻坂46守屋麗奈「ついていくのに必死です」新曲「Lonesome rabbit / What's “KAZOKU”?」への思いを明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260624-4624148/",
-      "publishedAt": "2026-06-24T12:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」。6月3日（水）の放送には、櫻坂46守屋麗奈さんが登場！ 本記事では、6月10日（水）リリースのシングル「Lonesome rabbit / What's “KAZOKU”?」について伺った模様をお届けします。（※この記事は放送当時の内容で",
-      "groups": [
-        "櫻坂46",
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "守屋麗奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -1084,33 +1099,6 @@
         {
           "name": "藤嶌果歩",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e2390b9ed9f63504",
-      "title": "『時をかける少女』と『セーラー服と機関銃』が舞台化、主演は乃木坂46の小川彩＆菅原咲月",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/85022/",
-      "publishedAt": "2026-04-22T03:00:00.000Z",
-      "summary": "今年2026年に迎える角川映画の誕生50周年を記念したプロジェクトから最新情報が解禁。名作『時をかける少女』と『セーラー服と機関銃』が2027年秋に舞台化され、乃木坂46の小川彩と菅原咲月がそれぞれ主演を務めることが発表された。 1976年（昭和51年）11月13日、『犬神家の一族』の公開で華やかなスタートを切った角川映画。50周年記念プロジェクトではこれま",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅原咲月",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
