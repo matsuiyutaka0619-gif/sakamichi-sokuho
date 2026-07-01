@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T18:25:30.443Z",
+  "updatedAt": "2026-07-01T11:46:27.313Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -64,8 +64,9 @@
     },
     {
       "source": "BARKS",
-      "count": 10,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 502"
     },
     {
       "source": "QJWeb",

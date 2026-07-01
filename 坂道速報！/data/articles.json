@@ -1,14 +1,41 @@
 {
-  "updatedAt": "2026-06-30T18:25:30.442Z",
+  "updatedAt": "2026-07-01T11:46:27.312Z",
   "articles": [
     {
-      "id": "6d18789a210d4dd4",
-      "title": "井上和、大切なことは乃木坂46のかけ声に「努力し続けること、感謝忘れないこと、笑顔で…」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202606300001936.html",
-      "publishedAt": "2026-06-30T12:27:50.000Z",
-      "summary": "乃木坂46井上和（21）が30日、都内でディズニー映画「トイ・ストーリー5」（7月3日公開）ジャパンプレミア舞台あいさつに登壇した。 シリーズ開始から30周年で、7年ぶりの新作。本作では、タブレットに夢中な周囲の子どもたちと話が合わず、…",
+      "id": "3e845072839e4f31",
+      "title": "五百城茉央＆奥田いろは“カフェオーレ”「オリジナル QUO カード」プレゼントキャンペーンなど開催",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/food/200973",
+      "publishedAt": "2026-07-01T08:16:26.000Z",
+      "summary": "アイドルグループ『乃木坂46』五百城茉央と奥田いろはが7月1日より江崎グリコ株式会社の『カフェオーレ』ブランドのキャンペーンの一環である『カフェオーレの日』応援サポーターに就任したことが7月1日に発表となった。 江崎...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "731319ab48696096",
+      "title": "唐沢寿明、『トイ・ストーリー5』の完成度に自信 広瀬アリス＆井上和は初参加の喜び語る",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2446262.html",
+      "publishedAt": "2026-07-01T07:38:43.000Z",
+      "summary": "7月3日に公開される『トイ・ストーリー5』のジャパンプレミアが6月30日に東京ミッドタウン日比谷アトリウムで開催され、日本版声優陣とシリーズを愛する総勢28名のゲストが集結した。 本作は、おもちゃたちの世界を舞台に、",
       "groups": [
         "乃木坂46"
       ],
@@ -18,6 +45,42 @@
       "memberMatches": [
         {
           "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9bf24bbc7ffa9a73",
+      "title": "氣志團万博2026にモナキ、ゴールデンボンバー、日向坂46、ももいろクローバーZら 第１弾出演者13組発表！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/653067.html",
+      "publishedAt": "2026-07-01T03:35:16.000Z",
+      "summary": "11月7日(土)・8日(日)に、幕張メッセにて開催される、『サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～』に出演する13組のアーティストを発表された。発表と同時に、氣志團万博HP最速先行受付(先着)をスタートしている。出演者 (※ ... The post 氣志團万博2026にモナキ、ゴールデンボンバー、日向坂46、も",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c42636562d299edc",
+      "title": "乃木坂46、5期生・一ノ瀬美空が初センターを務める新曲「是非に及ばず」MV公開",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/634706.html",
+      "publishedAt": "2026-06-30T22:00:58.000Z",
+      "summary": "乃木坂46の42ndシングル「是非に及ばず」のMusic Videoが6月28日14時、乃木坂46 Official YouTubeチャンネルで公開された。「是非に及ばず」は7月22日に発売される42ndシングルの表題曲で、CDリリースに先駆けて6月13日から先行配信さ ... The post 乃木坂46、5期生・一ノ瀬美空が初センターを務める新曲「是非に",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -48,8 +111,8 @@
     {
       "id": "5ff662af0883a589",
       "title": "乃木坂46賀喜遥香「自分がアニメの主人公なんだって…」緊張を力に変えるための“秘策”とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260630-4648163/",
       "publishedAt": "2026-06-30T12:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月25日（木）の放送では、生徒（リスナー）から寄せられたメッセージを紹介。本記事では、緊張したときの対処法について語った模様をお届けします。",
@@ -63,97 +126,6 @@
         {
           "name": "賀喜遥香",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "26bb6d91be4e1b47",
-      "title": "生放送出演の乃木坂46池田瑛紗のビジュアルが話題「1人だけNANAおるw」「まるでマネキン」「なんて美だ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1023686/",
-      "publishedAt": "2026-06-30T11:50:28.000Z",
-      "summary": "アイドルグループ・乃木坂46が、28日に生放送されたテレビ東京『テレ東音楽祭 2026夏』に登場。あるメンバーのスタイリングが話題となっている。『テレ東音楽祭 2026夏』に登場 アイドルグループ・乃木坂46が、28日 […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "池田瑛紗",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e1d14dcaef1ea40b",
-      "title": "ニッポン放送2026年6月度の聴取率調査結果発表！SixTONES、JO1、正源司陽子、松田好花らも",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200837",
-      "publishedAt": "2026-06-30T04:36:08.000Z",
-      "summary": "ニッポン放送が6月30日に2026年6月1日から6月7日の期間に行われた2026年6月度『ビデオリサーチ首都圏ラジオ聴取率調査』の同局の結果を発表した。 今回の結果により2026年上半期 ビデオリサーチ首都圏ラジオ聴...",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "49a5acae49974aaf",
-      "title": "文化放送2026年6月度『首都圏ラジオ聴取率調査』結果発表！Snow Manの素のまんま、日向坂46の「ひ」個人全体1位に",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200835",
-      "publishedAt": "2026-06-30T04:25:38.000Z",
-      "summary": "文化放送が6月30日に2026年6月度に行われた『首都圏ラジオ聴取率調査』（2026年6月1日～6月7日・ビデオリサーチ社実施）の同局の結果を発表した。 主な結果は以下のとおり。 ■『レコメン！（前半）』、個人全体...",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7283d7a5d81b647b",
-      "title": "なにわ男子・西畑大吾、櫻坂46・大園玲と佐藤愛桜6月30日『オモウマい店』ゲストに",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/food/200746",
-      "publishedAt": "2026-06-29T22:00:18.000Z",
-      "summary": "アイドルグループ『なにわ男子』西畑大吾、アイドルグループ『櫻坂46』大園玲・佐藤愛桜、タレント・狩野英孝が6月30日放送のバラエティ番組『ヒューマングルメンタリー オモウマい店』（中京テレビ･日本テレビ系、午後7時～）...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "大園玲",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "佐藤愛桜",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
@@ -300,28 +272,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "da9d9e81c1c3e4ef",
-      "title": "現役アイドルのベッドシーンに阿鼻叫喚の反響も…「こんなに成功した実写化ドラマも珍しい」原作愛を感じた『惡の華』終幕",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260626-4630298/",
-      "publishedAt": "2026-06-26T03:31:09.000Z",
-      "summary": "少年・少女の「不安」「葛藤」「痛み」を描くテレビ東京のドラマ『惡の華』(毎週木曜24:00～)が25日、ついに最終回を迎えた。SNSでは、乃木坂46・中西アルノのベッドでのシーンに「やめて～!」との悲鳴が上がったのと同時に、「最終回以外は、原作を忠実に表現し、素晴らしいドラマにしてくれたスタッフ・キャストに尊敬の念しかない」と、批判が来がちな実写化ドラマにし",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "中西アルノ",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -1072,33 +1022,6 @@
         {
           "name": "一ノ瀬美空",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "28397389ed244de3",
-      "title": "日向坂46ニューシングルの全収録内容解禁、ひなた坂46メンバーによるバックカバーも公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/85041/",
-      "publishedAt": "2026-04-22T04:20:00.000Z",
-      "summary": "5月20日(水)に発売される日向坂46の17thシングル『Kind of love』のCD収録楽曲、歌唱メンバー、特典映像の全貌が解禁され、あわせてバックカバーも公開された。 今作の表題曲「Kind of love」は、四期生の藤嶌果歩が初単独センターを務める楽曲で、すでに各音楽配信サイトにて配信中。また、全形態共通のカップリング曲として収録されるひなた坂4",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "平岡海月",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
