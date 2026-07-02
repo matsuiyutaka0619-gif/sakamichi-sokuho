@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-02T10:20:57.541Z",
+  "updatedAt": "2026-07-02T18:19:44.633Z",
   "articles": [
+    {
+      "id": "4b0782a0b3f835b5",
+      "title": "乃木坂46賀喜遥香「できることは全部やりたい」誕生日に合わせて初センター・一ノ瀬美空に手渡したものとは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260702-4655747/",
+      "publishedAt": "2026-07-02T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月25日（木）の放送では、生徒（リスナー）から寄せられたメッセージを紹介。本記事では、7月22日（水）にリリースされるシングル「是非に及ばず」で初めてセンターを務める一ノ瀬美空さんについて語った模様をお届",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "ba0f05cba4f819d6",
       "title": "与田祐希、元乃木坂46 佐藤楓と“ラブラブ2ショット” 本場ディズニーランドを満喫",
@@ -137,33 +164,6 @@
       ]
     },
     {
-      "id": "3e845072839e4f31",
-      "title": "五百城茉央＆奥田いろは“カフェオーレ”「オリジナル QUO カード」プレゼントキャンペーンなど開催",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/food/200973",
-      "publishedAt": "2026-07-01T08:16:26.000Z",
-      "summary": "アイドルグループ『乃木坂46』五百城茉央と奥田いろはが7月1日より江崎グリコ株式会社の『カフェオーレ』ブランドのキャンペーンの一環である『カフェオーレの日』応援サポーターに就任したことが7月1日に発表となった。 江崎...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "9bf24bbc7ffa9a73",
       "title": "氣志團万博2026にモナキ、ゴールデンボンバー、日向坂46、ももいろクローバーZら 第１弾出演者13組発表！",
       "sourceName": "WWSチャンネル",
@@ -284,85 +284,6 @@
           "name": "佐藤愛桜",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4cf2c58c2ab10e25",
-      "title": "日向坂46藤嶌果歩 地元・北海道の写真集撮影に感激「久保史緒里さんや渡邉理佐さんが雪景色のなかで撮影されているのを見て…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260626-4632156/",
-      "publishedAt": "2026-06-26T12:50:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。6月19日（金）の",
-      "groups": [
-        "日向坂46",
-        "乃木坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "渡邉理佐",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d05f8717fa2d9f21",
-      "title": "櫻坂46守屋麗奈「もう足が上がらない！」国立競技場でのライブの裏話を告白…ステージ裏での知られざる苦労に元乃木坂46山崎怜奈も「わかる！」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260626-4632157/",
-      "publishedAt": "2026-06-26T12:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」。6月3日（水）の放送には、櫻坂46守屋麗奈さんが登場！ 本記事では、櫻坂46が4月11日、12日にMUFGスタジアム（国立競技場）でおこなったライブ「5th YEAR ANNIVERSARY LIVE」について語った模様をお届けします。",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "守屋麗奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
