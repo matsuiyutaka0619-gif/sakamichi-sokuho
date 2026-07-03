@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-07-03T10:17:48.360Z",
+  "updatedAt": "2026-07-03T17:05:38.106Z",
   "articles": [
+    {
+      "id": "33c3928449acb35f",
+      "title": "『成瀬は天下を取りにいく』ゲネプロ！山下美月さまざま衣装やけん玉、セット、劇伴など",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/201099",
+      "publishedAt": "2026-07-03T14:02:46.000Z",
+      "summary": "舞台『成瀬は天下を取りにいく』（脚本・演出：G2）ゲネプロが7月3日に東京・池袋のサンシャイン劇場で開催され主演の山下美月をはじめ藤野涼子、『南海キャンディーズ』山崎静代、ISSEI、天宮良、田畑智子らが熱演を繰り広げ...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "068959eec28de7ff",
+      "title": "HOKUTO「自分で言ったら恥ずかしいな…」ファーストアルバム『JUKE BOX』収録曲「Tiger Boy」制作時に抱いた“葛藤”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260703-4659679/",
+      "publishedAt": "2026-07-03T12:50:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月27日（土）の放送には、HOKUTO（THE RAMPAGE・吉野北人）さんが登場！ 2025年からスタートしたソロプロジェクトについて、また、6月3日（水）にリリースされたファーストアル",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "396f249bbf0cd461",
+      "title": "メッシ、C・ロナウドら“レジェンド選手”がW杯北中米大会でも健在な理由とは？ 元日本代表・鈴木啓太が分析！「決勝カード」の予想も",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260703-4659515/",
+      "publishedAt": "2026-07-03T11:50:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。6月30日（火）の放送には、サッカー元日本代表の鈴木啓太さんが登場！ 本記事では、鈴木さんが「FIFAワールドカップ26（以下、W杯）」で活躍するレジェンド選手についての話や、今大会の決勝カードを予",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "dd65f125d79ace18",
+      "title": "山下美月 主演『成瀬は天下を取りにいく』で「すごく楽しい役」！藤野涼子との漫才に複雑心境",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/201097",
+      "publishedAt": "2026-07-03T11:30:47.000Z",
+      "summary": "俳優・山下美月が7月3日に東京・池袋のサンシャイン劇場で主演舞台『成瀬は天下を取りにいく』（脚本・演出：G2）ゲネプロを前に俳優・藤野涼子、『南海キャンディーズ』山崎静代、ISSEI、天宮良、田畑智子とともに取材会を開...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "021d7d9154c09058",
+      "title": "山下美月、M－1準優勝の“プロ漫才師”の前での漫才披露に「大プレッシャーですね」と冷や汗",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607030001060.html",
+      "publishedAt": "2026-07-03T11:30:00.000Z",
+      "summary": "元乃木坂46で女優の山下美月（26）が3日、都内のサンシャイン劇場で、初の単独主演舞台「成瀬は天下を取りにいく」（4日開幕、同所など）の囲み取材と公開ゲネプロに臨んだ。 宮島未奈氏の小説「成瀬は天下を取りにいく」「成瀬は信じた道をいく」…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "2eb0fc721888b030",
+      "title": "山崎静代、舞台で相方並みの“しゃべり” 共演者も太鼓判「いつもの100倍のスピード」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1025321/",
+      "publishedAt": "2026-07-03T11:30:00.000Z",
+      "summary": "お笑いコンビ・南海キャンディーズの山崎静代が3日、東京・サンシャイン劇場で4日に開幕する舞台『成瀬は天下を取りにいく』の囲み取材に、主演の山下美月、藤野涼子、ISSEI、天宮良、田畑智子と共に出席。相方・山里亮太並みの“ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "5ebe1f5f9328e747",
       "title": "「音楽の日2026」第2弾出演者22組発表！あいみょん、King ＆ Prince、乃木坂46ら集結、DREAMダンス参加メンバーも解禁",
@@ -14,84 +146,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "9a58553ecf3c51e0",
-      "title": "板谷由夏、願い事は「長男の受験合格」 塩野瑛久はひどい忘れ物癖を告白「キャリーケースを忘れたり」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1025318/",
-      "publishedAt": "2026-07-03T09:42:36.000Z",
-      "summary": "俳優の塩野瑛久が3日、都内で行われた映画『ラブ≠コメディ』初日記念舞台あいさつに、主演を務める中島健人をはじめ、長濱ねる、板谷由夏、本多力、紙谷楓監督と共に登壇し忘れ物癖が激しいことを明かした。また板谷は短冊に願いを書く […]",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "ec461f6e4ec263bc",
-      "title": "中島健人、舞台挨拶で客席から登場 観客の熱気に感無量「空気がめちゃくちゃ熱い」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1024895/",
-      "publishedAt": "2026-07-03T09:13:11.000Z",
-      "summary": "アーティストで俳優の中島健人が3日、都内で行われた映画『ラブ≠コメディ』初日記念舞台あいさつに、長濱ねる、板谷由夏、塩野瑛久、本多力、紙谷楓監督と共に登壇し七夕の願いを明かした。映画『ラブ≠コメディ』初日記念舞台あいさつ […]",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "af2a48b39ef938f3",
-      "title": "西野七瀬「あまり本を読んでこなかった人生」図書館職員役に苦戦？「1人で心配になっていた」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607030000927.html",
-      "publishedAt": "2026-07-03T08:17:56.000Z",
-      "summary": "女優西野七瀬（32）が3日、都内でNHK夜ドラ「税金で買った本」（8月24日開始、午後10時45分）取材会に出席した。 同名タイトルの人気漫画が原作。けんかに巻き込まれる日々にうんざりしていたヤンキー高校生の石平紀一（奥平大兼）が、幼少…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "3d0465bf08a2e12d",
@@ -117,28 +171,6 @@
           "name": "奥田いろは",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "902c8ec18de69ca0",
-      "title": "鈴鹿央士×稲垣吾郎×小雪『リーガルビート』キービジュアル公開 新キャストに伊藤万理華ら",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2448800.html",
-      "publishedAt": "2026-07-03T03:00:10.000Z",
-      "summary": "7月24日よりテレ東系で放送がスタートする鈴鹿央士主演のドラマ9『リーガルビート –逆転の法廷–』のキービジュアルが公開。また追加キャストとして、前原瑞樹、夏生大湖、伊藤万理華、田中哲司の出演が発表された。 本作は、",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "伊藤万理華",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -283,28 +315,6 @@
           "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b41c85a887789c8f",
-      "title": "若月佑美、デビュー15周年記念作品集を秋頃発売へ！初の作品展開催も予定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/634616.html",
-      "publishedAt": "2026-06-30T12:00:23.000Z",
-      "summary": "女優・モデルとして活動する若月佑美が、デビュー15周年を記念した作品集を2026年秋頃に発売することを発表した。若月は6月27日、都内で開催したYumi Wakatsuki Birthday Event 2026で同作の刊行を発表。作品集には、長年にわたり創作活動を続け ... The post 若月佑美、デビュー15周年記念作品集を秋頃発売へ！初の作品展開",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "若月佑美",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
