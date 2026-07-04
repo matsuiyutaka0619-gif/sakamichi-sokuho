@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-04T09:10:27.875Z",
+  "updatedAt": "2026-07-04T15:49:53.182Z",
   "articles": [
+    {
+      "id": "7e6a3b9b0e36daa1",
+      "title": "乃木坂46、最新シングル『是非に及ばず』から6期生楽曲「命の色」を今夜24時先行配信",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/88637/",
+      "publishedAt": "2026-07-04T11:25:00.000Z",
+      "summary": "乃木坂46が、7月22日(水)にリリースする42ndシングル『是非に及ばず』に収録される新曲「命の色」を7月5日(日)に先行配信リリースする。 現在「真夏の全国ツアー2026」を敢行中の乃木坂46は、本日7月4日(土)にその北海道公演を真駒内セキスイハイムアイスアリーナにて開催。同公演内で初披露された「命の色」は6期生楽曲となり、フォーメーションセンターは長",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長嶋凛桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "fd3ac792163cdf9b",
       "title": "白石麻衣、美脚あらわな天使すぎるホワイトコーデを披露！！",
@@ -48,28 +70,6 @@
           "name": "長濱ねる",
           "group": "櫻坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "3ccd4d4c2a200bef",
-      "title": "唐沢寿明、佐野勇斗、井上和ら『トイ・ストーリー5』声優がTDLに集結 パレードにも登場",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2450075.html",
-      "publishedAt": "2026-07-03T21:00:35.000Z",
-      "summary": "映画『トイ・ストーリー5』の公開を記念したスペシャルイベントが7月3日に東京ディズニーランドにて開催。唐沢寿明、所ジョージ、広瀬アリス、佐野勇斗、井上和（乃木坂46）、松井ケムリ（令和ロマン）、チョコレートプラネットの松尾駿＆長田庄平の『トイ・ストーリー5』日本版声優8名がサプライズ登場した。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -136,69 +136,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "dd65f125d79ace18",
-      "title": "山下美月 主演『成瀬は天下を取りにいく』で「すごく楽しい役」！藤野涼子との漫才に複雑心境",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/201097",
-      "publishedAt": "2026-07-03T11:30:47.000Z",
-      "summary": "俳優・山下美月が7月3日に東京・池袋のサンシャイン劇場で主演舞台『成瀬は天下を取りにいく』（脚本・演出：G2）ゲネプロを前に俳優・藤野涼子、『南海キャンディーズ』山崎静代、ISSEI、天宮良、田畑智子とともに取材会を開...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5ebe1f5f9328e747",
-      "title": "「音楽の日2026」第2弾出演者22組発表！あいみょん、King ＆ Prince、乃木坂46ら集結、DREAMダンス参加メンバーも解禁",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/653367.html",
-      "publishedAt": "2026-07-03T10:00:24.000Z",
-      "summary": "TBS系の大型音楽特番「音楽の日2026」が、7月18日14時から21時56分まで約8時間にわたって生放送される。第16回を迎える今回の番組テーマは「こえる。きこえる。」。総合司会はTBSアナウンサーの安住紳一郎と江藤愛が務める。第2弾出演アーティストとして、IMP.、 ... The post 「音楽の日2026」第2弾出演者22組発表！あいみょん、Kin",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "3d0465bf08a2e12d",
-      "title": "乃木坂46・五百城茉央＆奥田いろはのフォークデュオ「カフェオーレ」がTIF2026初出演決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/653339.html",
-      "publishedAt": "2026-07-03T03:00:36.000Z",
-      "summary": "フジテレビTOKYO IDOL PROJECTは、7月31日から8月2日まで東京・お台場、青海周辺エリアで開催される「TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック」の出演者第21弾として、乃木坂46の5期生・五百城茉央と ... The post 乃木坂46・五百城茉央＆奥田いろはのフォークデュオ「カフェオー",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
