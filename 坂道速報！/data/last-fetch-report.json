@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T14:11:17.996Z",
+  "updatedAt": "2026-07-05T09:53:34.842Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -28,8 +28,9 @@
     },
     {
       "source": "音楽ナタリー",
-      "count": 30,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 405"
     },
     {
       "source": "マイナビニュース エンタメ",
