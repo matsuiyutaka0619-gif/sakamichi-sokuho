@@ -23,6 +23,12 @@ const GROUPS = [
   { id: "日向坂46", label: "日向坂46" }
 ];
 
+const GROUP_OFFICIAL_MEMBER_URLS = {
+  "乃木坂46": "https://www.nogizaka46.com/s/n46/search/artist",
+  "櫻坂46": "https://sakurazaka46.com/s/s46/search/artist",
+  "日向坂46": "https://www.hinatazaka46.com/s/official/search/artist"
+};
+
 const STATUSES = [
   { id: "all", label: "すべて" },
   { id: "active", label: "現役" },
@@ -254,6 +260,10 @@ function renderMemberDirectory() {
   const member = selectedMember();
   if (member) {
     const count = memberArticleCount(member.name);
+    const officialMemberUrl = GROUP_OFFICIAL_MEMBER_URLS[member.group];
+    const officialLink = member.status === "active" && officialMemberUrl
+      ? `<a class="read-link" href="${officialMemberUrl}" target="_blank" rel="noopener noreferrer">${member.group}公式メンバー一覧で確認</a>`
+      : `<a class="read-link" href="../links/">公式リンク集で確認</a>`;
     overview.innerHTML = `
       <h2>${member.name}</h2>
       <p>${member.name}は、辞書上では${member.group}の${memberStatusText(member)}として登録しています。このページではRSS記事のタイトル・概要に含まれる表記ゆれも含めて照合し、関連ニュースだけを絞り込みます。</p>
@@ -261,12 +271,15 @@ function renderMemberDirectory() {
         <div><dt>分類</dt><dd>${member.group} / ${statusText(member.status)}</dd></div>
         <div><dt>記事数</dt><dd>${count}件</dd></div>
         <div><dt>表記ゆれ</dt><dd>${[member.name, ...(member.aliases || [])].join("、")}</dd></div>
+        <div><dt>確認先</dt><dd>${member.status === "active" ? "公式メンバー一覧" : "卒業後の所属・SNSは公式発表や本人/所属先の案内を確認"}</dd></div>
       </dl>
+      ${officialLink}
     `;
   } else {
     overview.innerHTML = `
       <h2>メンバー別ニュースの使い方</h2>
       <p>メンバー名を選ぶと、ニュース本文を転載せず、RSSのタイトル・概要・辞書情報から関連度の高い記事だけを絞り込みます。現役とOGを同じ辞書で管理しているため、卒業後のドラマ・映画・舞台・ラジオ出演ニュースも追いやすくしています。</p>
+      <p>現役メンバーの在籍情報は各グループの公式メンバー一覧を確認先にしています。卒業後の所属や個人SNSは変わることがあるため、OGはニュース本文や公式発表で確認できる導線を優先します。</p>
     `;
   }
   memberDirectory.append(overview);
@@ -325,12 +338,21 @@ function renderLinks() {
     const list = document.createElement("div");
     list.className = "official-links";
     for (const link of links) {
+      const item = document.createElement("div");
+      item.className = "official-link-item";
       const anchor = document.createElement("a");
       anchor.href = link.url;
       anchor.target = "_blank";
       anchor.rel = "noopener noreferrer";
       anchor.textContent = link.label;
-      list.append(anchor);
+      item.append(anchor);
+      if (link.description) {
+        const note = document.createElement("p");
+        note.className = "official-link-note";
+        note.textContent = link.description;
+        item.append(note);
+      }
+      list.append(item);
       count += 1;
     }
     card.append(title, badge, list);

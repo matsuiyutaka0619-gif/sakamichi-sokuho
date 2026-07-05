@@ -4,29 +4,53 @@
       "name": "乃木坂46",
       "color": "#812990",
       "links": [
-        { "label": "公式サイト", "url": "https://www.nogizaka46.com/" },
-        { "label": "公式YouTube", "url": "https://www.youtube.com/@nogizakahaishinchu" },
-        { "label": "乃木坂配信中", "url": "https://www.youtube.com/@nogizakahaishinchu" },
-        { "label": "公式X", "url": "https://x.com/nogizaka46" }
+        { "label": "公式サイト", "url": "https://www.nogizaka46.com/", "description": "ニュース、スケジュール、メンバープロフィール、ディスコグラフィーなどの入口です。" },
+        { "label": "ニュース", "url": "https://www.nogizaka46.com/s/n46/news/list", "description": "リリース、ライブ、イベント、メディア出演などの公式発表を確認できます。" },
+        { "label": "スケジュール", "url": "https://www.nogizaka46.com/s/n46/media/list", "description": "テレビ、ラジオ、雑誌、配信、イベントなどの出演予定を確認できます。" },
+        { "label": "メンバー", "url": "https://www.nogizaka46.com/s/n46/search/artist", "description": "現役メンバーの公式プロフィール一覧です。" },
+        { "label": "公式ブログ", "url": "https://www.nogizaka46.com/s/n46/diary/MEMBER", "description": "メンバーの公式ブログを確認できます。" },
+        { "label": "ディスコグラフィー", "url": "https://www.nogizaka46.com/s/n46/artist/10001/discography", "description": "シングル、アルバム、映像作品などの公式情報です。" },
+        { "label": "公式X", "url": "https://x.com/nogizaka46", "description": "速報性の高い告知が投稿される公式Xです。" },
+        { "label": "公式Instagram", "url": "https://www.instagram.com/nogizaka46_official/", "description": "ビジュアル告知やオフショットを確認できます。" },
+        { "label": "公式TikTok", "url": "https://www.tiktok.com/@nogizaka46_official", "description": "ショート動画系の公式投稿を確認できます。" },
+        { "label": "OFFICIAL YouTube CHANNEL", "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg", "description": "ミュージックビデオや作品関連動画の公式チャンネルです。" },
+        { "label": "乃木坂配信中", "url": "https://www.youtube.com/channel/UCfvohDfHt1v5N8l3BzPRsWQ", "description": "乃木坂46の2つ目の公式YouTubeチャンネルです。" }
       ]
     },
     {
       "name": "櫻坂46",
       "color": "#f19db5",
       "links": [
-        { "label": "公式サイト", "url": "https://sakurazaka46.com/" },
-        { "label": "公式YouTube", "url": "https://www.youtube.com/@sakurazaka46SMEJ" },
-        { "label": "公式X", "url": "https://x.com/sakurazaka46" }
+        { "label": "公式サイト", "url": "https://sakurazaka46.com/", "description": "ニュース、スケジュール、メンバー、ブログなどの入口です。" },
+        { "label": "ニュース", "url": "https://sakurazaka46.com/s/s46/news/list", "description": "リリース、ライブ、イベント、メディア出演などの公式発表を確認できます。" },
+        { "label": "スケジュール", "url": "https://sakurazaka46.com/s/s46/media/list", "description": "テレビ、ラジオ、配信、イベントなどの出演予定を確認できます。" },
+        { "label": "メンバー", "url": "https://sakurazaka46.com/s/s46/search/artist", "description": "現役メンバーの公式プロフィール一覧です。" },
+        { "label": "公式ブログ", "url": "https://sakurazaka46.com/s/s46/diary/blog", "description": "メンバーの公式ブログを確認できます。" },
+        { "label": "ディスコグラフィー", "url": "https://sakurazaka46.com/s/s46/artist/00/discography", "description": "シングル、アルバム、映像作品などの公式情報です。" },
+        { "label": "公式X", "url": "https://x.com/sakurazaka46", "description": "速報性の高い告知が投稿される公式Xです。" },
+        { "label": "公式Instagram", "url": "https://www.instagram.com/sakurazaka46jp/", "description": "公式Instagramアカウントです。" },
+        { "label": "公式TikTok", "url": "https://www.tiktok.com/@sakurazaka46.officialtk", "description": "ショート動画系の公式投稿を確認できます。" },
+        { "label": "OFFICIAL YouTube CHANNEL", "url": "https://www.youtube.com/channel/UCmr9bYmymcBmQ1p2tLBRvwg", "description": "ミュージックビデオや作品関連動画の公式チャンネルです。" },
+        { "label": "櫻坂チャンネル", "url": "https://www.youtube.com/@sakurazakachannel", "description": "櫻坂46の2つ目の公式YouTubeチャンネルです。" },
+        { "label": "欅坂46アーカイブ", "url": "https://www.keyakizaka46.com/", "description": "前身グループである欅坂46の公式アーカイブです。" }
       ]
     },
     {
       "name": "日向坂46",
       "color": "#7cc7e8",
       "links": [
-        { "label": "公式サイト", "url": "https://www.hinatazaka46.com/" },
-        { "label": "公式YouTube", "url": "https://www.youtube.com/@46officialyoutubechannel99" },
-        { "label": "日向坂ちゃんねる", "url": "https://www.youtube.com/@hinatazakachannel" },
-        { "label": "公式X", "url": "https://x.com/hinatazaka46" }
+        { "label": "公式サイト", "url": "https://www.hinatazaka46.com/", "description": "ニュース、スケジュール、メンバー、ブログなどの入口です。" },
+        { "label": "ニュース", "url": "https://www.hinatazaka46.com/s/official/news/list", "description": "リリース、ライブ、イベント、メディア出演などの公式発表を確認できます。" },
+        { "label": "スケジュール", "url": "https://www.hinatazaka46.com/s/official/media/list", "description": "テレビ、ラジオ、配信、イベントなどの出演予定を確認できます。" },
+        { "label": "メンバー", "url": "https://www.hinatazaka46.com/s/official/search/artist", "description": "現役メンバーの公式プロフィール一覧です。" },
+        { "label": "公式ブログ", "url": "https://www.hinatazaka46.com/s/official/diary/member", "description": "メンバーの公式ブログを確認できます。" },
+        { "label": "ディスコグラフィー", "url": "https://www.hinatazaka46.com/s/official/artist/00/discography", "description": "シングル、アルバム、映像作品などの公式情報です。" },
+        { "label": "動画", "url": "https://www.hinatazaka46.com/s/official/page/video", "description": "公式サイト内の動画情報です。" },
+        { "label": "公式X", "url": "https://x.com/hinatazaka46", "description": "速報性の高い告知が投稿される公式Xです。" },
+        { "label": "公式Instagram", "url": "https://www.instagram.com/hinatazaka46/", "description": "ビジュアル告知やオフショットを確認できます。" },
+        { "label": "公式TikTok", "url": "https://www.tiktok.com/@hinatazakanews", "description": "ショート動画系の公式投稿を確認できます。" },
+        { "label": "OFFICIAL YouTube CHANNEL", "url": "https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA", "description": "ミュージックビデオや作品関連動画の公式チャンネルです。" },
+        { "label": "日向坂ちゃんねる", "url": "https://www.youtube.com/@hinatazakachannel", "description": "日向坂46の2つ目の公式YouTubeチャンネルです。" }
       ]
     }
   ]
