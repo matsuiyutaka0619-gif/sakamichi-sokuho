@@ -74,6 +74,41 @@ function groupClass(group) {
   }[group] || "other";
 }
 
+function statusText(status) {
+  return status === "og" ? "OG" : "現役";
+}
+
+function memberStatusText(member) {
+  return member.status === "og" ? "OGメンバー" : "現役メンバー";
+}
+
+function sourceHost(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+}
+
+function articleContext(article) {
+  const groups = (article.groups || []).join("・") || "坂道関連";
+  const members = (article.memberMatches || []).map((member) => `${member.name}(${statusText(member.status)})`);
+  const source = article.sourceName || "ニュース元";
+  if (members.length) {
+    return `${source}のRSSから取得し、${groups}の${members.join("、")}に関連するニュースとして分類しました。本文と写真は元記事で確認できます。`;
+  }
+  return `${source}のRSSから取得し、タイトルや概要のキーワードをもとに${groups}関連ニュースとして分類しました。本文と写真は元記事で確認できます。`;
+}
+
+function memberArticleCount(name) {
+  return state.articles.filter((article) => (article.memberMatches || []).some((member) => member.name === name)).length;
+}
+
+function selectedMember() {
+  if (!state.activeMember) return null;
+  return state.members.find((member) => member.name === state.activeMember) || null;
+}
+
 function normalize(value) {
   return String(value || "").toLowerCase();
 }
@@ -179,7 +214,7 @@ function render() {
 
     title.textContent = article.title;
     title.href = article.articleUrl;
-    summary.textContent = article.summary || "概要はRSSに含まれていません。";
+    summary.textContent = articleContext(article);
     source.textContent = article.sourceName || "ニュース";
     time.textContent = formatDate(article.publishedAt);
     time.dateTime = article.publishedAt || "";
@@ -194,7 +229,7 @@ function render() {
     for (const status of article.statuses || []) {
       const badge = document.createElement("span");
       badge.className = `badge status-${status}`;
-      badge.textContent = status === "og" ? "OG" : "現役";
+      badge.textContent = statusText(status);
       badges.append(badge);
     }
     for (const member of article.memberMatches || []) {
@@ -213,6 +248,28 @@ function renderMemberDirectory() {
   memberDirectory.hidden = false;
   const groups = ["乃木坂46", "櫻坂46", "日向坂46"];
   memberDirectory.innerHTML = "";
+
+  const overview = document.createElement("section");
+  overview.className = "member-guide";
+  const member = selectedMember();
+  if (member) {
+    const count = memberArticleCount(member.name);
+    overview.innerHTML = `
+      <h2>${member.name}</h2>
+      <p>${member.name}は、辞書上では${member.group}の${memberStatusText(member)}として登録しています。このページではRSS記事のタイトル・概要に含まれる表記ゆれも含めて照合し、関連ニュースだけを絞り込みます。</p>
+      <dl class="member-profile">
+        <div><dt>分類</dt><dd>${member.group} / ${statusText(member.status)}</dd></div>
+        <div><dt>記事数</dt><dd>${count}件</dd></div>
+        <div><dt>表記ゆれ</dt><dd>${[member.name, ...(member.aliases || [])].join("、")}</dd></div>
+      </dl>
+    `;
+  } else {
+    overview.innerHTML = `
+      <h2>メンバー別ニュースの使い方</h2>
+      <p>メンバー名を選ぶと、ニュース本文を転載せず、RSSのタイトル・概要・辞書情報から関連度の高い記事だけを絞り込みます。現役とOGを同じ辞書で管理しているため、卒業後のドラマ・映画・舞台・ラジオ出演ニュースも追いやすくしています。</p>
+    `;
+  }
+  memberDirectory.append(overview);
 
   const reset = document.createElement("a");
   reset.className = `member-pill${state.activeMember ? "" : " is-active"}`;
@@ -233,7 +290,8 @@ function renderMemberDirectory() {
       const link = document.createElement("a");
       link.className = `member-pill${member.name === state.activeMember ? " is-active" : ""}`;
       link.href = `?member=${encodeURIComponent(member.name)}`;
-      link.textContent = `${member.name}${member.status === "og" ? " / OG" : ""}`;
+      const count = memberArticleCount(member.name);
+      link.innerHTML = `<span>${member.name}</span><small>${statusText(member.status)} / ${count}件</small>`;
       list.append(link);
     }
     section.append(list);
