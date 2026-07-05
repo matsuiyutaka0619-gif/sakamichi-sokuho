@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-07-05T09:53:34.841Z",
+  "updatedAt": "2026-07-05T16:18:15.782Z",
   "articles": [
-    {
-      "id": "0008d0e1f570979e",
-      "title": "乃木坂46長嶋凛桜、６期生楽曲「命の色」で自身初センター 地元の北海道公演で同曲初披露",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607050001152.html",
-      "publishedAt": "2026-07-05T08:58:18.000Z",
-      "summary": "乃木坂46長嶋凛桜（19）が、6期生楽曲「命の色」でセンターを務める。自身初のセンター曲となる。 同曲は7月22日にリリースされるグループの42枚目シングル「是非に及ばず」に収録され、4日に行われた「真夏の全国ツアー2026」北海道・真…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "長嶋凛桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
     {
       "id": "d5a59f8f96331619",
       "title": "中島健人「日本中を元気にする映画が完成」長濱ねるら映画「ラブ≠コメディ」初日舞台挨拶に登壇",
@@ -92,28 +70,6 @@
           "name": "長嶋凛桜",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fd3ac792163cdf9b",
-      "title": "白石麻衣、美脚あらわな天使すぎるホワイトコーデを披露！！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/634418.html",
-      "publishedAt": "2026-07-04T03:00:38.000Z",
-      "summary": "6月28日、モデルで女優の白石麻衣が自身のInstagramを更新した。白石麻衣は街角でホワイトコーデを爽やかに着こなし、ナチュラルな笑顔と洗練されたスタイルを披露し「Paris」とコメントを寄せた。本投稿にファンからは、「可愛すぎてえぐい」「おんなじコーディネートちた ... The post 白石麻衣、美脚あらわな天使すぎるホワイトコーデを披露！！ fi",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -1012,20 +968,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "ac89faaacbf0860f",
-      "title": "狂喜を極めた櫻坂46の国立ライブ、世界を見据えるグループが超えたアイドルソングの可能性",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/85158/",
-      "publishedAt": "2026-04-25T08:00:00.000Z",
-      "summary": "櫻坂46が、MUFGスタジアム（国立競技場）にてグループの周年を記念する“アニラ”こと「5th YEAR ANNIVERSARY LIVE」を4月11・12日の2日間に渡り開催。坂道グループでの国立競技場での単独公演は初であり、櫻坂46並びにBuddies（櫻坂46のファンの総称）にとっても、もちろん史上最大のステージであった。この公演のリピート配信を前に、",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
