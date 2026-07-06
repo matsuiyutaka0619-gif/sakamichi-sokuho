@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T14:08:41.365Z",
+  "updatedAt": "2026-07-06T22:46:41.733Z",
   "articles": [
     {
       "id": "c9a784c033f18401",
@@ -68,56 +68,6 @@
         },
         {
           "name": "中西アルノ",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d5a59f8f96331619",
-      "title": "中島健人「日本中を元気にする映画が完成」長濱ねるら映画「ラブ≠コメディ」初日舞台挨拶に登壇",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/cinema/653876.html",
-      "publishedAt": "2026-07-05T03:00:24.000Z",
-      "summary": "映画「ラブ≠コメディ」の公開初日記念舞台挨拶が7月3日、東京・TOHOシネマズ日比谷で行われ、主演の中島健人をはじめ、長濱ねる、板谷由夏、塩野瑛久、本多力、紙谷楓監督が登壇した。本作は、数々のラブコメ作品で主演を務めてきた人気俳優兼アイドルの神崎麗司が、アイドルの南風美 ... The post 中島健人「日本中を元気にする映画が完成」長濱ねるら映画「ラブ≠",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6372555100bf0f35",
-      "title": "乃木坂46、6期生楽曲「命の色」を先行配信！長嶋凛桜が初センター",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/653871.html",
-      "publishedAt": "2026-07-05T02:30:52.000Z",
-      "summary": "乃木坂46が、2026年7月22日に発売する42枚目のシングル「是非に及ばず」に収録される6期生楽曲「命の色」を、7月5日午前0時から先行配信する。「命の色」は、7月4日に北海道の真駒内セキスイハイムアイスアリーナで開催された「真夏の全国ツアー2026」の公演で発表され ... The post 乃木坂46、6期生楽曲「命の色」を先行配信！長嶋凛桜が初センタ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "長嶋凛桜",
           "group": "乃木坂46",
           "status": "active"
         }
