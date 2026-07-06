@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-07-05T21:43:13.540Z",
+  "updatedAt": "2026-07-06T14:08:41.365Z",
   "articles": [
+    {
+      "id": "c9a784c033f18401",
+      "title": "乃木坂46ニューシングルの収録内容解禁、表題曲選抜メンバーによる「告白したい病」が全形態に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/88788/",
+      "publishedAt": "2026-07-06T09:30:00.000Z",
+      "summary": "7月22日(水)に発売される乃木坂46の42ndシングル『是非に及ばず』の全収録楽曲と歌唱メンバーが解禁された。 本作には5期生・一ノ瀬美空がセンターを務める表題曲と、42ndシングル選抜メンバーが歌唱する「告白したい病」を全形態共通曲として収録。また全4種類の初回限定盤では、TYPE-Aに小川彩がセンターを務めるアンダー曲「フォルテシモ」、TYPE-Bに井",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "筒井あやめ",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "弓木奈於",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "冨里奈央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "中西アルノ",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "d5a59f8f96331619",
       "title": "中島健人「日本中を元気にする映画が完成」長濱ねるら映画「ラブ≠コメディ」初日舞台挨拶に登壇",
@@ -74,28 +146,6 @@
       ]
     },
     {
-      "id": "33c3928449acb35f",
-      "title": "『成瀬は天下を取りにいく』ゲネプロ！山下美月さまざま衣装やけん玉、セット、劇伴など",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/201099",
-      "publishedAt": "2026-07-03T14:02:46.000Z",
-      "summary": "舞台『成瀬は天下を取りにいく』（脚本・演出：G2）ゲネプロが7月3日に東京・池袋のサンシャイン劇場で開催され主演の山下美月をはじめ藤野涼子、『南海キャンディーズ』山崎静代、ISSEI、天宮良、田畑智子らが熱演を繰り広げ...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "068959eec28de7ff",
       "title": "HOKUTO「自分で言ったら恥ずかしいな…」ファーストアルバム『JUKE BOX』収録曲「Tiger Boy」制作時に抱いた“葛藤”とは？",
       "sourceName": "マイナビニュース 芸能",
@@ -134,28 +184,6 @@
       "memberMatches": [
         {
           "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "dd65f125d79ace18",
-      "title": "山下美月 主演『成瀬は天下を取りにいく』で「すごく楽しい役」！藤野涼子との漫才に複雑心境",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/201097",
-      "publishedAt": "2026-07-03T11:30:47.000Z",
-      "summary": "俳優・山下美月が7月3日に東京・池袋のサンシャイン劇場で主演舞台『成瀬は天下を取りにいく』（脚本・演出：G2）ゲネプロを前に俳優・藤野涼子、『南海キャンディーズ』山崎静代、ISSEI、天宮良、田畑智子とともに取材会を開...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
           "group": "乃木坂46",
           "status": "og"
         }
