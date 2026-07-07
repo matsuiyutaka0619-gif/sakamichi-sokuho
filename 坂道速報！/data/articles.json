@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-07-06T22:46:41.733Z",
+  "updatedAt": "2026-07-07T11:26:08.343Z",
   "articles": [
+    {
+      "id": "fbfd090b9298eadb",
+      "title": "長濱ねる、美デコルテ私服コーデオフショット “大人の抜け感”際立つ豊富な衣装写真も",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2453092.html",
+      "publishedAt": "2026-07-07T10:00:58.000Z",
+      "summary": "俳優の長濱ねるが自身のInstagramを更新し、映画の番宣用に着用したバリエーション豊かな衣装や私服のオフショットを披露した。 投稿には、ヒロイン役を務めた映画『ラブ≒コメディ』の公開を報告する長濱の姿が。 淡いグ",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "ec6a8d38b0190fc3",
+      "title": "今泉佑唯、将来の家族を占ってもらうと…「私、自分でも5人は欲しいと思ってた!」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260707-4673680/",
+      "publishedAt": "2026-07-07T07:10:00.000Z",
+      "summary": "今泉佑唯が、「今後、何人家族になるのか」をテーマに鑑定を依頼。占い師から意外な鑑定結果を告げられると、「私、自分でも5人は欲しいと思ってたんですよ!」と驚きの表情を見せた。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "今泉佑唯",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d42274d4ca554867",
+      "title": "サンボマスター、新曲「またあえるかな」が「ふくしまプライド。」夏季CMのBGMに決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1076916",
+      "publishedAt": "2026-07-07T03:00:00.000Z",
+      "summary": "サンボマスターが、本日から放映される「ふくしまプライド。」夏季CMのBGMに、最新曲「またあえるかな」が決定したことをアナウンスした。 本楽曲は、JRグループと県・市町村・地元の観光事業者などが一体となり福島県の各地域の魅力を発信する観光キャンペーン「ふくしまデスティネーションキャンペーン（ふくしまDC）」のテーマソングとして書き下ろされたものとなる。公開さ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "c9a784c033f18401",
       "title": "乃木坂46ニューシングルの収録内容解禁、表題曲選抜メンバーによる「告白したい病」が全形態に",
@@ -922,28 +994,6 @@
           "name": "梅澤美波",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "55886ae0e237a4da",
-      "title": "櫻坂46「5thアニラ」国立競技場公演からダンスパフォーマンス映像公開、コレオは武元唯衣",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/85384/",
-      "publishedAt": "2026-04-26T13:10:00.000Z",
-      "summary": "櫻坂46が、4月11日(土)・12日(日)の2日間開催した「5th YEAR ANNIVERSARY LIVE」の中盤で披露されたダンスパフォーマンス映像を公開した。 このパートのコレオグラフィーを手がけたのは、最新シングル『The growing up train』の活動をもって卒業を発表している二期生・武元唯衣。左右に分かれて鏡写しのように見えるシンメト",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "武元唯衣",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     }
