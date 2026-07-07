@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-07T11:26:08.343Z",
+  "updatedAt": "2026-07-07T19:20:42.507Z",
   "articles": [
+    {
+      "id": "084e54df21489f0c",
+      "title": "乃木坂46の5期生、『メイク キープ』イメージキャラクター就任3年目 井上和は成長実感「大人になったなと」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1027451/",
+      "publishedAt": "2026-07-07T19:00:00.000Z",
+      "summary": "アイドルグループ・乃木坂46の5期生が、「メイク キープ」シリーズの新テレビCM「メイク仕上げの新習慣！」篇に出演することが8日、発表された。新テレビCM「メイク仕上げの新習慣！」篇に出演 アイドルグループ・乃木坂46 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "fbfd090b9298eadb",
       "title": "長濱ねる、美デコルテ私服コーデオフショット “大人の抜け感”際立つ豊富な衣装写真も",
@@ -32,8 +54,8 @@
     {
       "id": "ec6a8d38b0190fc3",
       "title": "今泉佑唯、将来の家族を占ってもらうと…「私、自分でも5人は欲しいと思ってた!」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260707-4673680/",
       "publishedAt": "2026-07-07T07:10:00.000Z",
       "summary": "今泉佑唯が、「今後、何人家族になるのか」をテーマに鑑定を依頼。占い師から意外な鑑定結果を告げられると、「私、自分でも5人は欲しいと思ってたんですよ!」と驚きの表情を見せた。",
@@ -47,28 +69,6 @@
         {
           "name": "今泉佑唯",
           "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d42274d4ca554867",
-      "title": "サンボマスター、新曲「またあえるかな」が「ふくしまプライド。」夏季CMのBGMに決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1076916",
-      "publishedAt": "2026-07-07T03:00:00.000Z",
-      "summary": "サンボマスターが、本日から放映される「ふくしまプライド。」夏季CMのBGMに、最新曲「またあえるかな」が決定したことをアナウンスした。 本楽曲は、JRグループと県・市町村・地元の観光事業者などが一体となり福島県の各地域の魅力を発信する観光キャンペーン「ふくしまデスティネーションキャンペーン（ふくしまDC）」のテーマソングとして書き下ろされたものとなる。公開さ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
