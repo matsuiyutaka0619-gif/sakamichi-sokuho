@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-08T09:32:48.373Z",
+  "updatedAt": "2026-07-08T14:42:44.555Z",
   "articles": [
+    {
+      "id": "89438216bd271dd8",
+      "title": "乃木坂46賀喜遥香「みんなめっちゃかわいい！」『真夏の全国ツアー2026』から6期生メンバーに解禁されたこととは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260708-4678787/",
+      "publishedAt": "2026-07-08T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月2日（木）の放送では、現在開催中の「真夏の全国ツアー2026」に参加した生徒（リスナー）から寄せられたメッセージを紹介しました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "4267779ef365de65",
       "title": "元乃木坂・樋口日奈、グループ時代“イヤだったこと”暴露 元日向坂メンバーも共感「ありましたね」",
@@ -30,32 +52,10 @@
       ]
     },
     {
-      "id": "40fb017ac18c2db2",
-      "title": "影山優佳、将来の夢は劇作家 ミュージカル初挑戦で大先輩・市村正親らと共演「いっぱい教えてください」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1027667/",
-      "publishedAt": "2026-07-08T06:52:10.000Z",
-      "summary": "日向坂46元メンバーでタレントの影山優佳が8日、都内で行われたミュージカル『シークレットステージ』製作発表会見に市村正親、中川晃教、東島京、渡辺えりとともに登壇。ミュージカル初緒戦となる本作への意気込みを語った。ミュージ […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "8d90c184435d48b0",
       "title": "元乃木坂46樋口日奈「鍵を握る大切な存在」に ドラマ『今夜もシリアルキラーと待ち合わせ』出演",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260708-4674053/",
       "publishedAt": "2026-07-07T22:30:00.000Z",
       "summary": "元乃木坂46の樋口日奈が、横山裕主演のカンテレ・フジテレビ系ドラマ『今夜もシリアルキラーと待ち合わせ』(毎週水曜23:00～)に出演するする。今夜放送の第2話から登場し、物語の鍵を握る重要人物を演じる。",
