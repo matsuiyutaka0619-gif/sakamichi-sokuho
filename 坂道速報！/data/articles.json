@@ -1,52 +1,74 @@
 {
-  "updatedAt": "2026-07-07T19:20:42.507Z",
+  "updatedAt": "2026-07-08T09:32:48.373Z",
   "articles": [
     {
-      "id": "084e54df21489f0c",
-      "title": "乃木坂46の5期生、『メイク キープ』イメージキャラクター就任3年目 井上和は成長実感「大人になったなと」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1027451/",
-      "publishedAt": "2026-07-07T19:00:00.000Z",
-      "summary": "アイドルグループ・乃木坂46の5期生が、「メイク キープ」シリーズの新テレビCM「メイク仕上げの新習慣！」篇に出演することが8日、発表された。新テレビCM「メイク仕上げの新習慣！」篇に出演 アイドルグループ・乃木坂46 […]",
+      "id": "4267779ef365de65",
+      "title": "元乃木坂・樋口日奈、グループ時代“イヤだったこと”暴露 元日向坂メンバーも共感「ありましたね」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/07/08/20163564783/",
+      "publishedAt": "2026-07-08T08:30:00.000Z",
+      "summary": "7日深夜放送『紙とさまぁ～ず』（テレビ東京系）にアイドルグループ・乃木坂46を卒業した樋口日奈と日向坂46の元メンバー・佐々木美玲が登場。樋口が“グループ時代にイヤだったこと”を赤裸々に語り、佐々木が共感する一幕があった…",
       "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fbfd090b9298eadb",
-      "title": "長濱ねる、美デコルテ私服コーデオフショット “大人の抜け感”際立つ豊富な衣装写真も",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2453092.html",
-      "publishedAt": "2026-07-07T10:00:58.000Z",
-      "summary": "俳優の長濱ねるが自身のInstagramを更新し、映画の番宣用に着用したバリエーション豊かな衣装や私服のオフショットを披露した。 投稿には、ヒロイン役を務めた映画『ラブ≒コメディ』の公開を報告する長濱の姿が。 淡いグ",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
+        "乃木坂46",
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "長濱ねる",
-          "group": "日向坂46",
+          "name": "樋口日奈",
+          "group": "乃木坂46",
           "status": "og"
         },
         {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
+          "name": "佐々木美玲",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "40fb017ac18c2db2",
+      "title": "影山優佳、将来の夢は劇作家 ミュージカル初挑戦で大先輩・市村正親らと共演「いっぱい教えてください」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1027667/",
+      "publishedAt": "2026-07-08T06:52:10.000Z",
+      "summary": "日向坂46元メンバーでタレントの影山優佳が8日、都内で行われたミュージカル『シークレットステージ』製作発表会見に市村正親、中川晃教、東島京、渡辺えりとともに登壇。ミュージカル初緒戦となる本作への意気込みを語った。ミュージ […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8d90c184435d48b0",
+      "title": "元乃木坂46樋口日奈「鍵を握る大切な存在」に ドラマ『今夜もシリアルキラーと待ち合わせ』出演",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260708-4674053/",
+      "publishedAt": "2026-07-07T22:30:00.000Z",
+      "summary": "元乃木坂46の樋口日奈が、横山裕主演のカンテレ・フジテレビ系ドラマ『今夜もシリアルキラーと待ち合わせ』(毎週水曜23:00～)に出演するする。今夜放送の第2話から登場し、物語の鍵を握る重要人物を演じる。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "樋口日奈",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
