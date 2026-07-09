@@ -1,24 +1,73 @@
 {
-  "updatedAt": "2026-07-09T09:59:10.102Z",
+  "updatedAt": "2026-07-09T15:35:51.429Z",
   "articles": [
     {
-      "id": "2f4b7307bda22c31",
-      "title": "フジ原田葵アナ「ぽかぽか」レギュラー復帰も「戻ってきたくなかったですよ。だって…」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607090000667.html",
-      "publishedAt": "2026-07-09T08:11:40.000Z",
-      "summary": "フジテレビ原田葵アナウンサー（26）が9日、同局「ぽかぽか」（月～金曜午前11時47分）に生出演。FIFAワールドカップ（W杯）北中米大会の現地取材から戻り、同番組の木曜レギュラーに“復帰”した。 番組冒頭、MCのハライチ澤部佑が「戻っ…",
+      "id": "c7ab947b8653bddf",
+      "title": "乃木坂46賀喜遥香「ファンの人がめっちゃ頭を抱えて…（笑）」ライブ中に思わず笑顔になった質問とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260709-4682604/",
+      "publishedAt": "2026-07-09T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月2日（木）の放送では、現在開催中の「真夏の全国ツアー2026」に参加した生徒（リスナー）から寄せられたメッセージを紹介しました。",
       "groups": [
-        "櫻坂46"
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cba005c5d067f780",
+      "title": "「寝坊ぶちかましました」「起きたら1時56分で…」元日向坂46松田好花、生放送の入り時間に起床",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260709-4680647/",
+      "publishedAt": "2026-07-09T12:30:00.000Z",
+      "summary": "「ヤバい! もう入り時間だ……!」元日向坂46でタレントの松田好花が、寝坊の“失敗談”を明かした――。",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "原田葵",
-          "group": "櫻坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "24ac78b80e7f7bd6",
+      "title": "元乃木坂46・若月佑美＆樋口日奈「弾丸ツーリングデート」 愛車ショットにファン注目「ライダー姿カッコイイ！」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1028728/",
+      "publishedAt": "2026-07-09T11:47:05.000Z",
+      "summary": "元乃木坂46で俳優の若月佑美が9日、同じく元メンバーの樋口日奈と共にツーリングに出かけたことを明かした。「ひなちまもバイク女子なんだねー」の声 元乃木坂46で俳優の若月佑美が9日、同じく元メンバーの樋口日奈と共にツーリ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "樋口日奈",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "若月佑美",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
