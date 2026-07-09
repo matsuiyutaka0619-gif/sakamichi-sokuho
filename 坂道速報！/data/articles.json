@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-09T04:16:10.307Z",
+  "updatedAt": "2026-07-09T09:59:10.102Z",
   "articles": [
+    {
+      "id": "2f4b7307bda22c31",
+      "title": "フジ原田葵アナ「ぽかぽか」レギュラー復帰も「戻ってきたくなかったですよ。だって…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607090000667.html",
+      "publishedAt": "2026-07-09T08:11:40.000Z",
+      "summary": "フジテレビ原田葵アナウンサー（26）が9日、同局「ぽかぽか」（月～金曜午前11時47分）に生出演。FIFAワールドカップ（W杯）北中米大会の現地取材から戻り、同番組の木曜レギュラーに“復帰”した。 番組冒頭、MCのハライチ澤部佑が「戻っ…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "原田葵",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "dce4fe09b28a2144",
       "title": "佐々木美玲、シックなブラックドレスで美プロポーション披露",
@@ -41,37 +63,10 @@
       ]
     },
     {
-      "id": "fd0c25f6afcd4952",
-      "title": "乃木坂46川﨑桜＆小川彩、支え合う同期の絆「頑張れないと思った時には彩を必ず見る」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1027292/",
-      "publishedAt": "2026-07-09T02:10:00.000Z",
-      "summary": "ショートドラマアプリ・FOD SHORTにて配信中のドラマ『野球少女鷲尾』で共演している乃木坂46の川﨑桜と小川彩。劇中では、2人が演じる鷲尾史保（川﨑）と金森凜（小川）が支え合いながら成長していく姿が描かれているが、実 […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "89438216bd271dd8",
       "title": "乃木坂46賀喜遥香「みんなめっちゃかわいい！」『真夏の全国ツアー2026』から6期生メンバーに解禁されたこととは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260708-4678787/",
       "publishedAt": "2026-07-08T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月2日（木）の放送では、現在開催中の「真夏の全国ツアー2026」に参加した生徒（リスナー）から寄せられたメッセージを紹介しました。",
