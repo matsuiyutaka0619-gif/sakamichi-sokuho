@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-07-08T19:57:38.892Z",
+  "updatedAt": "2026-07-09T04:16:10.307Z",
   "articles": [
+    {
+      "id": "dce4fe09b28a2144",
+      "title": "佐々木美玲、シックなブラックドレスで美プロポーション披露",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/653948.html",
+      "publishedAt": "2026-07-09T03:00:20.000Z",
+      "summary": "タレント、モデルの佐々木美玲が7月5日までに自身のInstagramを更新した。佐々木美玲は黒のノースリーブトップスにミニスカートを合わせた、上品で洗練されたブラックコーデを披露！本投稿には、尾関梨香、佐々木久美、小池美波ら著名人ふくむ多くの人物より「いいね」が寄せられ ... The post 佐々木美玲、シックなブラックドレスで美プロポーション披露 fi",
+      "groups": [
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "小池美波",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐々木久美",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "佐々木美玲",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "尾関梨香",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fd0c25f6afcd4952",
+      "title": "乃木坂46川﨑桜＆小川彩、支え合う同期の絆「頑張れないと思った時には彩を必ず見る」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1027292/",
+      "publishedAt": "2026-07-09T02:10:00.000Z",
+      "summary": "ショートドラマアプリ・FOD SHORTにて配信中のドラマ『野球少女鷲尾』で共演している乃木坂46の川﨑桜と小川彩。劇中では、2人が演じる鷲尾史保（川﨑）と金森凜（小川）が支え合いながら成長していく姿が描かれているが、実 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "89438216bd271dd8",
       "title": "乃木坂46賀喜遥香「みんなめっちゃかわいい！」『真夏の全国ツアー2026』から6期生メンバーに解禁されたこととは？",
@@ -20,34 +86,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4267779ef365de65",
-      "title": "元乃木坂・樋口日奈、グループ時代“イヤだったこと”暴露 元日向坂メンバーも共感「ありましたね」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/07/08/20163564783/",
-      "publishedAt": "2026-07-08T08:30:00.000Z",
-      "summary": "7日深夜放送『紙とさまぁ～ず』（テレビ東京系）にアイドルグループ・乃木坂46を卒業した樋口日奈と日向坂46の元メンバー・佐々木美玲が登場。樋口が“グループ時代にイヤだったこと”を赤裸々に語り、佐々木が共感する一幕があった…",
-      "groups": [
-        "乃木坂46",
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "樋口日奈",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "佐々木美玲",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
@@ -338,28 +376,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5ff662af0883a589",
-      "title": "乃木坂46賀喜遥香「自分がアニメの主人公なんだって…」緊張を力に変えるための“秘策”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260630-4648163/",
-      "publishedAt": "2026-06-30T12:00:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月25日（木）の放送では、生徒（リスナー）から寄せられたメッセージを紹介。本記事では、緊張したときの対処法について語った模様をお届けします。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
