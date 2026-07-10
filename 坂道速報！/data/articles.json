@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-07-09T20:07:15.899Z",
+  "updatedAt": "2026-07-10T04:18:11.454Z",
   "articles": [
+    {
+      "id": "bf22eb0270db32c3",
+      "title": "亀梨和也、奥智哉、生田絵梨花らのコメントも 『銭形平次』NHK総合で8月21日放送決定",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2455945.html",
+      "publishedAt": "2026-07-10T03:00:28.000Z",
+      "summary": "亀梨和也が主演を務めるスペシャル時代劇『銭形平次』が、8月21日22時よりNHK総合で放送されることが決定。あわせてキービジュアルと役衣装写真が公開された。 野村胡堂が生んだ国民的キャラクター・銭形平次は、1931年",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "0070369d6855d557",
+      "title": "梨園の妻となった元乃木坂46、新婚旅行でのビーチショット公開 能條愛未がモルディブ満喫「最高の楽園」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1028871/",
+      "publishedAt": "2026-07-10T02:21:29.000Z",
+      "summary": "元乃木坂46で俳優の能條愛未が10日、自身のインスタグラムで新婚旅行としてモルディブを訪れたことを報告した。中村橋之助と結婚 元乃木坂46で俳優の能條愛未が10日、自身のインスタグラムで新婚旅行としてモルディブを訪れた […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "能條愛未",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "752265a0a13d57e9",
+      "title": "乃木坂46小川彩・柴田柚菜、AKB48佐藤綺星ら「BLACK SUMMER WEEK supported by クーリッシュ」スペシャルリポーターに決定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sports/654795.html",
+      "publishedAt": "2026-07-09T23:30:49.000Z",
+      "summary": "千葉ロッテマリーンズは、7月10日のオリックス戦からZOZOマリンスタジアムで開催する夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ」のスペシャルリポーターを発表した。スペシャルリポーターには、タレントの黒木芽依、ラジ ... The post 乃木坂46小川彩・柴田柚菜、AKB48佐藤綺星ら「BLACK ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c7ab947b8653bddf",
       "title": "乃木坂46賀喜遥香「ファンの人がめっちゃ頭を抱えて…（笑）」ライブ中に思わず笑顔になった質問とは？",
@@ -41,33 +112,6 @@
         {
           "name": "松田好花",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "24ac78b80e7f7bd6",
-      "title": "元乃木坂46・若月佑美＆樋口日奈「弾丸ツーリングデート」 愛車ショットにファン注目「ライダー姿カッコイイ！」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1028728/",
-      "publishedAt": "2026-07-09T11:47:05.000Z",
-      "summary": "元乃木坂46で俳優の若月佑美が9日、同じく元メンバーの樋口日奈と共にツーリングに出かけたことを明かした。「ひなちまもバイク女子なんだねー」の声 元乃木坂46で俳優の若月佑美が9日、同じく元メンバーの樋口日奈と共にツーリ […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "樋口日奈",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "若月佑美",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -398,28 +442,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e1b9065359b41230",
-      "title": "元日本代表・鈴木啓太「ブラジルはサッカーを知っている」W杯・ブラジル戦を総括…敗戦で見えた“20年間の進化”と次なる課題とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260701-4651840/",
-      "publishedAt": "2026-07-01T11:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。6月30日（火）の放送には、サッカー元日本代表の鈴木啓太さんが登場！ 本記事では、この日（日本時間：午前2時）におこなわれた「FIFAワールドカップ26（以下、W杯）」決勝トーナメント1回戦 日本対",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -1054,28 +1076,6 @@
           "name": "藤嶌果歩",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3a9088f5f85adf91",
-      "title": "今はとにかく経験が欲しい。乃木坂46・梅澤美波が思う“人の自立に必要なもの”",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/04/85308/",
-      "publishedAt": "2026-04-30T10:00:00.000Z",
-      "summary": "「自分にしかできないこと」を追い求めた10年間。個人として唯一無二になりたいと願っていた梅澤美波は3年前、日本を代表するアイドルグループ・乃木坂46のキャプテンに就任した。そして今、その役目を「私にしかできなかった」と語る彼女は、誰もが認める唯一無二のキャプテンになった。 そんな梅澤美波が、5月にグループから卒業する。大きな転換期を迎えた彼女が、この春放送の",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     }
