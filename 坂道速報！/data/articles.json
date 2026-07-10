@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-10T04:18:11.454Z",
+  "updatedAt": "2026-07-10T09:54:33.061Z",
   "articles": [
+    {
+      "id": "dfc96b9f87c0d9f6",
+      "title": "【速報】櫻坂46・山﨑天、ZOZOマリンスタジアムにて始球式に登板！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sports/654837.html",
+      "publishedAt": "2026-07-10T09:45:31.000Z",
+      "summary": "7月10日、櫻坂46・山﨑天が千葉・ZOZOマリンスタジアムにて「BLACK SUMMER WEEK supported by クーリッシュ」始球式に登板した。山﨑天の力強い投球に場内全体から大歓声が起こった。＜櫻坂46山﨑天 コメント＞「2年連続で始球式を務めさせてい ... The post 【速報】櫻坂46・山﨑天、ZOZOマリンスタジアムにて始球式に",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "bf22eb0270db32c3",
       "title": "亀梨和也、奥智哉、生田絵梨花らのコメントも 『銭形平次』NHK総合で8月21日放送決定",
@@ -24,24 +46,24 @@
       ]
     },
     {
-      "id": "0070369d6855d557",
-      "title": "梨園の妻となった元乃木坂46、新婚旅行でのビーチショット公開 能條愛未がモルディブ満喫「最高の楽園」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1028871/",
-      "publishedAt": "2026-07-10T02:21:29.000Z",
-      "summary": "元乃木坂46で俳優の能條愛未が10日、自身のインスタグラムで新婚旅行としてモルディブを訪れたことを報告した。中村橋之助と結婚 元乃木坂46で俳優の能條愛未が10日、自身のインスタグラムで新婚旅行としてモルディブを訪れた […]",
+      "id": "353d737ed80456cd",
+      "title": "ロッテ、櫻坂46・山﨑天さんが2年連続の始球式「自己採点は100点です！」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260710-4685865/",
+      "publishedAt": "2026-07-10T00:48:20.000Z",
+      "summary": "ロッテ－オリックス（ZOZOマリンスタジアム）の試合前に、大人気女性グループの櫻坂46山﨑天さんが始球式を務めた。 山﨑さんは球団を通じて「2年連続で始球式を務めさせていただけるなんて思っ…",
       "groups": [
-        "乃木坂46"
+        "櫻坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "能條愛未",
-          "group": "乃木坂46",
-          "status": "og"
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
         }
       ]
     },
@@ -75,8 +97,8 @@
     {
       "id": "c7ab947b8653bddf",
       "title": "乃木坂46賀喜遥香「ファンの人がめっちゃ頭を抱えて…（笑）」ライブ中に思わず笑顔になった質問とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260709-4682604/",
       "publishedAt": "2026-07-09T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月2日（木）の放送では、現在開催中の「真夏の全国ツアー2026」に参加した生徒（リスナー）から寄せられたメッセージを紹介しました。",
@@ -91,28 +113,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cba005c5d067f780",
-      "title": "「寝坊ぶちかましました」「起きたら1時56分で…」元日向坂46松田好花、生放送の入り時間に起床",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260709-4680647/",
-      "publishedAt": "2026-07-09T12:30:00.000Z",
-      "summary": "「ヤバい! もう入り時間だ……!」元日向坂46でタレントの松田好花が、寝坊の“失敗談”を明かした――。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
