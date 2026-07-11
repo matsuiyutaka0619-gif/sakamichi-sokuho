@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-07-10T19:54:17.091Z",
+  "updatedAt": "2026-07-11T03:45:27.092Z",
   "articles": [
+    {
+      "id": "67c0e1f9be844e5a",
+      "title": "齊藤京子「いつでも面白くてお優しいお２人」ベテランお笑いコンビの配信番組に出演",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607110000385.html",
+      "publishedAt": "2026-07-11T02:58:32.000Z",
+      "summary": "齊藤京子（28）が11日までにインスタグラムを更新。お笑いコンビ、さまぁ～ずのYouTubeチャンネルに出演したことを報告した。 齊藤はストーリーズに「さまぁ～ずチャンネル お邪魔させていただきました 本当にいつでも面白くてお優しいお2…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齊藤京子",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d2c2091946113d22",
+      "title": "ぼっちぼろまる、新曲がアニメ『逃げ上手の若君』第2期EDテーマに 日向坂46メンバー3名がゲスト参加",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2457359.html",
+      "publishedAt": "2026-07-11T02:35:48.000Z",
+      "summary": "ぼっちぼろまるの新曲「ロマンティックがほしいなら」が、TVアニメ『逃げ上手の若君』第2期エンディングテーマに起用。また、本楽曲は7月18日に配信リリースされる。 本楽曲は、連載開始当初から原作のファンであったぼっちぼ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1f3e19bb956c9db9",
+      "title": "長濱ねる、ピタピタワンピで体のラインくっきり 「本当にすごい」「かなり痩せた」「美しすぎる」の声",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1029419/",
+      "publishedAt": "2026-07-11T01:48:42.000Z",
+      "summary": "俳優・長濱ねるのスタッフが運営する公式Xが10日に更新され、女性ファッション誌『sweet』の表紙を公開した。『sweet』8月号の表紙に 俳優・長濱ねるのスタッフが運営する公式Xが10日に更新され、女性ファッション誌 […]",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "c7e5a2c10f3dcca7",
+      "title": "山本彩、あばれる君、金村美玖らが旅の魅力を語る！J-WAVEで9時間特番放送",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/radio/655029.html",
+      "publishedAt": "2026-07-10T23:00:10.000Z",
+      "summary": "J-WAVEは、特別番組「J-WAVE HOLIDAY SPECIAL Expedia presents TRAVEL THE WORLD」を7月20日9時から17時55分まで放送する。エクスペディアと届ける同番組は今回で3回目。「旅先じゃなければ出会えないこと」をテー ... The post 山本彩、あばれる君、金村美玖らが旅の魅力を語る！J-WAVEで",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6726595ed715d09b",
       "title": "ぼっちぼろまる、新曲「ロマンティックがほしいなら」がTVアニメ『逃げ上手の若君』第二期EDテーマに決定。日向坂46をゲストボーカルを迎えたコラボ楽曲に",
@@ -34,28 +120,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5f9bdb11880224cc",
-      "title": "日向坂46藤嶌果歩、白ランジェリーでこちら見つめる「まなざしカット」 初写真集8・19発売",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607100001735.html",
-      "publishedAt": "2026-07-10T12:39:48.000Z",
-      "summary": "日向坂46藤嶌果歩（19）のファースト写真集「果実の歩幅」の先行カットが10日、公開された。 今回公開されたのは白ランジェリー姿でまっすぐにこちらを見つめる“まなざしカット”となった。 5月発売の最新シングル「Kind of love」…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
@@ -380,28 +444,6 @@
           "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5ac9b96954a52829",
-      "title": "サッカー元日本代表・鈴木啓太「ほぼ1人で完結させた」W杯・ブラジル戦で見せた佐野海舟のゴールを絶賛",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260702-4653195/",
-      "publishedAt": "2026-07-01T21:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。6月30日（火）の放送には、サッカー元日本代表の鈴木啓太さんが登場！ 本記事では、この日（日本時間：午前2時）におこなわれた「FIFAワールドカップ26（以下、W杯）」決勝トーナメント1回戦 日本対",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
