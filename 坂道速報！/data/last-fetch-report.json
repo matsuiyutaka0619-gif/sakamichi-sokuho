@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T13:57:12.964Z",
+  "updatedAt": "2026-07-11T19:34:59.151Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -74,8 +74,9 @@
     },
     {
       "source": "Bezzy",
-      "count": 300,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "otocoto",
@@ -94,13 +95,15 @@
     },
     {
       "source": "WWSチャンネル",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "Edge Line",
-      "count": 10,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     }
   ]
 }
