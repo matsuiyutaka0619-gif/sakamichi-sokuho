@@ -1,33 +1,11 @@
 {
-  "updatedAt": "2026-07-12T08:32:44.648Z",
+  "updatedAt": "2026-07-12T13:58:29.753Z",
   "articles": [
-    {
-      "id": "add3b775406d7f3b",
-      "title": "中村橋之助がハネムーン滞在先を動画で紹介、ちらりと新妻能條愛未も映り込む",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607120000793.html",
-      "publishedAt": "2026-07-12T07:03:47.000Z",
-      "summary": "歌舞伎俳優中村橋之助（30）が12日までにインスタグラムを更新。ハネムーン先のモルディブの滞在先を動画で紹介した。 橋之助はストーリーズに、滞在するコテージを、入り口から海にダイブするまでを1カットで撮影した動画を投稿した。 途中、鏡に…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "能條愛未",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
     {
       "id": "043c27abfb401ce5",
       "title": "神尾楓珠、平手友梨奈との結婚で性格に変化「この人のために頑張りたい」 新婚生活を初めて語る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260712-4689523/",
       "publishedAt": "2026-07-11T21:00:00.000Z",
       "summary": "「この人のために頑張りたいって思った」――きょう12日に放送される日本テレビ系トーク番組『おしゃれクリップ』(毎週日曜22:00～)に神尾楓珠が出演。芸能界を離れることすら考えた活動休止期間、再び前を向くきっかけとなった父との時間、そして今年2月に発表した結婚後の新婚生活をカメラの前で初めて語る。",
@@ -70,28 +48,6 @@
           "name": "長濱ねる",
           "group": "櫻坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "c7e5a2c10f3dcca7",
-      "title": "山本彩、あばれる君、金村美玖らが旅の魅力を語る！J-WAVEで9時間特番放送",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/radio/655029.html",
-      "publishedAt": "2026-07-10T23:00:10.000Z",
-      "summary": "J-WAVEは、特別番組「J-WAVE HOLIDAY SPECIAL Expedia presents TRAVEL THE WORLD」を7月20日9時から17時55分まで放送する。エクスペディアと届ける同番組は今回で3回目。「旅先じゃなければ出会えないこと」をテー ... The post 山本彩、あばれる君、金村美玖らが旅の魅力を語る！J-WAVEで",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金村美玖",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
@@ -340,33 +296,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "4b0782a0b3f835b5",
-      "title": "乃木坂46賀喜遥香「できることは全部やりたい」誕生日に合わせて初センター・一ノ瀬美空に手渡したものとは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260702-4655747/",
-      "publishedAt": "2026-07-02T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。6月25日（木）の放送では、生徒（リスナー）から寄せられたメッセージを紹介。本記事では、7月22日（水）にリリースされるシングル「是非に及ばず」で初めてセンターを務める一ノ瀬美空さんについて語った模様をお届",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
