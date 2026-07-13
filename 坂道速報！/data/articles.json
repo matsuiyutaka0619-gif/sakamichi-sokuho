@@ -1,24 +1,125 @@
 {
-  "updatedAt": "2026-07-13T09:49:03.154Z",
+  "updatedAt": "2026-07-13T15:14:13.409Z",
   "articles": [
     {
-      "id": "d68eca21563be918",
-      "title": "神尾楓珠、平手友梨奈との結婚を決めた理由を告白「この人のために頑張りたいって思った」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1030563/",
-      "publishedAt": "2026-07-13T06:31:51.000Z",
-      "summary": "俳優の神尾楓珠が12日、日本テレビ系『おしゃれクリップ』（日曜午後10時）に出演。結婚を決めた理由について語った。「誰かのために頑張るって、なんか楽しいです」 俳優の神尾楓珠が12日、日本テレビ系『おしゃれクリップ』（ […]",
+      "id": "34b5fea8f3b18801",
+      "title": "日向坂46松尾桜「丸の内で働く女性か国連の職員に…」子どもの頃の“意外な夢”に髙橋未来虹も驚き!?",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260713-4697892/",
+      "publishedAt": "2026-07-13T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月3日（金）の放",
       "groups": [
-        "櫻坂46"
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d971e2c050779f05",
+      "title": "「豊臣兄弟！」にサプライズ出演の元乃木坂46樋口日奈がコメント発表「逃れられない呪い」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607130001480.html",
+      "publishedAt": "2026-07-13T11:49:18.000Z",
+      "summary": "NHK大河ドラマ「豊臣兄弟！」で織田信澄（緒形敦）の母ちよを演じた、元乃木坂46で女優の樋口日奈（28）が13日、NHKを通じてコメントを発表した。前日12日に放送された「豊臣兄弟！」の第27回は「本能寺の変」。織田信長（小栗旬）が明智…",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
+          "name": "樋口日奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "96b23a2da883bf35",
+      "title": "日向坂46髙橋未来虹「卒業する山口陽世から…」三期生全員で表紙を飾った雑誌の\"照れくさい\"裏側を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260713-4697693/",
+      "publishedAt": "2026-07-13T10:55:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月3日（金）の放",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山口陽世",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bea83570d986b0fc",
+      "title": "樋口日奈、『豊臣兄弟！』信澄の母・ちよ役への思いを明かす 「身の引き締まる思いがした」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2458601.html",
+      "publishedAt": "2026-07-13T10:00:06.000Z",
+      "summary": "現在放送中のNHK大河ドラマ『豊臣兄弟！』でちよ役を演じた樋口日奈のコメントが公開された。 本作は、豊臣秀吉の弟・豊臣秀長の波乱万丈の生涯を描いた物語。主人公・木下小一郎（豊臣秀長）を仲野太賀、秀吉（木下藤吉郎）を池",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "樋口日奈",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -296,50 +397,6 @@
           "name": "長嶋凛桜",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "068959eec28de7ff",
-      "title": "HOKUTO「自分で言ったら恥ずかしいな…」ファーストアルバム『JUKE BOX』収録曲「Tiger Boy」制作時に抱いた“葛藤”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260703-4659679/",
-      "publishedAt": "2026-07-03T12:50:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。6月27日（土）の放送には、HOKUTO（THE RAMPAGE・吉野北人）さんが登場！ 2025年からスタートしたソロプロジェクトについて、また、6月3日（水）にリリースされたファーストアル",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "396f249bbf0cd461",
-      "title": "メッシ、C・ロナウドら“レジェンド選手”がW杯北中米大会でも健在な理由とは？ 元日本代表・鈴木啓太が分析！「決勝カード」の予想も",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260703-4659515/",
-      "publishedAt": "2026-07-03T11:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。6月30日（火）の放送には、サッカー元日本代表の鈴木啓太さんが登場！ 本記事では、鈴木さんが「FIFAワールドカップ26（以下、W杯）」で活躍するレジェンド選手についての話や、今大会の決勝カードを予",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
