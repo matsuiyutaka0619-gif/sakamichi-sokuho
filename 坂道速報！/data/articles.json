@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-07-14T08:29:37.360Z",
+  "updatedAt": "2026-07-14T14:16:11.955Z",
   "articles": [
     {
-      "id": "cff165258eacccbe",
-      "title": "三山凌輝、初挑戦のミュージカルは「表現の一つの集大成」 “新たな自分”にも手応え",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1030825/",
-      "publishedAt": "2026-07-14T08:06:44.000Z",
-      "summary": "俳優・アーティストの三山凌輝が14日、東京・THEATER MILANO-Zaで行われたミュージカル『愛の不時着』開幕会見に、花乃まりあ、KAZUTA（n.SSign）、中村麗乃、上田堪大と共に登壇。日本人キャスト版とし […]",
+      "id": "c379bef36e748134",
+      "title": "『さよならノワール』小池栄子×北香那が“いいコンビ”に 今泉佑唯がキャバクラ嬢役を熱演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2459763.html",
+      "publishedAt": "2026-07-14T13:10:05.000Z",
+      "summary": "不動産投資詐欺で信じた未来まで奪われた美雨を支える中で、夏海と絵梨子は互いの違いを補い合う“いいコンビ”へと変化。事件解決だけでなく被害者の再出発を描きつつ、山崎の失踪事件や支援室の過去にも物語は迫っていく。",
       "groups": [
-        "乃木坂46"
+        "櫻坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "中村麗乃",
-          "group": "乃木坂46",
+          "name": "今泉佑唯",
+          "group": "櫻坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "113ec6cafb215cae",
-      "title": "乃木坂46、久保史緒里卒業コンサートを収録した映像商品『SHIORI KUBO GRADUATION CONCERT』リリース決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1078188",
-      "publishedAt": "2026-07-14T03:00:00.000Z",
-      "summary": "乃木坂46が、映像商品『SHIORI KUBO GRADUATION CONCERT』を2026年8月26日にリリースすることを発表した。 本作は、2025年11月26日・27日に神奈川・横浜アリーナにて開催された＜乃木坂46 久保史緒里 卒業コンサート＞を映像化した作品だ。久保史緒里は乃木坂46に3期生メンバーとして2016年9月に加入し、約9年間にわたり",
+      "id": "befdd46aedf1df35",
+      "title": "唐沢寿明、広瀬アリス、井上和ら「トイ・ストーリー５」声優が舞台あいさつ 井上「愛を感じる」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607140002240.html",
+      "publishedAt": "2026-07-14T13:07:48.000Z",
+      "summary": "公開中の映画「トイ・ストーリー5」で日本版の声優を務めた唐沢寿明、日下由美、広瀬アリス、佐野勇斗、乃木坂46井上和、令和ロマン松井ケムリ、天野叶愛、白山乃愛が14日、都内で大ヒット御礼舞台あいさつを行った。今月3日の公開から3日間で観客…",
       "groups": [
         "乃木坂46"
       ],
@@ -39,7 +39,29 @@
       ],
       "memberMatches": [
         {
-          "name": "久保史緒里",
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5be10d56a7175f4f",
+      "title": "井上和 乃木坂46楽屋で「トイ・ストーリー５」反響感じる！「泣けてきて」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200724",
+      "publishedAt": "2026-07-14T10:56:04.000Z",
+      "summary": "アイドルグループ『乃木坂46』井上和が東京・TOHOシネマズ日比谷で映画『トイ・ストーリー５』（監督：アンドリュー・スタントン／配給：ウォルト・ディズニー・ジャパン）大ヒット御礼舞台あいさつに唐沢寿明、日下由美、広瀬ア...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         }
