@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-07-14T19:45:53.607Z",
+  "updatedAt": "2026-07-15T03:39:20.774Z",
   "articles": [
     {
-      "id": "c379bef36e748134",
-      "title": "『さよならノワール』小池栄子×北香那が“いいコンビ”に 今泉佑唯がキャバクラ嬢役を熱演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2459763.html",
-      "publishedAt": "2026-07-14T13:10:05.000Z",
-      "summary": "不動産投資詐欺で信じた未来まで奪われた美雨を支える中で、夏海と絵梨子は互いの違いを補い合う“いいコンビ”へと変化。事件解決だけでなく被害者の再出発を描きつつ、山崎の失踪事件や支援室の過去にも物語は迫っていく。",
+      "id": "f34bc2eb3afc1e71",
+      "title": "日向坂46藤嶌果歩、1st写真集の帯プレゼント実施が決定 “本人チョイス”の旅のお土産か特製ミニブック",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1031477/",
+      "publishedAt": "2026-07-15T03:24:20.000Z",
+      "summary": "アイドルグループ・日向坂46の藤嶌果歩が8月4日に1st写真集『果実の歩幅』（集英社）を発売する中で、先行カットの第19弾が15日に公開された。第19弾先行カット解禁 アイドルグループ・日向坂46の藤嶌果歩が8月4日に […]",
       "groups": [
-        "櫻坂46"
+        "日向坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "今泉佑唯",
-          "group": "櫻坂46",
-          "status": "og"
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
         }
       ]
     },
     {
-      "id": "befdd46aedf1df35",
-      "title": "唐沢寿明、広瀬アリス、井上和ら「トイ・ストーリー５」声優が舞台あいさつ 井上「愛を感じる」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607140002240.html",
-      "publishedAt": "2026-07-14T13:07:48.000Z",
-      "summary": "公開中の映画「トイ・ストーリー5」で日本版の声優を務めた唐沢寿明、日下由美、広瀬アリス、佐野勇斗、乃木坂46井上和、令和ロマン松井ケムリ、天野叶愛、白山乃愛が14日、都内で大ヒット御礼舞台あいさつを行った。今月3日の公開から3日間で観客…",
+      "id": "0af84f402370d328",
+      "title": "賀喜遥香、遠藤さくら、井上和はなぜ写真集“10万部”を超えた？ 売り上げ／内容面に表れる乃木坂46の存在感",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2459638.html",
+      "publishedAt": "2026-07-15T03:10:04.000Z",
+      "summary": "乃木坂46メンバーのソロ写真集が好調な売れ行きを見せている。なかでも、現役メンバーによるソロ写真集で累計売上10万部を超えているのは、賀喜遥香、遠藤さくら、井上和の3人だ。本稿では彼女たちの写真集の魅力、そして乃木坂46グループメンバーの写真集の売れ行きが好調な理由を探っていく。",
       "groups": [
         "乃木坂46"
       ],
@@ -38,6 +38,16 @@
         "active"
       ],
       "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
         {
           "name": "井上和",
           "group": "乃木坂46",
@@ -237,28 +247,6 @@
           "name": "長濱ねる",
           "group": "櫻坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "909d39c9ebd8c793",
-      "title": "松村北斗主演「告白－25年目の秘密－」Huluオリジナルストーリー配信決定！久保史緒里が最初の証言者に",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/655404.html",
-      "publishedAt": "2026-07-12T14:00:41.000Z",
-      "summary": "松村北斗が主演を務める日本テレビ系7月期土曜ドラマ「告白－25年目の秘密－」で描かれる事件を、数年後の視点から振り返るHuluオリジナルストーリー「ルポ・あの日の真実」が、ドラマ本編の各話放送終了後から配信されることが決定した。お笑いコンビ・アルコ＆ピースの平子祐希が、 ... The post 松村北斗主演「告白－25年目の秘密－」Huluオリジナルストー",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -1070,33 +1058,6 @@
           "name": "富田鈴花",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "428e7985b39e2e86",
-      "title": "日向坂46がラテンビートで妖艶に踊る「Kind of love」MV公開、テーマは“一目惚れの瞬間”",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/85850/",
-      "publishedAt": "2026-05-06T13:35:00.000Z",
-      "summary": "日向坂46が、5月20日(水)に発売する17枚目シングルの表題曲「Kind of love」のMusic Videoをグループ公式YouTubeチャンネルで公開した。 本楽曲の選抜メンバーは二期生から五期生までの14名で構成されており、センターは四期生・藤嶌果歩（ふじしまかほ）が担当。藤嶌が表題曲でセンターを務めるのは同期の正源司陽子とのWセンター楽曲となっ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     }
