@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-15T08:37:28.764Z",
+  "updatedAt": "2026-07-15T14:13:43.833Z",
   "articles": [
     {
-      "id": "0d0481be25367732",
-      "title": "乃木坂46・中西アルノ、体調不良で全国ツアー公演を当日休演 開演1時間前に発表…16日公演は「体調を考慮して判断」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1031760/",
-      "publishedAt": "2026-07-15T08:10:24.000Z",
-      "summary": "アイドルグループ・乃木坂46は15日、同日に大阪城ホールにて開催する「真夏の全国ツアー2026」大阪公演Day1に出演予定だった中西アルノが、体調不良により休演することを公式サイトで発表した。15日、16日に大阪公演を開 […]",
+      "id": "3d7b4aab3c7d1545",
+      "title": "乃木坂46賀喜遥香「別に一途じゃなくても着ていいよ…」生誕記念Tシャツに書いた「一途」の意味とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260715-4705952/",
+      "publishedAt": "2026-07-15T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月9日（木）の放送では、遥香先生の生誕記念グッズを購入したという生徒（リスナー）からのメッセージを紹介しました。",
       "groups": [
         "乃木坂46"
       ],
@@ -17,7 +17,65 @@
       ],
       "memberMatches": [
         {
-          "name": "中西アルノ",
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "30223e1c2dc9af45",
+      "title": "櫻坂46、JR東日本とコラボ企画実施 メンバー10人のコラボグッズ、駅構内の特別放送実施",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607150001637.html",
+      "publishedAt": "2026-07-15T12:27:46.000Z",
+      "summary": "櫻坂46とJR東日本のコラボ企画「櫻坂46と、鉄道で旅しよう。」が実施されることが15日、発表された。 JR東日本はリリースも公開。櫻坂46のメンバー10人を起用し、新潟、長野、庄内エリアの来訪促進を目的に、メンバーが駅長制服を着用し特…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e76b0ef249b0cb48",
+      "title": "「忘れられない体験」「これは“事件”」くりぃむ有田の“神対応”に元日向坂46松田好花が感激",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260715-4705105/",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "summary": "「忘れられない体験になりました」元日向坂46でタレントの松田好花が、TBS系『有田哲平とコスられない街』での出来事を振り返った――。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fa97bc682aed89a9",
+      "title": "乃木坂46・久保史緒里の卒業コンサートが映像化！8月26日にBlu-ray＆DVD発売",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/655998.html",
+      "publishedAt": "2026-07-15T11:30:25.000Z",
+      "summary": "乃木坂46が、映像商品「SHIORI KUBO GRADUATION CONCERT」を8月26日にリリースすることが決定した。同作は、2025年11月26日と27日に神奈川・横浜アリーナで開催された「乃木坂46 久保史緒里 卒業コンサート」を映像化した作品。久保史緒里 ... The post 乃木坂46・久保史緒里の卒業コンサートが映像化！8月26日にB",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -64,28 +122,6 @@
           "name": "久保史緒里",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8a84cf8a7b8d2402",
-      "title": "Sanrio characters Exhibition Hotel Floria Tokyo（ホテルフローリア トーキョー）お披露目！松村沙友理も子供と来る？",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/201618",
-      "publishedAt": "2026-07-14T02:37:30.000Z",
-      "summary": "体験型展示イベント『Sanrio characters Exhibition Hotel Floria Tokyo（ホテルフローリア トーキョー）』プレス限定イベントが7月14日に東京・新宿の東急歌舞伎町タワー内で開催...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松村沙友理",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -185,34 +221,6 @@
       "memberMatches": [
         {
           "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a3f32c69596da8b4",
-      "title": "長濱ねる、マルチカラーのボーダーワンピースで唯一無二のオーラ！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/655175.html",
-      "publishedAt": "2026-07-12T21:45:57.000Z",
-      "summary": "7月11日、モデル、タレントの長濱ねるが自身のInstagramを更新した。長濱ねるは繊細なレースをあしらった黒のキャミソール姿ではカーテン越しにアンニュイな表情を見せ、マルチカラーのボーダーワンピース姿では柔らかな光に包まれたリラックス感のある装いを披露し「@swee ... The post 長濱ねる、マルチカラーのボーダーワンピースで唯一無二のオーラ！",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
           "group": "櫻坂46",
           "status": "og"
         }
