@@ -1,30 +1,68 @@
 {
-  "updatedAt": "2026-07-16T03:41:30.104Z",
+  "updatedAt": "2026-07-16T08:35:53.716Z",
   "articles": [
     {
-      "id": "0c12cf1197a0c9fa",
-      "title": "長濱ねる、中島健人の上裸に笑い止まらず 中島困惑「普段はキャー！って言われるのよ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1032111/",
-      "publishedAt": "2026-07-16T03:33:19.000Z",
-      "summary": "俳優の長濱ねるが16日、都内で行われた映画『ラブ≠コメディ』（公開中、紙谷楓監督）の「夏だオーライ！まだ観てないなんてもったいない！どこまでがFiction？DON★DON★DOOON！と答えて御礼舞台あいさつ」に、中島 […]",
+      "id": "faa83afcef968de6",
+      "title": "久保史緒里、25歳の1年の抱負記す「つよく、まるく、やわらかく、あたたかい人間で」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607160001051.html",
+      "publishedAt": "2026-07-16T08:09:46.000Z",
+      "summary": "元乃木坂46久保史緒里（25）が16日までに自身のインスタグラムを更新し、25歳の抱負を語った。 久保は14日に誕生日を迎えた。「25歳になりました！素敵な出逢いに恵まれた人生です。今ある環境と周りの方々への感謝の気持ちを忘れずに、ひと…",
       "groups": [
-        "日向坂46",
-        "櫻坂46"
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cd9d3b198436ca2d",
+      "title": "影山優佳「これが噂のピチユニネキ」 キッズ130サイズ着用のユニフォーム姿を投稿",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2462078.html",
+      "publishedAt": "2026-07-16T07:10:40.000Z",
+      "summary": "影山優佳が自身のInstagramを更新し、サッカー日本代表のアウェイユニフォームを着用した写真を公開した。 日本代表のユニフォームに身を包み、空を見上げるように顔を上げた満面の笑みのショット。そのほかポケットに手を",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "長濱ねる",
+          "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
-        },
+        }
+      ]
+    },
+    {
+      "id": "cc40a18a268441be",
+      "title": "キックボードで現れた主役・富田鈴花 アイドル卒業後初のソロイベントで伝えた感謝の思い「当たり前じゃない」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1031531/",
+      "publishedAt": "2026-07-16T07:10:00.000Z",
+      "summary": "元日向坂46で俳優の富田鈴花が、今月5日に都内で初のファンクラブ限定イベント「Suzuran Garden 2026 ～SUZUKA TOMITA FC EVENT～」を開催した。アイドル卒業から間もなく1年、ソロイベン […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
         {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
+          "name": "富田鈴花",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -32,8 +70,8 @@
     {
       "id": "3d7b4aab3c7d1545",
       "title": "乃木坂46賀喜遥香「別に一途じゃなくても着ていいよ…」生誕記念Tシャツに書いた「一途」の意味とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260715-4705952/",
       "publishedAt": "2026-07-15T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月9日（木）の放送では、遥香先生の生誕記念グッズを購入したという生徒（リスナー）からのメッセージを紹介しました。",
