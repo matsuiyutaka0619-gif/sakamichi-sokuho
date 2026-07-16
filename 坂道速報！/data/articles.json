@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-07-15T19:38:23.999Z",
+  "updatedAt": "2026-07-16T03:41:30.104Z",
   "articles": [
+    {
+      "id": "0c12cf1197a0c9fa",
+      "title": "長濱ねる、中島健人の上裸に笑い止まらず 中島困惑「普段はキャー！って言われるのよ」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1032111/",
+      "publishedAt": "2026-07-16T03:33:19.000Z",
+      "summary": "俳優の長濱ねるが16日、都内で行われた映画『ラブ≠コメディ』（公開中、紙谷楓監督）の「夏だオーライ！まだ観てないなんてもったいない！どこまでがFiction？DON★DON★DOOON！と答えて御礼舞台あいさつ」に、中島 […]",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "3d7b4aab3c7d1545",
       "title": "乃木坂46賀喜遥香「別に一途じゃなくても着ていいよ…」生誕記念Tシャツに書いた「一途」の意味とは？",
@@ -24,42 +52,6 @@
       ]
     },
     {
-      "id": "30223e1c2dc9af45",
-      "title": "櫻坂46、JR東日本とコラボ企画実施 メンバー10人のコラボグッズ、駅構内の特別放送実施",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607150001637.html",
-      "publishedAt": "2026-07-15T12:27:46.000Z",
-      "summary": "櫻坂46とJR東日本のコラボ企画「櫻坂46と、鉄道で旅しよう。」が実施されることが15日、発表された。 JR東日本はリリースも公開。櫻坂46のメンバー10人を起用し、新潟、長野、庄内エリアの来訪促進を目的に、メンバーが駅長制服を着用し特…",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "e76b0ef249b0cb48",
-      "title": "「忘れられない体験」「これは“事件”」くりぃむ有田の“神対応”に元日向坂46松田好花が感激",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260715-4705105/",
-      "publishedAt": "2026-07-15T12:00:00.000Z",
-      "summary": "「忘れられない体験になりました」元日向坂46でタレントの松田好花が、TBS系『有田哲平とコスられない街』での出来事を振り返った――。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "fa97bc682aed89a9",
       "title": "乃木坂46・久保史緒里の卒業コンサートが映像化！8月26日にBlu-ray＆DVD発売",
       "sourceName": "WWSチャンネル",
@@ -76,28 +68,6 @@
       "memberMatches": [
         {
           "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5be10d56a7175f4f",
-      "title": "井上和 乃木坂46楽屋で「トイ・ストーリー５」反響感じる！「泣けてきて」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/200724",
-      "publishedAt": "2026-07-14T10:56:04.000Z",
-      "summary": "アイドルグループ『乃木坂46』井上和が東京・TOHOシネマズ日比谷で映画『トイ・ストーリー５』（監督：アンドリュー・スタントン／配給：ウォルト・ディズニー・ジャパン）大ヒット御礼舞台あいさつに唐沢寿明、日下由美、広瀬ア...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -212,28 +182,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260713-4695460/",
       "publishedAt": "2026-07-12T23:02:13.000Z",
       "summary": "「この人のために頑張りたいと思ったところはありますね」――12日に放送された日本テレビ系トーク番組『おしゃれクリップ』(毎週日曜22:00～)に、今年2月に元欅坂46で俳優・歌手の平手友梨奈と結婚した俳優の神尾楓珠がゲスト出演。結婚を決めた理由や新婚生活を語った。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "043c27abfb401ce5",
-      "title": "神尾楓珠、平手友梨奈との結婚で性格に変化「この人のために頑張りたい」 新婚生活を初めて語る",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260712-4689523/",
-      "publishedAt": "2026-07-11T21:00:00.000Z",
-      "summary": "「この人のために頑張りたいって思った」――きょう12日に放送される日本テレビ系トーク番組『おしゃれクリップ』(毎週日曜22:00～)に神尾楓珠が出演。芸能界を離れることすら考えた活動休止期間、再び前を向くきっかけとなった父との時間、そして今年2月に発表した結婚後の新婚生活をカメラの前で初めて語る。",
       "groups": [
         "櫻坂46"
       ],
