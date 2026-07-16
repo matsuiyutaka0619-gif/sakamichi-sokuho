@@ -1,36 +1,14 @@
 {
-  "updatedAt": "2026-07-16T08:35:53.716Z",
+  "updatedAt": "2026-07-16T14:25:54.017Z",
   "articles": [
     {
-      "id": "faa83afcef968de6",
-      "title": "久保史緒里、25歳の1年の抱負記す「つよく、まるく、やわらかく、あたたかい人間で」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607160001051.html",
-      "publishedAt": "2026-07-16T08:09:46.000Z",
-      "summary": "元乃木坂46久保史緒里（25）が16日までに自身のインスタグラムを更新し、25歳の抱負を語った。 久保は14日に誕生日を迎えた。「25歳になりました！素敵な出逢いに恵まれた人生です。今ある環境と周りの方々への感謝の気持ちを忘れずに、ひと…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cd9d3b198436ca2d",
-      "title": "影山優佳「これが噂のピチユニネキ」 キッズ130サイズ着用のユニフォーム姿を投稿",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2462078.html",
-      "publishedAt": "2026-07-16T07:10:40.000Z",
-      "summary": "影山優佳が自身のInstagramを更新し、サッカー日本代表のアウェイユニフォームを着用した写真を公開した。 日本代表のユニフォームに身を包み、空を見上げるように顔を上げた満面の笑みのショット。そのほかポケットに手を",
+      "id": "dee2a6387dd04487",
+      "title": "“ピチユニ”姿が「狙ってますね～！」「スタイルえぐい」 影山優佳の本人投稿に反響拡大",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1032363/",
+      "publishedAt": "2026-07-16T13:10:00.000Z",
+      "summary": "元日向坂46で俳優の影山優佳が16日、自身のインスタグラムを更新。話題の“ピチユニ”オフショットを紹介し、ファンから驚きの声が上がった。「私は、私の好きな私でいるよ その方が楽しいと思うから」とポスト 元日向坂46で俳 […]",
       "groups": [
         "日向坂46"
       ],
@@ -40,28 +18,6 @@
       "memberMatches": [
         {
           "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "cc40a18a268441be",
-      "title": "キックボードで現れた主役・富田鈴花 アイドル卒業後初のソロイベントで伝えた感謝の思い「当たり前じゃない」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1031531/",
-      "publishedAt": "2026-07-16T07:10:00.000Z",
-      "summary": "元日向坂46で俳優の富田鈴花が、今月5日に都内で初のファンクラブ限定イベント「Suzuran Garden 2026 ～SUZUKA TOMITA FC EVENT～」を開催した。アイドル卒業から間もなく1年、ソロイベン […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "富田鈴花",
           "group": "日向坂46",
           "status": "og"
         }
@@ -297,28 +253,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ec6a8d38b0190fc3",
-      "title": "今泉佑唯、将来の家族を占ってもらうと…「私、自分でも5人は欲しいと思ってた!」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260707-4673680/",
-      "publishedAt": "2026-07-07T07:10:00.000Z",
-      "summary": "今泉佑唯が、「今後、何人家族になるのか」をテーマに鑑定を依頼。占い師から意外な鑑定結果を告げられると、「私、自分でも5人は欲しいと思ってたんですよ!」と驚きの表情を見せた。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "今泉佑唯",
-          "group": "櫻坂46",
-          "status": "og"
         }
       ]
     },
