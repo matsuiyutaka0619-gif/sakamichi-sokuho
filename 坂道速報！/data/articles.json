@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-17T14:05:42.947Z",
+  "updatedAt": "2026-07-17T19:34:50.114Z",
   "articles": [
+    {
+      "id": "e5269633f17cfd8b",
+      "title": "乃木坂46小川彩＆柴田柚菜、千葉ロッテとコラボ！限定グッズと桃を使ったドリンクを販売",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/656352.html",
+      "publishedAt": "2026-07-17T13:00:51.000Z",
+      "summary": "千葉ロッテマリーンズは7月23日、ZOZOマリンスタジアムで行われる楽天戦に合わせ、乃木坂46の小川彩と柴田柚菜によるBSWコラボグッズとコラボドリンクを発売する。同日は、夏のスペシャルイベント「BLACK SUMMER WEEK supported by クーリッシュ ... The post 乃木坂46小川彩＆柴田柚菜、千葉ロッテとコラボ！限定グッズと桃",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "fa97bc682aed89a9",
       "title": "乃木坂46・久保史緒里の卒業コンサートが映像化！8月26日にBlu-ray＆DVD発売",
@@ -114,34 +141,6 @@
         {
           "name": "白石麻衣",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "0d82c2f4356db5e9",
-      "title": "長濱ねる、黒ベストのシックな装いで笑顔 『ラブ≠コメディ』コメンタリー上映を告知",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2463334.html",
-      "publishedAt": "2026-07-17T03:20:26.000Z",
-      "summary": "映画『ラブ≠コメディ』で南風美里役を演じる長濱ねるが、自身のInstagramを更新し、同作の舞台挨拶を終えたことを報告した。 投稿された写真は全4枚。黒いベストとワイドパンツを合わせたシックなスタイリングで、白いレ",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
           "status": "og"
         }
       ]
