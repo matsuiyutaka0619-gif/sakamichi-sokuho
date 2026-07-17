@@ -1,6 +1,115 @@
 {
-  "updatedAt": "2026-07-17T03:41:22.762Z",
+  "updatedAt": "2026-07-17T08:30:10.630Z",
   "articles": [
+    {
+      "id": "0c97a6049e99c456",
+      "title": "影山優佳、キッズユニ着用で反響再び そのサイズに「4歳息子120着てるのに…」衝撃受ける人も",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/07/17/20163567256/",
+      "publishedAt": "2026-07-17T05:00:00.000Z",
+      "summary": "アイドルグループ・日向坂46の元メンバーで女優の影山優佳が15日、公式Xを更新。「FIFAワールドカップ2026 北中米大会」の現地取材で着用して話題となったユニフォーム姿を再び披露。またも反響を呼んでいる。 【今回の投…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "11d6ec94d9637c32",
+      "title": "【ライブレポート】日向坂46＜五期生LIVE＞初の単独アリーナで開催。「五期生の10人とこの世界で存在できてよかった」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1078544",
+      "publishedAt": "2026-07-17T04:01:13.000Z",
+      "summary": "7月15、16日の2日間に渡って、神奈川県・横浜市のぴあアリーナMMで、＜日向坂46「五期生LIVE」＞が行われた。昨年加入した10人の五期生による初の単独アリーナ公演となり、見切れ席まで満員の観客を前に、映画のストーリーに入り込んだかのようなエンタメ感たっぷりのライブを届けた。本記事ではオフィシャルからのレポートで、最終日となる2日目の模様をお送りする。 ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "小坂菜緒",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "大田美月",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "片山紗希",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "蔵盛妃那乃",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "坂井新奈",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐藤優羽",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "下田衣珠季",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "高井俐香",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "鶴崎仁香",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "7a12f1034a579b6a",
       "title": "白石麻衣、“プク顔”やお肉大盛りでパリ満喫 表情豊かなオフショットにファン喜び",
