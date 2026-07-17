@@ -1,27 +1,69 @@
 {
-  "updatedAt": "2026-07-16T19:35:43.162Z",
+  "updatedAt": "2026-07-17T03:41:22.762Z",
   "articles": [
     {
-      "id": "dee2a6387dd04487",
-      "title": "“ピチユニ”姿が「狙ってますね～！」「スタイルえぐい」 影山優佳の本人投稿に反響拡大",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1032363/",
-      "publishedAt": "2026-07-16T13:10:00.000Z",
-      "summary": "元日向坂46で俳優の影山優佳が16日、自身のインスタグラムを更新。話題の“ピチユニ”オフショットを紹介し、ファンから驚きの声が上がった。「私は、私の好きな私でいるよ その方が楽しいと思うから」とポスト 元日向坂46で俳 […]",
+      "id": "7a12f1034a579b6a",
+      "title": "白石麻衣、“プク顔”やお肉大盛りでパリ満喫 表情豊かなオフショットにファン喜び",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2463388.html",
+      "publishedAt": "2026-07-17T03:30:11.000Z",
+      "summary": "タレントの白石麻衣が7月16日、自身のInstagramを更新。パリを満喫する表情豊かなオフショットを公開した。 白石は、6月下旬から、ファッション媒体『ELLE Japan』（ハースト婦人画報社）とバッグブランド『",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "影山優佳",
-          "group": "日向坂46",
+          "name": "白石麻衣",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
+    },
+    {
+      "id": "0d82c2f4356db5e9",
+      "title": "長濱ねる、黒ベストのシックな装いで笑顔 『ラブ≠コメディ』コメンタリー上映を告知",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2463334.html",
+      "publishedAt": "2026-07-17T03:20:26.000Z",
+      "summary": "映画『ラブ≠コメディ』で南風美里役を演じる長濱ねるが、自身のInstagramを更新し、同作の舞台挨拶を終えたことを報告した。 投稿された写真は全4枚。黒いベストとワイドパンツを合わせたシックなスタイリングで、白いレ",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "cabe9984fffdf138",
+      "title": "日向坂46『五期生LIVE』2日目公演公式レポート！10人で躍動感たっぷり",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/201921",
+      "publishedAt": "2026-07-16T21:29:44.000Z",
+      "summary": "アイドルグループ『日向坂46』の『五期生LIVE』が7月15日と7月16日に神奈川・横浜市のぴあアリーナMMで開催された。 2025年に加入した10人の五期生による初の単独アリーナ公演。見切れ席まで観客が詰めかける大...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "3d7b4aab3c7d1545",
@@ -169,28 +211,6 @@
       ]
     },
     {
-      "id": "b10eaa11bf6fa8b8",
-      "title": "神尾楓珠、平手友梨奈との結婚で心境変化「誰かのために頑張るって楽しいです」 充実の新婚生活も語る",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260713-4695460/",
-      "publishedAt": "2026-07-12T23:02:13.000Z",
-      "summary": "「この人のために頑張りたいと思ったところはありますね」――12日に放送された日本テレビ系トーク番組『おしゃれクリップ』(毎週日曜22:00～)に、今年2月に元欅坂46で俳優・歌手の平手友梨奈と結婚した俳優の神尾楓珠がゲスト出演。結婚を決めた理由や新婚生活を語った。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "c0c06c9917aaf0e2",
       "title": "亀梨和也「これまでやってきた道のりも大切に…」ソロ初のアルバム『WAVE』に込めた思いとは？",
       "sourceName": "マイナビニュース 芸能",
@@ -219,28 +239,6 @@
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260709-4682604/",
       "publishedAt": "2026-07-09T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月2日（木）の放送では、現在開催中の「真夏の全国ツアー2026」に参加した生徒（リスナー）から寄せられたメッセージを紹介しました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "89438216bd271dd8",
-      "title": "乃木坂46賀喜遥香「みんなめっちゃかわいい！」『真夏の全国ツアー2026』から6期生メンバーに解禁されたこととは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260708-4678787/",
-      "publishedAt": "2026-07-08T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月2日（木）の放送では、現在開催中の「真夏の全国ツアー2026」に参加した生徒（リスナー）から寄せられたメッセージを紹介しました。",
       "groups": [
         "乃木坂46"
