@@ -1,34 +1,46 @@
 {
-  "updatedAt": "2026-07-18T03:36:29.695Z",
+  "updatedAt": "2026-07-18T08:10:53.701Z",
   "articles": [
     {
-      "id": "e24d22e337713c83",
-      "title": "ぼっちぼろまる、アニメ『逃げ上手の若君』第2期EDの新曲に日向坂46 小坂菜緒、正源司陽子、藤嶌果歩が参加",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2464426.html",
-      "publishedAt": "2026-07-18T02:20:29.000Z",
-      "summary": "ぼっちぼろまるの新曲「ロマンティックがほしいなら」が、本日先行配信リリース。あわせて、同曲がエンディングテーマに起用されているTVアニメ『逃げ上手の若君』第2期のノンクレジットED映像もYouTubeで公開された。",
+      "id": "e880380cfc169060",
+      "title": "生駒里奈、ICL手術受けたことを報告＆体に起きた変化に感動「世界はこんなにも…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607180000969.html",
+      "publishedAt": "2026-07-18T07:42:53.000Z",
+      "summary": "女優の生駒里奈（30）が18日、自身のXを更新。目の手術を受けたことを明かした。 生駒は「生駒はICL手術を受けました」と報告。「ICL」は眼内にレンズを挿入することで近視などを矯正する眼内コンタクトレンズ手術のことで、「世界はこんなに…",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生駒里奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d08f994305ad986b",
+      "title": "乃木坂46、小川彩センターのアンダー楽曲「フォルテシモ」MV公開！逆境に立ち向かう姿を描く",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/656429.html",
+      "publishedAt": "2026-07-18T05:00:52.000Z",
+      "summary": "乃木坂46が、7月22日に発売する42ndシングル「是非に及ばず」に収録されるアンダーメンバー楽曲「フォルテシモ」のMusic Videoを公開した。「フォルテシモ」は6月25日から先行配信され、開催中の「乃木坂46 真夏の全国ツアー 2026」神奈川・横浜アリーナ公演 ... The post 乃木坂46、小川彩センターのアンダー楽曲「フォルテシモ」MV公",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "小坂菜緒",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
+          "name": "小川彩",
+          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -129,8 +141,8 @@
     {
       "id": "8d37b5337d86a74c",
       "title": "「洋画は字幕派？吹き替え派？」日向坂46髙橋未来虹＆松尾桜が討論対決！勝ったのはどっち!?",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260717-4713453/",
       "publishedAt": "2026-07-17T12:00:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月10日（金）の",
