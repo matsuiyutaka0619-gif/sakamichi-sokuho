@@ -1,6 +1,82 @@
 {
-  "updatedAt": "2026-07-17T19:34:50.114Z",
+  "updatedAt": "2026-07-18T03:36:29.695Z",
   "articles": [
+    {
+      "id": "e24d22e337713c83",
+      "title": "ぼっちぼろまる、アニメ『逃げ上手の若君』第2期EDの新曲に日向坂46 小坂菜緒、正源司陽子、藤嶌果歩が参加",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2464426.html",
+      "publishedAt": "2026-07-18T02:20:29.000Z",
+      "summary": "ぼっちぼろまるの新曲「ロマンティックがほしいなら」が、本日先行配信リリース。あわせて、同曲がエンディングテーマに起用されているTVアニメ『逃げ上手の若君』第2期のノンクレジットED映像もYouTubeで公開された。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小坂菜緒",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5083ce95cf78cb1c",
+      "title": "北山宏光「今の自分を表すんだったら…」最新アルバム『ULTRActi:on』に込めた“4つの意味”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260718-4715377/",
+      "publishedAt": "2026-07-18T02:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。7月11日（土）の放送は、北山宏光さんが登場！ 6月24日にリリースされたサードアルバム『ULTRActi:on』（ウルトラクション）について話を伺いました。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b9e1e0c1d040682e",
+      "title": "料理レシピを“音声”だけで紹介!? 料理研究家・上田淳子「私にもできるかもって夢が膨らむのが音のいいところ」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260718-4715378/",
+      "publishedAt": "2026-07-18T02:00:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。7月13日（月）の放送には、料理研究家の上田淳子さんが登場！ 本記事では、上田さんがパーソナリティを務めているポッドキャスト番組「料理たのしくなる相談室」について伺った模様を紹介します。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "e5269633f17cfd8b",
       "title": "乃木坂46小川彩＆柴田柚菜、千葉ロッテとコラボ！限定グッズと桃を使ったドリンクを販売",
@@ -90,8 +166,8 @@
     {
       "id": "d4fab18fa138755b",
       "title": "『バチェロレッテ・ジャパン』シーズン4出演後にファン激増!?プロレスラー・安齊勇馬が反響を明かす「試合前にサイン会を2時間半…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260717-4713407/",
       "publishedAt": "2026-07-17T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。7月14日（火）の放送は、全日本プロレス所属のプロレスラー・安齊勇馬選手が登場！ 本記事では、安齊選手も参加した恋愛リアリティ番組『バチェロレッテ・ジャパン』シーズン4（Prime Video）につ",
@@ -104,42 +180,6 @@
       "memberMatches": [
         {
           "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9053d673f6577807",
-      "title": "日向坂46五期生が初の単独アリーナ公演で躍動「五期生の10人とこの世界で存在できてよかった」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/656286.html",
-      "publishedAt": "2026-07-17T10:00:33.000Z",
-      "summary": "7月15、16日の2日間に渡って、神奈川県・横浜市のぴあアリーナMMで、日向坂46「五期生LIVE」が行われた。昨年加入した10人の五期生による初の単独アリーナ公演となり、見切れ席まで満員の観客を前に、映画のストーリーに入り込んだかのようなエンタメ感たっぷりのライブを届 ... The post 日向坂46五期生が初の単独アリーナ公演で躍動「五期生の10人と",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "7a12f1034a579b6a",
-      "title": "白石麻衣、“プク顔”やお肉大盛りでパリ満喫 表情豊かなオフショットにファン喜び",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2463388.html",
-      "publishedAt": "2026-07-17T03:30:11.000Z",
-      "summary": "タレントの白石麻衣が7月16日、自身のInstagramを更新。パリを満喫する表情豊かなオフショットを公開した。 白石は、6月下旬から、ファッション媒体『ELLE Japan』（ハースト婦人画報社）とバッグブランド『",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -960,28 +1000,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "500006ab2f720bd8",
-      "title": "「ここからイメージを脱却していきたい」新たな夢に向かう富田鈴花が今、伝えておきたいこと",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/85754/",
-      "publishedAt": "2026-05-09T07:00:00.000Z",
-      "summary": "プレゼント用のチェキにサインをしようとして、ついグループ名を書いてしまう。そんな自分のクセに「仕方ないです。8年間もやってたんだから」と富田鈴花は笑った。その笑顔が、眩しく瑞々しい。 2025年8月5日をもって日向坂46を卒業。そこから約半年の充電期間を経て、ついに一人の女優として新たな一歩を踏み出す。そのリスタートの舞台が、Musical『GYPSY』だ。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "富田鈴花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
     }
   ]
 }
