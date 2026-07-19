@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T19:34:55.279Z",
+  "updatedAt": "2026-07-19T03:58:24.582Z",
   "articles": [
     {
       "id": "76e3c6c923acde5c",
@@ -48,8 +48,8 @@
     {
       "id": "5083ce95cf78cb1c",
       "title": "北山宏光「今の自分を表すんだったら…」最新アルバム『ULTRActi:on』に込めた“4つの意味”とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260718-4715377/",
       "publishedAt": "2026-07-18T02:00:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。7月11日（土）の放送は、北山宏光さんが登場！ 6月24日にリリースされたサードアルバム『ULTRActi:on』（ウルトラクション）について話を伺いました。",
@@ -70,8 +70,8 @@
     {
       "id": "b9e1e0c1d040682e",
       "title": "料理レシピを“音声”だけで紹介!? 料理研究家・上田淳子「私にもできるかもって夢が膨らむのが音のいいところ」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260718-4715378/",
       "publishedAt": "2026-07-18T02:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。7月13日（月）の放送には、料理研究家の上田淳子さんが登場！ 本記事では、上田さんがパーソナリティを務めているポッドキャスト番組「料理たのしくなる相談室」について伺った模様を紹介します。",
@@ -277,48 +277,6 @@
         },
         {
           "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "96b23a2da883bf35",
-      "title": "日向坂46髙橋未来虹「卒業する山口陽世から…」三期生全員で表紙を飾った雑誌の\"照れくさい\"裏側を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260713-4697693/",
-      "publishedAt": "2026-07-13T10:55:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月3日（金）の放",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山口陽世",
           "group": "日向坂46",
           "status": "active"
         },
