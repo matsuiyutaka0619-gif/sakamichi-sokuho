@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-20T19:58:32.948Z",
+  "updatedAt": "2026-07-21T03:49:14.873Z",
   "articles": [
+    {
+      "id": "37e9b1024f3ac187",
+      "title": "【7月21日更新】日向坂46片山紗希更新！坂道の火曜日バックナンバーなど全国のコンビニマルチコピー機で販売中",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/info/news/202606020000401.html",
+      "publishedAt": "2026-07-21T03:00:00.000Z",
+      "summary": "坂道シリーズファンにはおなじみのサービス「こんぷりん」で「坂道の火曜日」などの一部バックナンバーが購入できます。 全国のコンビニマルチコピー機で手軽にプリントできます。 【乃木坂46バスラ、櫻坂46アニラ、梅澤美波卒業などはコチラ】 【…",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "片山紗希",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "98a7c82b90e241dc",
       "title": "乃木坂46、6期生楽曲「命の色」MV公開！長嶋凛桜がセンター務める",
@@ -69,28 +99,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d08f994305ad986b",
-      "title": "乃木坂46、小川彩センターのアンダー楽曲「フォルテシモ」MV公開！逆境に立ち向かう姿を描く",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/656429.html",
-      "publishedAt": "2026-07-18T05:00:52.000Z",
-      "summary": "乃木坂46が、7月22日に発売する42ndシングル「是非に及ばず」に収録されるアンダーメンバー楽曲「フォルテシモ」のMusic Videoを公開した。「フォルテシモ」は6月25日から先行配信され、開催中の「乃木坂46 真夏の全国ツアー 2026」神奈川・横浜アリーナ公演 ... The post 乃木坂46、小川彩センターのアンダー楽曲「フォルテシモ」MV公",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -251,43 +259,6 @@
         {
           "name": "久保史緒里",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "34b5fea8f3b18801",
-      "title": "日向坂46松尾桜「丸の内で働く女性か国連の職員に…」子どもの頃の“意外な夢”に髙橋未来虹も驚き!?",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260713-4697892/",
-      "publishedAt": "2026-07-13T12:00:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月3日（金）の放",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
