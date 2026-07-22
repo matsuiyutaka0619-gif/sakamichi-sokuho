@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-07-21T19:54:19.374Z",
+  "updatedAt": "2026-07-22T03:50:14.682Z",
   "articles": [
+    {
+      "id": "7713e38d6b72504b",
+      "title": "乃木坂46のユニット曲はなぜ愛される？ 孤独兄弟、からあげ姉妹、いもうと坂……組み合わせによる無限の可能性",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2465920.html",
+      "publishedAt": "2026-07-22T03:10:49.000Z",
+      "summary": "乃木坂46の42ndシングル『是非に及ばず』には、3組のユニット曲が収録される。本稿では、これまで長く親しまれてきた楽曲をたどりながら、乃木坂46のユニット曲が見せてきた歌声の相性やメンバー同士の関係性をあらためて振り返る。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e6ca47f47214da8a",
+      "title": "TUBE、Night Tempoによるオフィシャルカバー企画始動。第1弾として「シーズン・イン・ザ・サン feat. 生田 絵梨花」配信決定も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1079280",
+      "publishedAt": "2026-07-22T03:00:00.000Z",
+      "summary": "TUBEが、Night Tempoによるオフィシャルカバー企画がスタートしたことをアナウンスした。本企画の第1弾として、「シーズン・イン・ザ・サン feat. 生田 絵梨花」を2026年7月29日に配信リリースすることも決定した。 第1弾となる今作はミュージカル、ドラマ、音楽活動など多方面で活躍する生田絵梨花をフィーチャリングアーティストとして迎え、TUBE",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "425c80330a37692c",
+      "title": "「TOKYO IDOL FESTIVAL 2026」交通広告が東京テレポート駅に登場！井上和、福田ひなたらが夏らしいビジュアルでPR",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/656972.html",
+      "publishedAt": "2026-07-21T22:00:26.000Z",
+      "summary": "世界最大のアイドルフェス「TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック」が、7月31日から8月2日までお台場・青海周辺エリアで開催される。開催に合わせて、7月20日から8月2日まで、りんかい線・東京テレポート駅構内で交通 ... The post 「TOKYO IDOL FESTIVAL 2026」交通広告が",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "98a7c82b90e241dc",
       "title": "乃木坂46、6期生楽曲「命の色」MV公開！長嶋凛桜がセンター務める",
@@ -172,28 +230,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "3d7b4aab3c7d1545",
-      "title": "乃木坂46賀喜遥香「別に一途じゃなくても着ていいよ…」生誕記念Tシャツに書いた「一途」の意味とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260715-4705952/",
-      "publishedAt": "2026-07-15T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月9日（木）の放送では、遥香先生の生誕記念グッズを購入したという生徒（リスナー）からのメッセージを紹介しました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
