@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-23T19:48:09.171Z",
+  "updatedAt": "2026-07-24T03:47:05.452Z",
   "articles": [
+    {
+      "id": "6fdc16d9ff4fb926",
+      "title": "M!LK、キタニタツヤ、ROIROM、Chevon、長谷川白紙、ぼっちぼろまる×日向坂46……注目新譜6作をレビュー",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/07/post-2468634.html",
+      "publishedAt": "2026-07-24T03:10:20.000Z",
+      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、M!LK「You!Joy!Parade!」、キタニタツヤ「F.A.C.E.」、ROIROM「GHOST HOUSE」、Chevon「Lamipus」、長谷川白紙「窒息日記」、ぼっちぼろまる「ロマンティックがほしいなら」の6作品をピックアップした。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "c31ee2d860b1abbb",
       "title": "乃木坂46賀喜遥香「燃やすんですか!?」新曲「是非に及ばず」MV撮影で“一番頑張った”シーンとは？",
@@ -41,50 +55,6 @@
         {
           "name": "潮紗理菜",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a8af75a2f886bf8e",
-      "title": "「素晴らしかった」「映像化したら私は買います」「めちゃくちゃよかった」称賛止まらず…元日向坂46・松田好花が感動した“ライブ”とは 楽屋あいさつの“悩み”も吐露",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260723-4732365/",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "summary": "「現役メンバーに混じって、ちゃっかり観覧させてもらった」元日向坂46でタレントの松田好花が、7月15日・16日に神奈川・ぴあアリーナMMで行われた「五期生LIVE」を振り返った――。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a28a36cce5bf211b",
-      "title": "ふみの、「東京」MV公開＆1stアルバム『僕のすべてを知ってるような君だから』リリース決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1079575",
-      "publishedAt": "2026-07-23T11:30:00.000Z",
-      "summary": "ふみのが本日7月23日（木）に4thシングル「東京」を配信リリースし、同曲のミュージックビデオを公開した。 「東京」はフジテレビ系水曜ドラマ『Tokyo middle 30』の主題歌として書き下ろした楽曲。求める何かに向かって懸命に歩み続ける“今”を描き、思い描いていた未来と現実との間で揺れ動きながらも、東京という多様な価値観や個性が交差する場所で焦りや孤独",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "深川麻衣",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -142,28 +112,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "98a7c82b90e241dc",
-      "title": "乃木坂46、6期生楽曲「命の色」MV公開！長嶋凛桜がセンター務める",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/656790.html",
-      "publishedAt": "2026-07-20T14:00:50.000Z",
-      "summary": "乃木坂46が、7月22日に発売する42ndシングル「是非に及ばず」に収録される6期生楽曲「命の色」のMusic Videoを公開した。7月19日から先行配信された「命の色」は、乃木坂46の6期生メンバーが歌唱する楽曲。フォーメーションのセンターは長嶋凛桜が務めている。同 ... The post 乃木坂46、6期生楽曲「命の色」MV公開！長嶋凛桜がセンター務",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "長嶋凛桜",
           "group": "乃木坂46",
           "status": "active"
         }
