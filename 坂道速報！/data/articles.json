@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T03:41:54.505Z",
+  "updatedAt": "2026-07-25T08:25:52.671Z",
   "articles": [
     {
       "id": "7362be3888fe0fe5",
@@ -58,8 +58,8 @@
     {
       "id": "0c17f0ca949b608f",
       "title": "田中圭「絶妙にダサいところを狙って…」鈴木おさむ書き下ろしの舞台で“金メッシュ”にした理由とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260724-4737275/",
       "publishedAt": "2026-07-24T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。7月15日（水）の放送には、俳優・田中圭さんが登場！本記事では、田中さんが主演を務める舞台「母さん、ラブソングです。」について語った模様をお届けします。",
@@ -214,50 +214,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260718-4716750/",
       "publishedAt": "2026-07-18T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。7月14日（火）の放送は、全日本プロレス所属のプロレスラー・安齊勇馬選手が登場！ 本記事では、安齊選手が所属する全日本プロレスについて伺った模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5083ce95cf78cb1c",
-      "title": "北山宏光「今の自分を表すんだったら…」最新アルバム『ULTRActi:on』に込めた“4つの意味”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260718-4715377/",
-      "publishedAt": "2026-07-18T02:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。7月11日（土）の放送は、北山宏光さんが登場！ 6月24日にリリースされたサードアルバム『ULTRActi:on』（ウルトラクション）について話を伺いました。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b9e1e0c1d040682e",
-      "title": "料理レシピを“音声”だけで紹介!? 料理研究家・上田淳子「私にもできるかもって夢が膨らむのが音のいいところ」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260718-4715378/",
-      "publishedAt": "2026-07-18T02:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。7月13日（月）の放送には、料理研究家の上田淳子さんが登場！ 本記事では、上田さんがパーソナリティを務めているポッドキャスト番組「料理たのしくなる相談室」について伺った模様を紹介します。",
       "groups": [
         "乃木坂46"
       ],
@@ -911,28 +867,6 @@
         {
           "name": "森田ひかる",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c7471ffef9422b37",
-      "title": "日向坂46、平岡海月センターの「Empty」MV公開 “空虚”でも前へ進もうともがく姿を描く",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/86350/",
-      "publishedAt": "2026-05-14T15:40:00.000Z",
-      "summary": "日向坂46が、5月20日(水)に発売を控える17thシングル『Kind of love』からアンダーメンバー・ひなた坂46による新曲「Empty」のMusic Videoを公開した。 同時に先行配信もスタートした「Empty」のセンターは、初めて楽曲センターを務める四期生の平岡海月。公開されたMuisic Videoはタイトルの通り、Empty＝空虚な空間を",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "平岡海月",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
