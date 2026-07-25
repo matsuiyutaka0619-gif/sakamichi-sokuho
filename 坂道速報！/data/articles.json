@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-07-24T19:49:08.145Z",
+  "updatedAt": "2026-07-25T03:41:54.505Z",
   "articles": [
+    {
+      "id": "7362be3888fe0fe5",
+      "title": "乃木坂46川崎桜＆小川彩が見つけた「好き」のかたち 同期だからこそ引き出せた新たな表情と信頼関係",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260725-4733609/",
+      "publishedAt": "2026-07-25T03:00:00.000Z",
+      "summary": "FOD SHORTで配信中の縦型ショートドラマ『野球少女鷲尾』で主演を務める乃木坂46の川崎桜(※崎は正しくは立つ崎)と、共演している乃木坂46の小川彩。同期だからこその息の合った掛け合いで語ってくれたのは、撮影の舞台裏や演技への思い、お互いの印象、そして作品のテーマにも重なる「好き」との向き合い方。対照的な性格だからこそ支え合える、2人ならではの関係性が見",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "af4ec04031626f14",
+      "title": "鈴本美愉、キュートなカチューシャ姿でディズニーを満喫！元欅坂46の同期・齋藤冬優花と仲良し2ショットも",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/657225.html",
+      "publishedAt": "2026-07-24T23:00:59.000Z",
+      "summary": "鈴本美愉が7月11日、自身のInstagramを更新。元欅坂46の同期・齋藤冬優花とディズニーを訪れた際の写真を投稿した。鈴本は「ディズニー行った日」とコメントし、赤と青のグラフィックが印象的なショート丈トップスに、黒のクロップドパンツを合わせたコーディネートで登場。引 ... The post 鈴本美愉、キュートなカチューシャ姿でディズニーを満喫！元欅坂4",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤冬優花",
+          "group": "櫻坂46",
+          "status": "og"
+        },
+        {
+          "name": "鈴本美愉",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "0c17f0ca949b608f",
       "title": "田中圭「絶妙にダサいところを狙って…」鈴木おさむ書き下ろしの舞台で“金メッシュ”にした理由とは？",
@@ -20,70 +74,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "cb2bf4bfeb518a3a",
-      "title": "ぼっちぼろまる、最新曲MV公開 日向坂46 小坂菜緒＆正源司陽子＆藤嶌果歩をイメージしたキャラクターが登場",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/07/post-2470232.html",
-      "publishedAt": "2026-07-24T11:00:37.000Z",
-      "summary": "ぼっちぼろまるの新曲「ロマンティックがほしいなら feat. 小坂菜緒, 正源司陽子, 藤嶌果歩（日向坂46）」のMVが公開された。 ロマンティックがほしいなら feat. 小坂菜緒, 正源司陽子, 藤嶌果歩 (日向坂",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小坂菜緒",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9e8c75cedae18d79",
-      "title": "ぼっちぼろまる、新曲「ロマンティックがほしいなら」MV公開。日向坂46の小坂菜緒・正源司陽子・藤嶌果歩をイメージしたキャラが登場するアニメMVに",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1079709",
-      "publishedAt": "2026-07-24T11:00:00.000Z",
-      "summary": "ぼっちぼろまるが、新曲「ロマンティックがほしいなら feat. 小坂菜緒, 正源司陽子, 藤嶌果歩 (日向坂46)」のMVを公開した。 本楽曲は、TVアニメ「逃げ上手の若君」第二期エンディングテーマだ。連載開始当初から原作のファンであったぼっちぼろまるが、TVアニメ『逃げ上手の若君』のために書き下ろした。今回公開されたMVは、ゲストボーカルの小坂菜緒、正源司",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小坂菜緒",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
