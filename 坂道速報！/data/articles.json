@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-07-27T04:05:23.895Z",
+  "updatedAt": "2026-07-27T10:11:17.511Z",
   "articles": [
+    {
+      "id": "0bdc8988bff41384",
+      "title": "山崎怜奈「当時の自分にとって救いでした」東野圭吾さん追悼「初めてお小遣いで買ったミステリ」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607270001062.html",
+      "publishedAt": "2026-07-27T09:39:41.000Z",
+      "summary": "「容疑者Xの献身」「白夜行」などの人気ミステリー小説で知られる作家の東野圭吾さんが、大腸がんのため亡くなったことが27日、明らかになった。68歳だった。講談社が公式サイトなどで発表した。 タレント山崎怜奈（28）が27日、自身のXを更新…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "3d88259d6f3cb914",
+      "title": "乃木坂46、AKB48、柏木由紀、後藤真希ら集結『TIF2026』FODで3日間PPVライブ配信",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260727-4746951/",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "summary": "乃木坂46、AKB48、＝LOVE、後藤真希、柏木由紀らが出演する世界最大のアイドルフェス『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』が、31日から8月2日まで、フジテレビの動画配信サービス・FODのPPV(ペイ・パー・ビュー)でライブ配信される。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "da03146bdaeea717",
+      "title": "山下美月、淡い灰色の着物姿で27歳の誕生日を報告 「今年も一年、笑顔で過ごすぞ～」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/07/post-2471955.html",
+      "publishedAt": "2026-07-27T04:30:20.000Z",
+      "summary": "俳優の山下美月が7月26日、自身のInstagramを更新し、艶やかな着物姿で27歳の誕生日を迎えたことを報告した。 現在公演中の主演舞台『成瀬は天下を取りにいく』や、出演するABEMAオリジナルドラマ『バカンスの法",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "4380463cdeeb78a3",
       "title": "乃木坂46 井上和、『トイ・ストーリー5』で好演！ アニメ愛が結実したスナッピー役",
