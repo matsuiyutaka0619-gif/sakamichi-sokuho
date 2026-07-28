@@ -1,62 +1,11 @@
 {
-  "updatedAt": "2026-07-28T03:40:32.399Z",
+  "updatedAt": "2026-07-28T09:07:54.741Z",
   "articles": [
-    {
-      "id": "37e9b1024f3ac187",
-      "title": "【7月28日更新】乃木坂46冨里奈央更新！坂道の火曜日バックナンバーなど全国のコンビニマルチコピー機で販売中",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/info/news/202606020000401.html",
-      "publishedAt": "2026-07-28T03:00:00.000Z",
-      "summary": "坂道シリーズファンにはおなじみのサービス「こんぷりん」で「坂道の火曜日」などの一部バックナンバーが購入できます。 全国のコンビニマルチコピー機で手軽にプリントできます。 【乃木坂46バスラ、櫻坂46アニラ、梅澤美波卒業などはコチラ】 【…",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "冨里奈央",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "50a27a59cb34fbf9",
-      "title": "マヂカルラブリー村上、双子育児に奮闘 “尖ってる”我が子に「話が長くない人に育ってほしい」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1038880/",
-      "publishedAt": "2026-07-28T02:26:49.000Z",
-      "summary": "お笑いコンビ・マヂカルラブリーの村上が28日、都内で行われたアース製薬「みんなのシリカ」事業戦略・新製品発表会に、佐々木美玲、相方の野田クリスタルと共に登壇。今年4月に誕生した双子について語った。「全部に文句を言ってます […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐々木美玲",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
     {
       "id": "3d88259d6f3cb914",
       "title": "乃木坂46、AKB48、柏木由紀、後藤真希ら集結『TIF2026』FODで3日間PPVライブ配信",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260727-4746951/",
       "publishedAt": "2026-07-27T09:00:00.000Z",
       "summary": "乃木坂46、AKB48、＝LOVE、後藤真希、柏木由紀らが出演する世界最大のアイドルフェス『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』が、31日から8月2日まで、フジテレビの動画配信サービス・FODのPPV(ペイ・パー・ビュー)でライブ配信される。",
