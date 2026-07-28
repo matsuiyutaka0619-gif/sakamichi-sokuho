@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T09:07:54.741Z",
+  "updatedAt": "2026-07-28T14:41:28.369Z",
   "articles": [
     {
       "id": "3d88259d6f3cb914",
@@ -14,50 +14,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "9a1e8331fa2a66b7",
-      "title": "村山彩希＆岡田奈々ミュージカル「飛龍伝」Wキャストで主演！「互いに切磋琢磨して最高の作品に」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/202356",
-      "publishedAt": "2026-07-26T23:00:54.000Z",
-      "summary": "元『AKB48』“ゆいりー”こと村山彩希と“なぁちゃん”岡田奈々が11月5日より上演予定の『つかこうへい革命ミュージカル ダブルス「飛龍伝」「幕末純情伝」』（演出：中江功）の『飛龍伝』にてWキャストで主演することが7月...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "195b74faa0ee7739",
-      "title": "“ゆうなぁ”村山彩希＆岡田奈々 新ユニット「YUNARIS」結成！名前由来、衣装コンセプトなど詳細解説",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/202351",
-      "publishedAt": "2026-07-26T23:00:52.000Z",
-      "summary": "元『AKB48』の“ゆいりー”こと村山彩希と“なぁちゃん”こと岡田奈々が新デュオユニット『YUNARIS』を結成したことが7月27日に発表となった。 『AKB48』時代から『ゆうなぁ』と呼ばれ親しまれてきた2人。『Y...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "ac9b892e506d8e3e",
@@ -259,28 +215,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8fd318c0776300d7",
-      "title": "多次元制御機構よだか「毎日頑張ってます（笑）」メジャーデビュー後に感じた\"日常の変化\"とは？ファーストアルバム『LAPLACEL』制作秘話も",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260723-4734035/",
-      "publishedAt": "2026-07-23T12:50:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。7月18日（土）の放送には、多次元制御機構よだかが登場！ 7月1日にリリースしたファーストフルアルバム『LAPLACEL』について伺いました。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
