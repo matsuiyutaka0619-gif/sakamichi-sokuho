@@ -1,69 +1,54 @@
 {
-  "updatedAt": "2026-07-27T19:57:47.892Z",
+  "updatedAt": "2026-07-28T03:40:32.399Z",
   "articles": [
     {
-      "id": "6aab54872d363b4e",
-      "title": "乃木坂46林瑠奈、ミュージカル初挑戦で気合「たくさん吸収しながら」 別所哲也の存在に安心感",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1038611/",
-      "publishedAt": "2026-07-27T19:00:00.000Z",
-      "summary": "アイドルグループ・乃木坂46の林瑠奈が27日、都内で行われたミュージカル『民王』製作発表記者会見に参加。ミュージカル初挑戦となり、心境を吐露した。ミュージカル『民王』製作発表記者会見 アイドルグループ・乃木坂46の林瑠 […]",
+      "id": "37e9b1024f3ac187",
+      "title": "【7月28日更新】乃木坂46冨里奈央更新！坂道の火曜日バックナンバーなど全国のコンビニマルチコピー機で販売中",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/info/news/202606020000401.html",
+      "publishedAt": "2026-07-28T03:00:00.000Z",
+      "summary": "坂道シリーズファンにはおなじみのサービス「こんぷりん」で「坂道の火曜日」などの一部バックナンバーが購入できます。 全国のコンビニマルチコピー機で手軽にプリントできます。 【乃木坂46バスラ、櫻坂46アニラ、梅澤美波卒業などはコチラ】 【…",
       "groups": [
-        "乃木坂46"
+        "乃木坂46",
+        "櫻坂46"
       ],
       "statuses": [
+        "og",
         "active"
       ],
       "memberMatches": [
         {
-          "name": "林瑠奈",
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "冨里奈央",
           "group": "乃木坂46",
           "status": "active"
         }
       ]
     },
     {
-      "id": "f21e6a4d688e864a",
-      "title": "別所哲也、ミュージカルでは初の内閣総理大臣役「息子はキラキラ系、私はギラギラ系」",
+      "id": "50a27a59cb34fbf9",
+      "title": "マヂカルラブリー村上、双子育児に奮闘 “尖ってる”我が子に「話が長くない人に育ってほしい」",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1038616/",
-      "publishedAt": "2026-07-27T19:00:00.000Z",
-      "summary": "ミュージカル『民王』製作発表記者会見が27日、都内で開催され、有澤樟太郎、別所哲也、豊原江理佳、乃木坂46の林瑠奈、山崎大輝、上川一哉、福田転球、一路真輝、竹中直人、演出の永井誠氏が登壇。劇中歌を初披露したほか、キャスト […]",
+      "articleUrl": "https://encount.press/archives/1038880/",
+      "publishedAt": "2026-07-28T02:26:49.000Z",
+      "summary": "お笑いコンビ・マヂカルラブリーの村上が28日、都内で行われたアース製薬「みんなのシリカ」事業戦略・新製品発表会に、佐々木美玲、相方の野田クリスタルと共に登壇。今年4月に誕生した双子について語った。「全部に文句を言ってます […]",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "林瑠奈",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5fe537c4bb60a8d1",
-      "title": "『豊臣兄弟！』次回予告に井上和 圧倒的存在感…X騒然「ついに」「気が強そう」「顔ちっちゃ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1038567/",
-      "publishedAt": "2026-07-27T12:10:00.000Z",
-      "summary": "俳優の仲野太賀が主人公・豊臣秀長（小一郎）を、池松壮亮が秀長の兄で天下人となる秀吉を演じるNHKの大河ドラマ『豊臣兄弟！』（日曜午後8時）。26日放送の第29回終了後、次回予告に登場した新キャストの存在感が話題を集めてい […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
+          "name": "佐々木美玲",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
@@ -80,50 +65,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "da03146bdaeea717",
-      "title": "山下美月、淡い灰色の着物姿で27歳の誕生日を報告 「今年も一年、笑顔で過ごすぞ～」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2471955.html",
-      "publishedAt": "2026-07-27T04:30:20.000Z",
-      "summary": "俳優の山下美月が7月26日、自身のInstagramを更新し、艶やかな着物姿で27歳の誕生日を迎えたことを報告した。 現在公演中の主演舞台『成瀬は天下を取りにいく』や、出演するABEMAオリジナルドラマ『バカンスの法",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "4380463cdeeb78a3",
-      "title": "乃木坂46 井上和、『トイ・ストーリー5』で好演！ アニメ愛が結実したスナッピー役",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2471530.html",
-      "publishedAt": "2026-07-27T02:30:15.000Z",
-      "summary": "『トイ・ストーリー5』でスナッピーを演じた井上和。“受け”の芝居やアニメへの憧れ、俳優・声優として積み重ねた経験が結実した魅力を深掘りしたい。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "9a1e8331fa2a66b7",
@@ -307,33 +248,6 @@
       ]
     },
     {
-      "id": "af4ec04031626f14",
-      "title": "鈴本美愉、キュートなカチューシャ姿でディズニーを満喫！元欅坂46の同期・齋藤冬優花と仲良し2ショットも",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/657225.html",
-      "publishedAt": "2026-07-24T23:00:59.000Z",
-      "summary": "鈴本美愉が7月11日、自身のInstagramを更新。元欅坂46の同期・齋藤冬優花とディズニーを訪れた際の写真を投稿した。鈴本は「ディズニー行った日」とコメントし、赤と青のグラフィックが印象的なショート丈トップスに、黒のクロップドパンツを合わせたコーディネートで登場。引 ... The post 鈴本美愉、キュートなカチューシャ姿でディズニーを満喫！元欅坂4",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤冬優花",
-          "group": "櫻坂46",
-          "status": "og"
-        },
-        {
-          "name": "鈴本美愉",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "0c17f0ca949b608f",
       "title": "田中圭「絶妙にダサいところを狙って…」鈴木おさむ書き下ろしの舞台で“金メッシュ”にした理由とは？",
       "sourceName": "マイナビニュース 芸能",
@@ -434,28 +348,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "636cd4c2aec807e2",
-      "title": "乃木坂46賀喜遥香「誰も立候補しない係を進んでやろうと…」小学校での\"係決め\"の思い出を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260722-4730377/",
-      "publishedAt": "2026-07-22T11:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月16日（木）の放送では、小学生の生徒（リスナー）から届いたメッセージを紹介しました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "ea70e9d58d334b67",
