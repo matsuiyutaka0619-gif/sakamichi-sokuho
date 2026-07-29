@@ -1,6 +1,107 @@
 {
-  "updatedAt": "2026-07-29T09:12:19.509Z",
+  "updatedAt": "2026-07-29T14:33:19.724Z",
   "articles": [
+    {
+      "id": "a6628d483637379c",
+      "title": "乃木坂46賀喜遥香 後輩・井上和からの“サプライズ生電話”にビックリ！「次は連れてきたいなぁ」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260729-4754688/",
+      "publishedAt": "2026-07-29T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月23日（木）の放送では、賀喜先生が生出演した「SCHOOL OF LOCK!」生放送教室の振り返りをおこないました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2e9b9ce75837a574",
+      "title": "日向坂46山下葉留花「バズりそうな振り付けがギュッと詰まってる！」藤嶌果歩が小坂菜緒、正源司陽子と参加した新曲を絶賛！",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260729-4754687/",
+      "publishedAt": "2026-07-29T12:50:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月24日（金）の",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小坂菜緒",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b57b7380c8258545",
+      "title": "「それを見た日奈子さんが…」阪口珠美、乃木坂46時代の先輩に“怒られた”理由とは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260729-4750194/",
+      "publishedAt": "2026-07-29T12:00:00.000Z",
+      "summary": "元乃木坂46の阪口珠美が、自身がパーソナリティを務めるニコニコチャンネル＋『阪口珠美のたまみのとなりの席』で、乃木坂46時代の先輩・北野日奈子とのエピソードを語った。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "北野日奈子",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "阪口珠美",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "2af3532022ff291c",
       "title": "日向坂46「ひなくり」が約4年ぶり復活！神戸・東京・愛知を巡るアリーナツアー開催決定",
