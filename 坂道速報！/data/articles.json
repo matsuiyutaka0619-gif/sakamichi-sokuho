@@ -1,46 +1,105 @@
 {
-  "updatedAt": "2026-07-30T09:05:19.047Z",
+  "updatedAt": "2026-07-30T14:35:01.673Z",
   "articles": [
     {
-      "id": "b3366c91e44dd636",
-      "title": "橋本環奈、ILLIT・ユナと“デート約束” 相思相愛で「どこにでも連れて行ってあげる」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1040267/",
-      "publishedAt": "2026-07-30T08:26:50.000Z",
-      "summary": "K-POPガールグループ・ILLITが30日、都内で行われたABEMAオリジナルドラマ『バカンスの法則』（毎週月・水・金曜午後8時配信）プレミアイベントに、主演の橋本環奈、チェ・ジョンヒョプ、勝地涼、山下美月、加納愛子（ […]",
+      "id": "8628bc2b4e004c0c",
+      "title": "元日向坂46影山優佳「なんでW杯でピチピチのユニホームを着ていたのか…」答えは…？",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202607300001431.html",
+      "publishedAt": "2026-07-30T12:58:25.000Z",
+      "summary": "元日向坂46の影山優佳（25）が30日、都内で行われた、自身初のエッセー集「影まで愛して」発売記念会見に登壇した。 エッセー集にして珍しく袋とじを収録しており、自身のインスタグラムには同袋とじのオフショットであるランジェリー姿を掲載し話…",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "山下美月",
-          "group": "乃木坂46",
+          "name": "影山優佳",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "9470579bba2854d7",
-      "title": "Aマッソ加納愛子、ドラマ初挑戦で標準語→関西弁に 台本から変更「何とかやりやすいように」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1040272/",
-      "publishedAt": "2026-07-30T08:20:08.000Z",
-      "summary": "お笑いコンビ・Aマッソの加納愛子が30日、都内で行われたABEMAオリジナルドラマ『バカンスの法則』（毎週月・水・金曜午後8時配信）プレミアイベントに、主演の橋本環奈、チェ・ジョンヒョプ、勝地涼、山下美月、桜田通、東村ア […]",
+      "id": "91ef6b7be9bd6a79",
+      "title": "日向坂46藤嶌果歩が告白…ついやってしまう\"変わったクセ\"とは？「\"体調悪いかも\"って思ったら…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260730-4758182/",
+      "publishedAt": "2026-07-30T12:50:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月24日（金）の",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5c7512edbeaf37af",
+      "title": "「寝れないぐらい怖かった」「考えさせられる映画」元日向坂46松田好花、公開中の“話題作”を鑑賞 キャラクターとストーリーのギャップに驚く",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260730-4757114/",
+      "publishedAt": "2026-07-30T12:00:00.000Z",
+      "summary": "「小さくてかわいいみたいな感じですよね……?」元日向坂46でタレントの松田好花が、最近観た“怖かった”映画について語った――。",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "山下美月",
-          "group": "乃木坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "9e9105b7db207c3a",
+      "title": "秦 基博「10周年は一息で駆け抜けた感覚でした」幾多の山と谷を越えて迎えた“デビュー20周年”の心境を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260730-4758046/",
+      "publishedAt": "2026-07-30T11:50:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。7月25日（土）の放送には、シンガーソングライターの秦 基博さんが登場！ デビュー20周年への思いや、7月7日にリリースされた新曲「ひとひら」の制作秘話について伺いました。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -145,20 +204,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "2af3532022ff291c",
-      "title": "日向坂46「ひなくり」が約4年ぶり復活！神戸・東京・愛知を巡るアリーナツアー開催決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/658101.html",
-      "publishedAt": "2026-07-28T21:00:48.000Z",
-      "summary": "日向坂46が、アリーナツアー「日向坂46 ARENA TOUR ひなくり2026」を開催することを発表した。「ひなくり」は、日向坂46が毎年12月に開催していたライブイベント。2022年以来、約4年ぶりの復活となる今回は、兵庫、東京、愛知の3都市を巡る全9公演のアリーナ ... The post 日向坂46「ひなくり」が約4年ぶり復活！神戸・東京・愛知を巡る",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "3d88259d6f3cb914",
