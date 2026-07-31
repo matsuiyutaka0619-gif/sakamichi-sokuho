@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-31T09:18:52.783Z",
+  "updatedAt": "2026-07-31T14:38:48.585Z",
   "articles": [
     {
-      "id": "f7e8fd96479e7f46",
-      "title": "影山優佳、白ワンピ姿でスタイル際立つ 「みなさんと出会えたから、ここまでこれました」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/07/post-2477094.html",
-      "publishedAt": "2026-07-31T03:20:06.000Z",
-      "summary": "影山優佳が自身のInstagramを更新し、初のエッセイ集『影まで愛して』（マガジンハウス）の発売を報告した。 投稿された写真は白のミニワンピースに素足姿で、こちらに微笑みかけるショット。そのほか、少し体を傾けたポー",
+      "id": "5311aeed552259f1",
+      "title": "影山優佳、レモンカラーのドレスで華やかに！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/658305.html",
+      "publishedAt": "2026-07-31T12:45:47.000Z",
+      "summary": "タレントの影山優佳が7月29日までに自身のInstagramを更新した。影山優佳は白のノースリーブトップスにイエローを効かせた、華やかで爽やかなコーデを披露し「みんないま何してるのー？」とコメントを寄せた。本投稿にファンからは、「影ちゃん見て癒されてます」「エッセイのお ... The post 影山優佳、レモンカラーのドレスで華やかに！ first app",
       "groups": [
         "日向坂46"
       ],
@@ -20,6 +20,50 @@
           "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "444bcdbd064475bb",
+      "title": "スピッツ、ドラマ『Tシャツが乾くまで』主題歌「見知らぬ糸」配信リリース決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1080853",
+      "publishedAt": "2026-07-31T12:00:00.000Z",
+      "summary": "スピッツが、主題歌のTBS系 金曜ドラマ『Tシャツが乾くまで』主題歌の「見知らぬ糸」を2026年8月7日に配信リリースすることを発表した。 ドラマ『Tシャツが乾くまで』は、蒼井優が18年ぶりに地上波連続ドラマで主演を務めている作品。脚本は『silent』などを手掛けた生方美久によるオリジナルストーリーとなっており、7月10日の初回放送から大きな反響を集めてい",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "ea4aac0bf9f2dd69",
+      "title": "西武、乃木坂46・柴田柚菜さんがセレモニアルピッチ「100点満点」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260731-4761251/",
+      "publishedAt": "2026-07-31T02:02:35.000Z",
+      "summary": "西武－オリックス（ベルーナドーム）の試合前に、乃木坂46の柴田柚菜さんがセレモニアルピッチに登場した。 ▼ 柴田柚菜さんコメント 「ノーバウンド投球ができ、楽しかったです！100点満点…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
