@@ -1,24 +1,95 @@
 {
-  "updatedAt": "2026-08-01T08:35:14.476Z",
+  "updatedAt": "2026-08-01T13:58:30.478Z",
   "articles": [
     {
-      "id": "0688645230a410ec",
-      "title": "若月佑美、デビュー15周年記念作品集を発売 カールのブロンドヘアにそばかすメイクの表紙も解禁",
+      "id": "a759d89668fcc300",
+      "title": "乃木坂46菅原咲月、「東カレ」初登場 雰囲気ガラリでファン称賛「すっかり大人」「世界一の美人」",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1041289/",
-      "publishedAt": "2026-08-01T06:01:50.000Z",
-      "summary": "元乃木坂46で俳優の若月佑美が、デビュー15周年を記念した作品集『FIRST EGOISM』が9月18日に発売されることが7月31日、発表された。9月18日に発売の『FIRST EGOISM』 元乃木坂46で俳優の若月 […]",
+      "articleUrl": "https://encount.press/archives/1041355/",
+      "publishedAt": "2026-08-01T13:30:00.000Z",
+      "summary": "アイドルグループ・乃木坂46の菅原咲月（20）が、「東京カレンダー」10月号に登場し、ファンから歓喜の声が上がっている。菅原咲月が「東京カレンダー」10月号に登場 アイドルグループ・乃木坂46の菅原咲月（20）が、「東 […]",
       "groups": [
         "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1d146af38a20326f",
+      "title": "“最下位球団”の楽しみ方とは…中日ファンのサカナクション山口一郎、楽天ファンの久保史緒里にレクチャー「1軍をファームと思って見てる」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260801-4761103/",
+      "publishedAt": "2026-08-01T12:30:00.000Z",
+      "summary": "「勝敗じゃないんだよ」ロックバンド・サカナクションの山口一郎が、7月28日深夜放送のニッポン放送『サカナクション山口一郎のオールナイトニッポン』(毎週火曜25:00～27:00)に出演。プロ野球で最下位のチームを応援する楽しみ方を語った。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "514066df8c45dfed",
+      "title": "『渡邉美穂の私、、、好き～～！』初番組イベ宮田愛萌、濱岸ひよりと開催！「愛萌がかわいすぎて絶望」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/202738",
+      "publishedAt": "2026-08-01T12:23:14.000Z",
+      "summary": "タレント・渡邉美穂がパーソナリティーを務めるラジオ番組『渡邉美穂の私、、、好き～～！』（文化放送、土曜・深夜3時～）の初の番組イベント『渡邉美穂の私、、、好き～～！やっぱり埼玉に帰ってきちゃいました』が8月1日に埼玉・...",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "若月佑美",
-          "group": "乃木坂46",
+          "name": "渡邉美穂",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "濱岸ひより",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "3765a151cff22113",
+      "title": "平手友梨奈、ソロ初となる武道館ライブ記念で＜1st LIVE “零”＞ライブ映像を3週連続公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1081031",
+      "publishedAt": "2026-08-01T12:00:35.000Z",
+      "summary": "平手友梨奈が、8月20日（木）に開催するソロ初の武道館ライブ＜アナタタチノカルテ＞を記念して、2025年8月21日Zepp DiverCity(TOKYO)にて行われた初のワンマンライブ＜平手友梨奈 1st LIVE “零”＞のライブ映像を3週連続で公開する。このたび第1週目の映像が公開となった。 ライブ映像は平手友梨奈オフィシャルYouTubeチャンネルに",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "平手友梨奈",
+          "group": "櫻坂46",
           "status": "og"
         }
       ]
@@ -86,28 +157,6 @@
           "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "2f5aef0347856916",
-      "title": "【写真特集】乃木坂46・井上和、TIF2026チェアマンとして登場！出演アイドルとラジオ体操＆開会宣言＜TOKYO IDOL FESTIVAL 2026＞",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/658993.html",
-      "publishedAt": "2026-07-31T01:20:55.000Z",
-      "summary": "2026年7月31日（金）、8月1日（土）、2日（日）の3日間、世界最大のアイドルフェス「TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック」（以下、TIF2026）が、お台場・青海周辺エリアで開催。1日目となる7月31日（金 ... The post 【写真特集】乃木坂46・井上和、TIF2026チェアマンとして",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -270,20 +319,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "3d88259d6f3cb914",
-      "title": "乃木坂46、AKB48、柏木由紀、後藤真希ら集結『TIF2026』FODで3日間PPVライブ配信",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260727-4746951/",
-      "publishedAt": "2026-07-27T09:00:00.000Z",
-      "summary": "乃木坂46、AKB48、＝LOVE、後藤真希、柏木由紀らが出演する世界最大のアイドルフェス『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』が、31日から8月2日まで、フジテレビの動画配信サービス・FODのPPV(ペイ・パー・ビュー)でライブ配信される。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "ac9b892e506d8e3e",
