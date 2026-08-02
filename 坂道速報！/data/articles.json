@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-02T03:56:03.737Z",
+  "updatedAt": "2026-08-02T08:38:13.196Z",
   "articles": [
+    {
+      "id": "8a063502576df88c",
+      "title": "平手友梨奈、ソロ初の日本武道館ライブ記念で映像を3週連続公開！第1弾は「俺らの未来」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/659427.html",
+      "publishedAt": "2026-08-02T04:00:01.000Z",
+      "summary": "平手友梨奈が、2026年8月20日に東京・日本武道館で開催するソロ初の武道館ライブ「アナタタチノカルテ」を記念し、過去のライブ映像を3週連続で公開する。公開されるのは、2025年8月21日に東京・Zepp DiverCityで開催された初のワンマンライブ「平手友梨奈 1 ... The post 平手友梨奈、ソロ初の日本武道館ライブ記念で映像を3週連続公開！",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "平手友梨奈",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "fa12a5f7e7f1bcf0",
       "title": "乃木坂46の“聖地”神宮ライブ、全国のカラオケへ4DAYS全日程生配信",
@@ -14,28 +36,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "1d146af38a20326f",
-      "title": "“最下位球団”の楽しみ方とは…中日ファンのサカナクション山口一郎、楽天ファンの久保史緒里にレクチャー「1軍をファームと思って見てる」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260801-4761103/",
-      "publishedAt": "2026-08-01T12:30:00.000Z",
-      "summary": "「勝敗じゃないんだよ」ロックバンド・サカナクションの山口一郎が、7月28日深夜放送のニッポン放送『サカナクション山口一郎のオールナイトニッポン』(毎週火曜25:00～27:00)に出演。プロ野球で最下位のチームを応援する楽しみ方を語った。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "514066df8c45dfed",
