@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-02T08:38:13.196Z",
+  "updatedAt": "2026-08-02T13:59:38.864Z",
   "articles": [
+    {
+      "id": "e9d376c4b387a51d",
+      "title": "乃木坂46がTIFメインステージのトリを務め10曲を披露 井上和「すごく最高の3日間」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1041929/",
+      "publishedAt": "2026-08-02T12:49:48.000Z",
+      "summary": "アイドルグループ・乃木坂46が2日、お台場・青海周辺エリアで開催された世界最大のアイドルフェス「TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック」に出演。メインステージである […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "8a063502576df88c",
       "title": "平手友梨奈、ソロ初の日本武道館ライブ記念で映像を3週連続公開！第1弾は「俺らの未来」",
@@ -65,28 +87,6 @@
       ]
     },
     {
-      "id": "3765a151cff22113",
-      "title": "平手友梨奈、ソロ初となる武道館ライブ記念で＜1st LIVE “零”＞ライブ映像を3週連続公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1081031",
-      "publishedAt": "2026-08-01T12:00:35.000Z",
-      "summary": "平手友梨奈が、8月20日（木）に開催するソロ初の武道館ライブ＜アナタタチノカルテ＞を記念して、2025年8月21日Zepp DiverCity(TOKYO)にて行われた初のワンマンライブ＜平手友梨奈 1st LIVE “零”＞のライブ映像を3週連続で公開する。このたび第1週目の映像が公開となった。 ライブ映像は平手友梨奈オフィシャルYouTubeチャンネルに",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "95eae810d7434662",
       "title": "乃木坂46・柴田柚菜、セレモニアルピッチでノーバウンド投球！「100点満点です」",
       "sourceName": "WWSチャンネル",
@@ -126,28 +126,6 @@
         {
           "name": "若月佑美",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5311aeed552259f1",
-      "title": "影山優佳、レモンカラーのドレスで華やかに！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/658305.html",
-      "publishedAt": "2026-07-31T12:45:47.000Z",
-      "summary": "タレントの影山優佳が7月29日までに自身のInstagramを更新した。影山優佳は白のノースリーブトップスにイエローを効かせた、華やかで爽やかなコーデを披露し「みんないま何してるのー？」とコメントを寄せた。本投稿にファンからは、「影ちゃん見て癒されてます」「エッセイのお ... The post 影山優佳、レモンカラーのドレスで華やかに！ first app",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
