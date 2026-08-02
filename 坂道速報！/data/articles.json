@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-08-02T13:59:38.864Z",
+  "updatedAt": "2026-08-02T19:37:11.215Z",
   "articles": [
-    {
-      "id": "e9d376c4b387a51d",
-      "title": "乃木坂46がTIFメインステージのトリを務め10曲を披露 井上和「すごく最高の3日間」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1041929/",
-      "publishedAt": "2026-08-02T12:49:48.000Z",
-      "summary": "アイドルグループ・乃木坂46が2日、お台場・青海周辺エリアで開催された世界最大のアイドルフェス「TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック」に出演。メインステージである […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
     {
       "id": "8a063502576df88c",
       "title": "平手友梨奈、ソロ初の日本武道館ライブ記念で映像を3週連続公開！第1弾は「俺らの未来」",
@@ -105,28 +83,6 @@
           "name": "柴田柚菜",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "407ff41aedd59cc5",
-      "title": "若月佑美、デビュー15周年記念作品集「FIRST EGOISM」発売決定！2種類のカバーフォト公開",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/659210.html",
-      "publishedAt": "2026-07-31T22:00:50.000Z",
-      "summary": "女優・モデルとして活動する若月佑美のデビュー15周年を記念した作品集「FIRST EGOISM」が、2026年9月18日に発売されることが決定した。あわせて、通常版と特別版のカバーフォトが公開され、7月31日18時より予約販売がスタートする。2018年に乃木坂46を卒業 ... The post 若月佑美、デビュー15周年記念作品集「FIRST EGOISM",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "若月佑美",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
