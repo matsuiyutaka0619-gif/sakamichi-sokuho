@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:37:11.215Z",
+  "updatedAt": "2026-08-03T03:58:13.266Z",
   "articles": [
     {
       "id": "8a063502576df88c",
@@ -26,8 +26,8 @@
     {
       "id": "fa12a5f7e7f1bcf0",
       "title": "乃木坂46の“聖地”神宮ライブ、全国のカラオケへ4DAYS全日程生配信",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260802-4767261/",
       "publishedAt": "2026-08-02T03:00:00.000Z",
       "summary": "乃木坂46が20日から23日までの4日間、東京・神宮球場で開催する「真夏の全国ツアー2026」東京公演が、JOYSOUNDの映像視聴サービス「みるハコ」で全国のカラオケルームに生配信される。",
@@ -36,55 +36,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "514066df8c45dfed",
-      "title": "『渡邉美穂の私、、、好き～～！』初番組イベ宮田愛萌、濱岸ひよりと開催！「愛萌がかわいすぎて絶望」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/202738",
-      "publishedAt": "2026-08-01T12:23:14.000Z",
-      "summary": "タレント・渡邉美穂がパーソナリティーを務めるラジオ番組『渡邉美穂の私、、、好き～～！』（文化放送、土曜・深夜3時～）の初の番組イベント『渡邉美穂の私、、、好き～～！やっぱり埼玉に帰ってきちゃいました』が8月1日に埼玉・...",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "渡邉美穂",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "濱岸ひより",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "95eae810d7434662",
-      "title": "乃木坂46・柴田柚菜、セレモニアルピッチでノーバウンド投球！「100点満点です」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sports/659229.html",
-      "publishedAt": "2026-07-31T23:30:30.000Z",
-      "summary": "乃木坂46の柴田柚菜が、2026年7月31日に埼玉・ベルーナドームで開催された「乃木坂46×パ・リーグのスペシャルコラボ」オリックス・バファローズ戦の試合前に、セレモニアルピッチを行った。マウンドに立った柴田は、見事なノーバウンド投球を披露。大役を終えると、「ノーバウン ... The post 乃木坂46・柴田柚菜、セレモニアルピッチでノーバウンド投球！「",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "柴田柚菜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "91ef6b7be9bd6a79",
