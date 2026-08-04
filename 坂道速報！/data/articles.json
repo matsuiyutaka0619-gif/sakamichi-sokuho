@@ -1,6 +1,84 @@
 {
-  "updatedAt": "2026-08-03T20:00:41.795Z",
+  "updatedAt": "2026-08-04T03:41:26.408Z",
   "articles": [
+    {
+      "id": "37e9b1024f3ac187",
+      "title": "【8月4日更新】乃木坂46一ノ瀬美空更新！坂道の火曜日バックナンバーなど全国のコンビニマルチコピー機で販売中",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/info/news/202606020000401.html",
+      "publishedAt": "2026-08-04T03:00:00.000Z",
+      "summary": "坂道シリーズファンにはおなじみのサービス「こんぷりん」で「坂道の火曜日」などの一部バックナンバーが購入できます。 全国のコンビニマルチコピー機で手軽にプリントできます。 【乃木坂46バスラ、櫻坂46アニラ、梅澤美波卒業などはコチラ】 【…",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8dac553486297105",
+      "title": "梅澤美波、乃木坂46卒業後は「毎日がチャレンジ」 一緒に思い出残したい人明かす",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1042828/",
+      "publishedAt": "2026-08-04T02:37:43.000Z",
+      "summary": "乃木坂46の3代目キャプテンで、今年5月にグループを卒業した梅澤美波が4日、都内で行われた、「シー ソルト アドベンチャー 」ポップアップイベント・フォトコールに出席し、グループ卒業後の心境を明かした。「シー ソルト ア […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b45f2269440fbdc4",
+      "title": "梅澤美波 白石麻衣へ呼びかけや乃木坂46卒業して刺激的な日々！『JO MALONE LONDON』来場",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/beauty/202909",
+      "publishedAt": "2026-08-04T02:36:35.000Z",
+      "summary": "俳優・梅澤美波が8月4日に東京・神宮前のヨドバシJ6ビルディングで開催された『JO MALONE LONDON』（ジョー マローン ロンドン）フォトコールに登場した。 英国発フレグランス ライフスタイル ブランド『ジ...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "6ae20ed212ee049c",
       "title": "乃木坂46・五百城茉央＆奥田いろは“カフェオーレ”TIF登場！『サルビアの花を覚えているかい？』しっとりと",
@@ -25,44 +103,6 @@
           "name": "奥田いろは",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ce43fa1b36b79ad0",
-      "title": "坂道グループが熊本地震を受け募金活動実施を発表「復興のお力になれる活動を続けていきたい」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608030001565.html",
-      "publishedAt": "2026-08-03T12:52:53.000Z",
-      "summary": "乃木坂46、櫻坂46、日向坂46の「坂道」グループが3日、それぞれの公式サイトで令和8年熊本地震の募金活動をライブ会場などで実施すると発表した。 それぞれのサイトで「2026年7月28日に発生した熊本地震により、犠牲となられた皆様に深く…",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "8a063502576df88c",
-      "title": "平手友梨奈、ソロ初の日本武道館ライブ記念で映像を3週連続公開！第1弾は「俺らの未来」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/659427.html",
-      "publishedAt": "2026-08-02T04:00:01.000Z",
-      "summary": "平手友梨奈が、2026年8月20日に東京・日本武道館で開催するソロ初の武道館ライブ「アナタタチノカルテ」を記念し、過去のライブ映像を3週連続で公開する。公開されるのは、2025年8月21日に東京・Zepp DiverCityで開催された初のワンマンライブ「平手友梨奈 1 ... The post 平手友梨奈、ソロ初の日本武道館ライブ記念で映像を3週連続公開！",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
         }
       ]
     },
