@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-04T09:11:18.899Z",
+  "updatedAt": "2026-08-04T14:41:47.822Z",
   "articles": [
+    {
+      "id": "9895694b58e6642c",
+      "title": "元乃木坂46・中村麗乃、デビュー10周年イベントに阪口珠美がゲスト出演！れのたま共演にファン歓喜",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/659917.html",
+      "publishedAt": "2026-08-04T13:00:41.000Z",
+      "summary": "9月4日にデビュー10周年を迎える元乃木坂46の中村麗乃が、自身の誕生日でもある9月27日に記念ライブイベントを開催する。その第2部に、乃木坂46で苦楽を共にした同期生・阪口珠美のゲスト出演が決定した。中村は2025年6月に乃木坂46を卒業後、事務所をavexへ移籍。今 ... The post 元乃木坂46・中村麗乃、デビュー10周年イベントに阪口珠美がゲ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "阪口珠美",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "中村麗乃",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "b45f2269440fbdc4",
       "title": "梅澤美波 白石麻衣へ呼びかけや乃木坂46卒業して刺激的な日々！『JO MALONE LONDON』来場",
@@ -25,33 +52,6 @@
           "name": "白石麻衣",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6ae20ed212ee049c",
-      "title": "乃木坂46・五百城茉央＆奥田いろは“カフェオーレ”TIF登場！『サルビアの花を覚えているかい？』しっとりと",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/202902",
-      "publishedAt": "2026-08-03T13:03:57.000Z",
-      "summary": "アイドルグループ『乃木坂46』の五百城茉央＆奥田いろはによるフォークデュオ『カフェオーレ』が8月1日に東京・台場周辺で開催された『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリ...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -152,80 +152,6 @@
           "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2e9b9ce75837a574",
-      "title": "日向坂46山下葉留花「バズりそうな振り付けがギュッと詰まってる！」藤嶌果歩が小坂菜緒、正源司陽子と参加した新曲を絶賛！",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260729-4754687/",
-      "publishedAt": "2026-07-29T12:50:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月24日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小坂菜緒",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b57b7380c8258545",
-      "title": "「それを見た日奈子さんが…」阪口珠美、乃木坂46時代の先輩に“怒られた”理由とは",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260729-4750194/",
-      "publishedAt": "2026-07-29T12:00:00.000Z",
-      "summary": "元乃木坂46の阪口珠美が、自身がパーソナリティを務めるニコニコチャンネル＋『阪口珠美のたまみのとなりの席』で、乃木坂46時代の先輩・北野日奈子とのエピソードを語った。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "北野日奈子",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "阪口珠美",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
