@@ -1,39 +1,57 @@
 {
-  "updatedAt": "2026-08-05T03:36:50.409Z",
+  "updatedAt": "2026-08-05T09:08:19.675Z",
   "articles": [
     {
-      "id": "d2ef81c968828f2d",
-      "title": "日向坂46 三期生、“1人と3人”から育んだ4人の関係 歪な同期の軌跡、山口陽世と巡る最初で最後のツアーへ",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2480225.html",
-      "publishedAt": "2026-08-05T03:10:54.000Z",
-      "summary": "日向坂46の三期生による『三期生LIVE』が、8月5日のZepp Osaka Baysideを皮切りに、大阪、愛知、東京の3都市で全7公演開催される。最終日の8月23日には山口陽世の卒業セレモニーも実施。上村ひなの、髙橋未来虹、森本茉莉、山口の4人が揃って そろってステージに立つ最初で最後のツアーとなる。本稿では、三期生4人の軌跡を振り返りたい。",
+      "id": "eb4f2ba0381ca634",
+      "title": "乃木坂46・同期コンビの最新の関係性は？川﨑桜×小川彩が明かす互いの推しポイント",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/89809/",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "summary": "5月に3代目キャプテン・梅澤美波が卒業し、新体制へと引き継がれた乃木坂46。時期を同じくして、それぞれ大学卒業と高校卒業という、個人としても大きな節目を迎えたのが5期生の川﨑桜と小川彩だ。 そんな2人が俳優として出演したドラマが、FOD SHORTにて全60話配信中の『野球少女鷲尾』。『乃木坂46のオールナイトニッポン』で誕生した名物キャラクターをオリジナル",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5daeaf1a5b45712f",
+      "title": "久保史緒里、乃木坂46卒業後初の映画主演で母親役「深みのある人間に」 監督からは絶賛「本当の母子のよう」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1043327/",
+      "publishedAt": "2026-08-05T08:58:51.000Z",
+      "summary": "元乃木坂46で俳優の久保史緒里が5日、都内で行われたタクシー映画祭「TAXIATER」公開記念イベントに、林裕太、岸本加世子、大沢一菜、照井野々花、中川龍太郎監督、長島翔監督、小宮山菜子監督らとともに登壇。乃木坂46卒業 […]",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "上村ひなの",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "森本茉莉",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山口陽世",
-          "group": "日向坂46",
+          "name": "久保史緒里",
+          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -780,28 +798,6 @@
           "name": "森田ひかる",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1d1830a4e09d1aad",
-      "title": "乃木坂46が「14thバスラ」で再定義したグループの姿、未来へ描いた言葉たちを振り返る",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/86732/",
-      "publishedAt": "2026-05-23T07:30:00.000Z",
-      "summary": "乃木坂46の結成を記念して毎年行われている通称“バスラ”。14回目の開催となる今年の会場は東京ドーム。全体としての感想、それは少々カジュアルな言い回しとなってしまうことをご容赦いただきたいのだが、各メンバーの本公演に対する“頼もしさ、カッコよさ”が凄かったのだ。しかもあとあと確認してみると初日とは全く違ったセットリストではないか。この仕上がりでいながら全く違",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     }
