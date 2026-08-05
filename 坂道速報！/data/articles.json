@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-08-04T19:59:29.236Z",
+  "updatedAt": "2026-08-05T03:36:50.409Z",
   "articles": [
+    {
+      "id": "d2ef81c968828f2d",
+      "title": "日向坂46 三期生、“1人と3人”から育んだ4人の関係 歪な同期の軌跡、山口陽世と巡る最初で最後のツアーへ",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2480225.html",
+      "publishedAt": "2026-08-05T03:10:54.000Z",
+      "summary": "日向坂46の三期生による『三期生LIVE』が、8月5日のZepp Osaka Baysideを皮切りに、大阪、愛知、東京の3都市で全7公演開催される。最終日の8月23日には山口陽世の卒業セレモニーも実施。上村ひなの、髙橋未来虹、森本茉莉、山口の4人が揃って そろってステージに立つ最初で最後のツアーとなる。本稿では、三期生4人の軌跡を振り返りたい。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "上村ひなの",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "森本茉莉",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山口陽世",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e50182d25b179586",
+      "title": "菅井友香＆中村ゆりか、浴衣姿で腕組みも！映画「チェイサーゲームW」夏祭りイベント開催",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/cinema/659946.html",
+      "publishedAt": "2026-08-04T21:00:32.000Z",
+      "summary": "映画「チェイサーゲームW 水魚の交わり」の公開後イベント「いつ×ふゆと夏祭り 2026」が8月1日、ユナイテッド・シネマ アクアシティお台場で開催され、W主演を務める菅井友香と中村ゆりか、太田勇監督、原作者の松山洋氏が登壇した。ゲーム業界のリアルと女性同士の恋愛を描いた ... The post 菅井友香＆中村ゆりか、浴衣姿で腕組みも！映画「チェイサーゲーム",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "菅井友香",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "9895694b58e6642c",
       "title": "元乃木坂46・中村麗乃、デビュー10周年イベントに阪口珠美がゲスト出演！れのたま共演にファン歓喜",
@@ -23,33 +82,6 @@
         },
         {
           "name": "中村麗乃",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b45f2269440fbdc4",
-      "title": "梅澤美波 白石麻衣へ呼びかけや乃木坂46卒業して刺激的な日々！『JO MALONE LONDON』来場",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/beauty/202909",
-      "publishedAt": "2026-08-04T02:36:35.000Z",
-      "summary": "俳優・梅澤美波が8月4日に東京・神宮前のヨドバシJ6ビルディングで開催された『JO MALONE LONDON』（ジョー マローン ロンドン）フォトコールに登場した。 英国発フレグランス ライフスタイル ブランド『ジ...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "白石麻衣",
           "group": "乃木坂46",
           "status": "og"
         }
