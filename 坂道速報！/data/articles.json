@@ -1,6 +1,121 @@
 {
-  "updatedAt": "2026-08-05T09:08:19.675Z",
+  "updatedAt": "2026-08-05T14:35:56.723Z",
   "articles": [
+    {
+      "id": "d3559af86792425d",
+      "title": "「乃木坂46×ビルディバイド」第2弾発売日が決定 「京都国際マンガアニメフェア」に賀喜遥香＆田村真佑が登壇",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1043636/",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "summary": "アニプレックスは5日、「乃木坂 46×ビルディバイド -ブライト-トレーディングカードゲーム Vol.2」を2027年1月29日に発売することを発表した。収録予定のカードや新ビジュアルも公開 アニプレックスは5日、「乃 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "田村真佑",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ed17d38fe967ec71",
+      "title": "乃木坂46賀喜遥香「ハンディファンとかタオルとか持っていくんだよ！」夏休みに初めて東京旅行するリスナーに全力アドバイス！",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260805-4781745/",
+      "publishedAt": "2026-08-05T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月30日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介していきました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f01f3ec6652538c6",
+      "title": "久保史緒里 母親役に初挑戦「卒業という人生の節目に、役者として貴重な体験をさせていただいた」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608050001514.html",
+      "publishedAt": "2026-08-05T11:06:30.000Z",
+      "summary": "元乃木坂46の女優久保史緒里（25）が5日、都内で行われた日本初のタクシー映画祭「TAXIATER」記念イベントに登壇。出品作で、グループ卒業後初の主演作品となる短編映画「世界は美しいと誰かが言った」（中川龍太郎監督）について語った。 …",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bbc670149abb7b73",
+      "title": "久保史緒里『恒星の向こう側』評価で映画『世界は美しいと誰かが言った』抜擢！監督「久保さんで良かった」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203062",
+      "publishedAt": "2026-08-05T10:28:08.000Z",
+      "summary": "俳優・久保史緒里が8月5日に都内でタクシー映画祭『TAXIATER』公開記念イベントに林裕太、岸本加世子、大沢一菜、照井野々花、中川龍太郎監督、長島翔監督、小宮山菜子監督とともに登壇した。 8月3日から1週間、東京2...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "638b1b0a3a30fb59",
+      "title": "「いつかかほりんの…」日向坂46藤嶌果歩、同期メンバーに数年前から“お願い”されていたこと明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260805-4776516/",
+      "publishedAt": "2026-08-05T10:00:00.000Z",
+      "summary": "日向坂46の藤嶌果歩が4日、都内で行われた1st写真集『果実の歩幅』(集英社 2,640円／160ページ A4判)の発売記念会見に登場。写真集の手ごたえや撮影エピソードなどを語った。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "eb4f2ba0381ca634",
       "title": "乃木坂46・同期コンビの最新の関係性は？川﨑桜×小川彩が明かす互いの推しポイント",
@@ -29,28 +144,6 @@
         },
         {
           "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5daeaf1a5b45712f",
-      "title": "久保史緒里、乃木坂46卒業後初の映画主演で母親役「深みのある人間に」 監督からは絶賛「本当の母子のよう」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1043327/",
-      "publishedAt": "2026-08-05T08:58:51.000Z",
-      "summary": "元乃木坂46で俳優の久保史緒里が5日、都内で行われたタクシー映画祭「TAXIATER」公開記念イベントに、林裕太、岸本加世子、大沢一菜、照井野々花、中川龍太郎監督、長島翔監督、小宮山菜子監督らとともに登壇。乃木坂46卒業 […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -175,33 +268,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a6628d483637379c",
-      "title": "乃木坂46賀喜遥香 後輩・井上和からの“サプライズ生電話”にビックリ！「次は連れてきたいなぁ」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260729-4754688/",
-      "publishedAt": "2026-07-29T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月23日（木）の放送では、賀喜先生が生出演した「SCHOOL OF LOCK!」生放送教室の振り返りをおこないました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
