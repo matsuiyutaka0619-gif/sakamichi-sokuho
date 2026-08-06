@@ -1,25 +1,47 @@
 {
-  "updatedAt": "2026-08-06T03:42:36.511Z",
+  "updatedAt": "2026-08-06T09:08:14.138Z",
   "articles": [
     {
-      "id": "6b67dcd0b8c38923",
-      "title": "小川彩佳、核軍縮後退に「“核兵器を２度と使ってはならない”＝人類共通の規範に今や公然と…」",
+      "id": "b1a8f313448ee1bd",
+      "title": "広島出身の元乃木坂46和田まあや「単に『戦争はダメ』で終わらせるのではなく…」",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608060000397.html",
-      "publishedAt": "2026-08-06T03:19:08.000Z",
-      "summary": "フリーアナウンサー小川彩佳が5日夜放送されたTBS系報道番組「news23」にメインキャスターとして生出演。広島原爆の日を前に、核軍縮が遠のく世界情勢に対し現地からメッセージを発した。 小川は広島で友やきょうだいを原爆で失った被爆者らに…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608060000906.html",
+      "publishedAt": "2026-08-06T08:36:49.000Z",
+      "summary": "広島県出身で元乃木坂46のタレント和田まあや（28）が6日、インスタグラムを更新。米軍による原爆投下から81年となる「広島原爆の日」を迎え、思いをつづった。 「私は広島出身なので原爆の存在を身近に感じて育ちましたが、世代が離れるにつれて…",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "小川彩",
+          "name": "和田まあや",
           "group": "乃木坂46",
-          "status": "active"
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1f0b15e07c6aa5b9",
+      "title": "丹生明里『向井長田のくるま温泉ちゃんねる』登場！パンサー向井慧 大腸ポリープ切除告白",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203086",
+      "publishedAt": "2026-08-06T08:21:04.000Z",
+      "summary": "タレント・丹生明里が8月8日午後9時から放送の旅番組『向井長田のくるま温泉ちゃんねる』（BSよしもと、土曜・午後9時～）#80に出演する。 2022年4月にYouTubeでスタートした、お笑いトリオ『パンサー』向井慧...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "丹生明里",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
@@ -48,8 +70,8 @@
     {
       "id": "ed17d38fe967ec71",
       "title": "乃木坂46賀喜遥香「ハンディファンとかタオルとか持っていくんだよ！」夏休みに初めて東京旅行するリスナーに全力アドバイス！",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260805-4781745/",
       "publishedAt": "2026-08-05T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月30日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介していきました。",
@@ -793,28 +815,6 @@
           "name": "遠藤理子",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9088bc798c11ad4d",
-      "title": "梅澤美波が残した“一緒につくる”ライブの到達点、ファンと未来を分かち乃木坂46は15年目の新章へ",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/86824/",
-      "publishedAt": "2026-05-24T08:00:00.000Z",
-      "summary": "最後の最後まで、本当に強く、偉大で、超カッコいいアイドルグループのキャプテンの姿がそこにはあった。乃木坂46結成を記念して毎年行われる通称「バスラ」、14周年を迎える今年は東京ドームがその舞台として選ばれた。グループ初となるドーム3Daysの最終日はそんな乃木坂46の3代目キャプテン・梅澤美波の卒業コンサートであった。前日のDay2のレポートに続き、ここにそ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     }
