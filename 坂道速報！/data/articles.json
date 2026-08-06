@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-05T19:57:16.763Z",
+  "updatedAt": "2026-08-06T03:42:36.511Z",
   "articles": [
     {
-      "id": "d3559af86792425d",
-      "title": "「乃木坂46×ビルディバイド」第2弾発売日が決定 「京都国際マンガアニメフェア」に賀喜遥香＆田村真佑が登壇",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1043636/",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "summary": "アニプレックスは5日、「乃木坂 46×ビルディバイド -ブライト-トレーディングカードゲーム Vol.2」を2027年1月29日に発売することを発表した。収録予定のカードや新ビジュアルも公開 アニプレックスは5日、「乃 […]",
+      "id": "6b67dcd0b8c38923",
+      "title": "小川彩佳、核軍縮後退に「“核兵器を２度と使ってはならない”＝人類共通の規範に今や公然と…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608060000397.html",
+      "publishedAt": "2026-08-06T03:19:08.000Z",
+      "summary": "フリーアナウンサー小川彩佳が5日夜放送されたTBS系報道番組「news23」にメインキャスターとして生出演。広島原爆の日を前に、核軍縮が遠のく世界情勢に対し現地からメッセージを発した。 小川は広島で友やきょうだいを原爆で失った被爆者らに…",
       "groups": [
         "乃木坂46"
       ],
@@ -17,14 +17,31 @@
       ],
       "memberMatches": [
         {
-          "name": "賀喜遥香",
+          "name": "小川彩",
           "group": "乃木坂46",
           "status": "active"
-        },
+        }
+      ]
+    },
+    {
+      "id": "5edbcc769f018816",
+      "title": "影山優佳、白いレースのランジェリーオフショット 「綺麗で美しいです」「素敵」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2483269.html",
+      "publishedAt": "2026-08-06T02:50:07.000Z",
+      "summary": "モデル・俳優の影山優佳が自身のInstagramを更新し、初のフォトエッセイ『影まで愛して』（マガジンハウス）が発売5日で重版決定したことを報告した。 投稿された写真は2枚。1枚目は白いレースのランジェリーにホワイト",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
         {
-          "name": "田村真佑",
-          "group": "乃木坂46",
-          "status": "active"
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
@@ -51,28 +68,6 @@
       ]
     },
     {
-      "id": "f01f3ec6652538c6",
-      "title": "久保史緒里 母親役に初挑戦「卒業という人生の節目に、役者として貴重な体験をさせていただいた」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608050001514.html",
-      "publishedAt": "2026-08-05T11:06:30.000Z",
-      "summary": "元乃木坂46の女優久保史緒里（25）が5日、都内で行われた日本初のタクシー映画祭「TAXIATER」記念イベントに登壇。出品作で、グループ卒業後初の主演作品となる短編映画「世界は美しいと誰かが言った」（中川龍太郎監督）について語った。 …",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "bbc670149abb7b73",
       "title": "久保史緒里『恒星の向こう側』評価で映画『世界は美しいと誰かが言った』抜擢！監督「久保さんで良かった」",
       "sourceName": "Edge Line",
@@ -90,28 +85,6 @@
         {
           "name": "久保史緒里",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "638b1b0a3a30fb59",
-      "title": "「いつかかほりんの…」日向坂46藤嶌果歩、同期メンバーに数年前から“お願い”されていたこと明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260805-4776516/",
-      "publishedAt": "2026-08-05T10:00:00.000Z",
-      "summary": "日向坂46の藤嶌果歩が4日、都内で行われた1st写真集『果実の歩幅』(集英社 2,640円／160ページ A4判)の発売記念会見に登場。写真集の手ごたえや撮影エピソードなどを語った。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -842,28 +815,6 @@
           "name": "梅澤美波",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "035f50f28d6b3e53",
-      "title": "櫻坂46ニューシングルのジャケット公開、“チーム”をコンセプトに国立ライブを経た結束を表現",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/86869/",
-      "publishedAt": "2026-05-23T09:20:00.000Z",
-      "summary": "櫻坂46が、6月10日(水)に発売する両A面シングル『Lonesome rabbit / What’s “KAZOKU”?』のジャケットアートワークを公開した。 上田マルコがディレクションを担当した今作のアートワークのコンセプトは“チーム”。チェスを連想させる空間に佇むスタイリッシュなメンバーが印象的で、MUFGスタジアム（国立競技場）公演を経て、グループ全",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     }
