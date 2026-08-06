@@ -1,14 +1,36 @@
 {
-  "updatedAt": "2026-08-06T09:08:14.138Z",
+  "updatedAt": "2026-08-06T14:37:34.653Z",
   "articles": [
     {
-      "id": "b1a8f313448ee1bd",
-      "title": "広島出身の元乃木坂46和田まあや「単に『戦争はダメ』で終わらせるのではなく…」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608060000906.html",
-      "publishedAt": "2026-08-06T08:36:49.000Z",
-      "summary": "広島県出身で元乃木坂46のタレント和田まあや（28）が6日、インスタグラムを更新。米軍による原爆投下から81年となる「広島原爆の日」を迎え、思いをつづった。 「私は広島出身なので原爆の存在を身近に感じて育ちましたが、世代が離れるにつれて…",
+      "id": "6614d5cf6150299c",
+      "title": "乃木坂46賀喜遥香「メンバーのみんながめちゃくちゃ喜んでくれて」大阪でのライブで毎回届く“親戚からの差し入れ”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260806-4785887/",
+      "publishedAt": "2026-08-06T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月30日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介しました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "fb82e7609f144132",
+      "title": "「派手にしたくて…」阪口珠美、乃木坂46卒業の翌日にしたこととは 卒業当時の心境も明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260806-4780329/",
+      "publishedAt": "2026-08-06T11:00:00.000Z",
+      "summary": "元乃木坂46の阪口珠美が、自身がパーソナリティを務めるニコニコチャンネル＋『阪口珠美のたまみのとなりの席』で、乃木坂46の同期メンバーとのエピソードを語った。",
       "groups": [
         "乃木坂46"
       ],
@@ -17,7 +39,7 @@
       ],
       "memberMatches": [
         {
-          "name": "和田まあや",
+          "name": "阪口珠美",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -40,28 +62,6 @@
       "memberMatches": [
         {
           "name": "丹生明里",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5edbcc769f018816",
-      "title": "影山優佳、白いレースのランジェリーオフショット 「綺麗で美しいです」「素敵」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2483269.html",
-      "publishedAt": "2026-08-06T02:50:07.000Z",
-      "summary": "モデル・俳優の影山優佳が自身のInstagramを更新し、初のフォトエッセイ『影まで愛して』（マガジンハウス）が発売5日で重版決定したことを報告した。 投稿された写真は2枚。1枚目は白いレースのランジェリーにホワイト",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
           "group": "日向坂46",
           "status": "og"
         }
@@ -241,28 +241,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9e9105b7db207c3a",
-      "title": "秦 基博「10周年は一息で駆け抜けた感覚でした」幾多の山と谷を越えて迎えた“デビュー20周年”の心境を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260730-4758046/",
-      "publishedAt": "2026-07-30T11:50:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。7月25日（土）の放送には、シンガーソングライターの秦 基博さんが登場！ デビュー20周年への思いや、7月7日にリリースされた新曲「ひとひら」の制作秘話について伺いました。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
