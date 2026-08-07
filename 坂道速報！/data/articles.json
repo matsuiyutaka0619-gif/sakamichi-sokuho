@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-06T14:37:34.653Z",
+  "updatedAt": "2026-08-07T00:17:17.033Z",
   "articles": [
+    {
+      "id": "141d48fb5b6cd7fb",
+      "title": "「いつかは…」8月7日で20歳の日向坂46藤嶌果歩が密かに抱く“夢”とは「そういうポジションが好き」「憧れがあります」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260807-4776723/",
+      "publishedAt": "2026-08-06T22:30:00.000Z",
+      "summary": "日向坂46の藤嶌果歩が4日、都内で行われた1st写真集『果実の歩幅』(集英社 2,640円／160ページ A4判)の発売記念会見に登場。最近のブームや今後挑戦したいことなどを明かした。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6614d5cf6150299c",
       "title": "乃木坂46賀喜遥香「メンバーのみんながめちゃくちゃ喜んでくれて」大阪でのライブで毎回届く“親戚からの差し入れ”とは？",
