@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:17:17.033Z",
+  "updatedAt": "2026-08-07T03:21:13.373Z",
   "articles": [
     {
       "id": "141d48fb5b6cd7fb",
@@ -48,8 +48,8 @@
     {
       "id": "fb82e7609f144132",
       "title": "「派手にしたくて…」阪口珠美、乃木坂46卒業の翌日にしたこととは 卒業当時の心境も明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260806-4780329/",
       "publishedAt": "2026-08-06T11:00:00.000Z",
       "summary": "元乃木坂46の阪口珠美が、自身がパーソナリティを務めるニコニコチャンネル＋『阪口珠美のたまみのとなりの席』で、乃木坂46の同期メンバーとのエピソードを語った。",
@@ -189,33 +189,6 @@
       ]
     },
     {
-      "id": "9895694b58e6642c",
-      "title": "元乃木坂46・中村麗乃、デビュー10周年イベントに阪口珠美がゲスト出演！れのたま共演にファン歓喜",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/659917.html",
-      "publishedAt": "2026-08-04T13:00:41.000Z",
-      "summary": "9月4日にデビュー10周年を迎える元乃木坂46の中村麗乃が、自身の誕生日でもある9月27日に記念ライブイベントを開催する。その第2部に、乃木坂46で苦楽を共にした同期生・阪口珠美のゲスト出演が決定した。中村は2025年6月に乃木坂46を卒業後、事務所をavexへ移籍。今 ... The post 元乃木坂46・中村麗乃、デビュー10周年イベントに阪口珠美がゲ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "阪口珠美",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "中村麗乃",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "fa12a5f7e7f1bcf0",
       "title": "乃木坂46の“聖地”神宮ライブ、全国のカラオケへ4DAYS全日程生配信",
       "sourceName": "マイナビニュース 芸能",
@@ -228,43 +201,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "91ef6b7be9bd6a79",
-      "title": "日向坂46藤嶌果歩が告白…ついやってしまう\"変わったクセ\"とは？「\"体調悪いかも\"って思ったら…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260730-4758182/",
-      "publishedAt": "2026-07-30T12:50:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月24日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "ac9b892e506d8e3e",
