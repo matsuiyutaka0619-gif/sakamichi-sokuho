@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-08-08T02:23:30.128Z",
+  "updatedAt": "2026-08-08T07:17:51.223Z",
   "articles": [
+    {
+      "id": "7082197a88ffc191",
+      "title": "乃木坂46・賀喜遥香 個人Instagramアカウントを開設！本日午後10時から88分間だけ質問返し企画も",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203255",
+      "publishedAt": "2026-08-08T05:16:14.000Z",
+      "summary": "アイドルグループ『乃木坂46』賀喜遥香が25歳を迎えた誕生日の8月8日に個人Instagramアカウントを開設した。 『乃木坂46』では、これまでも多くのメンバーが個人のInstagramアカウントを開設。賀喜も自身...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "52f0c2050fd1f7d4",
+      "title": "日向坂46、18thシングル『イチャイチャ虫』リリース レギュラー番組にてフォーメーション発表",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2486173.html",
+      "publishedAt": "2026-08-08T04:40:46.000Z",
+      "summary": "日向坂46が、18thシングル『イチャイチャ虫』を9月30日にリリースする。 本作は、2026年に入って3枚目のシングルとなる。また、今回のフォーメーションは8月9日25時20分より放送のレギュラー番組『日向坂で会い",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ecd9de18d70f081a",
+      "title": "川﨑桜×小川彩、5期生として見据える乃木坂46の未来 ドラマの現場で見えた“意外な一面”も",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2484608.html",
+      "publishedAt": "2026-08-08T02:30:14.000Z",
+      "summary": "FODショートドラマ『野球少女鷲尾』で、野球のことになると熱量があふれ出て早口になる主人公・鷲尾志保を演じたのは、本作がドラマ初主演となる乃木坂46の川﨑桜。そして、そんな鷲尾と絶妙なコンビネーションを見せる金森凜役を、同じく乃木坂46の小川彩が演じている。ドラマの裏側から、同期や新体制のグループへの想い、そして撮影現場で垣間見えたお互いの意外な素顔まで、2",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "2031e581ce9253ce",
       "title": "「衣装エグい」「イイ女」「スタイル良すぎる、、、」元日向坂46・富田鈴花、ファン釘付けのフェミニンコーデを公開",
@@ -145,28 +208,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "bab3c39dfdf98078",
-      "title": "「奇跡的」「偶然な出来事」駅でバッタリ会った大女優の“神対応”に大感激…元日向坂46松田好花が「あんな風に気を使える人になりたい」と感動した“振る舞い”とは",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260807-4789319/",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "summary": "「本当にお別れのシーンみたいな(笑)」元日向坂46でタレントの松田好花が、俳優・黒谷友香とバッタリ会ったエピソードを明かした――。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
