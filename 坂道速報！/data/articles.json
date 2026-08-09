@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-08T19:01:06.879Z",
+  "updatedAt": "2026-08-09T02:31:32.995Z",
   "articles": [
+    {
+      "id": "175f5569d4395b8e",
+      "title": "『豊臣兄弟！』乃木坂46 井上和はなぜ“茶々”に選ばれたのか 大きな瞳に宿る強さと危うさ",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2485725.html",
+      "publishedAt": "2026-08-08T20:30:46.000Z",
+      "summary": "乃木坂46の井上和が、NHK大河ドラマ『豊臣兄弟！』で茶々役を演じる。第29回の放送後に流れた第30回「清須会議」の予告では、成長した茶々としてすでに姿を見せ、「お前は母上を何だと思っておるのだ！」と鋭い口調で言い放っ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "7082197a88ffc191",
       "title": "乃木坂46・賀喜遥香 個人Instagramアカウントを開設！本日午後10時から88分間だけ質問返し企画も",
@@ -171,28 +193,6 @@
         {
           "name": "松尾桜",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "190ba3fab59150c1",
-      "title": "【インタビュー】乃木坂46・井上和、TIF2026でチェアマンとしての思い、 2021年ぶりの乃木坂46ライブステージ出演への意気込み語る！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/660492.html",
-      "publishedAt": "2026-08-07T11:00:26.000Z",
-      "summary": "世界最大級のアイドルフェス・TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック(通称：TIF2026)が7月31日より8月2日まで、東京・フジテレビ湾岸スタジオおよびお台場エリアにて開催されている。乃木坂46の井上和がWWSチ ... The post 【インタビュー】乃木坂46・井上和、TIF2026でチェアマン",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
