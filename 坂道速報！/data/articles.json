@@ -1,27 +1,55 @@
 {
-  "updatedAt": "2026-08-09T07:18:43.624Z",
+  "updatedAt": "2026-08-09T13:17:39.151Z",
   "articles": [
     {
-      "id": "e3762a48ed0d4fe6",
-      "title": "山崎怜奈「サンジャポ」で妊娠に言及 太田光「私は全てを知ってます」に「言ってない」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608090000607.html",
-      "publishedAt": "2026-08-09T05:49:08.000Z",
-      "summary": "元乃木坂46のタレント山崎怜奈（29）が9日、TBS系「サンデー・ジャポン」（日曜午前9時54分）に出演。第1子妊娠に言及した。 オープニングのVTRで妊娠の話題が紹介されると、照れながら「お騒がせしてます」とひと言。スタジオにはおなか…",
+      "id": "2b853022d03bdcfd",
+      "title": "『豊臣兄弟！』“市”宮﨑あおいが示す織田家の絶望 井上和登場でお家存続をめぐる愛憎劇へ",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2485580.html",
+      "publishedAt": "2026-08-09T12:00:54.000Z",
+      "summary": "大河ドラマ『豊臣兄弟！』第30回は清須会議を描く。秀吉は勝家らを出し抜いて天下取りの足がかりを築き、市は織田家を守るため勝家との結婚を決意した。",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "山崎怜奈",
+          "name": "井上和",
           "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
         }
       ]
+    },
+    {
+      "id": "6a22edd8014eb39b",
+      "title": "超ときめき(ハート)宣伝部、=LOVE、乃木坂46、≠ME、VMAJ 2026に出演決定！10/29東京ドームにて開催",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/660679.html",
+      "publishedAt": "2026-08-09T11:00:38.000Z",
+      "summary": "「MTV VMAJ 2026」東京ドームで開催！超ときめき♡宣伝部、＝LOVE、乃木坂46、≠ME、STARGLOWが出演音楽アワード「MTV VMAJ 2026」が、10月29日に東京ドームで開催されることが決定した。第1弾出演アーティストとして、超ときめき♡宣伝部、 ... The post 超ときめき(ハート)宣伝部、=LOVE、乃木坂46、≠ME、V",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "0d04a0db0056c013",
+      "title": "日向坂46、18thシングル「イチャイチャ虫」9月30日発売決定！フォーメーションは「日向坂で会いましょう」で発表へ",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/660671.html",
+      "publishedAt": "2026-08-09T10:00:57.000Z",
+      "summary": "日向坂46の18thシングル「イチャイチャ虫」が、9月30日に発売されることが決定した。今作のフォーメーションは、8月9日25時20分から放送されるテレビ東京のレギュラー番組「日向坂で会いましょう」で発表される。デビュー7周年を迎えた日向坂46にとって、2026年に入っ ... The post 日向坂46、18thシングル「イチャイチャ虫」9月30日発売決",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "fa92ebdc093fd84f",
@@ -46,20 +74,6 @@
       ]
     },
     {
-      "id": "e6fe53805f96fb2a",
-      "title": "＜氣志團万博2026＞、追加出演アーティストにアイナ・ジ・エンド",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1082249",
-      "publishedAt": "2026-08-09T03:00:45.000Z",
-      "summary": "11月7日(土)・8日(日)に幕張メッセで開催される＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞の追加出演アーティストが発表となった。 今回の発表では、11月8日(日)にアイナ・ジ・エンドの出演が決定。発表は綾小路 翔がレギュラーを務めるTBSラジオ『俺達には土曜日しかない』にてサプライズ発表となったかたちだ。 追",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "175f5569d4395b8e",
       "title": "『豊臣兄弟！』乃木坂46 井上和はなぜ“茶々”に選ばれたのか 大きな瞳に宿る強さと危うさ",
       "sourceName": "リアルサウンド 映画部",
@@ -76,33 +90,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ecd9de18d70f081a",
-      "title": "川﨑桜×小川彩、5期生として見据える乃木坂46の未来 ドラマの現場で見えた“意外な一面”も",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2484608.html",
-      "publishedAt": "2026-08-08T02:30:14.000Z",
-      "summary": "FODショートドラマ『野球少女鷲尾』で、野球のことになると熱量があふれ出て早口になる主人公・鷲尾志保を演じたのは、本作がドラマ初主演となる乃木坂46の川﨑桜。そして、そんな鷲尾と絶妙なコンビネーションを見せる金森凜役を、同じく乃木坂46の小川彩が演じている。ドラマの裏側から、同期や新体制のグループへの想い、そして撮影現場で垣間見えたお互いの意外な素顔まで、2",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
           "group": "乃木坂46",
           "status": "active"
         }
