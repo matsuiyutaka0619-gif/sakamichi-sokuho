@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-08-09T02:31:32.995Z",
+  "updatedAt": "2026-08-09T07:18:43.624Z",
   "articles": [
+    {
+      "id": "e3762a48ed0d4fe6",
+      "title": "山崎怜奈「サンジャポ」で妊娠に言及 太田光「私は全てを知ってます」に「言ってない」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608090000607.html",
+      "publishedAt": "2026-08-09T05:49:08.000Z",
+      "summary": "元乃木坂46のタレント山崎怜奈（29）が9日、TBS系「サンデー・ジャポン」（日曜午前9時54分）に出演。第1子妊娠に言及した。 オープニングのVTRで妊娠の話題が紹介されると、照れながら「お騒がせしてます」とひと言。スタジオにはおなか…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fa92ebdc093fd84f",
+      "title": "乃木坂46賀喜遥香、25歳の誕生日に個人Instagram開設！ライブ終演後に88分間の質問返しも",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/660848.html",
+      "publishedAt": "2026-08-09T04:00:30.000Z",
+      "summary": "乃木坂46の4期生・賀喜遥香が、25歳の誕生日を迎えた8月8日に個人Instagramアカウントを開設した。乃木坂46ではこれまでも多くのメンバーが個人Instagramを開設しており、賀喜も自身の誕生日に合わせて新たな発信をスタートした。さらに、アカウント開設を記念し ... The post 乃木坂46賀喜遥香、25歳の誕生日に個人Instagram開設",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e6fe53805f96fb2a",
+      "title": "＜氣志團万博2026＞、追加出演アーティストにアイナ・ジ・エンド",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1082249",
+      "publishedAt": "2026-08-09T03:00:45.000Z",
+      "summary": "11月7日(土)・8日(日)に幕張メッセで開催される＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞の追加出演アーティストが発表となった。 今回の発表では、11月8日(日)にアイナ・ジ・エンドの出演が決定。発表は綾小路 翔がレギュラーを務めるTBSラジオ『俺達には土曜日しかない』にてサプライズ発表となったかたちだ。 追",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "175f5569d4395b8e",
       "title": "『豊臣兄弟！』乃木坂46 井上和はなぜ“茶々”に選ばれたのか 大きな瞳に宿る強さと危うさ",
@@ -18,28 +76,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7082197a88ffc191",
-      "title": "乃木坂46・賀喜遥香 個人Instagramアカウントを開設！本日午後10時から88分間だけ質問返し企画も",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203255",
-      "publishedAt": "2026-08-08T05:16:14.000Z",
-      "summary": "アイドルグループ『乃木坂46』賀喜遥香が25歳を迎えた誕生日の8月8日に個人Instagramアカウントを開設した。 『乃木坂46』では、これまでも多くのメンバーが個人のInstagramアカウントを開設。賀喜も自身...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
         }
