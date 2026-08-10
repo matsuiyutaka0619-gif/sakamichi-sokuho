@@ -96,14 +96,28 @@ function sourceHost(url) {
   }
 }
 
+function articleType(article) {
+  const text = normalize(`${article.title || ""} ${article.summary || ""}`);
+  const rules = [
+    ["ライブ・イベント", ["ライブ", "公演", "ツアー", "フェス", "イベント", "握手会", "ミート"]],
+    ["音楽・リリース", ["発売", "リリース", "シングル", "アルバム", "楽曲", "mv", "ミュージックビデオ"]],
+    ["テレビ・ラジオ・配信", ["出演", "放送", "テレビ", "ラジオ", "番組", "配信", "生配信"]],
+    ["舞台・映画", ["舞台", "映画", "ドラマ", "ミュージカル", "上映"]],
+    ["卒業・加入・人事", ["卒業", "加入", "合格", "選抜", "活動休止", "復帰"]],
+    ["雑誌・出版", ["雑誌", "写真集", "書籍", "表紙", "発売記念"]]
+  ];
+  return rules.find(([, words]) => words.some((word) => text.includes(word)))?.[0] || "活動・ニュース";
+}
+
 function articleContext(article) {
   const groups = (article.groups || []).join("・") || "坂道関連";
   const members = (article.memberMatches || []).map((member) => `${member.name}(${statusText(member.status)})`);
   const source = article.sourceName || "ニュース元";
+  const type = articleType(article);
   if (members.length) {
-    return `${source}のRSSから取得し、${groups}の${members.join("、")}に関連するニュースとして分類しました。本文と写真は元記事で確認できます。`;
+    return `整理メモ：${type}として、${source}のRSSから取得した記事を${groups}の${members.join("、")}に関連するニュースとして分類しました。詳しい事実関係、本文、写真は元記事と公式情報で確認してください。`;
   }
-  return `${source}のRSSから取得し、タイトルや概要のキーワードをもとに${groups}関連ニュースとして分類しました。本文と写真は元記事で確認できます。`;
+  return `整理メモ：${type}として、${source}のRSSから取得したタイトル・概要のキーワードをもとに${groups}関連ニュースとして分類しました。詳しい事実関係、本文、写真は元記事と公式情報で確認してください。`;
 }
 
 function memberArticleCount(name) {
@@ -238,6 +252,10 @@ function render() {
       badge.textContent = statusText(status);
       badges.append(badge);
     }
+    const typeBadge = document.createElement("span");
+    typeBadge.className = "badge badge-type";
+    typeBadge.textContent = articleType(article);
+    badges.append(typeBadge);
     for (const member of article.memberMatches || []) {
       const badge = document.createElement("span");
       badge.className = "badge";
@@ -401,3 +419,4 @@ searchInput?.addEventListener("input", (event) => {
 });
 
 load();
+
