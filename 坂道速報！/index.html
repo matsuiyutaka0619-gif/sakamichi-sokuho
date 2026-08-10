@@ -3,9 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="乃木坂46・櫻坂46・日向坂46とOGのニュースをRSSから整理する坂道専門ニュースまとめ。">
+    <meta name="description" content="乃木坂46・櫻坂46・日向坂46とOGのニュースを、独自の編集ノートと公式情報への導線つきで整理する坂道ニュースガイド。">
     <title>坂道速報！</title>
+    <link rel="canonical" href="https://sakamichi-sokuho.pages.dev/">
     <link rel="stylesheet" href="./styles.css">
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"WebSite","name":"坂道速報！","url":"https://sakamichi-sokuho.pages.dev/","description":"坂道グループのニュースを、独自の編集ノートと公式情報への導線つきで整理するニュースガイド。","inLanguage":"ja"}
+    </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8002455848254296" crossorigin="anonymous"></script>
   </head>
   <body>
@@ -27,6 +31,7 @@
           <a class="nav-chip archive" href="./weekly/">週間</a>
           <a class="nav-chip archive" href="./members/">メンバー</a>
           <a class="nav-chip archive" href="./links/">公式リンク</a>
+          <a class="nav-chip archive" href="./editorial/">編集ノート</a>
         </nav>
       </div>
     </header>
@@ -41,7 +46,10 @@
           <span class="heading-mark" aria-hidden="true"></span>
           <h1>坂道ニュースを探しやすく整理</h1>
         </div>
-        <p>坂道速報！は、乃木坂46・櫻坂46・日向坂46とOGのニュースを、グループ、メンバー、現役/OG、日付の軸で整理するニュースガイドです。記事本文は転載せず、元記事へ移動しやすい入口として運営しています。</p>
+        <p>坂道速報！は、乃木坂46・櫻坂46・日向坂46とOGのニュースを、グループ、メンバー、現役/OG、日付、ニュースの種類の軸で整理するニュースガイドです。RSSの速報欄に加えて、初めて読む人が背景を確認できる独自の編集ノートと公式情報への導線を用意しています。</p>
+        <div class="callout">
+          <p><strong>このサイトの役割：</strong>ニュース本文を転載するのではなく、「何の話題か」「どこで一次情報を確認できるか」「次に何を読めばよいか」を短時間で整理します。RSSの自動更新部分と、運営者が確認して書いた固定ページを分けて表示しています。</p>
+        </div>
         <div class="content-grid">
           <section class="content-card">
             <h2>坂道グループ解説</h2>
@@ -62,6 +70,16 @@
             <h2>掲載方針</h2>
             <p>RSSから取得したタイトルや日付をもとに分類し、本文と写真は元記事で確認する方針です。取得元や掲載基準も公開しています。</p>
             <a class="read-link" href="./policy/">方針を見る</a>
+          </section>
+          <section class="content-card">
+            <h2>編集ノート</h2>
+            <p>ライブ、リリース、出演、卒業など、ニュースの種類ごとに確認する順番と見落としやすい点を、運営者の言葉でまとめています。</p>
+            <a class="read-link" href="./editorial/">編集ノートを読む</a>
+          </section>
+          <section class="content-card">
+            <h2>用語メモ</h2>
+            <p>選抜、表題曲、期別、アンダー、OGなど、ニュースを読むときに迷いやすい言葉を短く整理しています。</p>
+            <a class="read-link" href="./glossary/">用語を確認する</a>
           </section>
         </div>
       </section>
@@ -103,8 +121,10 @@
         <a href="./policy/">RSS取得・掲載方針</a>
         <a href="./contact/">お問い合わせ</a>
         <a href="./privacy/">プライバシーポリシー</a>
+        <a href="./editorial/">編集ノート</a>
+        <a href="./glossary/">用語メモ</a>
       </nav>
-      <p>記事タイトルとリンクは各ニュース提供元のRSSをもとに表示しています。本文は転載せず、元記事へのリンクを掲載します。</p>
+      <p>記事タイトルとリンクは各ニュース提供元のRSSをもとに表示しています。本文は転載せず、元記事へのリンクを掲載します。固定ページの最終更新: 2026年8月10日。</p>
     </footer>
 
     <template id="articleTemplate">
@@ -123,3 +143,4 @@
     <script src="./app.js?v=20260705b" type="module"></script>
   </body>
 </html>
+
