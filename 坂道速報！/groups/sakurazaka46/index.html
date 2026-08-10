@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="櫻坂46のニュースをまとめて表示します。">
     <title>櫻坂46 | 坂道速報！</title>
+    <link rel="canonical" href="https://sakamichi-sokuho.pages.dev/groups/sakurazaka46/">
     <link rel="stylesheet" href="../../styles.css">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"櫻坂46ニュースと見どころ","url":"https://sakamichi-sokuho.pages.dev/groups/sakurazaka46/","description":"櫻坂46のニュースを活動別に整理し、公式確認先を案内するページ。","inLanguage":"ja"}</script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8002455848254296" crossorigin="anonymous"></script>
   </head>
   <body data-base="../.." data-page="group" data-group="櫻坂46" data-title="櫻坂46ニュース" data-intro="櫻坂46の現役メンバーとOGに関するニュースをまとめて表示します。">
@@ -24,11 +26,25 @@
       <section class="static-page">
         <div class="section-heading"><span class="heading-mark" aria-hidden="true"></span><h1>櫻坂46ニュースの見どころ</h1></div>
         <p>櫻坂46は、シングル、ライブ、フェス出演、パフォーマンス映像、個人のテレビ・ラジオ出演などでニュース化されることが多いグループです。欅坂46時代のOGニュースも含めて、現在の活動と過去から続く流れを追いやすくしています。</p>
+        <p>櫻坂46のニュースでは、作品やライブの発表、公式動画の公開、メンバー個人の出演が同じ日に並ぶことがあります。記事カードのニュース種別とメンバータグを入口にしつつ、作品情報は公式サイト、映像は公式チャンネルというように確認先を切り替えると、速報と確定情報を整理しやすくなります。</p>
         <div class="content-grid">
           <section class="content-card"><h2>グループ活動</h2><p>ライブ、MV、楽曲、フォーメーション、フェス出演など、櫻坂46としての動きを中心に確認できます。</p></section>
           <section class="content-card"><h2>個人活動</h2><p>メンバーの番組出演、ラジオ、モデル活動、舞台・映画出演なども辞書情報から分類します。</p></section>
           <section class="content-card"><h2>OGも対象</h2><p>欅坂46・櫻坂46のOGに関するニュースも、関連グループの情報として整理します。</p><a class="read-link" href="../../og/">OGニュースへ</a></section>
         </div>
+        <h2>櫻坂46ニュースの確認順</h2>
+        <div class="policy-steps">
+          <section class="policy-step"><h2>楽曲・映像</h2><p>曲名、発売日、公開先、作品の位置づけを確認します。動画の切り抜きや反応ではなく、公式チャンネルの公開情報を一次確認にします。</p></section>
+          <section class="policy-step"><h2>ライブ・フェス</h2><p>出演日、会場、共演者、チケット情報を分けて読みます。フェスの主催者発表とグループ公式の告知が異なる場合は、両方を確認します。</p></section>
+          <section class="policy-step"><h2>個人活動・OG</h2><p>番組、ラジオ、舞台、モデルなどの個人活動は、出演先や所属先の公式案内が追加情報を持つことがあります。OGは現在の所属や活動を別途確認します。</p></section>
+        </div>
+        <h2>公式確認先</h2>
+        <ul class="source-list">
+          <li><a href="https://sakurazaka46.com/" target="_blank" rel="noopener noreferrer">櫻坂46公式サイト</a><small>ニュース、スケジュール、メンバー、ブログ、作品情報の入口。</small></li>
+          <li><a href="https://sakurazaka46.com/s/s46/search/artist" target="_blank" rel="noopener noreferrer">公式メンバー一覧</a><small>現役メンバーの在籍状況を確認するときの基準。</small></li>
+          <li><a href="../../links/">坂道速報！公式リンク集</a><small>公式SNS、動画、欅坂46アーカイブへの導線も整理しています。</small></li>
+        </ul>
+        <p class="update-note">情報確認日: <time datetime="2026-08-10">2026年8月10日</time>。在籍状況・出演予定・販売条件は変更されることがあるため、最新情報は公式サイトで確認してください。</p>
       </section>
       <section class="controls" aria-label="記事フィルター"><div class="section-heading"><span class="heading-mark" aria-hidden="true"></span><h1 id="pageTitle">櫻坂46ニュース</h1></div><p class="page-intro" id="pageIntro"></p><div class="member-directory" id="memberDirectory" hidden></div><div class="control-row"><label class="search-box"><span>検索</span><input id="searchInput" type="search" placeholder="メンバー名・ニュース名で検索"></label></div><div class="filter-group" id="groupFilters" aria-label="グループ"></div><div class="filter-group" id="statusFilters" aria-label="現役またはOG"></div></section>
       <section class="summary-bar" aria-live="polite"><p id="summaryText">記事を読み込み中です。</p><p id="updatedText"></p></section>
@@ -40,3 +56,4 @@
     <script src="../../app.js?v=20260705b" type="module"></script>
   </body>
 </html>
+
