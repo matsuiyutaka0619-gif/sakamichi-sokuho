@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-10T13:47:17.911Z",
+  "updatedAt": "2026-08-10T19:19:06.035Z",
   "articles": [
+    {
+      "id": "970ec02def7deff5",
+      "title": "乃木坂46賀喜遥香「『私がやるな』という自分も…」白石麻衣、梅澤美波が務めた「シンクロニシティ」センターへの思いを明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260810-4802332/",
+      "publishedAt": "2026-08-10T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。この日の放送では、7月18日に放送された「音楽の日」（TBS系）で披露した楽曲「シンクロニシティ」について語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "db16a540675ac366",
       "title": "日向坂46、18thシングル「イチャイチャ虫」フォーメーション解禁！正源司陽子が6作ぶりセンター",
@@ -257,20 +290,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "fa12a5f7e7f1bcf0",
-      "title": "乃木坂46の“聖地”神宮ライブ、全国のカラオケへ4DAYS全日程生配信",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260802-4767261/",
-      "publishedAt": "2026-08-02T03:00:00.000Z",
-      "summary": "乃木坂46が20日から23日までの4日間、東京・神宮球場で開催する「真夏の全国ツアー2026」東京公演が、JOYSOUNDの映像視聴サービス「みるハコ」で全国のカラオケルームに生配信される。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "ac9b892e506d8e3e",
