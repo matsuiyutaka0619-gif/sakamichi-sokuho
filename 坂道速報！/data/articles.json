@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-10T08:07:04.316Z",
+  "updatedAt": "2026-08-10T13:47:17.911Z",
   "articles": [
     {
-      "id": "d9e2e6c54cb09c69",
-      "title": "日向坂46藤嶌果歩、『見たことない魔物』ダンス動画にファン歓喜「かほりん×ニット最強」「全身スタイルがレベチ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1046012/",
-      "publishedAt": "2026-08-10T05:52:35.000Z",
-      "summary": "アイドルグループ・日向坂46の藤嶌果歩（20）の写真集オフショットが10日までに公開され、「この衣装ヤバい」「可愛すぎて声出た」と話題になっている。『見たことない魔物』のダンス動画公開 アイドルグループ・日向坂46の藤 […]",
+      "id": "db16a540675ac366",
+      "title": "日向坂46、18thシングル「イチャイチャ虫」フォーメーション解禁！正源司陽子が6作ぶりセンター",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/661216.html",
+      "publishedAt": "2026-08-10T11:00:31.000Z",
+      "summary": "日向坂46が9月30日に発売する18thシングル「イチャイチャ虫」のフォーメーションが解禁された。レギュラー番組「日向坂で会いましょう」で発表され、四期生・正源司陽子がセンターを務めることが明らかになった。今作は前作に続き、二期生から五期生までの14名を選抜。正源司がシ ... The post 日向坂46、18thシングル「イチャイチャ虫」フォーメーション",
       "groups": [
         "日向坂46"
       ],
@@ -17,30 +17,8 @@
       ],
       "memberMatches": [
         {
-          "name": "藤嶌果歩",
+          "name": "正源司陽子",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d9d2c325e6188b6c",
-      "title": "乃木坂46 井上和、初の大河ドラマ出演を報告 「刺激的な日々を過ごさせていただいています」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2487034.html",
-      "publishedAt": "2026-08-10T02:50:06.000Z",
-      "summary": "乃木坂46の井上和が8月9日、自身のInstagramを更新。NHK大河ドラマ『豊臣兄弟！』の茶々役で大河ドラマ初出演、初の地上波連続ドラマ出演したこと報告。 乃木坂46の5期生メンバーでファッションモデルとしても活",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -796,33 +774,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "f016e5adab76bc2a",
-      "title": "櫻坂46の15thシングルから四期生楽曲「We got your back」配信スタート、センターは佐藤愛桜",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/05/87020/",
-      "publishedAt": "2026-05-27T15:00:00.000Z",
-      "summary": "櫻坂46が、6月10日(水)に発売する15thシングル『Lonesome rabbit / What’s “KAZOKU”?』から四期生楽曲「We got your back」を先行配信リリースした。 今回のシングルは坂道グループ初の両A面シングルとなっており、共に二期生・森田ひかるがセンターを務める表題曲「Lonesome rabbit」「What’s “",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "佐藤愛桜",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
