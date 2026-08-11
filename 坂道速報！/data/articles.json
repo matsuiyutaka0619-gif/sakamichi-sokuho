@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-11T13:45:15.547Z",
+  "updatedAt": "2026-08-11T19:28:01.981Z",
   "articles": [
+    {
+      "id": "dbee05e0966db8d0",
+      "title": "乃木坂46黒見明香、12日楽天－オリックス戦生中継副音声担当「史緒里さんの気持ちも一緒に」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608110001809.html",
+      "publishedAt": "2026-08-11T14:11:08.000Z",
+      "summary": "乃木坂46黒見明香（22）が、12日にミヤギテレビで放送される楽天イーグルス対オリックスバファローズ戦の生中継「DRAMATIC BASEBALL 2026」に副音声ゲストとして出演する。 黒見はグループ随一の野球好きメンバーで、野球選…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "黒見明香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "775b4d047cd87533",
       "title": "「あの子、売れますよ!」佐久間宣行氏が大絶賛する“乃木坂46メンバー”とは 律儀な対応に感激",
