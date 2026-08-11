@@ -1,11 +1,33 @@
 {
-  "updatedAt": "2026-08-11T07:39:57.363Z",
+  "updatedAt": "2026-08-11T13:45:15.547Z",
   "articles": [
+    {
+      "id": "775b4d047cd87533",
+      "title": "「あの子、売れますよ!」佐久間宣行氏が大絶賛する“乃木坂46メンバー”とは 律儀な対応に感激",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260811-4803691/",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "summary": "「井上さんだけだよ、観てくれたの」テレビプロデューサーの佐久間宣行氏が、乃木坂46の井上和を大絶賛した――。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "970ec02def7deff5",
       "title": "乃木坂46賀喜遥香「『私がやるな』という自分も…」白石麻衣、梅澤美波が務めた「シンクロニシティ」センターへの思いを明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260810-4802332/",
       "publishedAt": "2026-08-10T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。この日の放送では、7月18日に放送された「音楽の日」（TBS系）で披露した楽曲「シンクロニシティ」について語りました。",
@@ -79,56 +101,6 @@
         {
           "name": "藤嶌果歩",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6a22edd8014eb39b",
-      "title": "超ときめき(ハート)宣伝部、=LOVE、乃木坂46、≠ME、VMAJ 2026に出演決定！10/29東京ドームにて開催",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/660679.html",
-      "publishedAt": "2026-08-09T11:00:38.000Z",
-      "summary": "「MTV VMAJ 2026」東京ドームで開催！超ときめき♡宣伝部、＝LOVE、乃木坂46、≠ME、STARGLOWが出演音楽アワード「MTV VMAJ 2026」が、10月29日に東京ドームで開催されることが決定した。第1弾出演アーティストとして、超ときめき♡宣伝部、 ... The post 超ときめき(ハート)宣伝部、=LOVE、乃木坂46、≠ME、V",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "0d04a0db0056c013",
-      "title": "日向坂46、18thシングル「イチャイチャ虫」9月30日発売決定！フォーメーションは「日向坂で会いましょう」で発表へ",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/660671.html",
-      "publishedAt": "2026-08-09T10:00:57.000Z",
-      "summary": "日向坂46の18thシングル「イチャイチャ虫」が、9月30日に発売されることが決定した。今作のフォーメーションは、8月9日25時20分から放送されるテレビ東京のレギュラー番組「日向坂で会いましょう」で発表される。デビュー7周年を迎えた日向坂46にとって、2026年に入っ ... The post 日向坂46、18thシングル「イチャイチャ虫」9月30日発売決",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "fa92ebdc093fd84f",
-      "title": "乃木坂46賀喜遥香、25歳の誕生日に個人Instagram開設！ライブ終演後に88分間の質問返しも",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/660848.html",
-      "publishedAt": "2026-08-09T04:00:30.000Z",
-      "summary": "乃木坂46の4期生・賀喜遥香が、25歳の誕生日を迎えた8月8日に個人Instagramアカウントを開設した。乃木坂46ではこれまでも多くのメンバーが個人Instagramを開設しており、賀喜も自身の誕生日に合わせて新たな発信をスタートした。さらに、アカウント開設を記念し ... The post 乃木坂46賀喜遥香、25歳の誕生日に個人Instagram開設",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
