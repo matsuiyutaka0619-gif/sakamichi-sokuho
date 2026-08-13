@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-13T13:50:44.833Z",
+  "updatedAt": "2026-08-13T19:28:09.300Z",
   "articles": [
+    {
+      "id": "f3f681f7f8445d4d",
+      "title": "乃木坂46賀喜遥香「私と正反対。でもそこに憧れる！」『名探偵コナン』灰原哀への愛を熱弁",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260813-4815040/",
+      "publishedAt": "2026-08-13T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月6日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介しました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "ea56cf65555eee19",
       "title": "「おい、どけ！」下積み時代からスタッフ豹変 生駒里奈「売れたって怖いな」",
