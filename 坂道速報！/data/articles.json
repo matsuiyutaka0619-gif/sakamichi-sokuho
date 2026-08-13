@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-12T19:29:20.424Z",
+  "updatedAt": "2026-08-13T03:01:46.566Z",
   "articles": [
     {
-      "id": "b6951f2c9b4eff05",
-      "title": "日向坂46大野愛実、マクドナルド新TVCM出演 今夏は「メンバーとプライベートで海に行きたい」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1047335/",
-      "publishedAt": "2026-08-12T19:00:00.000Z",
-      "summary": "アイドルグループ・日向坂46の大野愛実が14日より放映開始する、マクドナルドの新テレビCM「Ms.トクニナルド登場」篇に出演することが13日、発表された。新キャラ「Ms.トクニナルド」として登場 アイドルグループ・日向 […]",
+      "id": "c5229aed99613aa9",
+      "title": "日向坂46 大野愛実、マクドナルド新CM初出演 “Ms.トクニナルド”としてフレッシュな表情を披露",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2489783.html",
+      "publishedAt": "2026-08-13T01:50:06.000Z",
+      "summary": "日向坂46の大野愛実が、8月14日より放送のマクドナルドの新CM『Ms.トクニナルド登場』篇に出演する。 CMでは、大野演じる“Ms.トクニナルド”が「暑い夏は冷たい炭酸をゴクゴク、トクトク、飲みたいの！」と炭酸ドリ",
       "groups": [
         "日向坂46"
       ],
@@ -19,6 +19,72 @@
         {
           "name": "大野愛実",
           "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "eb7319b586485ed1",
+      "title": "King Gnu 井口理主演映画『逃げろお嬢さん』10月2日公開 深川麻衣が逃亡中の元アイドルに",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2489615.html",
+      "publishedAt": "2026-08-12T22:00:38.000Z",
+      "summary": "King Gnuの井口理が主演を務める映画『逃げろお嬢さん』が、10月2日より全国公開されることが決定。あわせて予告編とポスタービジュアルが公開された。 本作は、吉田修一の短編集『逃亡小説集』（角川文庫）に収録された",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "6be1a430cfd31edc",
+      "title": "King Gnu井口理の主演映画2作目『逃げろお嬢さん』10月2日公開決定、ヒロインは深川麻衣",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90590/",
+      "publishedAt": "2026-08-12T22:00:00.000Z",
+      "summary": "井口理（King Gnu）が主演を務める映画『逃げろお嬢さん』が10月2日(金)に全国公開されることが決定し、本予告映像とポスタービジュアルが解禁された。 原作は、『国宝』『横道世之介』の著者として知られる吉田修一の短編集『逃亡小説集』（角川文庫／KADOKAWA刊）に収められた同名短編『逃げろお嬢さん』。誰かをずっと応援してきた人に訪れる小さな奇跡を描いた",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b019783ea3267c03",
+      "title": "『めおと日和』続編 小関裕太、小川彩、戸塚純貴、森カンナ、和久井映見ら10人続投 舞台は昭和12年へ",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260813-4811007/",
+      "publishedAt": "2026-08-12T20:30:00.000Z",
+      "summary": "芳根京子が主演するフジテレビ系ドラマ『波うららかに、めおと日和』の続編(10月15日スタート、毎週木曜22:00～)に、小関裕太、小宮璃央、咲妃みゆ、小川彩(乃木坂46)、戸塚純貴、森カンナ、高橋努、紺野まひる、生瀬勝久、和久井映見の10人が前作から続投することが発表された。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
           "status": "active"
         }
       ]
