@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-08-15T06:59:50.164Z",
+  "updatedAt": "2026-08-15T13:01:10.457Z",
   "articles": [
-    {
-      "id": "3182f5836e890b4e",
-      "title": "＜氣志團万博2026＞、最終出演アーティスト15組を発表",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1083158",
-      "publishedAt": "2026-08-15T01:00:08.000Z",
-      "summary": "11月7日(土)・8日(日)に幕張メッセで開催される＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞の最終出演アーティストが発表された。 今回の発表では、11月7日(土)に秋山竜次（ロバート）、打首獄門同好会、go!go!vanillas、Saucy Dog、NEWS、PUFFY、美少女戦士セーラームーン -Shini",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
     {
       "id": "fec9feb7d93f3f5d",
       "title": "ぼっちぼろまる 新曲に日向坂46小坂菜緒、正源司陽子、藤嶌果歩が参加！「ダメ元でオファーしたらOKが出て…」",
@@ -257,50 +243,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6614d5cf6150299c",
-      "title": "乃木坂46賀喜遥香「メンバーのみんながめちゃくちゃ喜んでくれて」大阪でのライブで毎回届く“親戚からの差し入れ”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260806-4785887/",
-      "publishedAt": "2026-08-06T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。7月30日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介しました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fb82e7609f144132",
-      "title": "「派手にしたくて…」阪口珠美、乃木坂46卒業の翌日にしたこととは 卒業当時の心境も明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260806-4780329/",
-      "publishedAt": "2026-08-06T11:00:00.000Z",
-      "summary": "元乃木坂46の阪口珠美が、自身がパーソナリティを務めるニコニコチャンネル＋『阪口珠美のたまみのとなりの席』で、乃木坂46の同期メンバーとのエピソードを語った。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "阪口珠美",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
