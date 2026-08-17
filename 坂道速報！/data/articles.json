@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-08-16T18:48:37.851Z",
+  "updatedAt": "2026-08-17T01:56:49.832Z",
   "articles": [
-    {
-      "id": "842f264af96caf6c",
-      "title": "北野日奈子、夫・クレイ勇輝と野球観戦「どらほー！」 ファン注目「勝利の女神」「羨ましい」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1049167/",
-      "publishedAt": "2026-08-16T13:31:21.000Z",
-      "summary": "元乃木坂46のメンバーで俳優の北野日奈子（30）が16日までに、夫とバンテリンドームナゴヤでプロ野球観戦したことを報告した。夫・クレイ勇輝と現地観戦 元乃木坂46のメンバーで俳優の北野日奈子（30）が16日までに、夫と […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "北野日奈子",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
     {
       "id": "fec9feb7d93f3f5d",
       "title": "ぼっちぼろまる 新曲に日向坂46小坂菜緒、正源司陽子、藤嶌果歩が参加！「ダメ元でオファーしたらOKが出て…」",
@@ -124,28 +102,6 @@
           "name": "深川麻衣",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b019783ea3267c03",
-      "title": "『めおと日和』続編 小関裕太、小川彩、戸塚純貴、森カンナ、和久井映見ら10人続投 舞台は昭和12年へ",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260813-4811007/",
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "summary": "芳根京子が主演するフジテレビ系ドラマ『波うららかに、めおと日和』の続編(10月15日スタート、毎週木曜22:00～)に、小関裕太、小宮璃央、咲妃みゆ、小川彩(乃木坂46)、戸塚純貴、森カンナ、高橋努、紺野まひる、生瀬勝久、和久井映見の10人が前作から続投することが発表された。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
