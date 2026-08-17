@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T13:08:50.731Z",
+  "updatedAt": "2026-08-17T18:59:51.268Z",
   "articles": [
     {
       "id": "fe9a284bd503f959",
@@ -308,43 +308,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "1b924646480074f4",
-      "title": "日向坂46松尾桜「五期生LIVE」を通じて深まった同期の絆「知らないあいだに心の距離が…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260807-4790071/",
-      "publishedAt": "2026-08-07T12:50:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。7月31日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
