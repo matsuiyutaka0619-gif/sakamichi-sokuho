@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-17T18:59:51.268Z",
+  "updatedAt": "2026-08-18T01:52:51.121Z",
   "articles": [
     {
-      "id": "fe9a284bd503f959",
-      "title": "櫻坂46的野美青、印象ガラリのイメチェン姿 「綺麗なお顔立ち」「ビジュえっっぐ」と反響拡大",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1049982/",
-      "publishedAt": "2026-08-17T12:15:00.000Z",
-      "summary": "アイドルグループ・櫻坂46の的野美青（19）が17日、公式ブログを更新。印象ガラリの最新ショットを公開し、ファンから歓喜の声が上がっている。全国ツアーの二日目にイメチェン アイドルグループ・櫻坂46の的野美青（19）が […]",
+      "id": "60e95d7976817f21",
+      "title": "衛藤美彩の“納豆うどん”が簡単で最高すぎる… 夫・源田壮亮も大好物で「おかわり」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/08/18/20163575293/",
+      "publishedAt": "2026-08-17T22:00:00.000Z",
+      "summary": "代表的な健康食品、納豆。今回は食欲がないときでも、スルスルと食べられる「納豆×うどん」レシピを試してみました！ 画像をもっと見る■衛藤美彩さん「我が家の定番納豆うどん」 編集部が作るのは、西武ライオンズ・源田壮亮選手の妻…",
       "groups": [
-        "櫻坂46"
+        "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "的野美青",
-          "group": "櫻坂46",
-          "status": "active"
+          "name": "衛藤美彩",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
@@ -40,28 +40,6 @@
       "memberMatches": [
         {
           "name": "大野愛実",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a9f24ed7110f20d2",
-      "title": "日向坂46新シングル「イチャイチャ虫」ジャケット公開 正源司陽子が６作ぶりセンター",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608170001251.html",
-      "publishedAt": "2026-08-17T10:50:33.000Z",
-      "summary": "日向坂46が9月30日に発売する18枚目シングル「イチャイチャ虫」のジャケットアートワークが17日、公開された。 同作は4期生の正源司陽子（19）が6作ぶりにセンターを務める。アートワークのテーマは「わたしは、わたしの主人公！」。情報が…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
           "group": "日向坂46",
           "status": "active"
         }
