@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T18:59:10.624Z",
+  "updatedAt": "2026-08-19T01:54:36.471Z",
   "articles": [
     {
       "id": "c9dfea272fb7d391",
@@ -10,22 +10,6 @@
       "publishedAt": "2026-08-18T13:00:11.000Z",
       "summary": "日向坂46が、9月30日に発売する18thシングル「イチャイチャ虫」のジャケットアートワークを公開した。今作のアートディレクションは、高木公美子（ONPHA）が担当。ジャケットのテーマには「わたしは、わたしの主人公！」が掲げられている。情報があふれ、常に何かと比べられて ... The post 日向坂46、18thシングル「イチャイチャ虫」ジャケット公開！",
       "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "915239c33892938c",
-      "title": "新坂道「青葉坂46」始動 オーデ通過者で“１年限定”活動後に乃木坂、櫻坂、日向坂に配属へ",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608180001585.html",
-      "publishedAt": "2026-08-18T12:16:00.000Z",
-      "summary": "乃木坂46、櫻坂46、日向坂46につながる新たなプロジェクトが立ち上がった。ソニー・ミュージックレーベルズは18日、新坂道グループ「青葉坂46」の設立を発表した。 「青葉坂46」は、26年10月8日時点で満12歳から20歳までの女性を対…",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
         "日向坂46"
       ],
       "statuses": [],
@@ -132,22 +116,6 @@
       ]
     },
     {
-      "id": "9d79967c759e1893",
-      "title": "異例の坂道新グループ「青葉坂46」が設立 1年後に乃木・櫻・日向へ配属…メンバー募集開始",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1050435/",
-      "publishedAt": "2026-08-18T12:15:00.000Z",
-      "summary": "乃木坂46、櫻坂46、日向坂46へとつながる1年限定の新グループ・青葉坂46が設立され、メンバー募集オーディションが開催されることが18日、発表された。青葉坂46 オーディション告知 Movieに人気メンバーが勢ぞろい […]",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "2ac5b2bfb5304253",
       "title": "新坂道グループ“青葉坂46”メンバー募集開始、井上和・森田ひかる・小坂菜緒ら並ぶビジュアル公開",
       "sourceName": "Bezzy",
@@ -233,28 +201,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "4777b3ca4e76607d",
-      "title": "齊藤京子、ファンにも秘密にしてた“50万の買い物”告白 ファン衝撃「すご」「うせやろ」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/08/18/20163575492/",
-      "publishedAt": "2026-08-18T07:15:00.000Z",
-      "summary": "17日深夜放送『キョコロヒー』（テレビ朝日系）で、アイドルグループ「日向坂46」の元メンバー・齊藤京子がある高額商品を購入していたと告白し、大きな反響を呼んでいる。 ■同番組の公開収録 今回は、公開収録「真夏のキョコロ祭…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齊藤京子",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "ffc7ac5564f1ca86",
@@ -371,28 +317,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5ca3f96dcbf8b357",
-      "title": "親友が突然自殺――思いを寄せるクラスメイトが死の真相を暴くために“デスゲーム”を計画 櫻坂46山崎天、『デス(青春)ゲーム』でドラマ初主演",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260814-4817887/",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
-      "summary": "アイドルグループ・櫻坂46の山崎天(※崎はたつさき)が、テレビ朝日のドラマ『デス(青春)ゲーム』(毎週土曜24:30～25:00)でW主演を務めることが、わかった。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     },
