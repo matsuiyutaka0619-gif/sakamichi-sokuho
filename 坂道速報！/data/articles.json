@@ -1,6 +1,71 @@
 {
-  "updatedAt": "2026-08-19T01:54:36.471Z",
+  "updatedAt": "2026-08-19T07:07:49.078Z",
   "articles": [
+    {
+      "id": "272ba6449533d4da",
+      "title": "“坂道メンバー×マクドナルド”はなぜ好相性？ 大野愛実 新CM、森田ひかるや守屋麗奈らの起用を振り返る",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2493698.html",
+      "publishedAt": "2026-08-19T03:10:32.000Z",
+      "summary": "日向坂46の大野愛実が、8月14日より放映されているマクドナルドの新TVCM「Ms.トクニナルド登場」篇に出演。本稿では、これまでマクドナルドのCMに出演した坂道メンバーとその相性を振り返っていく。",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "守屋麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3dfd64d414c1edd1",
+      "title": "ぼっちぼろまる×小西貴雄、平成／令和“すべてのJ-POP”を語り合う「わかりやすくて何が悪い！」 ヒット曲とは一体何なのか？",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2494601.html",
+      "publishedAt": "2026-08-19T03:00:32.000Z",
+      "summary": "TVアニメ『逃げ上手の若君』（フジテレビ系）第二期エンディングテーマ「ロマンティックがほしいなら feat. 小坂菜緒, 正源司陽子, 藤嶌果歩 (日向坂46)」の制作をきっかけに、ぼっちぼろまると小西貴雄の対談が実現。平成J-POP黄金期から現代に至るまで、ヒットソング、日本の音楽のあり方を深く語り合う。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小坂菜緒",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c9dfea272fb7d391",
       "title": "日向坂46、18thシングル「イチャイチャ虫」ジャケット公開！テーマは「わたしは、わたしの主人公！」",
@@ -10,22 +75,6 @@
       "publishedAt": "2026-08-18T13:00:11.000Z",
       "summary": "日向坂46が、9月30日に発売する18thシングル「イチャイチャ虫」のジャケットアートワークを公開した。今作のアートディレクションは、高木公美子（ONPHA）が担当。ジャケットのテーマには「わたしは、わたしの主人公！」が掲げられている。情報があふれ、常に何かと比べられて ... The post 日向坂46、18thシングル「イチャイチャ虫」ジャケット公開！",
       "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "a9fcc55fcc69e7d2",
-      "title": "坂道4つ目のグループ誕生、「青葉坂46」は1年限定の活動 乃木坂46＆櫻坂46＆日向坂46に“つながる”グループへ",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2495314.html",
-      "publishedAt": "2026-08-18T12:15:59.000Z",
-      "summary": "新たな坂道グループ 青葉坂46の設立および本日8月18日よりメンバー募集オーディションの開催が発表された。 青葉坂46は、本オーディションで選ばれたメンバーだけで結成される、乃木坂46、櫻坂46、日向坂46に“つなが",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
         "日向坂46"
       ],
       "statuses": [],
@@ -84,8 +133,8 @@
     {
       "id": "39d308b4625ac934",
       "title": "“1年限定”新坂道グループ・青葉坂46、メンバー募集のオーディション開始 乃木坂46井上和・櫻坂46森田ひかる・日向坂46小坂菜緒からの熱いメッセージ「未来に悩む私たち世代にとって…」「皆さんと一緒に活動できる日を楽しみに」「ぜひ勇気を振り絞って一歩を」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260818-4835229/",
       "publishedAt": "2026-08-18T12:15:00.000Z",
       "summary": "ソニー・ミュージックレーベルズは、新たな坂道グループ・青葉坂46を設立し、18日よりメンバー募集のオーディションを開催する。",
@@ -167,8 +216,8 @@
     {
       "id": "cbc9b1a34c21e1bc",
       "title": "秋元真夏「あと3回続いたら番組卒業します」無茶振り企画で赤面 自由奔放発言でニューヨークを翻弄も",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260818-4835144/",
       "publishedAt": "2026-08-18T11:56:09.000Z",
       "summary": "18日に放送されたフジテレビ系バラエティ番組『超調査チューズデイ～気になる答え今夜出します～』(毎週火曜19:00～)で、秋元真夏が自由奔放ぶりを発揮した。",
