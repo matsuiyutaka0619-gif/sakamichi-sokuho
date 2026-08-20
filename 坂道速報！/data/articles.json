@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-20T07:08:44.195Z",
+  "updatedAt": "2026-08-20T13:13:31.378Z",
   "articles": [
+    {
+      "id": "df812cb1315593d1",
+      "title": "乃木坂46賀喜遥香「マネージャーさんとサンドイッチ状態で…」誕生日にInstagram開設も…不慣れな操作に悪戦苦闘",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260820-4844209/",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月13日（木）の放送では、遥香先生の誕生日でもある令和8年8月8日に開設したInstagramについて語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "cb1b15008ec4e232",
       "title": "さらば森田、元櫻坂46アピールするタレントに辛辣ツッコミ 「腐るほどおんねやんか」",
@@ -16,32 +38,10 @@
       "memberMatches": []
     },
     {
-      "id": "67b3c6a418fa5289",
-      "title": "スピッツ、TBS系 金曜ドラマ『Tシャツが乾くまで』主題歌「見知らぬ糸」MVプレミア公開決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1084400",
-      "publishedAt": "2026-08-20T05:00:00.000Z",
-      "summary": "スピッツの48thシングルにして、TBS系 金曜ドラマ『Tシャツが乾くまで』主題歌「見知らぬ糸」が現在配信中だ。同最新曲のミュージックビデオが8月20日(木)22時、オフィシャルYouTubeチャンネルにてプレミア公開されることが発表となった。 「見知らぬ糸」ミュージックビデオは、スピッツとは初タッグとなる映像作家・小林光大が手掛けたもの。《見知らぬ糸が絡ま",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "30ddcdc086656bd4",
       "title": "乃木坂46賀喜遥香「さくちゃんもお祝いしてくれて…」25歳の誕生日に開催された「真夏の全国ツアー2026」福岡公演を振り返り",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260819-4839986/",
       "publishedAt": "2026-08-19T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月13日（木）の放送では、賀喜先生の25歳の誕生日だった8月8日（土）と、その翌日の8月9日（日）におこなわれた「真夏の全国ツアー2026」福岡公演について語りました。",
@@ -112,22 +112,6 @@
       "publishedAt": "2026-08-18T13:00:11.000Z",
       "summary": "日向坂46が、9月30日に発売する18thシングル「イチャイチャ虫」のジャケットアートワークを公開した。今作のアートディレクションは、高木公美子（ONPHA）が担当。ジャケットのテーマには「わたしは、わたしの主人公！」が掲げられている。情報があふれ、常に何かと比べられて ... The post 日向坂46、18thシングル「イチャイチャ虫」ジャケット公開！",
       "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "41e42291f736b500",
-      "title": "1年後に乃木坂46の7期生、櫻坂46の5期生、日向坂46の6期生に！「青葉坂46」メンバー募集",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203638",
-      "publishedAt": "2026-08-18T12:15:55.000Z",
-      "summary": "“坂道グループ”と呼ばれるアイドルグループ『乃木坂46』、『櫻坂46』、『日向坂46』につながる1年限定の新グループ『青葉坂46』のメンバー募集を8月18日から行っている。 『青葉坂46』は、本オーディションで選ばれ...",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
         "日向坂46"
       ],
       "statuses": [],
