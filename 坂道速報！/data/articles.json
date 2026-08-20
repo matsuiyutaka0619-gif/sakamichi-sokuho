@@ -1,47 +1,39 @@
 {
-  "updatedAt": "2026-08-20T01:53:40.677Z",
+  "updatedAt": "2026-08-20T07:08:44.195Z",
   "articles": [
     {
-      "id": "11d524e264bdbf44",
-      "title": "齊藤京子「チーズケーキ作りにハマりすぎていまして」お店級７種類、きっかけは有名ピアニスト",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608190000113.html",
-      "publishedAt": "2026-08-20T00:55:00.000Z",
-      "summary": "女優齊藤京子（28）が19日までにインスタグラムを更新。何種類もの手作りチーズケーキを投稿した。 齊藤は「最近チーズケーキ作りにハマりすぎていまして、周りの皆さまにたくさん配って食べていただいている日々です」と記した。 投稿されたチーズ…",
+      "id": "cb1b15008ec4e232",
+      "title": "さらば森田、元櫻坂46アピールするタレントに辛辣ツッコミ 「腐るほどおんねやんか」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/08/20/20163576304/",
+      "publishedAt": "2026-08-20T06:30:00.000Z",
+      "summary": "19日深夜放送『さらば建前！正直サミット 本音を話すとこうなった！』（TOKYO MX）で、お笑いコンビ・さらば青春の光の森田哲矢がアイドルグループ・櫻坂46の元メンバーに本音をぶつける一幕があった。 ■元櫻坂アイドルが…",
       "groups": [
-        "日向坂46"
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "67b3c6a418fa5289",
+      "title": "スピッツ、TBS系 金曜ドラマ『Tシャツが乾くまで』主題歌「見知らぬ糸」MVプレミア公開決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1084400",
+      "publishedAt": "2026-08-20T05:00:00.000Z",
+      "summary": "スピッツの48thシングルにして、TBS系 金曜ドラマ『Tシャツが乾くまで』主題歌「見知らぬ糸」が現在配信中だ。同最新曲のミュージックビデオが8月20日(木)22時、オフィシャルYouTubeチャンネルにてプレミア公開されることが発表となった。 「見知らぬ糸」ミュージックビデオは、スピッツとは初タッグとなる映像作家・小林光大が手掛けたもの。《見知らぬ糸が絡ま",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "齊藤京子",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "13fa3b4eb3387c61",
-      "title": "乃木坂46岡本姫奈、白地に赤い花柄の浴衣姿で江ノ島へ「夏らしいことした」動画も公開",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608190000538.html",
-      "publishedAt": "2026-08-20T00:55:00.000Z",
-      "summary": "乃木坂46の岡本姫奈（22）が19日までに自身のインスタグラムを更新。 神奈川・江ノ島での浴衣姿を披露した。 白を基調に赤い花柄があしらわれた浴衣姿の写真を投稿し「夏らしいことした」とつづった。 別の投稿では、浴衣姿のまま江ノ島の砂浜で…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "岡本姫奈",
+          "name": "齋藤飛鳥",
           "group": "乃木坂46",
-          "status": "active"
+          "status": "og"
         }
       ]
     },
@@ -70,8 +62,8 @@
     {
       "id": "d9fc2de7e4ce549f",
       "title": "乃木坂46賀喜遥香 ラジオの生放送にサプライズ登場！パーソナリティも大慌て！アンジー校長「声が枯れたんだけど（笑）」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260819-4839422/",
       "publishedAt": "2026-08-19T09:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月13日（木）の放送では、遥香先生が、アンジー校長（アンジェリーナ1/3・Gacharic Spin）、たんぼ教頭（溝上たんぼ）に内緒で生放送教室に登場！ その模様を紹介します。",
