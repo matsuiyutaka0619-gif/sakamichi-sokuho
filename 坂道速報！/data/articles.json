@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-19T18:55:52.961Z",
+  "updatedAt": "2026-08-20T01:53:40.677Z",
   "articles": [
+    {
+      "id": "11d524e264bdbf44",
+      "title": "齊藤京子「チーズケーキ作りにハマりすぎていまして」お店級７種類、きっかけは有名ピアニスト",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608190000113.html",
+      "publishedAt": "2026-08-20T00:55:00.000Z",
+      "summary": "女優齊藤京子（28）が19日までにインスタグラムを更新。何種類もの手作りチーズケーキを投稿した。 齊藤は「最近チーズケーキ作りにハマりすぎていまして、周りの皆さまにたくさん配って食べていただいている日々です」と記した。 投稿されたチーズ…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齊藤京子",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "13fa3b4eb3387c61",
+      "title": "乃木坂46岡本姫奈、白地に赤い花柄の浴衣姿で江ノ島へ「夏らしいことした」動画も公開",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608190000538.html",
+      "publishedAt": "2026-08-20T00:55:00.000Z",
+      "summary": "乃木坂46の岡本姫奈（22）が19日までに自身のインスタグラムを更新。 神奈川・江ノ島での浴衣姿を披露した。 白を基調に赤い花柄があしらわれた浴衣姿の写真を投稿し「夏らしいことした」とつづった。 別の投稿では、浴衣姿のまま江ノ島の砂浜で…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "岡本姫奈",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "30ddcdc086656bd4",
       "title": "乃木坂46賀喜遥香「さくちゃんもお祝いしてくれて…」25歳の誕生日に開催された「真夏の全国ツアー2026」福岡公演を振り返り",
@@ -287,28 +331,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "fb6ac474129e0645",
-      "title": "櫻坂46・山﨑天、20歳で「ViVi」表紙！副キャプテンとしての責任感や家族愛を語る",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/662168.html",
-      "publishedAt": "2026-08-17T06:15:04.000Z",
-      "summary": "櫻坂46の山﨑天が、8月21日発売の「ViVi」2026年10月号通常版の表紙を飾る。15歳でViVi専属モデルに加入した山﨑は現在20歳。誌面では「ハタチのてん。」と題し、20歳の今だからこそ残しておきたい姿を6ページにわたって特集する。撮影を担当したのは写真家の松岡 ... The post 櫻坂46・山﨑天、20歳で「ViVi」表紙！副キャプテンとして",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "fec9feb7d93f3f5d",
@@ -948,28 +970,6 @@
         {
           "name": "森田ひかる",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "32b77dda4593d434",
-      "title": "乃木坂46の42ndシングルタイトルが『是非に及ばず』に決定、センターは5期生・一ノ瀬美空",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87521/",
-      "publishedAt": "2026-06-07T16:25:00.000Z",
-      "summary": "乃木坂46が、7月22日(水)に発売する最新42枚目シングルのタイトルが『是非に及ばず』に決定。表題曲のセンターを5期生・一ノ瀬美空が務めることが発表された。 5月にはグループとして初の東京ドーム3daysを開催し、3日間で14万人のファンと共に14回目のバースデーライブを終えた乃木坂46。シングルのタイトルと表題曲のフォーメーションは自身の冠バラエティ番組",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
