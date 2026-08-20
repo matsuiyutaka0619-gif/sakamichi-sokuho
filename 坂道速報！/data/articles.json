@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-08-20T13:13:31.378Z",
+  "updatedAt": "2026-08-20T19:02:34.877Z",
   "articles": [
+    {
+      "id": "e429a82ab1555d36",
+      "title": "「乃木坂46 真夏の全国ツアー2026」最終公演初日開催！6期生・増田三莉音サプライズ",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203716",
+      "publishedAt": "2026-08-20T15:04:40.000Z",
+      "summary": "アイドルグループ『乃木坂46』が2026年6月から開催している『乃木坂46 真夏の全国ツアー2026』最終公演4daysの初日公演が8月20日に東京・明治神宮野球場で行われた。 『乃木坂46 真夏の全国ツアー2026...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "増田三莉音",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e9bbc480af2d8b14",
+      "title": "日向坂46新シングルの収録内容発表、ひなた坂46楽曲「風にキンモクセイ」のセンターは清水理央",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90931/",
+      "publishedAt": "2026-08-20T13:45:00.000Z",
+      "summary": "日向坂46が、9月30日(水)に発売する18thシングル『イチャイチャ虫』の“ひなた坂46”メンバー楽曲「風にキンモクセイ」のフォーメーションを発表した。 共通カップリングとして収録される「風にキンモクセイ」でセンターを務めるのは四期生・清水理央。この発表はグループオフィシャルYouTubeチャンネル「日向坂ちゃんねる」での生配信にて行われたもので、配信内で",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "清水理央",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b7cecf4456fdd2ae",
+      "title": "乃木坂46賀喜遥香「卒業された先輩がおっしゃっていた言葉で…」25歳の抱負として心に刻んだこととは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260820-4844558/",
+      "publishedAt": "2026-08-20T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月13日（木）の放送では、8月8日に25歳の誕生日を迎えた遥香先生が「25歳の抱負」を語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f90691402dc71597",
+      "title": "日向坂46藤嶌果歩「ちょっとイジワルな役をやりたい（笑）」今後“叶えたい野望”を松尾桜と語り合う",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260820-4844402/",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。8月14日（金）の",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "df812cb1315593d1",
       "title": "乃木坂46賀喜遥香「マネージャーさんとサンドイッチ状態で…」誕生日にInstagram開設も…不慣れな操作に悪戦苦闘",
@@ -925,28 +1028,6 @@
           "name": "山下美月",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "1a711c040a02d1c0",
-      "title": "“家”を舞台に櫻坂46の空想があふれ出す、15thシングル「What’s “KAZOKU”?」MV公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87564/",
-      "publishedAt": "2026-06-08T13:10:00.000Z",
-      "summary": "櫻坂46が、6月10日(水)に発売する新シングルから表題曲「What’s “KAZOKU”?」のMusic Videoを公開した。 「What’s “KAZOKU”?」は、MBS／TBS系で現在放送中のTVアニメ『夜桜さんちの大作戦』第2期のオープニングテーマ。本楽曲も収録される15thシングル『Lonesome rabbit / What’s “KAZOK",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     }
