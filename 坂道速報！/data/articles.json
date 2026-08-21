@@ -1,58 +1,50 @@
 {
-  "updatedAt": "2026-08-21T01:59:45.292Z",
+  "updatedAt": "2026-08-21T07:09:49.360Z",
   "articles": [
     {
-      "id": "30e6cd5ad6d78070",
-      "title": "【乃木坂46神宮初日】増田三莉音がサプライズ復帰！ 6期生11人が1年3か月ぶり集結＆涙目パフォーマンス",
+      "id": "9e315f31bffefa6f",
+      "title": "乃木坂46、ライブ映像のSNS拡散に声明「直ちにおやめください」 無断転載に「法的対応を執る場合がございます」",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1051918/",
-      "publishedAt": "2026-08-21T01:35:50.000Z",
-      "summary": "乃木坂46が20日、全国ツアー「乃木坂46 真夏の全国ツアー2026」の東京・明治神宮野球場4days公演初日を開催した。今年4月から体調不良で活動を休止していた6期生・増田三莉音もサプライズで登場し、活動再開を発表した […]",
+      "articleUrl": "https://encount.press/archives/1052111/",
+      "publishedAt": "2026-08-21T06:19:57.000Z",
+      "summary": "乃木坂46の公式Xが21日に更新され、開催中の「真夏の全国ツアー2026」の映像をめぐり注意を呼びかけた。前日20日には明治神宮野球場4days公演初日を開催 乃木坂46の公式Xが21日に更新され、開催中の「真夏の全国 […]",
       "groups": [
         "乃木坂46"
       ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "増田三莉音",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
+      "statuses": [],
+      "memberMatches": []
     },
     {
-      "id": "937b68df96324b2b",
-      "title": "おぎやはぎ「女が来たっていう感じしない」ラジオの過去女性ゲストの実名挙げ「おじさんが来た」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608210000159.html",
-      "publishedAt": "2026-08-21T01:19:24.000Z",
-      "summary": "お笑いコンビ、おぎやはぎ矢作兼（54）小木博明（55）が20日深夜放送のTBSラジオ「木曜JUNK おぎやはぎのメガネびいき」（木曜深夜1時）に生出演。過去の番組ゲストをイジった。 今放送は元乃木坂46の中田花奈（32）だった。リスおぎ…",
+      "id": "aa753775f0e14127",
+      "title": "「フルアルバムを出したら違うバンドになっちゃう」おいしくるメロンパンが“ミニアルバム”にこだわる理由とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260821-4847269/",
+      "publishedAt": "2026-08-21T03:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。8月15日（土）の放送には、おいしくるメロンパンのナカシマさん（Vo.＆Gt.）が登場！ 8月26日（水）にリリースされる11枚目のミニアルバム『avenue』に込めた思いなどを伺いました。",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "中田花奈",
-          "group": "乃木坂46",
+          "name": "潮紗理菜",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "f02a3424e0eeb646",
-      "title": "前田拳太郎主演でネット発の都市伝説『巨頭オ』映画化 共演に久保史緒里、監督は近藤亮太",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2497216.html",
-      "publishedAt": "2026-08-20T23:00:58.000Z",
-      "summary": "前田拳太郎が主演を務め、久保史緒里がヒロイン役を担当する近藤亮太監督最新作『巨頭オ』が、12月25日よりテアトル新宿、ヒューマントラストシネマ渋谷ほかにて全国公開されることが決定。あわせてティザービジュアルと特報映像が",
+      "id": "70c558ba12ec7f4d",
+      "title": "乃木坂46、＜真夏の全国ツアー＞ファイナル・明治神宮野球場4days突入。6期生・増田三莉音がサプライズ登場＆活動再開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1084517",
+      "publishedAt": "2026-08-21T02:36:13.000Z",
+      "summary": "2026年6月から開催されている＜乃木坂46 真夏の全国ツアー2026＞最終公演となる明治神宮野球場4daysの初日公演が8月20日(木)に開催された。 ＜乃木坂46 真夏の全国ツアー2026＞は6月から8月にかけてグループ史上最大規模となる全国8都市18公演を駆け巡り、ファイナルとなる東京公演は明治神宮野球場にて8月20日(木)～23日(日)の計4日間にわ",
       "groups": [
         "乃木坂46"
       ],
@@ -61,7 +53,12 @@
       ],
       "memberMatches": [
         {
-          "name": "久保史緒里",
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "増田三莉音",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -180,8 +177,8 @@
     {
       "id": "f90691402dc71597",
       "title": "日向坂46藤嶌果歩「ちょっとイジワルな役をやりたい（笑）」今後“叶えたい野望”を松尾桜と語り合う",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260820-4844402/",
       "publishedAt": "2026-08-20T12:00:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。8月14日（金）の",
@@ -217,8 +214,8 @@
     {
       "id": "df812cb1315593d1",
       "title": "乃木坂46賀喜遥香「マネージャーさんとサンドイッチ状態で…」誕生日にInstagram開設も…不慣れな操作に悪戦苦闘",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260820-4844209/",
       "publishedAt": "2026-08-20T11:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月13日（木）の放送では、遥香先生の誕生日でもある令和8年8月8日に開設したInstagramについて語りました。",
