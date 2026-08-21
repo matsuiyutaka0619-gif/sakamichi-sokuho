@@ -1,19 +1,27 @@
 {
-  "updatedAt": "2026-08-21T07:09:49.360Z",
+  "updatedAt": "2026-08-21T13:13:20.426Z",
   "articles": [
     {
-      "id": "9e315f31bffefa6f",
-      "title": "乃木坂46、ライブ映像のSNS拡散に声明「直ちにおやめください」 無断転載に「法的対応を執る場合がございます」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1052111/",
-      "publishedAt": "2026-08-21T06:19:57.000Z",
-      "summary": "乃木坂46の公式Xが21日に更新され、開催中の「真夏の全国ツアー2026」の映像をめぐり注意を呼びかけた。前日20日には明治神宮野球場4days公演初日を開催 乃木坂46の公式Xが21日に更新され、開催中の「真夏の全国 […]",
+      "id": "46f54f97da76caa1",
+      "title": "乃木坂46増田三莉音がツアー東京公演でサプライズ復帰 約１年３ヵ月ぶりに６期生全員そろう",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608210001525.html",
+      "publishedAt": "2026-08-21T12:07:33.000Z",
+      "summary": "乃木坂46「真夏の全国ツアー2026」最終となる東京公演4Daysの初日が20日、明治神宮野球場で行われた。 8都市18公演を駆け抜けてたどりついた神宮のステージでは、体調不良で活動を休止していた6期生増田三莉音（16）がサプライズで登…",
       "groups": [
         "乃木坂46"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "増田三莉音",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "aa753775f0e14127",
@@ -34,33 +42,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "70c558ba12ec7f4d",
-      "title": "乃木坂46、＜真夏の全国ツアー＞ファイナル・明治神宮野球場4days突入。6期生・増田三莉音がサプライズ登場＆活動再開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1084517",
-      "publishedAt": "2026-08-21T02:36:13.000Z",
-      "summary": "2026年6月から開催されている＜乃木坂46 真夏の全国ツアー2026＞最終公演となる明治神宮野球場4daysの初日公演が8月20日(木)に開催された。 ＜乃木坂46 真夏の全国ツアー2026＞は6月から8月にかけてグループ史上最大規模となる全国8都市18公演を駆け巡り、ファイナルとなる東京公演は明治神宮野球場にて8月20日(木)～23日(日)の計4日間にわ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "増田三莉音",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -155,8 +136,8 @@
     {
       "id": "b7cecf4456fdd2ae",
       "title": "乃木坂46賀喜遥香「卒業された先輩がおっしゃっていた言葉で…」25歳の抱負として心に刻んだこととは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260820-4844558/",
       "publishedAt": "2026-08-20T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月13日（木）の放送では、8月8日に25歳の誕生日を迎えた遥香先生が「25歳の抱負」を語りました。",
@@ -314,40 +295,6 @@
       "memberMatches": []
     },
     {
-      "id": "90cc216f1b08d920",
-      "title": "新たな坂道グループ「青葉坂46」が誕生！メンバー募集開始！ 井上和、森田ひかる、小坂菜緒ら3坂道メンバーによるキービジュアル・ムービーも公開！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/662403.html",
-      "publishedAt": "2026-08-18T12:15:33.000Z",
-      "summary": "新たな坂道グループの誕生と、それに伴うメンバーオーディションの開催が決定した。その名も「青葉坂46」（よみ：あおばざかふぉーてぃーしっくす）。8月16日の深夜、突如ティザー映像が公開となり、話題になっていたもの。東京都・渋谷の屋外広告にも青葉坂46と8月18日21時の文 ... The post 新たな坂道グループ「青葉坂46」が誕生！メンバー募集開始！ 井",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "小坂菜緒",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "39d308b4625ac934",
       "title": "“1年限定”新坂道グループ・青葉坂46、メンバー募集のオーディション開始 乃木坂46井上和・櫻坂46森田ひかる・日向坂46小坂菜緒からの熱いメッセージ「未来に悩む私たち世代にとって…」「皆さんと一緒に活動できる日を楽しみに」「ぜひ勇気を振り絞って一歩を」",
       "sourceName": "マイナビニュース 芸能",
@@ -453,22 +400,6 @@
       ]
     },
     {
-      "id": "d7761ca87b2b2dcf",
-      "title": "乃木坂46・櫻坂46・日向坂46、謎の「青葉坂46」ティザー公開！8月18日21時に何かが起きる？",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/662374.html",
-      "publishedAt": "2026-08-18T10:00:23.000Z",
-      "summary": "乃木坂46の冠番組「乃木坂工事中」で、謎のティザーCMが放送された。CMには東京の情景とともに、少女たちが「青葉坂？」とつぶやくシーンが登場。さらに「青葉坂46」というワードと「2026.8.18 21:00」の文字が映し出され、8月18日21時に何らかの動きがあること ... The post 乃木坂46・櫻坂46・日向坂46、謎の「青葉坂46」ティザー公",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "93db14363b3290c3",
       "title": "日向坂46がありたいと願う“らしさ”を表現、18thシングル『イチャイチャ虫』ジャケット公開",
       "sourceName": "Bezzy",
@@ -559,39 +490,6 @@
       "memberMatches": [
         {
           "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "970ec02def7deff5",
-      "title": "乃木坂46賀喜遥香「『私がやるな』という自分も…」白石麻衣、梅澤美波が務めた「シンクロニシティ」センターへの思いを明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260810-4802332/",
-      "publishedAt": "2026-08-10T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。この日の放送では、7月18日に放送された「音楽の日」（TBS系）で披露した楽曲「シンクロニシティ」について語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "白石麻衣",
           "group": "乃木坂46",
           "status": "og"
         }
