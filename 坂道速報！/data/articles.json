@@ -1,27 +1,19 @@
 {
-  "updatedAt": "2026-08-22T18:50:58.674Z",
+  "updatedAt": "2026-08-23T02:01:39.605Z",
   "articles": [
     {
-      "id": "7d9883b38b7a4769",
-      "title": "乃木坂46五百城茉央が９月11日神戸戦来場、ファン「最強の補強」過去来場試合の成績は…",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608220001823.html",
-      "publishedAt": "2026-08-22T12:30:00.000Z",
-      "summary": "乃木坂46五百城茉央（21）が、9月11日に行われる明治安田生命J1リーグ第7節ヴィッセル神戸対鹿島アントラーズ（午後7時開始、ノエビアスタジアム神戸）にゲスト出演することが決定した。 五百城は兵庫県生まれで、昨年はJ1ヴィッセル神戸の…",
+      "id": "5073c7ec64ee1806",
+      "title": "乃木坂46は記憶と記録を更新し続ける 結成15周年、“透明な色”から可能性を広げ続けた模索と飛躍の軌跡",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2496749.html",
+      "publishedAt": "2026-08-22T20:50:56.000Z",
+      "summary": "乃木坂46が、2026年8月21日で結成15周年を迎えた。そして、6月よりグループ史上最大規模となる全国8都市18公演の『乃木坂 46 真夏の全国ツアー2026』がスタートし、8月23日の東京公演（明治神宮球場）でファイナルを迎える。本稿では、これまでの軌跡と試行錯誤の日々を振り返りたい。",
       "groups": [
         "乃木坂46"
       ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "5da56ea4f78a520e",
@@ -42,28 +34,6 @@
           "name": "山﨑天",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "30c186cd23ab91e1",
-      "title": "『風、薫る』第106話、多江（生田絵梨花）からりん（見上愛）らに手紙が届く",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2499337.html",
-      "publishedAt": "2026-08-21T23:15:40.000Z",
-      "summary": "NHK連続テレビ小説『風、薫る』。8月24日放送の第106話では、多江（生田絵梨花）からりん（見上愛）らに手紙が届く。 NHK連続テレビ小説第114作目となる本作は、明治時代の医療看護の世界を舞台に、トレインドナース",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
