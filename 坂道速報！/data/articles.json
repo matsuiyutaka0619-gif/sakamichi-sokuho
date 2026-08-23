@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-08-23T13:04:14.940Z",
+  "updatedAt": "2026-08-23T18:50:24.975Z",
   "articles": [
+    {
+      "id": "72d6a74695749f46",
+      "title": "乃木坂46『真夏の全国ツアー2026』最終公演4日目！一ノ瀬美空「また来年もここで」【公式レポート】",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203809",
+      "publishedAt": "2026-08-23T15:16:48.000Z",
+      "summary": "アイドルグループ『乃木坂46』が8月23日に東京・明治神宮野球場で全国ツアー『真夏の全国ツアー2026』最終公演4日目公演を開催した。 『乃木坂46』の恒例行事となっている夏の全国ツアーが今年も開催。菅原咲月を新キャ...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "68838bd32c1ac87b",
+      "title": "乃木坂46、史上最大ツアー完走 新キャプテン・菅原咲月「グループの未来を必ず守る」…『君の名は希望』で会場どよめき",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1053033/",
+      "publishedAt": "2026-08-23T15:06:33.000Z",
+      "summary": "アイドルグループ・乃木坂46が23日、東京・明治神宮野球場で「乃木坂46 真夏の全国ツアー2026 明治神宮野球場公演 DAY4」を開催した。42枚目シングル『是非に及ばず』でセンターの一ノ瀬美空が初の座長を務めた同ツア […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b37fd21b03a1b499",
+      "title": "乃木坂46、新体制ツアー完走28万人動員 新キャプテン菅原咲月も初座長一ノ瀬美空も涙で思い",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608230001786.html",
+      "publishedAt": "2026-08-23T15:02:00.000Z",
+      "summary": "乃木坂46が23日、東京・明治神宮野球場で「真夏の全国ツアー2026」千秋楽公演を開催した。5月に前キャプテンの梅澤美波（27）が卒業し、菅原咲月（20）が4代目キャプテンに就任。新体制の集大成をグループの“聖地”で見せつけた。 「神宮…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "16a0b2a02c9d8962",
+      "title": "【スピーチ全文】乃木坂46一ノ瀬美空、初ツアー座長完走に涙「自分にしかない花を咲かせる」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608230001647.html",
+      "publishedAt": "2026-08-23T15:02:00.000Z",
+      "summary": "乃木坂46「真夏の全国ツアー2026」千秋楽公演が23日、東京・明治神宮野球場で行われた。菅原咲月（20）が新たにキャプテンに就任し、新体制で回ったツアーでは過去最多の8都市18公演を回って28万人を動員した。 最新42枚目シングル「是…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "04f1b344364655bd",
+      "title": "日向坂46三期生LIVE！山口陽世の卒業セレモニーで「6年半、とても私は幸せでした」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203768",
+      "publishedAt": "2026-08-23T14:50:47.000Z",
+      "summary": "アイドルグループ『日向坂46』の三期生LIVEファイナル公演と山口陽世の卒業セレモニーが8月23日に東京・Zepp Hanedaで開催された。 山口は、2018年に「坂道合同新規メンバー募集オーディション」に合格した...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山口陽世",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "76d8811d310473ea",
       "title": "「この子たちがアイドルじゃなかったとしても…」元日向坂46松田好花、三期生LIVEに感慨…後輩たちの“魅力”を再認識「素敵な子たちに出会えた」",
