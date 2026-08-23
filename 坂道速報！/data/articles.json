@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-23T07:04:16.379Z",
+  "updatedAt": "2026-08-23T13:04:14.940Z",
   "articles": [
     {
-      "id": "0cfcf9bbd970fcba",
-      "title": "長沢菜々香がひと月の電気代にあ然「何事？」 リアルな金額にファンも困惑「え!?PCのサーバーでも置いてる？」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1052990/",
-      "publishedAt": "2026-08-23T06:33:09.000Z",
-      "summary": "アイドルグループ・欅坂46の1期生で元メンバーの長沢菜々香が23日、自身のXを更新し、自宅の電気代に「何事？」とあ然としていた。前月比では2倍近く アイドルグループ・欅坂46の1期生で元メンバーの長沢菜々香が23日、自 […]",
+      "id": "76d8811d310473ea",
+      "title": "「この子たちがアイドルじゃなかったとしても…」元日向坂46松田好花、三期生LIVEに感慨…後輩たちの“魅力”を再認識「素敵な子たちに出会えた」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260823-4852378/",
+      "publishedAt": "2026-08-23T12:00:00.000Z",
+      "summary": "「この子たちがアイドルじゃなかったとしても……」元日向坂46でタレントの松田好花が、「日向坂46 三期生LIVE」を振り返った――。",
       "groups": [
-        "櫻坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "長沢菜々香",
-          "group": "櫻坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -41,42 +41,6 @@
         {
           "name": "清水理央",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5073c7ec64ee1806",
-      "title": "乃木坂46は記憶と記録を更新し続ける 結成15周年、“透明な色”から可能性を広げ続けた模索と飛躍の軌跡",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2496749.html",
-      "publishedAt": "2026-08-22T20:50:56.000Z",
-      "summary": "乃木坂46が、2026年8月21日で結成15周年を迎えた。そして、6月よりグループ史上最大規模となる全国8都市18公演の『乃木坂 46 真夏の全国ツアー2026』がスタートし、8月23日の東京公演（明治神宮球場）でファイナルを迎える。本稿では、これまでの軌跡と試行錯誤の日々を振り返りたい。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "5da56ea4f78a520e",
-      "title": "櫻坂46 山﨑天主演『デス(青春)ゲーム』に藤本洸大、吉澤要人、林裕太、菊池日菜子ら出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2499273.html",
-      "publishedAt": "2026-08-22T03:00:48.000Z",
-      "summary": "9月5日24時30分からテレビ朝日で放送される、櫻坂46 山﨑天の初主演ドラマ『デス(青春)ゲーム』に藤本洸大、吉澤要人、林裕太、菊池日菜子、川島海荷、池田良、芦川誠、神尾佑の出演が決定した。 “青春×デスゲーム”と",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
@@ -396,28 +360,6 @@
           "name": "小坂菜緒",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cbc9b1a34c21e1bc",
-      "title": "秋元真夏「あと3回続いたら番組卒業します」無茶振り企画で赤面 自由奔放発言でニューヨークを翻弄も",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260818-4835144/",
-      "publishedAt": "2026-08-18T11:56:09.000Z",
-      "summary": "18日に放送されたフジテレビ系バラエティ番組『超調査チューズデイ～気になる答え今夜出します～』(毎週火曜19:00～)で、秋元真夏が自由奔放ぶりを発揮した。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "秋元真夏",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
