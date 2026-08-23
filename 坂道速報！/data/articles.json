@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-23T02:01:39.605Z",
+  "updatedAt": "2026-08-23T07:04:16.379Z",
   "articles": [
+    {
+      "id": "0cfcf9bbd970fcba",
+      "title": "長沢菜々香がひと月の電気代にあ然「何事？」 リアルな金額にファンも困惑「え!?PCのサーバーでも置いてる？」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1052990/",
+      "publishedAt": "2026-08-23T06:33:09.000Z",
+      "summary": "アイドルグループ・欅坂46の1期生で元メンバーの長沢菜々香が23日、自身のXを更新し、自宅の電気代に「何事？」とあ然としていた。前月比では2倍近く アイドルグループ・欅坂46の1期生で元メンバーの長沢菜々香が23日、自 […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長沢菜々香",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "57ee9e62774ff14d",
+      "title": "日向坂46、18thシングル収録「風にキンモクセイ」フォーメーション解禁！センターは四期生・清水理央",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/663224.html",
+      "publishedAt": "2026-08-23T03:00:09.000Z",
+      "summary": "日向坂46が、9月30日に発売する18thシングル「イチャイチャ虫」に収録される、ひなた坂46の共通カップリング楽曲「風にキンモクセイ」のフォーメーションを発表した。センターは四期生の清水理央が務める。フォーメーションは、日向坂46のYouTubeチャンネル「日向坂ちゃ ... The post 日向坂46、18thシングル収録「風にキンモクセイ」フォーメー",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "清水理央",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "5073c7ec64ee1806",
       "title": "乃木坂46は記憶と記録を更新し続ける 結成15周年、“透明な色”から可能性を広げ続けた模索と飛躍の軌跡",
