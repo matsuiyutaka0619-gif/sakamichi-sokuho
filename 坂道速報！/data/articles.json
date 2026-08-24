@@ -1,125 +1,25 @@
 {
-  "updatedAt": "2026-08-24T07:30:58.773Z",
+  "updatedAt": "2026-08-24T13:15:57.601Z",
   "articles": [
     {
-      "id": "edd0cc80c133bcbf",
-      "title": "【ライブレポート】乃木坂46、新体制で巡った＜真夏の全国ツアー2026＞聖地・明治神宮野球場で完走",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1085115",
-      "publishedAt": "2026-08-24T06:55:49.000Z",
-      "summary": "乃木坂46の全国ツアー＜真夏の全国ツアー2026＞最終公演が、8月23日に東京・明治神宮野球場で行われた。オフィシャルからのレポートをお届けする。 ◆ライブ写真 菅原咲月を新キャプテンに迎えた新体制で臨んだ今回のツアーは、6月13日の福井・サンドーム福井を皮切りに、全国8都市で計18公演を実施。東京公演は2014年の初開催から今回で11回目（2020年、20",
+      "id": "507bef684cfcef72",
+      "title": "山崎怜奈「ダレハナ」にKO1KEYZ・DAIKI＆RYUJI、永野、TAKARAら登場！4日間に豪華ゲスト",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/radio/663475.html",
+      "publishedAt": "2026-08-24T11:00:20.000Z",
+      "summary": "山崎怜奈がパーソナリティを務めるTOKYO FM「山崎怜奈の誰かに話したかったこと。」の8月24日から27日の放送に、ラパルフェ、KO1KEYZのDAIKIとRYUJI、永野、TAKARAがゲスト出演する。8月24日は、阿部寛などのモノマネで知られるお笑いコンビ・ラパル ... The post 山崎怜奈「ダレハナ」にKO1KEYZ・DAIKI＆RYUJI、",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "遠藤さくら",
+          "name": "山崎怜奈",
           "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "筒井あやめ",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "林瑠奈",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "池田瑛紗",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅原咲月",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "中西アルノ",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "大越ひなの",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "鈴木佑捺",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "瀬戸口心月",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "長嶋凛桜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "増田三莉音",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "森平麗心",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "矢田萌華",
-          "group": "乃木坂46",
-          "status": "active"
+          "status": "og"
         }
       ]
     },
@@ -233,28 +133,6 @@
       "memberMatches": [
         {
           "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e429a82ab1555d36",
-      "title": "「乃木坂46 真夏の全国ツアー2026」最終公演初日開催！6期生・増田三莉音サプライズ",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203716",
-      "publishedAt": "2026-08-20T15:04:40.000Z",
-      "summary": "アイドルグループ『乃木坂46』が2026年6月から開催している『乃木坂46 真夏の全国ツアー2026』最終公演4daysの初日公演が8月20日に東京・明治神宮野球場で行われた。 『乃木坂46 真夏の全国ツアー2026...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "増田三莉音",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -525,66 +403,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "fec9feb7d93f3f5d",
-      "title": "ぼっちぼろまる 新曲に日向坂46小坂菜緒、正源司陽子、藤嶌果歩が参加！「ダメ元でオファーしたらOKが出て…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260814-4819030/",
-      "publishedAt": "2026-08-14T11:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。8月8日（土）の放送は、シンガーソングライター・バーチャルYouTuberのぼっちぼろまるさんが登場！ 8月19日（水）にCDリリースされる新曲「ロマンティックがほしいなら feat. 小坂菜",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "小坂菜緒",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "f3f681f7f8445d4d",
-      "title": "乃木坂46賀喜遥香「私と正反対。でもそこに憧れる！」『名探偵コナン』灰原哀への愛を熱弁",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260813-4815040/",
-      "publishedAt": "2026-08-13T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月6日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介しました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "6be1a430cfd31edc",
@@ -1087,28 +905,6 @@
         {
           "name": "佐々木美玲",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "f03cabc1a8fe0618",
-      "title": "水上恒司主演、大型新人監督・武井佑吏の商業デビュー作『本当にあった話（の話）』10月2日公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87650/",
-      "publishedAt": "2026-06-10T23:00:00.000Z",
-      "summary": "水上恒司主演のディストピア映画『本当にあった話（の話）』が10月2日(金)に公開されることが決定し、ティザービジュアルとキャストコメントが解禁された。 原作は、『文學界』2021年12月号（2021年11月6日発売）に掲載された鴻池留衣による『フェミニストのままじゃいられない』。その映画化となる本作には、脚本の面白さから水上恒司をはじめ小池栄子、佐々木蔵之介",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
