@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-08-24T01:59:19.177Z",
+  "updatedAt": "2026-08-24T07:30:58.773Z",
   "articles": [
+    {
+      "id": "edd0cc80c133bcbf",
+      "title": "【ライブレポート】乃木坂46、新体制で巡った＜真夏の全国ツアー2026＞聖地・明治神宮野球場で完走",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1085115",
+      "publishedAt": "2026-08-24T06:55:49.000Z",
+      "summary": "乃木坂46の全国ツアー＜真夏の全国ツアー2026＞最終公演が、8月23日に東京・明治神宮野球場で行われた。オフィシャルからのレポートをお届けする。 ◆ライブ写真 菅原咲月を新キャプテンに迎えた新体制で臨んだ今回のツアーは、6月13日の福井・サンドーム福井を皮切りに、全国8都市で計18公演を実施。東京公演は2014年の初開催から今回で11回目（2020年、20",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "筒井あやめ",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "林瑠奈",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "中西アルノ",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "大越ひなの",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "瀬戸口心月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "長嶋凛桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "増田三莉音",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "森平麗心",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "矢田萌華",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "72d6a74695749f46",
       "title": "乃木坂46『真夏の全国ツアー2026』最終公演4日目！一ノ瀬美空「また来年もここで」【公式レポート】",
@@ -47,28 +169,6 @@
           "name": "山口陽世",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "76d8811d310473ea",
-      "title": "「この子たちがアイドルじゃなかったとしても…」元日向坂46松田好花、三期生LIVEに感慨…後輩たちの“魅力”を再認識「素敵な子たちに出会えた」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260823-4852378/",
-      "publishedAt": "2026-08-23T12:00:00.000Z",
-      "summary": "「この子たちがアイドルじゃなかったとしても……」元日向坂46でタレントの松田好花が、「日向坂46 三期生LIVE」を振り返った――。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
