@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-25T07:10:36.200Z",
+  "updatedAt": "2026-08-25T13:14:03.242Z",
   "articles": [
     {
-      "id": "c7a406802c56bcbd",
-      "title": "中田花奈、30代は麻雀に全力「今が一番強くなるチャンス」 目標は「何年も活躍できる選手」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1054529/",
-      "publishedAt": "2026-08-25T06:32:26.000Z",
-      "summary": "元乃木坂46でタレント、プロ雀士として活動する中田花奈が25日、都内で行われた3rd写真集『Bougainvillea（ブーゲンビリア）』（講談社刊）の発売記念会見に登壇。30代で力を注ぎたいことや、グラビアへの思いを明 […]",
+      "id": "4ceac84b6340c35f",
+      "title": "Ado、スピッツ、星野源、福山雅治、木村拓哉…「COUNTDOWN JAPAN 音楽チャート」今週のTOP10（8月22日（土）付）",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260825-4867332/",
+      "publishedAt": "2026-08-25T10:00:00.000Z",
+      "summary": "グランジ・遠山大輔と潮紗理菜がパーソナリティをつとめるTOKYO FMのラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜13:00～13:53）。8月22日（土）の放送では、JFN各局のオンエア回数、CDセールス、Spotify、Apple MusicのWeeklyチャートポイント、リスナーからのリクエストを集計した“全国NO.1 FMヒット",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "中田花奈",
-          "group": "乃木坂46",
+          "name": "潮紗理菜",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "02e595bbe556a49a",
-      "title": "中田花奈「『これ大丈夫なの？』ってカットも…」 3rd写真集手渡した芸人の実名＆反応も報告",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1054267/",
-      "publishedAt": "2026-08-25T05:41:30.000Z",
-      "summary": "元乃木坂46でタレント、プロ雀士として活動する中田花奈が25日、都内で行われた3rd写真集『Bougainvillea（ブーゲンビリア）』（講談社刊）の発売記念会見に登場。アルコ＆ピース・酒井健太に同書を手渡した際の反応 […]",
+      "id": "4558a2b747ba7fa0",
+      "title": "齋藤飛鳥は言った「太田さんは、本気でこの作品と向き合う覚悟、ありますか?」 初対面をプロデューサーが回顧「まっすぐな瞳でそう問われ、思わず息が止まりました」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260825-4866772/",
+      "publishedAt": "2026-08-25T08:45:30.000Z",
+      "summary": "テレ東のドラマ『まめとむぎ』(毎週金曜24:12～)が10月2日にスタートする。",
       "groups": [
         "乃木坂46"
       ],
@@ -39,7 +39,7 @@
       ],
       "memberMatches": [
         {
-          "name": "中田花奈",
+          "name": "齋藤飛鳥",
           "group": "乃木坂46",
           "status": "og"
         }
