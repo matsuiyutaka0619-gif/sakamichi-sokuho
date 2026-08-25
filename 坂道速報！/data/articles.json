@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-25T01:54:30.603Z",
+  "updatedAt": "2026-08-25T07:10:36.200Z",
   "articles": [
     {
-      "id": "e5ba47b56a273966",
-      "title": "美絽×B＆ZAI 稲葉通陽『17歳のプルーフ』ティザービジュアル＆特報公開 深川麻衣も出演へ",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2500109.html",
-      "publishedAt": "2026-08-24T23:00:15.000Z",
-      "summary": "美絽とB&ZAIの稲葉通陽がW主演を務める映画『17歳のプルーフ』の公開日が2027年2月19日に決定し、あわせてティザービジュアルと特報映像が公開された。 本作は、美しい入り江に面した高校を舞台に、古い小説",
+      "id": "c7a406802c56bcbd",
+      "title": "中田花奈、30代は麻雀に全力「今が一番強くなるチャンス」 目標は「何年も活躍できる選手」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1054529/",
+      "publishedAt": "2026-08-25T06:32:26.000Z",
+      "summary": "元乃木坂46でタレント、プロ雀士として活動する中田花奈が25日、都内で行われた3rd写真集『Bougainvillea（ブーゲンビリア）』（講談社刊）の発売記念会見に登壇。30代で力を注ぎたいことや、グラビアへの思いを明 […]",
       "groups": [
         "乃木坂46"
       ],
@@ -17,7 +17,29 @@
       ],
       "memberMatches": [
         {
-          "name": "深川麻衣",
+          "name": "中田花奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "02e595bbe556a49a",
+      "title": "中田花奈「『これ大丈夫なの？』ってカットも…」 3rd写真集手渡した芸人の実名＆反応も報告",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1054267/",
+      "publishedAt": "2026-08-25T05:41:30.000Z",
+      "summary": "元乃木坂46でタレント、プロ雀士として活動する中田花奈が25日、都内で行われた3rd写真集『Bougainvillea（ブーゲンビリア）』（講談社刊）の発売記念会見に登場。アルコ＆ピース・酒井健太に同書を手渡した際の反応 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "中田花奈",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -40,50 +62,6 @@
       "memberMatches": [
         {
           "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5a286ebf32f8be56",
-      "title": "齋藤飛鳥と富田望生がW主演に 谷口菜津子の人気漫画『まめとむぎ』実写ドラマ化決定",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2501021.html",
-      "publishedAt": "2026-08-24T22:00:33.000Z",
-      "summary": "齋藤飛鳥と富田望生がW主演を務める連続ドラマ『まめとむぎ』が、10月2日よりテレビ東京で放送されることが決定した。 本作は、『今夜すきやきだよ』『じゃあ、あんたが作ってみろよ』などで知られる漫画家・谷口菜津子の同名漫",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "55620bac62f4e588",
-      "title": "生田絵梨花、『風、薫る』再登場で“芯の強さ”を示す 多江役に感じる俳優としての現在地",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2500471.html",
-      "publishedAt": "2026-08-24T20:30:26.000Z",
-      "summary": "連続テレビ小説『風、薫る』で多江を演じる生田絵梨花は、強さと脆さを併せ持つ繊細な芝居で人物の成長を描き出し、その高い表現力を示している。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
           "group": "乃木坂46",
           "status": "og"
         }
