@@ -1,11 +1,83 @@
 {
-  "updatedAt": "2026-08-25T18:59:39.457Z",
+  "updatedAt": "2026-08-26T02:00:37.951Z",
   "articles": [
+    {
+      "id": "4f4a6382ca01e050",
+      "title": "元乃木坂46北野日奈子、16歳上夫とプロ野球観戦「旦那さんが隣でよく喋ってくれるので…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608260000231.html",
+      "publishedAt": "2026-08-26T01:46:02.000Z",
+      "summary": "元乃木坂46で女優、タレントとして活躍する北野日奈子（30）が26日までにインスタグラムを更新。昨年12月に結婚発表した夫で音楽ユニット「キマグレン」のメンバー、クレイ勇輝（46）と野球観戦したツーショットを公開した。 「先日、中日ドラ…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "北野日奈子",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "7408e0a259020817",
+      "title": "長濱ねる、布面積少ない姿で自転車またがりショット 「大ボリューム」「反則級すぎる」とファンくぎ付け",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1054850/",
+      "publishedAt": "2026-08-26T01:31:17.000Z",
+      "summary": "俳優・長濱ねるのスタッフが運営する公式Xが25日に更新され、2027年卓上カレンダーを発売することを報告した。12月11日に2027年卓上カレンダーを発売 俳優・長濱ねるのスタッフが運営する公式Xが25日に更新され、2 […]",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "77fd57b913d05a30",
+      "title": "与田祐希が野村周平に翻弄される役に 『溺愛カレシの作り方』10月7日よりテレ東で放送",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2501695.html",
+      "publishedAt": "2026-08-25T21:00:44.000Z",
+      "summary": "与田祐希が主演を務め、野村周平が共演する連続ドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』が、10月7日よりテレ東のドラマNEXT枠で放送されることが決定した。 本作は、第50回放送文化基金賞ドラマ部門",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "4ceac84b6340c35f",
       "title": "Ado、スピッツ、星野源、福山雅治、木村拓哉…「COUNTDOWN JAPAN 音楽チャート」今週のTOP10（8月22日（土）付）",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260825-4867332/",
       "publishedAt": "2026-08-25T10:00:00.000Z",
       "summary": "グランジ・遠山大輔と潮紗理菜がパーソナリティをつとめるTOKYO FMのラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜13:00～13:53）。8月22日（土）の放送では、JFN各局のオンエア回数、CDセールス、Spotify、Apple MusicのWeeklyチャートポイント、リスナーからのリクエストを集計した“全国NO.1 FMヒット",
@@ -86,55 +158,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "72d6a74695749f46",
-      "title": "乃木坂46『真夏の全国ツアー2026』最終公演4日目！一ノ瀬美空「また来年もここで」【公式レポート】",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203809",
-      "publishedAt": "2026-08-23T15:16:48.000Z",
-      "summary": "アイドルグループ『乃木坂46』が8月23日に東京・明治神宮野球場で全国ツアー『真夏の全国ツアー2026』最終公演4日目公演を開催した。 『乃木坂46』の恒例行事となっている夏の全国ツアーが今年も開催。菅原咲月を新キャ...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅原咲月",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "04f1b344364655bd",
-      "title": "日向坂46三期生LIVE！山口陽世の卒業セレモニーで「6年半、とても私は幸せでした」",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/203768",
-      "publishedAt": "2026-08-23T14:50:47.000Z",
-      "summary": "アイドルグループ『日向坂46』の三期生LIVEファイナル公演と山口陽世の卒業セレモニーが8月23日に東京・Zepp Hanedaで開催された。 山口は、2018年に「坂道合同新規メンバー募集オーディション」に合格した...",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山口陽世",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
