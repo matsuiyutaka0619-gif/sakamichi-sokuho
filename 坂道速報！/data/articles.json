@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-26T13:18:56.434Z",
+  "updatedAt": "2026-08-26T20:05:24.542Z",
   "articles": [
+    {
+      "id": "e2918a66aeea184d",
+      "title": "乃木坂46加入から8年…賀喜遥香「アイドルとしてもちょっとずつ余裕が…」25歳を迎えて語った感謝と新たな決意",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260826-4872832/",
+      "publishedAt": "2026-08-26T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月20日（木）の放送では、遥香先生の25歳の誕生日でもあった8月8日に開催された「真夏の全国ツアー2026」福岡公演の振り返りをおこないました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "13e0a9cfdc69b235",
       "title": "染谷美咲、実は乃木坂46メンバーと従姉妹だった ネット仰天「確かに似てる」「スゴすぎる」",
