@@ -1,6 +1,113 @@
 {
-  "updatedAt": "2026-08-26T07:10:51.180Z",
+  "updatedAt": "2026-08-26T13:18:56.434Z",
   "articles": [
+    {
+      "id": "13e0a9cfdc69b235",
+      "title": "染谷美咲、実は乃木坂46メンバーと従姉妹だった ネット仰天「確かに似てる」「スゴすぎる」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1054905/",
+      "publishedAt": "2026-08-26T12:50:00.000Z",
+      "summary": "モデルの染谷美咲（17）が26日までに、アイドルグループ・乃木坂46の現役メンバーが従姉妹だと明かし、驚きの声が上がっている。「従姉妹のライブに行ってきました！」 モデルの染谷美咲（17）が26日までに、アイドルグルー […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "a44f5b769994d5fd",
+      "title": "乃木坂46、新センター・一ノ瀬美空＆新キャプテン・菅原咲月と駆け抜けた夏！全国8都市18公演のツアーを聖地・神宮で完走",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/663748.html",
+      "publishedAt": "2026-08-26T11:00:30.000Z",
+      "summary": "毎年夏の恒例行事となった乃木坂46の全国ツアー「真夏の全国ツアー2026」最終公演が、8月23日に東京・明治神宮野球場で行われた。菅原咲月を新キャプテンに迎えた新体制で臨んだ今回のツアーは、6月13日の福井・サンドーム福井を皮切りに、全国8都市で計18公演を実施。東京公 ... The post 乃木坂46、新センター・一ノ瀬美空＆新キャプテン・菅原咲月と駆",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "91682fbd48fb801a",
+      "title": "日向坂46三期生、念願の単独ライブ完走！山口陽世が卒業セレモニー「6年半、とても私は幸せでした」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/663739.html",
+      "publishedAt": "2026-08-26T09:30:43.000Z",
+      "summary": "8月23日、Zepp Haneda(TOKYO)で、日向坂46の三期生LIVEファイナル公演と、山口陽世の卒業セレモニーが行われた。山口は、2018年に「坂道合同新規メンバー募集オーディション」に合格した後、2020年に日向坂46に加入。メンバーたちを頻繁に家に招いてい ... The post 日向坂46三期生、念願の単独ライブ完走！山口陽世が卒業セレモニ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山口陽世",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "22e3499f5c9b1f97",
+      "title": "河田陽菜が日向坂46卒業後ドラマ初主演 『セイカイガワカラナイ』9月11日放送決定",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2502936.html",
+      "publishedAt": "2026-08-26T09:00:53.000Z",
+      "summary": "河田陽菜が日向坂46卒業後ドラマ初主演を務める『ショードラpresents セイカイガワカラナイ』が、9月11日24時24分よりABCテレビ（関西ローカル）で放送されることが決定した。 本作は、「マイナビ ショードラ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "河田陽菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "40ac17370513dbf3",
+      "title": "カラスがゴミ袋を食い破り生活まで丸見えに…男性ブランコ＆高本彩花「突破不動産」が対策に挑む",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260826-4871644/",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "summary": "「目玉模様の風船や反射テープも、すぐに危険がないと見抜いてしまう」――27日に放送される日本テレビ系バラエティ番組『THE突破ファイル』2時間SP(19:00～)では、毎日のように集合住宅のゴミ置き場を荒らすカラスへの対策に、男性ブランコ演じる「突破不動産」の社員と高本彩花が挑む。住民がこれまで通り手軽にゴミを出せて、収集作業の妨げにもならない“意外な突破法",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "高本彩花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "782081ff3037196d",
       "title": "白石麻衣「忘れられない時間になりました♡」 せいや＆梅澤美波とバースデーイベント",
@@ -25,48 +132,6 @@
           "name": "白石麻衣",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "89fca8762d0dab0d",
-      "title": "日向坂46 五期生は“大野愛実だけ”ではない 『イチャイチャ虫』選抜、松尾桜・片山紗希・佐藤優羽らが示す層の厚さ",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2501209.html",
-      "publishedAt": "2026-08-26T03:10:16.000Z",
-      "summary": "日向坂46の18thシングル表題曲「イチャイチャ虫」のフォーメーションが発表された。正源司陽子が6作ぶりにセンターを務めるなか、目を引くのが五期生の躍進だ。今回選抜入りしたのは、大野愛実、松尾桜、片山紗希、そして初選抜の佐藤優羽の4人。本稿では、五期生の成長と魅力を紐解いていきたい。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "大野愛実",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "片山紗希",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "佐藤優羽",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
