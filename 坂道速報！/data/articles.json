@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-26T02:00:37.951Z",
+  "updatedAt": "2026-08-26T07:10:51.180Z",
   "articles": [
     {
-      "id": "4f4a6382ca01e050",
-      "title": "元乃木坂46北野日奈子、16歳上夫とプロ野球観戦「旦那さんが隣でよく喋ってくれるので…」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608260000231.html",
-      "publishedAt": "2026-08-26T01:46:02.000Z",
-      "summary": "元乃木坂46で女優、タレントとして活躍する北野日奈子（30）が26日までにインスタグラムを更新。昨年12月に結婚発表した夫で音楽ユニット「キマグレン」のメンバー、クレイ勇輝（46）と野球観戦したツーショットを公開した。 「先日、中日ドラ…",
+      "id": "782081ff3037196d",
+      "title": "白石麻衣「忘れられない時間になりました♡」 せいや＆梅澤美波とバースデーイベント",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2502823.html",
+      "publishedAt": "2026-08-26T06:40:28.000Z",
+      "summary": "俳優の白石麻衣が自身のInstagramを更新し、バースデーイベントの様子を公開した。 投稿された写真では、霜降り明星のせいやとケーキの前でそろってピースサインを見せる2ショットで、白石はピンクのトップスにグレーのス",
       "groups": [
         "乃木坂46"
       ],
@@ -17,59 +17,56 @@
       ],
       "memberMatches": [
         {
-          "name": "北野日奈子",
+          "name": "梅澤美波",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "7408e0a259020817",
-      "title": "長濱ねる、布面積少ない姿で自転車またがりショット 「大ボリューム」「反則級すぎる」とファンくぎ付け",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1054850/",
-      "publishedAt": "2026-08-26T01:31:17.000Z",
-      "summary": "俳優・長濱ねるのスタッフが運営する公式Xが25日に更新され、2027年卓上カレンダーを発売することを報告した。12月11日に2027年卓上カレンダーを発売 俳優・長濱ねるのスタッフが運営する公式Xが25日に更新され、2 […]",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
           "status": "og"
         },
         {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
+          "name": "白石麻衣",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "77fd57b913d05a30",
-      "title": "与田祐希が野村周平に翻弄される役に 『溺愛カレシの作り方』10月7日よりテレ東で放送",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2501695.html",
-      "publishedAt": "2026-08-25T21:00:44.000Z",
-      "summary": "与田祐希が主演を務め、野村周平が共演する連続ドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』が、10月7日よりテレ東のドラマNEXT枠で放送されることが決定した。 本作は、第50回放送文化基金賞ドラマ部門",
+      "id": "89fca8762d0dab0d",
+      "title": "日向坂46 五期生は“大野愛実だけ”ではない 『イチャイチャ虫』選抜、松尾桜・片山紗希・佐藤優羽らが示す層の厚さ",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2501209.html",
+      "publishedAt": "2026-08-26T03:10:16.000Z",
+      "summary": "日向坂46の18thシングル表題曲「イチャイチャ虫」のフォーメーションが発表された。正源司陽子が6作ぶりにセンターを務めるなか、目を引くのが五期生の躍進だ。今回選抜入りしたのは、大野愛実、松尾桜、片山紗希、そして初選抜の佐藤優羽の4人。本稿では、五期生の成長と魅力を紐解いていきたい。",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "片山紗希",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐藤優羽",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
         }
       ]
     },
@@ -98,8 +95,8 @@
     {
       "id": "4558a2b747ba7fa0",
       "title": "齋藤飛鳥は言った「太田さんは、本気でこの作品と向き合う覚悟、ありますか?」 初対面をプロデューサーが回顧「まっすぐな瞳でそう問われ、思わず息が止まりました」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260825-4866772/",
       "publishedAt": "2026-08-25T08:45:30.000Z",
       "summary": "テレ東のドラマ『まめとむぎ』(毎週金曜24:12～)が10月2日にスタートする。",
@@ -931,28 +928,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "e08568f69ef0dcaa",
-      "title": "乃木坂46が最新シングル「是非に及ばず」を6月13日先行配信、“全ツ”初日に勢いをつける",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87684/",
-      "publishedAt": "2026-06-11T10:00:00.000Z",
-      "summary": "乃木坂46が、7月22日(水)に発売する42ndシングル表題曲「是非に及ばず」を6月13日(土)に先行配信することが決定した。 恒例となる夏の全国ツアー「真夏の全国ツアー2026」を今週末よりスタートさせる乃木坂46。最新シングル「是非に及ばず」では5期生・一ノ瀬美空が初めて表題曲センターを務めることが先日発表され、合わせて公開された新アーティスト写真も夏を",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
