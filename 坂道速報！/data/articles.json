@@ -1,6 +1,82 @@
 {
-  "updatedAt": "2026-08-27T09:55:21.102Z",
+  "updatedAt": "2026-08-27T22:18:31.963Z",
   "articles": [
+    {
+      "id": "6ea3099725e54e56",
+      "title": "生田絵梨花、全国ツアー開幕でドラムに初挑戦！新曲「にゃんとかにゃるる」ライブ初披露＆初の撮影可能タイムも",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/664086.html",
+      "publishedAt": "2026-08-27T21:00:23.000Z",
+      "summary": "生田絵梨花が8月26日、東京・LINE CUBE SHIBUYAで全国ツアー「Erika Ikuta Tour 2026『I.K.T』～I Know Tomorrow～」の初日公演を開催した。今年4月22日にリリースした自身初のフルアルバム「I.K.T（I Know T ... The post 生田絵梨花、全国ツアー開幕でドラムに初挑戦！新曲「にゃんとかに",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "58673d4c76d15efd",
+      "title": "乃木坂46賀喜遥香「離れたところにいた蓮加さんがどんどん近くに…」先輩メンバーの卒業で気付いた“寂しい変化”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260827-4877741/",
+      "publishedAt": "2026-08-27T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月20日（木）の放送では、8月9日におこなわれた「真夏の全国ツアー2026」福岡公演2日目をもって、乃木坂46を卒業した3期生・吉田綾乃クリスティーさんについて語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "吉田綾乃クリスティー",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "96986f0273904626",
+      "title": "乃木坂46賀喜遥香「お家にも呼ぶ！」井上和からの誕生日プレゼントに隠された“おねだり”に感激",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260827-4877609/",
+      "publishedAt": "2026-08-27T12:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月20日（木）の放送では、遥香先生が25歳の誕生日を迎えた8月8日当日の模様を振り返りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "9d71c7df9bb8396f",
       "title": "櫻坂46の「さ」スペシャルウィークは向井純葉、小田倉麗奈、的野美青に！ポエミィグランプリ開催へ",
@@ -30,34 +106,6 @@
           "name": "向井純葉",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cff48ab7b36ccd3d",
-      "title": "長濱ねる、ほっそり美脚＆肩出しオフショット投稿 ヘルシーな夏の装いの私服姿にも反響",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/08/post-2504301.html",
-      "publishedAt": "2026-08-27T08:32:02.000Z",
-      "summary": "長濱ねるの2027年卓上カレンダー『長濱ねるメモリアルカレンダー（仮）』（株式会社主婦と生活社）が12月11日に発売。長濱が撮影時のオフショットを自身のInstagramに投稿している。",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
         }
       ]
     },
@@ -309,28 +357,6 @@
       ]
     },
     {
-      "id": "507bef684cfcef72",
-      "title": "山崎怜奈「ダレハナ」にKO1KEYZ・DAIKI＆RYUJI、永野、TAKARAら登場！4日間に豪華ゲスト",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/radio/663475.html",
-      "publishedAt": "2026-08-24T11:00:20.000Z",
-      "summary": "山崎怜奈がパーソナリティを務めるTOKYO FM「山崎怜奈の誰かに話したかったこと。」の8月24日から27日の放送に、ラパルフェ、KO1KEYZのDAIKIとRYUJI、永野、TAKARAがゲスト出演する。8月24日は、阿部寛などのモノマネで知られるお笑いコンビ・ラパル ... The post 山崎怜奈「ダレハナ」にKO1KEYZ・DAIKI＆RYUJI、",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "aa753775f0e14127",
       "title": "「フルアルバムを出したら違うバンドになっちゃう」おいしくるメロンパンが“ミニアルバム”にこだわる理由とは？",
       "sourceName": "マイナビニュース 芸能",
@@ -500,28 +526,6 @@
       ]
     },
     {
-      "id": "d9fc2de7e4ce549f",
-      "title": "乃木坂46賀喜遥香 ラジオの生放送にサプライズ登場！パーソナリティも大慌て！アンジー校長「声が枯れたんだけど（笑）」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260819-4839422/",
-      "publishedAt": "2026-08-19T09:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月13日（木）の放送では、遥香先生が、アンジー校長（アンジェリーナ1/3・Gacharic Spin）、たんぼ教頭（溝上たんぼ）に内緒で生放送教室に登場！ その模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "196757f79d9efad2",
       "title": "乃木坂46、来週リリース「久保史緒里 卒業コンサート」Blu-ray＆DVDの商品画像公開",
       "sourceName": "Bezzy",
@@ -539,40 +543,6 @@
         {
           "name": "久保史緒里",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "39d308b4625ac934",
-      "title": "“1年限定”新坂道グループ・青葉坂46、メンバー募集のオーディション開始 乃木坂46井上和・櫻坂46森田ひかる・日向坂46小坂菜緒からの熱いメッセージ「未来に悩む私たち世代にとって…」「皆さんと一緒に活動できる日を楽しみに」「ぜひ勇気を振り絞って一歩を」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260818-4835229/",
-      "publishedAt": "2026-08-18T12:15:00.000Z",
-      "summary": "ソニー・ミュージックレーベルズは、新たな坂道グループ・青葉坂46を設立し、18日よりメンバー募集のオーディションを開催する。",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "小坂菜緒",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
