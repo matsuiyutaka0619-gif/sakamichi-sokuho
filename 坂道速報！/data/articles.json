@@ -1,11 +1,159 @@
 {
-  "updatedAt": "2026-08-26T20:05:24.542Z",
+  "updatedAt": "2026-08-27T09:55:21.102Z",
   "articles": [
+    {
+      "id": "9d71c7df9bb8396f",
+      "title": "櫻坂46の「さ」スペシャルウィークは向井純葉、小田倉麗奈、的野美青に！ポエミィグランプリ開催へ",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204077",
+      "publishedAt": "2026-08-27T09:00:03.000Z",
+      "summary": "アイドルグループ『櫻坂46』の冠ラジオ番組『櫻坂46の「さ」』（文化放送、日曜・午後7時～）。スペシャルウィーク期間中の8月30日の放送はメンバーの向井純葉、小田倉麗奈、的野美青が出演することが発表となった。 番組で...",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "的野美青",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "向井純葉",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cff48ab7b36ccd3d",
+      "title": "長濱ねる、ほっそり美脚＆肩出しオフショット投稿 ヘルシーな夏の装いの私服姿にも反響",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2504301.html",
+      "publishedAt": "2026-08-27T08:32:02.000Z",
+      "summary": "長濱ねるの2027年卓上カレンダー『長濱ねるメモリアルカレンダー（仮）』（株式会社主婦と生活社）が12月11日に発売。長濱が撮影時のオフショットを自身のInstagramに投稿している。",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8e1ff31ce0271e1a",
+      "title": "『豊臣兄弟！』母・市と同じ道を歩もうとする茶々 “信長兄妹”の会話が再現され話題に",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/08/27/20163578332/",
+      "publishedAt": "2026-08-27T08:30:00.000Z",
+      "summary": "23日放送の大河ドラマ『豊臣兄弟！』（NHK）で、織田信長（小栗旬）の妹・市（宮﨑あおい）と娘・茶々（井上和）のやりとりが、大きな反響を呼んでいる。 ■32回あらすじ ※ネタバレあり 本作は、天下人・豊臣秀吉／羽柴筑前守…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "564daffb48c100ee",
+      "title": "佐々木美玲、自身の“カリスマ的存在”を明かす レインボー・ジャンボも納得「いい話」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/08/27/20163578292/",
+      "publishedAt": "2026-08-27T08:00:00.000Z",
+      "summary": "26日深夜放送『ジャンボ＆みーぱんの “おしえて！推しコサン”～新規も古参もいらっしゃ～い～』（テレビ朝日系）で、アイドルグループ・日向坂46の元メンバー・佐々木美玲が“自身のカリスマ”について語り、共演したお笑い芸人・…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐々木美玲",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "cb874f44dec68d93",
+      "title": "帝コン小倉・北九州メッセ公演詳細発表！堂本光一＆島田歌穂『レ・ミゼラブル』の『恵みの雨』も",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204038",
+      "publishedAt": "2026-08-27T03:00:37.000Z",
+      "summary": "俳優・堂本光一、井上芳雄、島田歌穂、平原綾香、ソニン、佐藤隆紀、桜井玲香、岡宮来夢らとともに8月7日からめぐっているアリーナツアー『New HISTORY COMING ARENA LIVE -The Imperial...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "桜井玲香",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8e2d43bb3cc20590",
+      "title": "佐々木美玲プロデュース「Mireille」第2弾、東京追加開催決定！限定グッズ＆トークショー、お渡し会も実施",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/663793.html",
+      "publishedAt": "2026-08-26T22:00:41.000Z",
+      "summary": "俳優・佐々木美玲がプロデュースするオリジナルブランド「Mireille」第2弾の発売を記念し、9月18日から27日まで東京・HMV＆BOOKS SHIBUYAでポップアップストアおよびパネル展が開催される。第2弾ではリラックスをテーマに、ファブリックミスト「Soft L ... The post 佐々木美玲プロデュース「Mireille」第2弾、東京追加開催",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐々木美玲",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "e2918a66aeea184d",
       "title": "乃木坂46加入から8年…賀喜遥香「アイドルとしてもちょっとずつ余裕が…」25歳を迎えて語った感謝と新たな決意",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260826-4872832/",
       "publishedAt": "2026-08-26T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月20日（木）の放送では、遥香先生の25歳の誕生日でもあった8月8日に開催された「真夏の全国ツアー2026」福岡公演の振り返りをおこないました。",
@@ -22,20 +170,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "13e0a9cfdc69b235",
-      "title": "染谷美咲、実は乃木坂46メンバーと従姉妹だった ネット仰天「確かに似てる」「スゴすぎる」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1054905/",
-      "publishedAt": "2026-08-26T12:50:00.000Z",
-      "summary": "モデルの染谷美咲（17）が26日までに、アイドルグループ・乃木坂46の現役メンバーが従姉妹だと明かし、驚きの声が上がっている。「従姉妹のライブに行ってきました！」 モデルの染谷美咲（17）が26日までに、アイドルグルー […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "a44f5b769994d5fd",
@@ -87,32 +221,10 @@
       ]
     },
     {
-      "id": "22e3499f5c9b1f97",
-      "title": "河田陽菜が日向坂46卒業後ドラマ初主演 『セイカイガワカラナイ』9月11日放送決定",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2502936.html",
-      "publishedAt": "2026-08-26T09:00:53.000Z",
-      "summary": "河田陽菜が日向坂46卒業後ドラマ初主演を務める『ショードラpresents セイカイガワカラナイ』が、9月11日24時24分よりABCテレビ（関西ローカル）で放送されることが決定した。 本作は、「マイナビ ショードラ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "河田陽菜",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "40ac17370513dbf3",
       "title": "カラスがゴミ袋を食い破り生活まで丸見えに…男性ブランコ＆高本彩花「突破不動産」が対策に挑む",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260826-4871644/",
       "publishedAt": "2026-08-26T09:00:00.000Z",
       "summary": "「目玉模様の風船や反射テープも、すぐに危険がないと見抜いてしまう」――27日に放送される日本テレビ系バラエティ番組『THE突破ファイル』2時間SP(19:00～)では、毎日のように集合住宅のゴミ置き場を荒らすカラスへの対策に、男性ブランコ演じる「突破不動産」の社員と高本彩花が挑む。住民がこれまで通り手軽にゴミを出せて、収集作業の妨げにもならない“意外な突破法",
@@ -126,33 +238,6 @@
         {
           "name": "高本彩花",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "782081ff3037196d",
-      "title": "白石麻衣「忘れられない時間になりました♡」 せいや＆梅澤美波とバースデーイベント",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2502823.html",
-      "publishedAt": "2026-08-26T06:40:28.000Z",
-      "summary": "俳優の白石麻衣が自身のInstagramを更新し、バースデーイベントの様子を公開した。 投稿された写真では、霜降り明星のせいやとケーキの前でそろってピースサインを見せる2ショットで、白石はピンクのトップスにグレーのス",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -1001,20 +1086,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "c4b12d073931acd1",
-      "title": "日向坂46“7回目のひな誕祭”が8月商品化、ラストに「Kind of love」を初披露したDAY2完全収録",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87734/",
-      "publishedAt": "2026-06-13T12:40:00.000Z",
-      "summary": "日向坂46が、今年4月4日(土)・5日(日)に横浜スタジアムで開催したグループ結成7周年ライブ「7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜」の映像作品を8月5日(水)にリリースすることを発表した。 グループ公式Instagramでのインスタライブにて発表された「7回目のひな誕祭」の映像化。“ひな誕祭”として初めてサブ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
