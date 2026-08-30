@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-30T11:58:38.731Z",
+  "updatedAt": "2026-08-30T16:44:35.714Z",
   "articles": [
+    {
+      "id": "35663189ec0d5097",
+      "title": "櫻坂46 香川で全国ツアー『Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-』完走！公式レポ公開",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204318",
+      "publishedAt": "2026-08-30T15:00:08.000Z",
+      "summary": "アイドルグループ『櫻坂46』が8月30日に香川・あなぶきアリーナ香川で全国ツアー『Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-』を完走した。 『櫻坂46』...",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "03c30358052eb5ee",
+      "title": "“阿部寛モノマネ芸人”ラパルフェ都留 ドラマ「VIVANT」のネタバレ投稿で先輩からお叱り!?「リアタイ勢なだけなんだけど（笑）」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260830-4891857/",
+      "publishedAt": "2026-08-30T11:00:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月24日（月）の放送は、日曜劇場「VIVANT」（TBS系）で堺雅人さん演じる乃木憂助と、阿部寛さん演じる野崎守のモノマネでも注目を集めるお笑いコンビ・ラパルフェ（都留拓也さん、尾身智志さん）が登",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "d8e5d236c5bca463",
       "title": "日向坂46、18thシングル「イチャイチャ虫」MV公開＆先行配信日を発表",
