@@ -1,6 +1,257 @@
 {
-  "updatedAt": "2026-08-30T21:11:00.600Z",
+  "updatedAt": "2026-08-31T05:42:27.703Z",
   "articles": [
+    {
+      "id": "fd8c5c4f142ca0a4",
+      "title": "乃木坂46奥田いろは「梅澤美波さんから…」もらった花の思い出「花言葉がおしとやかさと熱血」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608310000592.html",
+      "publishedAt": "2026-08-31T05:29:44.000Z",
+      "summary": "乃木坂46奥田いろは（21）が31日、都内で、ミュージカル「秘密の花園」制作発表会見に登壇した。 同作はフランシス・ホジソン・バーネットの名作小説が原作で、1950年代の孤児院を舞台に、子どもたちが「秘密の花園」の物語を演じながら、自分…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "86156a78c7996ef5",
+      "title": "乃木坂46・奥田いろは、役との共通点は「好奇心旺盛」 日本初上演ミュージカルに「とても楽しみ」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1057572/",
+      "publishedAt": "2026-08-31T05:25:15.000Z",
+      "summary": "乃木坂46の奥田いろはが31日、都内で行われた、10月より上演されるミュージカル『秘密の花園』の記者会見に、NORD・島太星、彩みちる、雷太、磯野大とともに出席した。トークセッションのほか、作曲家のブランドン・リー氏によ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d0fa37cb279b191c",
+      "title": "僕が見たかった青空、デビュー3周年記念ライブにて9thシングルのリリース発表",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1086152",
+      "publishedAt": "2026-08-31T04:48:12.000Z",
+      "summary": "僕が見たかった青空が、2026年8月30日に東京・豊洲PITでワンマンライブ＜アオゾラサマーフェスティバル2026＞を開催した。 デビュー3周年を祝うスペシャルな公演となったこの日は、一夜限りの特別なユニットシャッフルや初披露となるカバー曲を含む全19曲をパフォーマンスしたという。 ライブは、リーダー・塩釜菜那による和太鼓ソロパフォーマンスにて始まり、「和」",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "bbb88e1ca47c94b3",
+      "title": "【ライブレポート】櫻坂46、Buddiesとの絆を確かめ合った夏の全国ツアー完遂。「Buddiesと一緒に過ごせる人生で本当によかったです！」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1086110",
+      "publishedAt": "2026-08-31T04:38:30.000Z",
+      "summary": "櫻坂46が、全国ツアー＜Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-＞のファイナル公演を、2026年8月30日にあなぶきアリーナ香川にて開催した。 櫻坂46にとって1年ぶりのツアーとなる今回は、7月23日の静岡・エコパアリーナを皮切りに全6都市12公演を実施。ツアーの終着地となる香川でのライブは櫻坂46にとっ",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "石森璃花",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "遠藤理子",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "田村保乃",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤吉夏鈴",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "的野美青",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "向井純葉",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "村井優",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "守屋麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下瞳月",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "浅井恋乃未",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "勝又春",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐藤愛桜",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "中川智尋",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9a765f5ab7f778ee",
+      "title": "山下美月、黒のチューブトップでバースデーショット 「なかなか挑戦的」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2507744.html",
+      "publishedAt": "2026-08-31T03:40:06.000Z",
+      "summary": "俳優の山下美月が8月29日、自身のInstagramを更新し、同日開催されたバースデーイベント「MIZUKI YAMASHITA BIRTHDAY EVENT 2026」の様子を公開した。 投稿された写真は全6枚。黒",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "51568850dbcb6402",
+      "title": "のん×藤ヶ谷太輔『幸せカナコの殺し屋生活２』予告解禁、前シーズンを約3分で振り返る特別映像も",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/91355/",
+      "publishedAt": "2026-08-31T03:00:00.000Z",
+      "summary": "9月17日(木)より配信されるDMM TVオリジナルドラマ『幸せカナコの殺し屋生活２』の最新予告映像が解禁され、齋藤飛鳥が声の出演でシリーズ続投することが発表された。 本作は、ブラック企業で働いていた元社畜社員・西野カナコが転職先で殺し屋の才能を開花させ、伝説の殺し屋“K”として名を轟かせていく姿を描く“エナジードリンク系”アクションコメディ。原作は累計発行",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "c64333f8d3afe005",
+      "title": "林瑠奈が語るカルチャー愛と乃木坂46へ還元する強み 「間口を広げられるような存在に」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/08/post-2506949.html",
+      "publishedAt": "2026-08-30T22:30:22.000Z",
+      "summary": "池井戸潤のベストセラー小説『民王』が、初のミュージカル作品として上演される。本作で念願のミュージカル初挑戦を果たす乃木坂46の林瑠奈。作品への手応え、大学で映画を学んだ経験からくる独特の演技論、そして4期生として現在の乃木坂46を支える覚悟を語ってくれた。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "林瑠奈",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4bd16e2d42035919",
+      "title": "櫻坂46の夏完遂。全国ツアーで魅せたグループの絆、16thシングル「愛 MUST BE」リリースも発表",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/664545.html",
+      "publishedAt": "2026-08-30T22:00:25.000Z",
+      "summary": "櫻坂46の全国ツアー「Sakurazaka46 ARENA TOUR 2026 -What's lonesome?-」が8月30日、香川・あなぶきアリーナ香川にて閉幕した。櫻坂46にとって1年ぶりのツアーとなる今回は、7月23日の静岡・エコパアリーナを皮切りに全6都市1 ... The post 櫻坂46の夏完遂。全国ツアーで魅せたグループの絆、16thシン",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "35663189ec0d5097",
       "title": "櫻坂46 香川で全国ツアー『Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-』完走！公式レポ公開",
@@ -18,8 +269,8 @@
     {
       "id": "03c30358052eb5ee",
       "title": "“阿部寛モノマネ芸人”ラパルフェ都留 ドラマ「VIVANT」のネタバレ投稿で先輩からお叱り!?「リアタイ勢なだけなんだけど（笑）」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260830-4891857/",
       "publishedAt": "2026-08-30T11:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月24日（月）の放送は、日曜劇場「VIVANT」（TBS系）で堺雅人さん演じる乃木憂助と、阿部寛さん演じる野崎守のモノマネでも注目を集めるお笑いコンビ・ラパルフェ（都留拓也さん、尾身智志さん）が登",
@@ -34,28 +285,6 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d8e5d236c5bca463",
-      "title": "日向坂46、18thシングル「イチャイチャ虫」MV公開＆先行配信日を発表",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1086037",
-      "publishedAt": "2026-08-30T10:06:41.000Z",
-      "summary": "日向坂46の18thシングル「イチャイチャ虫」（9月30日発売）より、表題曲のミュージックビデオが9月1日0時に日向坂46 Official YouTubeチャンネルにて公開されることが決まった。 これは日向坂46公式Xに投稿されたティザー映像により明らかとなったもの。また音源も同日9月1日0時よりストリーミング＆ダウンロードの先行配信がスタートする。四期生",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
@@ -130,28 +359,6 @@
         {
           "name": "山崎怜奈",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "48507d3b2f7d280d",
-      "title": "菅井友香、淡いブルーの着物にホワイトの帯を合わせた麗しい和装姿を公開！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/663922.html",
-      "publishedAt": "2026-08-28T21:45:25.000Z",
-      "summary": "8月16日、タレント、女優の菅井友香が自身のInstagramを更新した。菅井友香は淡いブルーの着物にホワイトの帯を合わせ、上品な和装コーデを披露し「リスナーミーティング「ぷはラジ乾杯祭 」一般先行抽選受付は本日8/16まで」とコメントを寄せた。直近では、TBS系ドラマ ... The post 菅井友香、淡いブルーの着物にホワイトの帯を合わせた麗しい和装姿",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "菅井友香",
-          "group": "櫻坂46",
           "status": "og"
         }
       ]
@@ -884,28 +1091,6 @@
       "memberMatches": [
         {
           "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fb6a40e8523b91e9",
-      "title": "井上和と松井ケムリが『トイ・ストーリー５』日本版声優に決定、佐野勇斗と新キャラトリオを演じる",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/87909/",
-      "publishedAt": "2026-06-17T21:00:00.000Z",
-      "summary": "7月3日(金)に全国公開される映画『トイ・ストーリー５』に登場する新キャラクターの日本版声優を乃木坂46・井上和と令和ロマン・松井ケムリが務めることが決定した。 おもちゃと人との絆を描き、世代を超えて愛されてきたディズニー＆ピクサーの『トイ・ストーリー』シリーズ。最新作ではウッディ役の唐沢寿明やバズ役の所ジョージが続投するほか、新たにリリーパッド役の広瀬アリ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         }
