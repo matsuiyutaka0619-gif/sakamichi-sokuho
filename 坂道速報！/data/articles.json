@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-08-31T13:59:08.081Z",
+  "updatedAt": "2026-08-31T22:54:00.462Z",
   "articles": [
+    {
+      "id": "49cd026b849b8d7f",
+      "title": "乃木坂46奥田いろは「好奇心を取ったらいろはじゃないよ」４度目ミュージカルの役柄と共通点",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608310001234.html",
+      "publishedAt": "2026-08-31T21:55:00.000Z",
+      "summary": "乃木坂46奥田いろは（21）が31日、都内でミュージカル「秘密の花園」製作発表会見に登壇した。 自身4度目となるミュージカル出演。今回は少人数で演じる作品とあって「舞台の上に出たら1度も後ろに戻らない。すごい挑戦だなと思います」と見据え…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1863b51b26941d10",
+      "title": "日向坂46の18thシングル「イチャイチャ虫」MV公開、正源司陽子が“重すぎる愛”を注ぐ主人公に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/91564/",
+      "publishedAt": "2026-08-31T16:10:00.000Z",
+      "summary": "日向坂46が9月30日(水)に発売する18thシングルから表題曲「イチャイチャ虫」の先行配信がスタートし、同時にMusic Videoも公開された。 今作では二期生から五期生までの14名が選抜入り。センターは四期生・正源司陽子（しょうげんじようこ）が務めており、11thシングル「君はハニーデュー」、12thシングル「絶対的第六感」（※藤嶌果歩とWセンター）以",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c08489b89a635210",
       "title": "「これは営業妨害かもしれないけど…」松岡昌宏、元日向坂46松田好花の“すごさ”を分析 本人も感激あらわ「永久保存版」「映像ごと完パケでいただきたい」",
@@ -24,55 +73,6 @@
       ]
     },
     {
-      "id": "047890304e3569c6",
-      "title": "乃木坂46奥田いろは、「カフェオーレ」の絆 出演ミュージカル特に見てほしいのは五百城茉央",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608310001458.html",
-      "publishedAt": "2026-08-31T11:35:37.000Z",
-      "summary": "乃木坂46奥田いろは（21）が31日、都内で、ミュージカル「秘密の花園」制作発表会見に登壇した。 同作はフランシス・ホジソン・バーネットの名作小説が原作で、1950年代の孤児院を舞台に、子どもたちが「秘密の花園」の物語を演じながら、自分…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c63241781409ee2e",
-      "title": "日向坂46金村美玖、ガーリー赤ワンピ着て念願ウィーンでサックス セカンド写真集10・20発売",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608310001402.html",
-      "publishedAt": "2026-08-31T11:03:58.000Z",
-      "summary": "日向坂46金村美玖（23）のセカンド写真集「機微」（10月20日発売、講談社）の先行カットが31日、公開された。 今回公開されたのは、赤のガーリーなワンピースを着てサックスを吹くカット。中学時代は吹奏楽部に所属しサックスを担当していたが…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金村美玖",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "89244122d400ee1f",
       "title": "櫻坂46、16thシングル『愛MUST BE』リリース 全国アリーナツアーのファイナルでサプライズ発表",
       "sourceName": "リアルサウンド 音楽",
@@ -85,6 +85,42 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "8ef16a8c1afa2789",
+      "title": "櫻坂46、16thシングル「愛MUST BE」10月14日発売決定！ツアーファイナルでサプライズ発表",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/664678.html",
+      "publishedAt": "2026-08-31T04:00:54.000Z",
+      "summary": "櫻坂46が8月30日、香川・あなぶきアリーナ香川で開催した全国アリーナツアー「SAKURAZAKA46 ARENA TOUR 2026 -What's Lonesome?-」のツアーファイナル公演で、16thシングル「愛MUST BE」の発売をサプライズ発表した。櫻坂4 ... The post 櫻坂46、16thシングル「愛MUST BE」10月14日発売",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "67a1fc33cae8bf9a",
+      "title": "日向坂46、18thシングル「イチャイチャ虫」MV公開へ！正源司陽子が6作ぶりセンター",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/664662.html",
+      "publishedAt": "2026-08-31T03:00:28.000Z",
+      "summary": "日向坂46の18thシングル「イチャイチャ虫」のMusic Videoが、9月1日0時に日向坂46 Official YouTubeチャンネルで公開されることが決定した。これは日向坂46公式Xに投稿されたティザー映像で明らかになったもので、音源も同日9月1日0時からスト ... The post 日向坂46、18thシングル「イチャイチャ虫」MV公開へ！正源",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "51568850dbcb6402",
