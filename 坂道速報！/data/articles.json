@@ -1,198 +1,90 @@
 {
-  "updatedAt": "2026-08-31T05:42:27.703Z",
+  "updatedAt": "2026-08-31T13:59:08.081Z",
   "articles": [
     {
-      "id": "fd8c5c4f142ca0a4",
-      "title": "乃木坂46奥田いろは「梅澤美波さんから…」もらった花の思い出「花言葉がおしとやかさと熱血」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608310000592.html",
-      "publishedAt": "2026-08-31T05:29:44.000Z",
-      "summary": "乃木坂46奥田いろは（21）が31日、都内で、ミュージカル「秘密の花園」制作発表会見に登壇した。 同作はフランシス・ホジソン・バーネットの名作小説が原作で、1950年代の孤児院を舞台に、子どもたちが「秘密の花園」の物語を演じながら、自分…",
+      "id": "c08489b89a635210",
+      "title": "「これは営業妨害かもしれないけど…」松岡昌宏、元日向坂46松田好花の“すごさ”を分析 本人も感激あらわ「永久保存版」「映像ごと完パケでいただきたい」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260831-4885695/",
+      "publishedAt": "2026-08-31T12:00:00.000Z",
+      "summary": "「その責任感が邪魔になってないのがすごい」――。元TOKIOで俳優の松岡昌宏が、25日深夜放送のニッポン放送『松田好花のオールナイトニッポン0(ZERO)』(毎週火曜27:00～28:30)にゲスト出演。主演舞台『はがきの王様』で共演した元日向坂46の松田好花について、グループ活動で培われた責任感と、人間的な親しみやすさを兼ね備えていると絶賛した。",
       "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "86156a78c7996ef5",
-      "title": "乃木坂46・奥田いろは、役との共通点は「好奇心旺盛」 日本初上演ミュージカルに「とても楽しみ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1057572/",
-      "publishedAt": "2026-08-31T05:25:15.000Z",
-      "summary": "乃木坂46の奥田いろはが31日、都内で行われた、10月より上演されるミュージカル『秘密の花園』の記者会見に、NORD・島太星、彩みちる、雷太、磯野大とともに出席した。トークセッションのほか、作曲家のブランドン・リー氏によ […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d0fa37cb279b191c",
-      "title": "僕が見たかった青空、デビュー3周年記念ライブにて9thシングルのリリース発表",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1086152",
-      "publishedAt": "2026-08-31T04:48:12.000Z",
-      "summary": "僕が見たかった青空が、2026年8月30日に東京・豊洲PITでワンマンライブ＜アオゾラサマーフェスティバル2026＞を開催した。 デビュー3周年を祝うスペシャルな公演となったこの日は、一夜限りの特別なユニットシャッフルや初披露となるカバー曲を含む全19曲をパフォーマンスしたという。 ライブは、リーダー・塩釜菜那による和太鼓ソロパフォーマンスにて始まり、「和」",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "bbb88e1ca47c94b3",
-      "title": "【ライブレポート】櫻坂46、Buddiesとの絆を確かめ合った夏の全国ツアー完遂。「Buddiesと一緒に過ごせる人生で本当によかったです！」",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1086110",
-      "publishedAt": "2026-08-31T04:38:30.000Z",
-      "summary": "櫻坂46が、全国ツアー＜Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-＞のファイナル公演を、2026年8月30日にあなぶきアリーナ香川にて開催した。 櫻坂46にとって1年ぶりのツアーとなる今回は、7月23日の静岡・エコパアリーナを皮切りに全6都市12公演を実施。ツアーの終着地となる香川でのライブは櫻坂46にとっ",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "石森璃花",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "遠藤理子",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "小田倉麗奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "田村保乃",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤吉夏鈴",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "的野美青",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "向井純葉",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "村井優",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "守屋麗奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下瞳月",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "浅井恋乃未",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "勝又春",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "佐藤愛桜",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "中川智尋",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9a765f5ab7f778ee",
-      "title": "山下美月、黒のチューブトップでバースデーショット 「なかなか挑戦的」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2507744.html",
-      "publishedAt": "2026-08-31T03:40:06.000Z",
-      "summary": "俳優の山下美月が8月29日、自身のInstagramを更新し、同日開催されたバースデーイベント「MIZUKI YAMASHITA BIRTHDAY EVENT 2026」の様子を公開した。 投稿された写真は全6枚。黒",
-      "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "山下美月",
-          "group": "乃木坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
+    },
+    {
+      "id": "047890304e3569c6",
+      "title": "乃木坂46奥田いろは、「カフェオーレ」の絆 出演ミュージカル特に見てほしいのは五百城茉央",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608310001458.html",
+      "publishedAt": "2026-08-31T11:35:37.000Z",
+      "summary": "乃木坂46奥田いろは（21）が31日、都内で、ミュージカル「秘密の花園」制作発表会見に登壇した。 同作はフランシス・ホジソン・バーネットの名作小説が原作で、1950年代の孤児院を舞台に、子どもたちが「秘密の花園」の物語を演じながら、自分…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c63241781409ee2e",
+      "title": "日向坂46金村美玖、ガーリー赤ワンピ着て念願ウィーンでサックス セカンド写真集10・20発売",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608310001402.html",
+      "publishedAt": "2026-08-31T11:03:58.000Z",
+      "summary": "日向坂46金村美玖（23）のセカンド写真集「機微」（10月20日発売、講談社）の先行カットが31日、公開された。 今回公開されたのは、赤のガーリーなワンピースを着てサックスを吹くカット。中学時代は吹奏楽部に所属しサックスを担当していたが…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "89244122d400ee1f",
+      "title": "櫻坂46、16thシングル『愛MUST BE』リリース 全国アリーナツアーのファイナルでサプライズ発表",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/08/post-2507869.html",
+      "publishedAt": "2026-08-31T09:27:45.000Z",
+      "summary": "櫻坂46が、16thシングル『愛MUST BE』を10月14日にリリースする。 本情報は、8月30日に香川県 あなぶきアリーナ香川で行われた全国アリーナツアー『SAKURAZAKA46 ARENA TOUR 2026",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "51568850dbcb6402",
@@ -213,28 +105,6 @@
           "name": "齋藤飛鳥",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "c64333f8d3afe005",
-      "title": "林瑠奈が語るカルチャー愛と乃木坂46へ還元する強み 「間口を広げられるような存在に」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/08/post-2506949.html",
-      "publishedAt": "2026-08-30T22:30:22.000Z",
-      "summary": "池井戸潤のベストセラー小説『民王』が、初のミュージカル作品として上演される。本作で念願のミュージカル初挑戦を果たす乃木坂46の林瑠奈。作品への手応え、大学で映画を学んだ経験からくる独特の演技論、そして4期生として現在の乃木坂46を支える覚悟を語ってくれた。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "林瑠奈",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
