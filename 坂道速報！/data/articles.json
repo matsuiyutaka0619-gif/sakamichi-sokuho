@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:43:27.581Z",
+  "updatedAt": "2026-09-01T21:05:38.972Z",
   "articles": [
     {
       "id": "d46900ece9dc9969",
@@ -83,6 +83,127 @@
       ]
     },
     {
+      "id": "a5a83813cb479b12",
+      "title": "推しを守り抜く井口理が深川麻衣と逃避行、映画『逃げろお嬢さん』場面写真解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/91504/",
+      "publishedAt": "2026-09-01T03:00:00.000Z",
+      "summary": "10月2日(金)より全国公開される井口理主演映画『逃げろお嬢さん』の場面写真10点が解禁された。 原作は、『国宝』の吉田修一による短編集『逃亡小説集』（角川文庫）に収められた同名短編。豊かな自然に囲まれた土地で温泉宿を営む康太が、ある日様子のおかしい車を心配して呼び止めると、運転していたのは高校時代からの推しである元アイドル・鮎川舞子だった。舞子の夫が薬物で",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1863b51b26941d10",
+      "title": "日向坂46の18thシングル「イチャイチャ虫」MV公開、正源司陽子が“重すぎる愛”を注ぐ主人公に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/91564/",
+      "publishedAt": "2026-08-31T16:10:00.000Z",
+      "summary": "日向坂46が9月30日(水)に発売する18thシングルから表題曲「イチャイチャ虫」の先行配信がスタートし、同時にMusic Videoも公開された。 今作では二期生から五期生までの14名が選抜入り。センターは四期生・正源司陽子（しょうげんじようこ）が務めており、11thシングル「君はハニーデュー」、12thシングル「絶対的第六感」（※藤嶌果歩とWセンター）以",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8ef16a8c1afa2789",
+      "title": "櫻坂46、16thシングル「愛MUST BE」10月14日発売決定！ツアーファイナルでサプライズ発表",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/664678.html",
+      "publishedAt": "2026-08-31T04:00:54.000Z",
+      "summary": "櫻坂46が8月30日、香川・あなぶきアリーナ香川で開催した全国アリーナツアー「SAKURAZAKA46 ARENA TOUR 2026 -What's Lonesome?-」のツアーファイナル公演で、16thシングル「愛MUST BE」の発売をサプライズ発表した。櫻坂4 ... The post 櫻坂46、16thシングル「愛MUST BE」10月14日発売",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "67a1fc33cae8bf9a",
+      "title": "日向坂46、18thシングル「イチャイチャ虫」MV公開へ！正源司陽子が6作ぶりセンター",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/664662.html",
+      "publishedAt": "2026-08-31T03:00:28.000Z",
+      "summary": "日向坂46の18thシングル「イチャイチャ虫」のMusic Videoが、9月1日0時に日向坂46 Official YouTubeチャンネルで公開されることが決定した。これは日向坂46公式Xに投稿されたティザー映像で明らかになったもので、音源も同日9月1日0時からスト ... The post 日向坂46、18thシングル「イチャイチャ虫」MV公開へ！正源",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "51568850dbcb6402",
+      "title": "のん×藤ヶ谷太輔『幸せカナコの殺し屋生活２』予告解禁、前シーズンを約3分で振り返る特別映像も",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/91355/",
+      "publishedAt": "2026-08-31T03:00:00.000Z",
+      "summary": "9月17日(木)より配信されるDMM TVオリジナルドラマ『幸せカナコの殺し屋生活２』の最新予告映像が解禁され、齋藤飛鳥が声の出演でシリーズ続投することが発表された。 本作は、ブラック企業で働いていた元社畜社員・西野カナコが転職先で殺し屋の才能を開花させ、伝説の殺し屋“K”として名を轟かせていく姿を描く“エナジードリンク系”アクションコメディ。原作は累計発行",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "4bd16e2d42035919",
+      "title": "櫻坂46の夏完遂。全国ツアーで魅せたグループの絆、16thシングル「愛 MUST BE」リリースも発表",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/664545.html",
+      "publishedAt": "2026-08-30T22:00:25.000Z",
+      "summary": "櫻坂46の全国ツアー「Sakurazaka46 ARENA TOUR 2026 -What's lonesome?-」が8月30日、香川・あなぶきアリーナ香川にて閉幕した。櫻坂46にとって1年ぶりのツアーとなる今回は、7月23日の静岡・エコパアリーナを皮切りに全6都市1 ... The post 櫻坂46の夏完遂。全国ツアーで魅せたグループの絆、16thシン",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
       "id": "03c30358052eb5ee",
       "title": "“阿部寛モノマネ芸人”ラパルフェ都留 ドラマ「VIVANT」のネタバレ投稿で先輩からお叱り!?「リアタイ勢なだけなんだけど（笑）」",
       "sourceName": "マイナビニュース 芸能",
@@ -101,6 +222,59 @@
           "name": "山崎怜奈",
           "group": "乃木坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "ad2f52218be51e6b",
+      "title": "一ノ瀬美空が神宮で放ったロックアイコンの輝き、新体制・乃木坂46は全員でさらなる黄金期へ",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/91399/",
+      "publishedAt": "2026-08-30T06:00:00.000Z",
+      "summary": "毎夏恒例、乃木坂46の明治神宮野球場公演が2026年もやってきた！ 現メンバー33人体制となっての初の全国ツアーであり、5月に卒業した梅澤美波から5期生・菅原咲月が4代目キャプテンのタスキを受け取っての大舞台である。それにしてもここのところの乃木坂46は激動で、吉田綾乃クリスティーの卒業も遂にこの日が来てしまったかとショッキングだったし、昨年末から続く矢久保",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "吉田綾乃クリスティー",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "佐藤璃果",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾美佑",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "矢久保美緒",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -278,6 +452,560 @@
       "memberMatches": [
         {
           "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "32228697f9036a96",
+      "title": "美絽×稲葉通陽W主演『17歳のプルーフ』2月19日公開決定、2人を見守る司書教諭役に深川麻衣",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/91098/",
+      "publishedAt": "2026-08-24T23:00:00.000Z",
+      "summary": "美絽と稲葉通陽（B＆ZAI）のW主演で贈る青春ミステリー映画『17歳のプルーフ』の公開日が2027年2月19日(金)に決定し、ティザービジュアル2種と特報映像が解禁された。 本作は、図書室で見つけた30年前の卒業生による小説をきっかけに、恋をしたことがない璃呼（りこ）と幼なじみで図書委員の港（みなと）が隠された秘密と互いへの想いに気づいていく青春ミステリー。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "abdd05ac1d798509",
+      "title": "“最恐”都市伝説『巨頭オ』を近藤亮太監督が映画化、前田拳太郎＆久保史緒里共演で12月公開へ",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90924/",
+      "publishedAt": "2026-08-20T23:00:00.000Z",
+      "summary": "ネットで最恐と謳われる都市伝説「巨頭オ」が映画化され、前田拳太郎と久保史緒里の出演で12月25日(金)に公開されることが決定した。 2006年、インターネット掲示板に投稿されたわずか数行の体験談から始まった都市伝説「巨頭オ」。かつて旅行で訪れた小さな村へ再び向かった投稿者が道中で目にしたのは、村の名前ではなく「巨頭オ」と書かれた奇妙な看板だった。その先には変",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e9bbc480af2d8b14",
+      "title": "日向坂46新シングルの収録内容発表、ひなた坂46楽曲「風にキンモクセイ」のセンターは清水理央",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90931/",
+      "publishedAt": "2026-08-20T13:45:00.000Z",
+      "summary": "日向坂46が、9月30日(水)に発売する18thシングル『イチャイチャ虫』の“ひなた坂46”メンバー楽曲「風にキンモクセイ」のフォーメーションを発表した。 共通カップリングとして収録される「風にキンモクセイ」でセンターを務めるのは四期生・清水理央。この発表はグループオフィシャルYouTubeチャンネル「日向坂ちゃんねる」での生配信にて行われたもので、配信内で",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "清水理央",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "196757f79d9efad2",
+      "title": "乃木坂46、来週リリース「久保史緒里 卒業コンサート」Blu-ray＆DVDの商品画像公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90867/",
+      "publishedAt": "2026-08-19T09:00:00.000Z",
+      "summary": "来週8月26日(水)に発売される乃木坂46のライブBlu-ray＆DVD『SHIORI KUBO GRADUATION CONCERT』の商品画像が公開された。 ソニー・ミュージックショップ限定商品となる今作は、昨年11月26日・27日に神奈川県・横浜アリーナにて開催された「乃木坂46 久保史緒里 卒業コンサート」の映像作品。ジャケットにはBlu-rayとD",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2ac5b2bfb5304253",
+      "title": "新坂道グループ“青葉坂46”メンバー募集開始、井上和・森田ひかる・小坂菜緒ら並ぶビジュアル公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90811/",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "summary": "新たな坂道グループ“青葉坂46（あおばざかふぉーてぃーしっくす）”の結成が発表され、それに伴うメンバーオーディションの募集がスタートした。 8月16日(日)の深夜に突如ティザー映像が公開となり、話題になっていた「青葉坂46」。東京・渋谷にも“青葉坂46”と“8月18日21時”という文字だけの屋外広告が掲出されており、本日同時刻を迎えると渋谷スクランブル交差点",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "小坂菜緒",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "93db14363b3290c3",
+      "title": "日向坂46がありたいと願う“らしさ”を表現、18thシングル『イチャイチャ虫』ジャケット公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90746/",
+      "publishedAt": "2026-08-17T09:40:21.000Z",
+      "summary": "日向坂46が、9月30日(水)に発売する18thシングル『イチャイチャ虫』のジャケットアートワークを公開した。 高木公美子（ONPHA）がアートディレクションを手掛けた今作のジャケットのテーマは「わたしは、わたしの主人公！」。情報が溢れ常に何かと比べられてしまう時代に、何気ない日常こそが“わたし”を主人公にしてくれるというメッセージが込められており、大切な人",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "6be1a430cfd31edc",
+      "title": "King Gnu井口理の主演映画2作目『逃げろお嬢さん』10月2日公開決定、ヒロインは深川麻衣",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90590/",
+      "publishedAt": "2026-08-12T22:00:00.000Z",
+      "summary": "井口理（King Gnu）が主演を務める映画『逃げろお嬢さん』が10月2日(金)に全国公開されることが決定し、本予告映像とポスタービジュアルが解禁された。 原作は、『国宝』『横道世之介』の著者として知られる吉田修一の短編集『逃亡小説集』（角川文庫／KADOKAWA刊）に収められた同名短編『逃げろお嬢さん』。誰かをずっと応援してきた人に訪れる小さな奇跡を描いた",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "66cda1c7ccbf1d8f",
+      "title": "日向坂46が鮮やかな空間で“今”の熱を表現、18thシングル『イチャイチャ虫』新ビジュアル公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/90467/",
+      "publishedAt": "2026-08-10T01:40:00.000Z",
+      "summary": "日向坂46が、9月30日(水)に発売する18thシングル『イチャイチャ虫』の新ビジュアルを公開した。 前作から引き続き二期生から五期生までの14名が選抜入りした今作では、四期生・正源司陽子が表題曲センターを務める。正源司がセンターを務めるのは12thシングル『絶対的第六感』で四期生・藤嶌果歩とWセンターを務めて以来6作ぶりで、単独センターは11thシングル『",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "eb4f2ba0381ca634",
+      "title": "乃木坂46・同期コンビの最新の関係性は？川﨑桜×小川彩が明かす互いの推しポイント",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/08/89809/",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "summary": "5月に3代目キャプテン・梅澤美波が卒業し、新体制へと引き継がれた乃木坂46。時期を同じくして、それぞれ大学卒業と高校卒業という、個人としても大きな節目を迎えたのが5期生の川﨑桜と小川彩だ。 そんな2人が俳優として出演したドラマが、FOD SHORTにて全60話配信中の『野球少女鷲尾』。『乃木坂46のオールナイトニッポン』で誕生した名物キャラクターをオリジナル",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ac9b892e506d8e3e",
+      "title": "櫻坂46・山﨑天×令和ロマン・松井ケムリがアニメ映画『我々は宇宙人』声優に決定、本予告も解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89732/",
+      "publishedAt": "2026-07-26T23:00:00.000Z",
+      "summary": "門脇康平が初長編監督を務めるアニメーション映画『我々は宇宙人』の本ポスターと本予告映像が解禁され、山﨑天（櫻坂46）と松井ケムリ（令和ロマン）らが声優として出演することが明らかになった。 本作は、“才能が潰されない世の中”を目指して2022年に設立された映画レーベル・NOTHING NEWが手がける初の長編アニメーション作品。第79回カンヌ国際映画祭監督週間",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4d44fa1b5d571443",
+      "title": "河田陽菜が䋝田圭亮主演『いつかアイツに会いに行く』新章に出演、日向坂46卒業後初の舞台に挑む",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89669/",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "summary": "昨年日向坂46を卒業した河田陽菜が、9月に東京・新宿と銀座で上演される舞台『いつかアイツに会いに行く-BEYOND THE MOON-』に出演することが発表された。 本作は2025年に上演され好評を博した舞台『いつかアイツに会いに行く』の新章として誕生したオリジナル作品で、ニッポン放送×小林顕作によるコメディシリーズの第二弾にあたる。前作に続き演出・音楽・原",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "河田陽菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "888c9e6ac118a2ae",
+      "title": "日向坂46「7回目のひな誕祭」ダイジェスト公開、初の生バンド演奏など見どころを凝縮",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89664/",
+      "publishedAt": "2026-07-23T09:25:00.000Z",
+      "summary": "8月5日(水)に発売となる日向坂46のライブBlu-ray＆DVD『7周年記念MEMORIAL LIVE「7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜」in 横浜スタジアム』のダイジェスト映像が公開された。 「7回目のひな誕祭」は今年の4月4日・5日に横浜スタジアムで開催されたグループ結成7周年記念ライブで、2日間で合",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ea70e9d58d334b67",
+      "title": "乃木坂46・6期生楽曲「命の色」MV公開、長嶋凛桜センターでシリアスなメッセージを表現",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89439/",
+      "publishedAt": "2026-07-19T10:00:00.000Z",
+      "summary": "乃木坂46の42ndシングル『是非に及ばず』に収録される6期生楽曲「命の色」Music Videoが公開された。 CDリリースに先がけて7月5日(日)に先行配信された本楽曲。フォーメーションセンターは長嶋凛桜が務め、現在開催中の「乃木坂46 真夏の全国ツアー2026」では長嶋の地元となる北海道・真駒内セキスイハイムアイスアリーナにて初披露された。 そのMus",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "長嶋凛桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "aba016eed804daa3",
+      "title": "乃木坂46「久保史緒里 卒業コンサート」が8月26日映像商品化、特典にはメイキング＆インタビュー",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/89220/",
+      "publishedAt": "2026-07-14T03:00:00.000Z",
+      "summary": "乃木坂46が、新たな映像商品『SHIORI KUBO GRADUATION CONCERT』を8月26日(水)にリリースする。 今作には、昨年11月26日・27日に神奈川県・横浜アリーナにて開催された「乃木坂46 久保史緒里 卒業コンサート」を収録。久保史緒里は乃木坂46に3期生メンバーとして2016年9月に加入し、約9年間にわたりグループを牽引。乃木坂46",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c9a784c033f18401",
+      "title": "乃木坂46ニューシングルの収録内容解禁、表題曲選抜メンバーによる「告白したい病」が全形態に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/88788/",
+      "publishedAt": "2026-07-06T09:30:00.000Z",
+      "summary": "7月22日(水)に発売される乃木坂46の42ndシングル『是非に及ばず』の全収録楽曲と歌唱メンバーが解禁された。 本作には5期生・一ノ瀬美空がセンターを務める表題曲と、42ndシングル選抜メンバーが歌唱する「告白したい病」を全形態共通曲として収録。また全4種類の初回限定盤では、TYPE-Aに小川彩がセンターを務めるアンダー曲「フォルテシモ」、TYPE-Bに井",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "筒井あやめ",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "弓木奈於",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "冨里奈央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "中西アルノ",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7e6a3b9b0e36daa1",
+      "title": "乃木坂46、最新シングル『是非に及ばず』から6期生楽曲「命の色」を今夜24時先行配信",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/07/88637/",
+      "publishedAt": "2026-07-04T11:25:00.000Z",
+      "summary": "乃木坂46が、7月22日(水)にリリースする42ndシングル『是非に及ばず』に収録される新曲「命の色」を7月5日(日)に先行配信リリースする。 現在「真夏の全国ツアー2026」を敢行中の乃木坂46は、本日7月4日(土)にその北海道公演を真駒内セキスイハイムアイスアリーナにて開催。同公演内で初披露された「命の色」は6期生楽曲となり、フォーメーションセンターは長",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長嶋凛桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cae6e97ba2b95443",
+      "title": "乃木坂46がパンクな世界観を表現、一ノ瀬美空センターで新境地を拓く「是非に及ばず」MV公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88357/",
+      "publishedAt": "2026-06-28T05:00:00.000Z",
+      "summary": "乃木坂46が、来月7月22日(水)にリリースする42ndシングル表題曲「是非に及ばず」のMusic Videoを公開した。 現在全国8か所18公演を巡る”真夏の全国ツアー2026”を開催中の乃木坂46。「是非に及ばず」はCDリリースに先駆けて6月13日(土)に先行配信がスタートしており、5期生・一ノ瀬美空が初めて表題曲センターを務めることも話題となっている。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d6ed45a2c8a09d0c",
+      "title": "櫻坂46・四期生が旗を振り回し躍動する「We got your back」MV公開、センターは佐藤愛桜",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88309/",
+      "publishedAt": "2026-06-26T13:00:00.000Z",
+      "summary": "櫻坂46が、6月10日(水)に発売した15thシングル『Lonesome rabbit / What’s “KAZOKU”?』収録の四期生楽曲「We got your back」のMusic Videoを公開した。 今作では四期生・佐藤愛桜が初めてセンターを担当。今月開催された「四期生ライブ」で初披露された圧巻のパフォーマンスが大きな話題を呼んでおり、そのM",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "佐藤愛桜",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9bd7919b4e9ccc50",
+      "title": "乃木坂46の新シングルアンダー曲「フォルテシモ」今夜24時先行配信、センターは5期生・小川彩",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88166/",
+      "publishedAt": "2026-06-24T12:15:00.000Z",
+      "summary": "7月22日(水)にリリースされる乃木坂46・42ndシングルに収録されるアンダーメンバー楽曲のタイトルが「フォルテシモ」に決定した。 今月より「真夏の全国ツアー2026」を開催中の乃木坂46は、本日6月24日(水)に2会場目となる神奈川公演を横浜アリーナにて開催。「フォルテシモ」はそこで初披露され、同時にフォーメーションセンターを5期生の小川彩を務めることが",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "岡本姫奈",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "997b3ea406682382",
+      "title": "ふみの、新曲「東京」が仲里依紗×のん×深川麻衣共演『Tokyo middle 30』主題歌に決定",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88066/",
+      "publishedAt": "2026-06-22T21:30:00.000Z",
+      "summary": "シンガーソングライター・ふみのの4thシングル「東京」が、7月22日(水)22時より放送スタートとなるフジテレビ系水曜ドラマ『Tokyo middle 30』の主題歌に決定した。 ちゃんみなが主宰するセルフプロデュース型レーベル「NO LABEL ARTISTS」の第一弾アーティストとして、今年1月にデビューしたふみの。デビュー曲「favorite song",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "eee679bffe198bd6",
+      "title": "乃木坂46が巨大な花の下に集う新シングルジャケット公開、コンセプトは「眩光を探して」",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/06/88043/",
+      "publishedAt": "2026-06-22T03:00:00.000Z",
+      "summary": "乃木坂46が7月22日(水)に発売する42ndシングル『是非に及ばず』のジャケットアートワークが公開された。 「眩光（げんこう）を探して」というコンセプトを掲げた今回のビジュアルでは、眩い光・太陽の象徴として散りばめた巨大な花の下に集うメンバーの姿を撮影。クリエイティブは鈴木司が担当し、まだ見ぬ夏の輝きに向かって進む軽やかなアクティブさと花の持つ強さを重ね、",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
         }
