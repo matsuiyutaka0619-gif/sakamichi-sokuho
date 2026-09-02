@@ -1,9 +1,23 @@
 {
-  "updatedAt": "2026-09-01T21:05:38.972Z",
+  "updatedAt": "2026-09-02T04:41:10.496Z",
   "articles": [
     {
+      "id": "1d6cf18a48b39021",
+      "title": "乃木坂46 6期生、11人全員で挑む初の全国ツアー 二度目の神宮、個々の経験を経て見え始めたそれぞれの色",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2508676.html",
+      "publishedAt": "2026-09-02T03:10:45.000Z",
+      "summary": "『乃木坂46 真夏の全国ツアー2026』を完走した乃木坂46。6期生にとっては2025年に続く二度目の聖地・明治神宮野球場のステージとなったが、今年は昨年とはまた違った意味を持つ4日間になった。本稿では、れぞれが異なる場所で経験を重ねるようになった6期生の成長を辿っていきたい。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
       "id": "d46900ece9dc9969",
-      "title": "秋元真夏「本当に騙されました」突然の食いしん坊ロケに困惑 “うまいこと”言うことに取り憑かれ食リポ奮闘",
+      "title": "秋元真夏「本当に騙されました」突然の食いしん坊ロケに困惑 “うまいこと言う”に取り憑かれ食リポ奮闘",
       "sourceName": "マイナビニュース エンタメ",
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
       "articleUrl": "https://news.mynavi.jp/article/20260901-4901974/",
@@ -55,28 +69,6 @@
         },
         {
           "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ed81ba058a9cc53a",
-      "title": "「こんな格好でスーパー行ってたら…」 金村美玖のノースリーブトップス姿が話題「スタイリングも神」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1058666/",
-      "publishedAt": "2026-09-01T12:40:00.000Z",
-      "summary": "アイドルグループ・日向坂46の金村美玖の2nd写真集『機微』の公式Xが1日までに更新され、最新映像が公開された。「今日のごはん、どうしよう？」 アイドルグループ・日向坂46の金村美玖の2nd写真集『機微』の公式Xが1日 […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金村美玖",
           "group": "日向坂46",
           "status": "active"
         }
@@ -430,28 +422,6 @@
         },
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e2918a66aeea184d",
-      "title": "乃木坂46加入から8年…賀喜遥香「アイドルとしてもちょっとずつ余裕が…」25歳を迎えて語った感謝と新たな決意",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260826-4872832/",
-      "publishedAt": "2026-08-26T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月20日（木）の放送では、遥香先生の25歳の誕生日でもあった8月8日に開催された「真夏の全国ツアー2026」福岡公演の振り返りをおこないました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
         }
