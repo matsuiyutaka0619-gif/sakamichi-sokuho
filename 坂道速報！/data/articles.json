@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-09-02T11:24:46.030Z",
+  "updatedAt": "2026-09-02T16:38:31.259Z",
   "articles": [
+    {
+      "id": "30ae381a2b20f074",
+      "title": "櫻坂46＆日向坂46メンバーが「マイナビ TGC 2026 A/W」に集結！浅井恋乃未、山下瞳月、松尾桜はランウェイデビュー",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/665014.html",
+      "publishedAt": "2026-09-02T14:00:20.000Z",
+      "summary": "9月19日に横浜アリーナで開催される「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」の追加出演者が発表され、櫻坂46、日向坂46のメンバーをはじめ、WATWING、DXTEENらの出演が決定した。櫻坂46からは、田村保乃、藤吉夏鈴、 ... The post 櫻坂46＆日向坂46メンバーが「マイナビ TGC 2026 A",
+      "groups": [
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "田村保乃",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤吉夏鈴",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下瞳月",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "浅井恋乃未",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "19bfd223760d88d4",
+      "title": "乃木坂46賀喜遥香「私もお気に入り！」井上和も絶賛した“ヘアアレンジ”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260902-4907015/",
+      "publishedAt": "2026-09-02T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月27日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介。本記事では、42枚目のシングル「是非に及ばず」の衣装やヘアアレンジについて語った模様をお届けします。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "468fc32b97c707de",
+      "title": "「ウエストほっっっそ」元乃木坂46・与田祐希のプロポーションにネット衝撃「細くなってる」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1059247/",
+      "publishedAt": "2026-09-02T11:45:23.000Z",
+      "summary": "アイドルグループ・乃木坂46の元メンバー・与田祐希が今月7日発売の『週刊ヤングマガジン』の表紙に登場する。ミニ丈シャツから見せたウエストに注目が集まっている。『週刊ヤングマガジン』の表紙に登場 アイドルグループ・乃木坂 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "d46900ece9dc9969",
       "title": "秋元真夏「本当に騙されました」突然の食いしん坊ロケに困惑 “うまいこと言う”に取り憑かれ食リポ奮闘",
@@ -122,28 +214,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "67a1fc33cae8bf9a",
-      "title": "日向坂46、18thシングル「イチャイチャ虫」MV公開へ！正源司陽子が6作ぶりセンター",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/664662.html",
-      "publishedAt": "2026-08-31T03:00:28.000Z",
-      "summary": "日向坂46の18thシングル「イチャイチャ虫」のMusic Videoが、9月1日0時に日向坂46 Official YouTubeチャンネルで公開されることが決定した。これは日向坂46公式Xに投稿されたティザー映像で明らかになったもので、音源も同日9月1日0時からスト ... The post 日向坂46、18thシングル「イチャイチャ虫」MV公開へ！正源",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "51568850dbcb6402",
@@ -928,28 +998,6 @@
           "name": "深川麻衣",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "eee679bffe198bd6",
-      "title": "乃木坂46が巨大な花の下に集う新シングルジャケット公開、コンセプトは「眩光を探して」",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/88043/",
-      "publishedAt": "2026-06-22T03:00:00.000Z",
-      "summary": "乃木坂46が7月22日(水)に発売する42ndシングル『是非に及ばず』のジャケットアートワークが公開された。 「眩光（げんこう）を探して」というコンセプトを掲げた今回のビジュアルでは、眩い光・太陽の象徴として散りばめた巨大な花の下に集うメンバーの姿を撮影。クリエイティブは鈴木司が担当し、まだ見ぬ夏の輝きに向かって進む軽やかなアクティブさと花の持つ強さを重ね、",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     }
