@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:06:32.315Z",
+  "updatedAt": "2026-09-03T04:38:01.197Z",
   "articles": [
     {
       "id": "30ae381a2b20f074",
@@ -68,28 +68,6 @@
           "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "468fc32b97c707de",
-      "title": "「ウエストほっっっそ」元乃木坂46・与田祐希のプロポーションにネット衝撃「細くなってる」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1059247/",
-      "publishedAt": "2026-09-02T11:45:23.000Z",
-      "summary": "アイドルグループ・乃木坂46の元メンバー・与田祐希が今月7日発売の『週刊ヤングマガジン』の表紙に登場する。ミニ丈シャツから見せたウエストに注目が集まっている。『週刊ヤングマガジン』の表紙に登場 アイドルグループ・乃木坂 […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -962,28 +940,6 @@
           "name": "小川彩",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "997b3ea406682382",
-      "title": "ふみの、新曲「東京」が仲里依紗×のん×深川麻衣共演『Tokyo middle 30』主題歌に決定",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/88066/",
-      "publishedAt": "2026-06-22T21:30:00.000Z",
-      "summary": "シンガーソングライター・ふみのの4thシングル「東京」が、7月22日(水)22時より放送スタートとなるフジテレビ系水曜ドラマ『Tokyo middle 30』の主題歌に決定した。 ちゃんみなが主宰するセルフプロデュース型レーベル「NO LABEL ARTISTS」の第一弾アーティストとして、今年1月にデビューしたふみの。デビュー曲「favorite song",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     }
