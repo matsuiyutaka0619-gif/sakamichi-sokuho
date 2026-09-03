@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-09-03T04:38:01.197Z",
+  "updatedAt": "2026-09-03T11:21:05.478Z",
   "articles": [
+    {
+      "id": "ef06bac1034d605c",
+      "title": "纓田圭亮、元日向坂46河田陽菜らが舞台「いつかアイツに会いに行く」へ意気込み語る",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609030001416.html",
+      "publishedAt": "2026-09-03T10:56:54.000Z",
+      "summary": "舞台「いつかアイツに会いに行く－BEYOND THE MOON－」のゲネプロ・取材会が3日、都内で行われた。同舞台は同日から紀伊國屋サザンシアターTAKASHIMAYA、銀座博品館劇場で上演される。 同作は世の中に悩む男がイーロン・マス…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "河田陽菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "143647e0b215fc6d",
+      "title": "河田陽菜、日向坂46卒業後初舞台迎え「出られて良かったなって心から思える」上演心待ち",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609030001333.html",
+      "publishedAt": "2026-09-03T10:16:21.000Z",
+      "summary": "元日向坂46河田陽菜（25）が3日、都内で、同日上演する舞台「いつかアイツに会いに行く－BEYOND THE MOON－」のゲネプロ・取材会に登壇した。 昨年11月にグループを卒業してから約10カ月が経ち、初の舞台出演となる。上演を前に…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "河田陽菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "e1e82e732f052d47",
+      "title": "「ひなたフェス」払い戻し対応発表 悪天候予報受けて中止「安全を最優先に考え」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1059691/",
+      "publishedAt": "2026-09-03T09:04:17.000Z",
+      "summary": "アイドルグループ・日向坂46の公式サイトが3日に更新され、「ひなたフェス 2026」の中止に伴う払い戻し対応を発表した。公式サイトでアナウンス アイドルグループ・日向坂46の公式サイトが3日に更新され、「ひなたフェス […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "c7c2013708eeb40e",
+      "title": "『豊臣兄弟！』秀吉の正室・寧々と側室・茶々が初対面 今後匂わす“やりとり”に反響「バトル開始」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/09/03/20163580292/",
+      "publishedAt": "2026-09-03T07:30:00.000Z",
+      "summary": "30日放送の大河ドラマ『豊臣兄弟！』（NHK）で、寧々（浜辺美波）と市（宮﨑あおい）の娘・茶々（井上和）が初対面、2人の会話シーンが大きな話題を集めている。 ■33回あらすじ ※ネタバレあり 本作は、天下人・豊臣秀吉／羽…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "30ae381a2b20f074",
       "title": "櫻坂46＆日向坂46メンバーが「マイナビ TGC 2026 A/W」に集結！浅井恋乃未、山下瞳月、松尾桜はランウェイデビュー",
@@ -47,8 +127,8 @@
     {
       "id": "19bfd223760d88d4",
       "title": "乃木坂46賀喜遥香「私もお気に入り！」井上和も絶賛した“ヘアアレンジ”とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260902-4907015/",
       "publishedAt": "2026-09-02T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月27日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介。本記事では、42枚目のシングル「是非に及ばず」の衣装やヘアアレンジについて語った模様をお届けします。",
