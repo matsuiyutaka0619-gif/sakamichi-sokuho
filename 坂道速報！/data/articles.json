@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T16:25:37.718Z",
+  "updatedAt": "2026-09-04T20:48:40.415Z",
   "articles": [
     {
       "id": "e8e7fc073946e0c3",
@@ -63,6 +63,28 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "1e0ec074e50dd160",
+      "title": "与田祐希、GREEN×EXPO 2027オリジナルミュージカル主演！竹中直人、ゆりやんレトリィバァ、望海風斗ら出演",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/stage/665428.html",
+      "publishedAt": "2026-09-04T12:00:26.000Z",
+      "summary": "2027年国際園芸博覧会「GREEN×EXPO 2027」で上演・上映される神奈川県オリジナルミュージカル「Vibrant INOCHI（バイブラント・いのち）」の映像版・舞台版キャストが発表された。同作は、神奈川県の基本理念「いのち輝く Vibrant INOCHI」 ... The post 与田祐希、GREEN×EXPO 2027オリジナルミュージカル",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
     },
     {
       "id": "4ac75b4c6145bfdd",
