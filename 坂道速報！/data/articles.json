@@ -1,14 +1,50 @@
 {
-  "updatedAt": "2026-09-03T21:05:44.770Z",
+  "updatedAt": "2026-09-04T04:39:35.915Z",
   "articles": [
     {
-      "id": "e61f7756c4de037c",
-      "title": "生田絵梨花、『波うららかに、めおと日和』続編に出演決定 山本舞香に代わり芙美子役に",
+      "id": "41a1a01f2fbc2f8e",
+      "title": "King & Prince、三浦大知、MAN WITH A MISSION、星街すいせい、日向坂46、HALCALI……注目新譜6作をレビュー",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2510999.html",
+      "publishedAt": "2026-09-04T03:10:26.000Z",
+      "summary": "毎週発表される新譜の中から注目作品をレビューしていく連載「New Releases In Focus」。今回は、King & Prince「So Honey」、三浦大知「オリジナルフェイク」、MAN WITH A MISSION「ONE」、日向坂46「イチャイチャ虫」、星街すいせい「GUM&DROP」、HALCALI「Guin Guin Guin」の6作品を",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "1ac69d977a79b713",
+      "title": "ゆず、新曲「これも⻘春だ」が⾹取慎吾主演映画『⾼校⽣家族』主題歌に決定「最強の“アオハルソング”です」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1086712",
+      "publishedAt": "2026-09-04T03:01:00.000Z",
+      "summary": "ゆずの新曲「これも⻘春だ」(発売未定)が、2027年1⽉8⽇に公開される⾹取慎吾の主演映画『⾼校⽣家族』主題歌に決定した。これにともなって楽曲が使⽤された本予告映像が公開となっている。 同映画は、『週刊少年ジャンプ』(集英社)にて連載され、その名の通り“家族全員が⾼校⽣になる”という前代未聞の設定と独特な台詞回し、誰も傷つけない優しい笑いで多くの読者を魅了し",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "dbcb8719bbfaafe8",
+      "title": "柄本時生×西野七瀬×鈴木杏樹×足立梨花×山中聡の独占コメントも 「コントと音楽」開幕へ",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2511788.html",
-      "publishedAt": "2026-09-03T20:00:30.000Z",
-      "summary": "10月15日よりフジテレビ系で放送がスタートする木曜劇場『波うららかに、めおと日和』続編に、生田絵梨花が深見芙美子役で出演することが発表された。 累計発行部数250万部を突破している西香はちによる同名コミックをドラマ",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2512485.html",
+      "publishedAt": "2026-09-04T03:00:11.000Z",
+      "summary": "柄本時生、西野七瀬、鈴木杏樹、足立梨花、山中聡が出演する舞台「コントと音楽 vol.7『今宵、丸の内で』」のゲネプロが、9月3日に東京・丸の内 COTTON CLUBで行われた。ゲネプロを終えての感想と開幕への意気込みをキャスト陣に聞いた。",
       "groups": [
         "乃木坂46"
       ],
@@ -17,20 +53,20 @@
       ],
       "memberMatches": [
         {
-          "name": "生田絵梨花",
+          "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "5575f757483724c2",
-      "title": "生田絵梨花がフジドラマ「波うららかに、めおと日和」続編の新キャスト起用「できる限りの力を」",
+      "id": "d8add0b5aaf50850",
+      "title": "「Ｔ乾」出演女優「重低音ボイス」中島歩は「あの声で喋ってるから許されてることがたくさん…」",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609030001866.html",
-      "publishedAt": "2026-09-03T20:00:00.000Z",
-      "summary": "元乃木坂46の女優生田絵梨花（29）がフジテレビ系ドラマ「波うららかに、めおと日和」（続編）（10月15日開始、木曜午後10時）に出演することが3日、分かった。 同作は昨年4月期に放送された大人気ドラマの続編。西香はち氏の同名コミックス…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609040000291.html",
+      "publishedAt": "2026-09-04T02:28:43.000Z",
+      "summary": "TBS系連続ドラマ「Tシャツが乾くまで」（金曜午後10時）に現在出演中の元乃木坂46で女優齋藤飛鳥（28）が4日、同局系「THE TIME，」（月～金曜午前5時20分）にVTR出演。作中で兄役の俳優中島歩（37）について言及した。 今回…",
       "groups": [
         "乃木坂46"
       ],
@@ -39,7 +75,7 @@
       ],
       "memberMatches": [
         {
-          "name": "生田絵梨花",
+          "name": "齋藤飛鳥",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -53,28 +89,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260904-4912223/",
       "publishedAt": "2026-09-03T20:00:00.000Z",
       "summary": "「私に務まるだろうか」――10月15日にスタートするフジテレビ系ドラマ『波うららかに、めおと日和』(毎週木曜22:00～)で、前作で山本舞香が演じた芙美子役を、生田絵梨花が引き継ぐことが発表された。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "7357988047e308af",
-      "title": "生田絵梨花、『めおと日和』続編出演 山本舞香が出産で辞退の芙美子役「一緒に悩み、迷いながら丁寧に歩んでいきたい」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1059607/",
-      "publishedAt": "2026-09-03T20:00:00.000Z",
-      "summary": "俳優の芳根京子が主演を務め、10月15日にスタートするフジテレビ系連続ドラマ『波うららかに、めおと日和』続編（木曜午後10時）に、俳優の生田絵梨花が新キャストとして出演することが4日に発表された。小関演じる深見龍之介の妻 […]",
       "groups": [
         "乃木坂46"
       ],
@@ -106,28 +120,6 @@
       "memberMatches": [
         {
           "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c7c2013708eeb40e",
-      "title": "『豊臣兄弟！』秀吉の正室・寧々と側室・茶々が初対面 今後匂わす“やりとり”に反響「バトル開始」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/09/03/20163580292/",
-      "publishedAt": "2026-09-03T07:30:00.000Z",
-      "summary": "30日放送の大河ドラマ『豊臣兄弟！』（NHK）で、寧々（浜辺美波）と市（宮﨑あおい）の娘・茶々（井上和）が初対面、2人の会話シーンが大きな話題を集めている。 ■33回あらすじ ※ネタバレあり 本作は、天下人・豊臣秀吉／羽…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         }
