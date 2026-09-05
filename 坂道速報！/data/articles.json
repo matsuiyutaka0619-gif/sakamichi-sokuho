@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-09-05T15:18:11.708Z",
+  "updatedAt": "2026-09-05T20:26:23.116Z",
   "articles": [
+    {
+      "id": "64bbe93d222899ca",
+      "title": "有澤樟太郎主演『民王』ゲネプロ写真公開！内閣総理大臣と大学生の息子の身体入れ替わり",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204675",
+      "publishedAt": "2026-09-05T20:08:08.000Z",
+      "summary": "俳優・有澤樟太郎主演で別所哲也、豊原江理佳、『乃木坂46』林瑠奈、山崎大輝、上川一哉、福田転球、一路真輝、竹中直人らが共演するミュージカル『民王』（演出：永井誠）の公開ゲネプロが9月5日に東京・日比谷のシアタークリエで...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "林瑠奈",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "989c70a22253f804",
+      "title": "乃木坂46林瑠奈、初舞台「民王」共演陣は「毎日、ためになりまくり」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609050001315.html",
+      "publishedAt": "2026-09-05T19:00:00.000Z",
+      "summary": "乃木坂46林瑠奈（22）が5日、東京・シアタークリエで行われた、有澤樟太郎（30）の主演ミュージカル「民王」（同所で6日開幕）囲み取材に出席。初舞台の初日を前に「すごく緊張しているんですけど、初日でしか感じられない感情を楽しみたい」と緊…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "林瑠奈",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "00d69be1f117620c",
+      "title": "乃木坂46・林瑠奈、稽古場に「象とアヒルのぬいぐるみ」持参 “公約”は「いい意味で変わった姿を見せること」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1060443/",
+      "publishedAt": "2026-09-05T19:00:00.000Z",
+      "summary": "乃木坂46の林瑠奈が5日、都内で行われたミュージカル『民王』の囲み取材＆公開ゲネプロに出席した。共演者から、林がけいこ場に「象とアヒル」のぬいぐるみを持参していたというかわいらしいエピソードが明かされた。今作が舞台・ミュ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "林瑠奈",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "e07f00b7cbd9aa82",
+      "title": "有澤樟太郎、ミュージカル『民王』で「日本を元気に！」 別所哲也は“紅白”出場を熱望 竹中直人はマブダチの誘いに「後悔（笑）」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1060749/",
+      "publishedAt": "2026-09-05T19:00:00.000Z",
+      "summary": "俳優の有澤樟太郎、別所哲也、豊原江理佳、乃木坂46の林瑠奈、山崎大輝、上川一哉、福田転球、一路真輝、竹中直人、演出家・永井誠氏が5日、都内で行われた、シアタークリエ9・10月公演ミュージカル『民王』の開幕に先駆け、囲み取 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "林瑠奈",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "c211b7891c7a4995",
       "title": "乃木坂46・櫻坂46・日向坂46現役メンバーが登壇！青葉坂46オーディションセミナー開催決定",
