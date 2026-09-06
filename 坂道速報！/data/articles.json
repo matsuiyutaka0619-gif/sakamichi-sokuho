@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-06T11:03:12.836Z",
+  "updatedAt": "2026-09-06T15:31:11.179Z",
   "articles": [
+    {
+      "id": "76645427231be4ab",
+      "title": "日向坂46“ひなたフェス2026”中止で緊急生配信！髙橋未来虹 2回目開催を「私たちは諦めていません」",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/204689",
+      "publishedAt": "2026-09-06T14:03:15.000Z",
+      "summary": "アイドルグループ『日向坂46』が9月6日午後8時より『日向坂46 OFFICIAL YouTube CHANNEL』で緊急生配信を行った。 今回の生配信は、台風による公共交通機関への影響などを配慮し開催中止となった『...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5e4bce3bfd178cc4",
+      "title": "【全文】「僕が見たかった青空」西森杏弥と宮腰友里亜の卒業発表、来年１月「別の道に進みたい」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609060001919.html",
+      "publishedAt": "2026-09-06T12:19:39.000Z",
+      "summary": "乃木坂46の公式ライバルアイドルグループ、僕が見たかった青空が6日、公式サイトを更新。メンバーの西森杏弥（23）と宮腰友里亜（21）が27年1月末での卒業を発表した。 声明を通じ「このたび、西森杏弥・宮腰友里亜につきまして、本人よりグル…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ada858f2069aab34",
+      "title": "岡田紗佳「爪痕を残そうと思わない」麻雀プロになって学んだ“ブレない”精神力",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260906-4926487/",
+      "publishedAt": "2026-09-06T11:00:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月31日（月）の放送には、モデル・プロ雀士の岡田紗佳さんが登場！ 本記事では、プロ雀士としての活動や失敗を引きずらないための方法について語った模様をお届けします。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "0cb2b93a879e01b8",
       "title": "西村歩乃果、初のぶりっ子系キャラに挑戦！渡邉美穂主演「旦那の浮気相手とLINE友達になってみた」出演決定",
