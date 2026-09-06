@@ -1,33 +1,63 @@
 {
-  "updatedAt": "2026-09-06T04:45:34.025Z",
+  "updatedAt": "2026-09-06T11:03:12.836Z",
   "articles": [
     {
-      "id": "a3336fd77651705e",
-      "title": "7ORDER・萩谷慧悟＆元乃木坂46・渡辺みり愛、結婚と第1子誕生を公表 同グループ間で「2例目」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1061033/",
-      "publishedAt": "2026-09-06T04:43:26.000Z",
-      "summary": "ボーイズグループ・7ORDERの萩谷慧悟（29）と元乃木坂46で俳優の渡辺みり愛（26）が結婚し、第1子が誕生していたことが6日、公表された。同日、それぞれの所属事務所および萩谷のコメントを通じて発表された。25年3月末 […]",
+      "id": "0cb2b93a879e01b8",
+      "title": "西村歩乃果、初のぶりっ子系キャラに挑戦！渡邉美穂主演「旦那の浮気相手とLINE友達になってみた」出演決定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/web/665733.html",
+      "publishedAt": "2026-09-06T10:00:06.000Z",
+      "summary": "西村歩乃果が、縦型ショートドラマアプリ「タテドラ」のオリジナル作品「旦那の浮気相手とLINE友達になってみた」に出演することが決定した。本作は、信頼していた夫の裏切りを知った主人公・ハッチが、夫の浮気相手とLINEでつながり、裏切り者たちを追い詰めていく復讐劇。主人公・ ... The post 西村歩乃果、初のぶりっ子系キャラに挑戦！渡邉美穂主演「旦那の浮",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "渡邉美穂",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "391a5b488caccd07",
+      "title": "日向坂46、「ひなたフェス2026」中止受け緊急生配信決定！9月6日にメンバーがファンと交流",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/665723.html",
+      "publishedAt": "2026-09-06T09:00:44.000Z",
+      "summary": "日向坂46が、9月6日20時からOFFICIAL YouTube CHANNELで緊急生配信を実施する。日向坂46は、9月5日、6日に宮崎で開催を予定していた大型イベント「ひなたフェス2026」について、悪天候による公共交通機関への影響などを考慮し、中止を発表していた。 ... The post 日向坂46、「ひなたフェス2026」中止受け緊急生配信決定！9",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
-      "id": "d8b8e1ef227f00be",
-      "title": "渡辺みり愛事務所も結婚＆第1子誕生認める「出産後も既往症の再発リスクの懸念から報告控えた」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609060000292.html",
-      "publishedAt": "2026-09-06T02:47:35.000Z",
-      "summary": "元乃木坂46渡辺みり愛（26）の所属事務所アリゲーターの公式Xは6日、7ORDER萩谷慧悟（29）との結婚と、第1子が誕生していたことを発表した。「この度、一部報道機関により報じられましたとおり、渡辺みり愛は萩谷慧悟さんと結婚し子供にも…",
+      "id": "6f2c7e1f003f97bc",
+      "title": "TAKARA・KOKONA「歩いてきた道のりが価値になっていることを証明したい」デビューシングル「Time is money」に込めた思いを語る",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260906-4925658/",
+      "publishedAt": "2026-09-06T07:00:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月27日（木）の放送では、TAKARA（ASHAさん、KOKONAさん）が登場！ 当記事では、お2人が出会ったガールズグループオーディション「No No Girls」の話や、8月8日にリリースされ",
       "groups": [
         "乃木坂46"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
     },
     {
       "id": "64bbe93d222899ca",
@@ -70,8 +100,8 @@
     {
       "id": "40c670cf08cbb914",
       "title": "中田花奈、佐野ひなこも！芸能界からの“Mリーグ”参戦に岡田紗佳「麻雀の輪がどんどん広がると思う」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260905-4921778/",
       "publishedAt": "2026-09-05T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月31日（月）の放送には、モデル・プロ雀士の岡田紗佳さんが登場！ 本記事では、近年の麻雀プロ事情や、岡田さんの活動に対する思いを伺った模様をお届けします。",
@@ -97,8 +127,8 @@
     {
       "id": "cb10ac596908d198",
       "title": "ASHA「KOKONAは『横にいる人』が一番合う」注目のユニット・TAKARAが明かしたお互いの本音",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260905-4921597/",
       "publishedAt": "2026-09-05T11:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月27日（木）の放送では、TAKARA（ASHAさん、KOKONAさん）が登場！当記事では、お互いの印象について語り合った模様を紹介します。",
@@ -111,28 +141,6 @@
       "memberMatches": [
         {
           "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "1e0ec074e50dd160",
-      "title": "与田祐希、GREEN×EXPO 2027オリジナルミュージカル主演！竹中直人、ゆりやんレトリィバァ、望海風斗ら出演",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/stage/665428.html",
-      "publishedAt": "2026-09-04T12:00:26.000Z",
-      "summary": "2027年国際園芸博覧会「GREEN×EXPO 2027」で上演・上映される神奈川県オリジナルミュージカル「Vibrant INOCHI（バイブラント・いのち）」の映像版・舞台版キャストが発表された。同作は、神奈川県の基本理念「いのち輝く Vibrant INOCHI」 ... The post 与田祐希、GREEN×EXPO 2027オリジナルミュージカル",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
           "group": "乃木坂46",
           "status": "og"
         }
