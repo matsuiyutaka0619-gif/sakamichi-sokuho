@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-09-07T12:41:22.416Z",
+  "updatedAt": "2026-09-07T21:33:53.697Z",
   "articles": [
+    {
+      "id": "a9962311fbfd9ce2",
+      "title": "乃木坂46 井上和、コーセー『衝撃のカールキープマジック』CM出演 上向きまつ毛で明るい表情見せる",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2514765.html",
+      "publishedAt": "2026-09-07T19:00:03.000Z",
+      "summary": "乃木坂46の井上和が、9月16日に発売されるコーセー『衝撃のカールキープマジック』の新WEB CM『どんなときも、まつ毛“超絶かわいい！”』篇に出演。本日9月8日より配信される。 本CMでは、“メイク キープ”シリー",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "122768ebecfef848",
+      "title": "鈴本美愉、最新ショットが「大人の品格」「イケ散らかしてる」 秋コーデに「うわぁぁ可愛い」の声",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1061701/",
+      "publishedAt": "2026-09-07T13:20:00.000Z",
+      "summary": "元欅坂46で、タレントの鈴本美愉（28）が7日までに、新作プロモーションイベントに参加したことを報告した。「GU」新作コーデを披露 元欅坂46で、タレントの鈴本美愉（28）が7日までに、新作プロモーションイベントに参加 […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "鈴本美愉",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "76645427231be4ab",
       "title": "日向坂46“ひなたフェス2026”中止で緊急生配信！髙橋未来虹 2回目開催を「私たちは諦めていません」",
