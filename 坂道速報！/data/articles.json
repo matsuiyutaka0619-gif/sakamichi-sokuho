@@ -1,19 +1,27 @@
 {
-  "updatedAt": "2026-09-06T20:28:23.624Z",
+  "updatedAt": "2026-09-07T04:49:48.944Z",
   "articles": [
     {
-      "id": "7318cf5e7bc53e8c",
-      "title": "“新体制”乃木坂46が恒例真夏の全国ツアー完走「新しい乃木坂46だからこそ」見せつけた変化",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202608300000420.html",
-      "publishedAt": "2026-09-06T20:10:00.000Z",
-      "summary": "乃木坂46「真夏の全国ツアー2026」が23日の明治神宮野球場公演をもって幕を下ろした。毎年恒例となっている夏の一大イベントで、今年は過去最多8都市18公演を回り、28万人の熱狂を生んだ。 毎年恒例ではあるものの、記者が「乃木坂の夏」を…",
+      "id": "46fa635ca80e9a89",
+      "title": "仁村紗和×佐藤大樹『ダウト -15年目の復讐-』に細田善彦、髙松アロハ、松田好花ら出演へ",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2514024.html",
+      "publishedAt": "2026-09-06T21:00:52.000Z",
+      "summary": "10月1日より読売テレビ・日本テレビ系で放送がスタートする仁村紗和主演ドラマ『ダウト -15年目の復讐-』の追加キャストとして、細田善彦、駿河太郎、中田青渚、髙松アロハ、松田好花、オラキオ、戸田昌宏、ひょっこりはん、横",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
     },
     {
       "id": "ada858f2069aab34",
@@ -40,8 +48,8 @@
     {
       "id": "6f2c7e1f003f97bc",
       "title": "TAKARA・KOKONA「歩いてきた道のりが価値になっていることを証明したい」デビューシングル「Time is money」に込めた思いを語る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260906-4925658/",
       "publishedAt": "2026-09-06T07:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月27日（木）の放送では、TAKARA（ASHAさん、KOKONAさん）が登場！ 当記事では、お2人が出会ったガールズグループオーディション「No No Girls」の話や、8月8日にリリースされ",
@@ -175,28 +183,6 @@
       ]
     },
     {
-      "id": "3c927e60962f3d11",
-      "title": "『めおと日和』芙美子役は山本舞香から生田絵梨花へ 「私に務まるだろうか」不安も芳根京子の言葉で決心",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260904-4912223/",
-      "publishedAt": "2026-09-03T20:00:00.000Z",
-      "summary": "「私に務まるだろうか」――10月15日にスタートするフジテレビ系ドラマ『波うららかに、めおと日和』(毎週木曜22:00～)で、前作で山本舞香が演じた芙美子役を、生田絵梨花が引き継ぐことが発表された。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "1835583134b843c3",
       "title": "乃木坂46賀喜遥香「反対されるかなと思っていたんだけど…」オーディションを受ける前の心境を告白",
       "sourceName": "マイナビニュース 芸能",
@@ -289,28 +275,6 @@
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260830-4891857/",
       "publishedAt": "2026-08-30T11:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月24日（月）の放送は、日曜劇場「VIVANT」（TBS系）で堺雅人さん演じる乃木憂助と、阿部寛さん演じる野崎守のモノマネでも注目を集めるお笑いコンビ・ラパルフェ（都留拓也さん、尾身智志さん）が登",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "ddf66f6a4dcd3a1e",
-      "title": "ラパルフェ都留「乃木と野崎のセリフを両方メモってます」ドラマ『VIVANT』堺雅人＆阿部寛モノマネの裏側を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260829-4887283/",
-      "publishedAt": "2026-08-29T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月24日（月）の放送は、日曜劇場「VIVANT」（TBS系）で堺雅人さん演じる乃木憂助と、阿部寛さん演じる野崎守のモノマネでも注目を集めるお笑いコンビ・ラパルフェ（都留拓也さん、尾身智志さん）が登",
       "groups": [
         "乃木坂46"
