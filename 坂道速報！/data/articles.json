@@ -1,6 +1,163 @@
 {
-  "updatedAt": "2026-09-09T11:29:42.046Z",
+  "updatedAt": "2026-09-09T16:42:31.468Z",
   "articles": [
+    {
+      "id": "ca737d9549c8eab4",
+      "title": "日向坂46、ひなた坂46楽曲「風にキンモクセイ」MV公開 清水理央センターで陽炎だった夏を描く",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/91930/",
+      "publishedAt": "2026-09-09T15:25:00.000Z",
+      "summary": "日向坂46が9月30日(水)に発売する18thシングルの収録曲で、“ひなた坂46”メンバーによる新曲「風にキンモクセイ」のMusic Videoが公開された。 18thシングル『イチャイチャ虫』に共通カップリング収録される「風にキンモクセイ」のセンターは四期生・清水理央。そのMusic Videoでは「陽炎だった夏」をテーマに、夏の終わりに過ごした儚くもアツ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "清水理央",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "829c76bf00ba8cbc",
+      "title": "櫻坂46の2代目キャプテン松田里奈が卒業発表、乃木坂46では5月に3代目の梅澤美波が卒業",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609090001775.html",
+      "publishedAt": "2026-09-09T13:11:00.000Z",
+      "summary": "櫻坂46のキャプテン、松田里奈（26）が9日、自身の公式ブログを更新し、年内の活動をもってグループから卒業することを発表した。21年1月から副キャプテン、翌22年11月に初代キャプテン菅井友香（30）の卒業に伴い2代目キャプテンに就任し…",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅井友香",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "48658c24ca0d220e",
+      "title": "櫻坂46松田里奈が卒業発表、年内の活動をもって 22年11月から2代目キャプテン務める",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609090001761.html",
+      "publishedAt": "2026-09-09T13:05:00.000Z",
+      "summary": "櫻坂46のキャプテン、松田里奈（26）が9日、自身の公式ブログを更新し、年内の活動をもってグループから卒業すると発表した。11月15日に千葉・ＺＯＺＯマリンスタジアムで開催される「6th YEAR ANNIVERSARY LIVE」2日…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cb0917a8b9eaf634",
+      "title": "乃木坂46賀喜遥香 北海道のライブ後に行った“焼肉会”を振り返る「五百城茉央ちゃん、冨里奈央ちゃん、川端晃菜ちゃんと同じテーブルで…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260909-4942422/",
+      "publishedAt": "2026-09-09T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、7月4日、5日におこなわれた北海道公演について語った模様を紹介します。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "冨里奈央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川端晃菜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "58d6f262e9f1a3d5",
+      "title": "日向坂46山下葉留花「陽子は“愛”重めだと思います」髙橋未来虹と18枚目シングル「イチャイチャ虫」MVの正源司陽子を絶賛",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260909-4942278/",
+      "publishedAt": "2026-09-09T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月4日（金）の放",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "db05b0da6db6a703",
       "title": "与田祐希、海辺での爽やかな撮影オフショ 腹チラのミニ丈トップス姿に「ウエストほっそーい」「可愛さ爆発」",
@@ -249,43 +406,6 @@
         {
           "name": "井上和",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "f47275c7131636aa",
-      "title": "日向坂46髙橋未来虹「三期生ライブ」完走！後輩メンバーの反応に「先輩は涙涙でございます」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260901-4902107/",
-      "publishedAt": "2026-09-01T12:50:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。8月28日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -866,28 +986,6 @@
         {
           "name": "一ノ瀬美空",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d6ed45a2c8a09d0c",
-      "title": "櫻坂46・四期生が旗を振り回し躍動する「We got your back」MV公開、センターは佐藤愛桜",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/88309/",
-      "publishedAt": "2026-06-26T13:00:00.000Z",
-      "summary": "櫻坂46が、6月10日(水)に発売した15thシングル『Lonesome rabbit / What’s “KAZOKU”?』収録の四期生楽曲「We got your back」のMusic Videoを公開した。 今作では四期生・佐藤愛桜が初めてセンターを担当。今月開催された「四期生ライブ」で初披露された圧巻のパフォーマンスが大きな話題を呼んでおり、そのM",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐藤愛桜",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
