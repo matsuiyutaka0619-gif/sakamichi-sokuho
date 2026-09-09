@@ -1,77 +1,88 @@
 {
-  "updatedAt": "2026-09-08T21:13:15.306Z",
+  "updatedAt": "2026-09-09T04:48:40.617Z",
   "articles": [
     {
-      "id": "d4c2bd55f2d0b9d5",
-      "title": "市村正親、後輩・渡辺えりと50年越し初共演 “超ハード稽古”に「言わなきゃよかった」と苦笑い",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1062439/",
-      "publishedAt": "2026-09-08T12:30:00.000Z",
-      "summary": "俳優の市村正親と渡辺えりが8日、都内で行われたミュージカル『シークレットステージ』囲み取材に、中川晃教、影山優佳、東島京とともに出席。約50年越しの初共演を果たした2人が、作品作りやハードな稽古を振り返った。「疲れる芝居 […]",
+      "id": "52a6eb01cc7d1747",
+      "title": "坂道メンバー“写真集2冊目”の共通点とは？ 金村美玖、白石麻衣、山下美月、田村保乃らのキャリアから紐解く",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2516241.html",
+      "publishedAt": "2026-09-09T03:10:15.000Z",
+      "summary": "日向坂46の金村美玖が10月20日に2nd写真集『機微』を発売する。坂道グループではこれまで、白石麻衣、西野七瀬、橋本奈々未、生田絵梨花らが2冊目となる写真集を発売してきた。本稿では、数多くの坂道メンバーが写真集を発売してきた中で、2nd写真集まで発売したメンバーにはどのような共通点があるのか紐解いていく。",
       "groups": [
-        "日向坂46"
+        "日向坂46",
+        "櫻坂46",
+        "乃木坂46"
       ],
       "statuses": [
+        "active",
         "og"
       ],
       "memberMatches": [
         {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "73588c2152fbe9db",
-      "title": "影山優佳、舞台経験ほぼゼロでミュージカル挑戦 渡辺えりの指導に感謝「難しさとすごさを同時に感じながら」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1062460/",
-      "publishedAt": "2026-09-08T12:30:00.000Z",
-      "summary": "元日向坂46で俳優の影山優佳が8日、都内で行われたミュージカル『シークレットステージ』囲み取材に、市村正親、中川晃教、東島京、渡辺えりらとともに出席。舞台経験がほとんどない中で挑んだ稽古の日々を振り返った。渡辺えりからの […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
+          "name": "田村保乃",
+          "group": "櫻坂46",
+          "status": "active"
+        },
         {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "30e3eae20851b419",
-      "title": "日向坂46・森本茉莉、卒業発表「数年前に決断」 12・11卒業セレモニー実施…2020年加入の22歳",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1062501/",
-      "publishedAt": "2026-09-08T12:01:20.000Z",
-      "summary": "日向坂46の森本茉莉（22）が、30日発売の18thシングル『イチャイチャ虫』の活動をもって卒業することを8日、自身の公式ブログで発表した。18thシングル『イチャイチャ虫』の活動をもって 日向坂46の森本茉莉（22） […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森本茉莉",
+          "name": "金村美玖",
           "group": "日向坂46",
           "status": "active"
+        },
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "橋本奈々未",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "c008f7368874b268",
+      "title": "西野七瀬、役者としての“弱点”を武器に変えて 「一つ乗り越えられた感覚があった」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2516553.html",
+      "publishedAt": "2026-09-08T22:30:53.000Z",
+      "summary": "2026年はドラマ『未来のムスコ』（TBS系）や映画『免許返納!?』といった話題作への出演が続き、俳優としてさらなる存在感を放っている西野七瀬。そんな彼女が次なる舞台に選んだのは、現在放送中の夜ドラ『税金で買った本』（",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
     {
       "id": "7ff40e7dd6f1fb6b",
       "title": "乃木坂46賀喜遥香 大好きなアンパンマンと初対面で人見知り!?「無邪気さを失っていたわ」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260908-4937065/",
       "publishedAt": "2026-09-08T12:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、大好きなアンパンマンと共演した際の裏話を語りました。",
