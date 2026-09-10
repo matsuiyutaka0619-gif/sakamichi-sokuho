@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-09-10T11:26:17.820Z",
+  "updatedAt": "2026-09-10T16:28:41.449Z",
   "articles": [
+    {
+      "id": "663d28670bb45d86",
+      "title": "元乃木坂46若月佑美は素を見せる 写真、絵画、言葉の「作品集」９・18発売「自己満足の世界を」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609100001947.html",
+      "publishedAt": "2026-09-10T15:00:00.000Z",
+      "summary": "元乃木坂46で女優、モデルの若月佑美（32）が、デビュー15周年記念の作品集「FIRST EGOISE」を18日に発売する。このほど取材に応じ、写真、絵画、言葉の三つで「これまでの歩みとこれから進む未来への思いを収めた」という作品への思…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "若月佑美",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "497a2b104eae38c5",
+      "title": "乃木坂46賀喜遥香「“盗んでごめん…”と思いながら過ごしていました」ライブツアー中に密かに担っていた役割とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260910-4947537/",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、今回のツアーのコンセプトについて語った模様を紹介します。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d8bc5bb8845858e9",
+      "title": "乃木坂46賀喜遥香「森平麗心ちゃんとWセンターで…」『真夏の全国ツアー2026』広島公演で披露された“レア演出”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260910-4947278/",
+      "publishedAt": "2026-09-10T11:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、7月11日、12日におこなわれた広島公演について語った模様を紹介します。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "森平麗心",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "cdd073b63249a157",
       "title": "18歳で上京後に暮らした原点・渋谷へ…福山雅治、夢を追いながら歩いた街を見渡しライブも",
@@ -300,28 +371,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1835583134b843c3",
-      "title": "乃木坂46賀喜遥香「反対されるかなと思っていたんだけど…」オーディションを受ける前の心境を告白",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260903-4912024/",
-      "publishedAt": "2026-09-03T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月27日（木）の放送では、生徒（リスナー）から届いた相談メールに答えました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
         }
