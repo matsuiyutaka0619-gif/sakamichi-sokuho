@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-09-09T20:58:54.735Z",
+  "updatedAt": "2026-09-10T04:49:45.826Z",
   "articles": [
+    {
+      "id": "2c87e2c19821d0b4",
+      "title": "松村沙友理、出産祝いでうれしかった“ベビー用品”を告白 「何でも使うんですよ」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/09/10/20163581964/",
+      "publishedAt": "2026-09-10T02:30:00.000Z",
+      "summary": "10日放送の『上田と女が吠える夜』（日本テレビ系）に、アイドルグループ「乃木坂46」の元メンバー・松村沙友理さんが出演。 今年3月に第1子を出産した松村さんが、出産祝いでもらってうれしかった品を告白しました。 ■出産祝い…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "cdd073b63249a157",
+      "title": "18歳で上京後に暮らした原点・渋谷へ…福山雅治、夢を追いながら歩いた街を見渡しライブも",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260910-4942420/",
+      "publishedAt": "2026-09-09T21:30:00.000Z",
+      "summary": "「音楽と出会い、夢を追いかけた」――24日に放送されるフジテレビ系特番『タビフクヤマ』(22:15～)で、福山雅治が18歳で上京後、音楽活動を始めた頃に暮らしていた“原点”の街・渋谷へ。生田絵梨花、満島真之介、リリー・フランキーとともに思い出の場所を巡り、デビュー後初ライブの貴重映像も公開される。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "ca737d9549c8eab4",
       "title": "日向坂46、ひなた坂46楽曲「風にキンモクセイ」MV公開 清水理央センターで陽炎だった夏を描く",
@@ -19,62 +63,6 @@
         {
           "name": "清水理央",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "829c76bf00ba8cbc",
-      "title": "櫻坂46の2代目キャプテン松田里奈が卒業発表、乃木坂46では5月に3代目の梅澤美波が卒業",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609090001775.html",
-      "publishedAt": "2026-09-09T13:11:00.000Z",
-      "summary": "櫻坂46のキャプテン、松田里奈（26）が9日、自身の公式ブログを更新し、年内の活動をもってグループから卒業することを発表した。21年1月から副キャプテン、翌22年11月に初代キャプテン菅井友香（30）の卒業に伴い2代目キャプテンに就任し…",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅井友香",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "48658c24ca0d220e",
-      "title": "櫻坂46松田里奈が卒業発表、年内の活動をもって 22年11月から2代目キャプテン務める",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609090001761.html",
-      "publishedAt": "2026-09-09T13:05:00.000Z",
-      "summary": "櫻坂46のキャプテン、松田里奈（26）が9日、自身の公式ブログを更新し、年内の活動をもってグループから卒業すると発表した。11月15日に千葉・ＺＯＺＯマリンスタジアムで開催される「6th YEAR ANNIVERSARY LIVE」2日…",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
@@ -119,8 +107,8 @@
     {
       "id": "58d6f262e9f1a3d5",
       "title": "日向坂46山下葉留花「陽子は“愛”重めだと思います」髙橋未来虹と18枚目シングル「イチャイチャ虫」MVの正源司陽子を絶賛",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260909-4942278/",
       "publishedAt": "2026-09-09T12:00:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月4日（金）の放",
