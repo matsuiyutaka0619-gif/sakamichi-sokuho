@@ -1,33 +1,11 @@
 {
-  "updatedAt": "2026-09-10T04:49:45.826Z",
+  "updatedAt": "2026-09-10T11:26:17.820Z",
   "articles": [
-    {
-      "id": "2c87e2c19821d0b4",
-      "title": "松村沙友理、出産祝いでうれしかった“ベビー用品”を告白 「何でも使うんですよ」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/09/10/20163581964/",
-      "publishedAt": "2026-09-10T02:30:00.000Z",
-      "summary": "10日放送の『上田と女が吠える夜』（日本テレビ系）に、アイドルグループ「乃木坂46」の元メンバー・松村沙友理さんが出演。 今年3月に第1子を出産した松村さんが、出産祝いでもらってうれしかった品を告白しました。 ■出産祝い…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松村沙友理",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
     {
       "id": "cdd073b63249a157",
       "title": "18歳で上京後に暮らした原点・渋谷へ…福山雅治、夢を追いながら歩いた街を見渡しライブも",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260910-4942420/",
       "publishedAt": "2026-09-09T21:30:00.000Z",
       "summary": "「音楽と出会い、夢を追いかけた」――24日に放送されるフジテレビ系特番『タビフクヤマ』(22:15～)で、福山雅治が18歳で上京後、音楽活動を始めた頃に暮らしていた“原点”の街・渋谷へ。生田絵梨花、満島真之介、リリー・フランキーとともに思い出の場所を巡り、デビュー後初ライブの貴重映像も公開される。",
@@ -70,8 +48,8 @@
     {
       "id": "cb0917a8b9eaf634",
       "title": "乃木坂46賀喜遥香 北海道のライブ後に行った“焼肉会”を振り返る「五百城茉央ちゃん、冨里奈央ちゃん、川端晃菜ちゃんと同じテーブルで…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260909-4942422/",
       "publishedAt": "2026-09-09T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、7月4日、5日におこなわれた北海道公演について語った模様を紹介します。",
@@ -344,33 +322,6 @@
       "memberMatches": [
         {
           "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "19bfd223760d88d4",
-      "title": "乃木坂46賀喜遥香「私もお気に入り！」井上和も絶賛した“ヘアアレンジ”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260902-4907015/",
-      "publishedAt": "2026-09-02T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。8月27日（木）の放送では、生徒（リスナー）から届いたメッセージを紹介。本記事では、42枚目のシングル「是非に及ばず」の衣装やヘアアレンジについて語った模様をお届けします。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -929,28 +880,6 @@
       "memberMatches": [
         {
           "name": "長嶋凛桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cae6e97ba2b95443",
-      "title": "乃木坂46がパンクな世界観を表現、一ノ瀬美空センターで新境地を拓く「是非に及ばず」MV公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/06/88357/",
-      "publishedAt": "2026-06-28T05:00:00.000Z",
-      "summary": "乃木坂46が、来月7月22日(水)にリリースする42ndシングル表題曲「是非に及ばず」のMusic Videoを公開した。 現在全国8か所18公演を巡る”真夏の全国ツアー2026”を開催中の乃木坂46。「是非に及ばず」はCDリリースに先駆けて6月13日(土)に先行配信がスタートしており、5期生・一ノ瀬美空が初めて表題曲センターを務めることも話題となっている。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "一ノ瀬美空",
           "group": "乃木坂46",
           "status": "active"
         }
