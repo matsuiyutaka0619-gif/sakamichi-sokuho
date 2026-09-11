@@ -1,33 +1,11 @@
 {
-  "updatedAt": "2026-09-11T04:46:41.659Z",
+  "updatedAt": "2026-09-11T11:28:19.391Z",
   "articles": [
-    {
-      "id": "fb5c8701be294ad7",
-      "title": "齋藤飛鳥×富田望生『まめとむぎ』に濱尾ノリタカ、山谷花純、長井短ら出演 キービジュアルも",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2519790.html",
-      "publishedAt": "2026-09-11T03:00:19.000Z",
-      "summary": "10月2日よりテレビ東京で放送される、齋藤飛鳥と富田望生のW主演ドラマ『まめとむぎ』の追加キャストとして濱尾ノリタカ、 石川瑠華、山谷花純、橋本淳、長井短、八木アリサ 、タカハシシンノスケ、嶋田久作、ふせえりの出演が決",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
     {
       "id": "182f9b90a11824a2",
       "title": "乃木坂46遠藤さくら、『脱力タイムズ』のギャラ暴露!? 全力解説員と“国会答弁”さながらの大論戦も",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260911-4947719/",
       "publishedAt": "2026-09-10T21:00:00.000Z",
       "summary": "「ずっと緊張していて…無事に終わって安心感に包まれています(笑)」――乃木坂46の遠藤さくらが、きょう11日に放送されるフジテレビ系バラエティ番組『全力!脱力タイムズ』(毎週金曜23:00～)に初登場。“番組出演料”をめぐるまさかのトークや、全力解説員との大論戦に挑む。",
@@ -48,8 +26,8 @@
     {
       "id": "497a2b104eae38c5",
       "title": "乃木坂46賀喜遥香「“盗んでごめん…”と思いながら過ごしていました」ライブツアー中に密かに担っていた役割とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260910-4947537/",
       "publishedAt": "2026-09-10T12:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、今回のツアーのコンセプトについて語った模様を紹介します。",
