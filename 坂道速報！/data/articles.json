@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-11T11:28:19.391Z",
+  "updatedAt": "2026-09-11T16:32:57.627Z",
   "articles": [
+    {
+      "id": "041ae81b3fe60c35",
+      "title": "ライブ規模ランキングTOP30（2026年8月）：福山雅治、なにわ男子、乃木坂46、KEY TO LIT、Stray Kidsら上位に",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2518325.html",
+      "publishedAt": "2026-09-11T13:00:52.000Z",
+      "summary": "リアルサウンドのオリジナルコンテンツ「ライブ規模ランキングTOP30」2026年8月分を公開。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "182f9b90a11824a2",
       "title": "乃木坂46遠藤さくら、『脱力タイムズ』のギャラ暴露!? 全力解説員と“国会答弁”さながらの大論戦も",
@@ -328,28 +342,6 @@
         {
           "name": "山崎怜奈",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "e30395ce0f7c4263",
-      "title": "「マジで腹立つな…そのままぶちまけてやろう！」メジャーデビュー10周年・My Hair is Bad椎木知仁が怒りをぶつけた新曲とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260904-4916475/",
-      "publishedAt": "2026-09-04T10:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。8月29日（土）の放送には、My Hair is Badの椎木知仁さん（Gt.／Vo）、山本大樹さん（Ba.／Cho）、山田淳さん（Dr.）が登場！ 7枚目のフルアルバムに収録された楽曲の制",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
