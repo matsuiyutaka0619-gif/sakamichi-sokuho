@@ -1,41 +1,71 @@
 {
-  "updatedAt": "2026-09-12T04:41:13.472Z",
+  "updatedAt": "2026-09-12T10:53:12.128Z",
   "articles": [
     {
-      "id": "0ae7db41e3767cfe",
-      "title": "Rainy。新曲がHey! Say! JUMP髙木雄也主演ドラマ『ドラマが飛んだ！』主題歌に決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1088102",
-      "publishedAt": "2026-09-11T22:00:00.000Z",
-      "summary": "Rainy。の新曲「True Eyes」が、9月19日(土)24時5分から放送開始の東海テレビ・フジテレビ系列全国ネット『ドラマが飛んだ！』の主題歌に起用されることが発表となった。 TVドラマ『ドラマが飛んだ！』は、Hey! Say! JUMP髙木雄也の連ドラ単独初主演作品となるもの。その舞台はTVドラマの制作現場だ。主演女優のトラブル、監督の脱落、スポンサ",
+      "id": "f5f21e7c88f11166",
+      "title": "元櫻坂46渡辺梨加が第１子妊娠を発表「３人で過ごす日々が楽しみ」３月に一般男性と結婚",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609120001280.html",
+      "publishedAt": "2026-09-12T10:12:52.000Z",
+      "summary": "元櫻坂46の渡辺梨加（31）が12日、インスタグラムを更新。第1子の妊娠を発表した。 渡辺は「このたび、新しい命を授かりました」と第1子の妊娠を報告。 続けて「お腹の中で一生懸命に大きくなってくれていることがとても愛おしく、幸せな毎日を…",
       "groups": [
-        "日向坂46"
+        "櫻坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "佐々木美玲",
-          "group": "日向坂46",
+          "name": "渡辺梨加",
+          "group": "櫻坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "041ae81b3fe60c35",
-      "title": "ライブ規模ランキングTOP30（2026年8月）：福山雅治、なにわ男子、乃木坂46、KEY TO LIT、Stray Kidsら上位に",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2518325.html",
-      "publishedAt": "2026-09-11T13:00:52.000Z",
-      "summary": "リアルサウンドのオリジナルコンテンツ「ライブ規模ランキングTOP30」2026年8月分を公開。",
+      "id": "9a13e9fb473027ef",
+      "title": "与田祐希×野村周平『溺愛カレシの作り方』メインビジュアル公開 馬場園梓が“恋の妖精”役に",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2521210.html",
+      "publishedAt": "2026-09-12T09:00:10.000Z",
+      "summary": "10月7日よりテレ東系で放送がスタートする与田祐希主演ドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』のメインビジュアルが公開され、追加キャストとして、馬場園梓、山下リオ、橋本和太琉の出演が発表された。",
       "groups": [
         "乃木坂46"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "73b7f0ab884ac7b8",
+      "title": "与田祐希主演『溺愛カレシの作り方』メインビジュ解禁 馬場園梓ら追加キャストも発表",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1064536/",
+      "publishedAt": "2026-09-12T09:00:00.000Z",
+      "summary": "元乃木坂46で俳優の与田祐希が主演を務め、10月7日に放送スタートするテレビ東京系連続ドラマ『溺愛カレシの作り方～セから本命になる女の子の話～』（水曜深夜0時30分 ※初回は深夜0時45分）のメインビジュアルが、12日に […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
     },
     {
       "id": "182f9b90a11824a2",
