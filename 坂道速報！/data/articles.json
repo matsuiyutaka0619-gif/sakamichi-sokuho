@@ -1,25 +1,47 @@
 {
-  "updatedAt": "2026-09-13T04:53:57.561Z",
+  "updatedAt": "2026-09-13T11:58:11.112Z",
   "articles": [
     {
-      "id": "9a13e9fb473027ef",
-      "title": "与田祐希×野村周平『溺愛カレシの作り方』メインビジュアル公開 馬場園梓が“恋の妖精”役に",
+      "id": "3f7db28d55ed390a",
+      "title": "中村蒼主演ドラマ『十六夜膳房』に門脇麦、伊東蒼、田中美久、倉悠貴、菅井友香ら出演へ",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2521210.html",
-      "publishedAt": "2026-09-12T09:00:10.000Z",
-      "summary": "10月7日よりテレ東系で放送がスタートする与田祐希主演ドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』のメインビジュアルが公開され、追加キャストとして、馬場園梓、山下リオ、橋本和太琉の出演が発表された。",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2521895.html",
+      "publishedAt": "2026-09-13T09:00:36.000Z",
+      "summary": "10月12日より日本テレビ系で放送がスタートする中村蒼主演の『十六夜膳房』に、門脇麦、倉悠貴、野波麻帆ら16人の出演が決定した。",
       "groups": [
-        "乃木坂46"
+        "櫻坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "与田祐希",
-          "group": "乃木坂46",
+          "name": "菅井友香",
+          "group": "櫻坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "257bf93fe446250c",
+      "title": "乃木坂46、約9年ぶりの東京体育館でアンダーライブ 小川彩が初センター、全国カラオケで生配信",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260913-4961126/",
+      "publishedAt": "2026-09-13T09:00:00.000Z",
+      "summary": "約9年ぶりに“聖地”へ――。乃木坂46の「42ndSG アンダーライブ」が30日(18:30～)、東京体育館で開催され、その模様がJOYSOUND「みるハコ」を通じて全国のカラオケルームへ生配信される。最新アンダー楽曲「フォルテシモ」で自身初のアンダーセンターを務める小川彩を中心に、14人がステージに立つ。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -91,28 +113,6 @@
           "name": "森平麗心",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cdd073b63249a157",
-      "title": "18歳で上京後に暮らした原点・渋谷へ…福山雅治、夢を追いながら歩いた街を見渡しライブも",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260910-4942420/",
-      "publishedAt": "2026-09-09T21:30:00.000Z",
-      "summary": "「音楽と出会い、夢を追いかけた」――24日に放送されるフジテレビ系特番『タビフクヤマ』(22:15～)で、福山雅治が18歳で上京後、音楽活動を始めた頃に暮らしていた“原点”の街・渋谷へ。生田絵梨花、満島真之介、リリー・フランキーとともに思い出の場所を巡り、デビュー後初ライブの貴重映像も公開される。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -276,33 +276,6 @@
         "og"
       ],
       "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "40c670cf08cbb914",
-      "title": "中田花奈、佐野ひなこも！芸能界からの“Mリーグ”参戦に岡田紗佳「麻雀の輪がどんどん広がると思う」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260905-4921778/",
-      "publishedAt": "2026-09-05T11:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月31日（月）の放送には、モデル・プロ雀士の岡田紗佳さんが登場！ 本記事では、近年の麻雀プロ事情や、岡田さんの活動に対する思いを伺った模様をお届けします。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "中田花奈",
-          "group": "乃木坂46",
-          "status": "og"
-        },
         {
           "name": "山崎怜奈",
           "group": "乃木坂46",
