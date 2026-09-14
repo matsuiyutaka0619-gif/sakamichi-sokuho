@@ -1,27 +1,121 @@
 {
-  "updatedAt": "2026-09-13T20:53:48.431Z",
+  "updatedAt": "2026-09-14T05:02:33.835Z",
   "articles": [
     {
-      "id": "0a84ab4a8f6ccfb8",
-      "title": "乃木坂46弓木奈於の実弟が「イケメンすぎる」 顔出しにファン衝撃「目元そっくり」「美形家系だな」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1065027/",
-      "publishedAt": "2026-09-13T12:20:35.000Z",
-      "summary": "お笑いコンビ・アルコ＆ピースの酒井健太が13日までに、アイドルグループ・乃木坂46の弓木奈於と、弓木の実弟との3ショットを公開した。「酒井、弓木、弓木」の顔出し3ショット お笑いコンビ・アルコ＆ピースの酒井健太が13日 […]",
+      "id": "2a9fc5a5f01602a4",
+      "title": "櫻坂46、16thシングル『愛MUST BE』新ビジュアル公開 表題曲の先行配信、MVプレミア公開も",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2522498.html",
+      "publishedAt": "2026-09-14T04:43:01.000Z",
+      "summary": "櫻坂46が、10月14日にリリースする16thシングル『愛MUST BE』の新ビジュアルおよび配信ジャケットを公開。また、あわせてビジュアルの撮影風景を収めたティザー映像も公開となった。 本作の表題曲「愛MUST B",
       "groups": [
-        "乃木坂46"
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "ceaebaf8b96c95f2",
+      "title": "櫻坂46、16thシングル「愛MUST BE」新ビジュアル公開。MVプレミア公開＆先行配信へ",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1088357",
+      "publishedAt": "2026-09-14T04:18:49.000Z",
+      "summary": "10月14日発売の16thシングル「愛MUST BE」の新アーティスト写真、および配信ジャケットを公開した。 本楽曲は三期生・谷口愛季がセンターに座り、表題曲としては初のセンターを務める。新ビジュアル公開とともに、撮影風景を収めたティザー映像も公開となった。さらに、9月17日(木)0時からは「愛MUST BE」のミュージックビデオがYouTubeプレミア公開",
+      "groups": [
+        "櫻坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "弓木奈於",
-          "group": "乃木坂46",
+          "name": "谷口愛季",
+          "group": "櫻坂46",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "4671f430deb8d872",
+      "title": "渡邉美穂×砂田将宏×浅川梨奈×池田匡志がクアトロ主演 『嘘をついた私たち』10月より放送",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2522333.html",
+      "publishedAt": "2026-09-14T03:05:35.000Z",
+      "summary": "渡邉美穂、砂田将宏（BALLISTIK BOYZ）、浅川梨奈、池田匡志がクアトロ主演を務める連続ドラマ『嘘をついた私たち』が、テレビ大阪にて10月8日より、BSテレ東にて10月11日より、テレビ愛知にて10月13日より",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "渡邉美穂",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "e5d4aefa8615b4e7",
+      "title": "櫻坂46、谷口愛季センターの『愛MUST BE』新ビジュアル解禁 ティザーではその撮影風景も",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/92065/",
+      "publishedAt": "2026-09-14T01:05:00.000Z",
+      "summary": "櫻坂46が、10月14日(水)にリリースする16thシングル『愛MUST BE』の新アーティストビジュアルを公開した。 昨夜放送されたレギュラー番組「そこ曲がったら、櫻坂？」内で発表された今作のフォーメーションでセンターを務めるのは三期生・谷口愛季。表題曲としては初めてのセンターとなり、番組内のインタビューで谷口は「不安な気持ちは、少しはあるんですけど、期待",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7f72a9428f01c800",
+      "title": "櫻坂46、三期生・谷口愛季が16thシングル『愛MUST BE』で初センター！「新しい魅力を発信していきたい」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/667266.html",
+      "publishedAt": "2026-09-14T00:00:08.000Z",
+      "summary": "櫻坂46が10月14日に発売する16thシングル『愛MUST BE』のフォーメーションが、レギュラー番組『そこ曲がったら、櫻坂？』内で発表された。表題曲のセンターを務めるのは三期生の谷口愛季。谷口が櫻坂46の表題曲でセンターを担当するのは今回が初となる。番組内のインタビ ... The post 櫻坂46、三期生・谷口愛季が16thシングル『愛MUST BE",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "4a7637014799bc50",
+      "title": "乃木坂46、約9年ぶりの東京体育館「42ndSGアンダーライブ」をJOYSOUND「みるハコ」で生配信！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/667241.html",
+      "publishedAt": "2026-09-13T21:00:08.000Z",
+      "summary": "乃木坂46の「42ndSGアンダーライブ」が、9月30日（水）18時30分からJOYSOUNDの映像視聴サービス「みるハコ」で生配信される。同公演は、乃木坂46の42ndシングルに参加するアンダーメンバーによるライブ。最新アンダー楽曲『フォルテシモ』で自身初のアンダーセ ... The post 乃木坂46、約9年ぶりの東京体育館「42ndSGアンダーライブ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "4a15910d358e37f1",
@@ -46,32 +140,10 @@
       ]
     },
     {
-      "id": "3f7db28d55ed390a",
-      "title": "中村蒼主演ドラマ『十六夜膳房』に門脇麦、伊東蒼、田中美久、倉悠貴、菅井友香ら出演へ",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2521895.html",
-      "publishedAt": "2026-09-13T09:00:36.000Z",
-      "summary": "10月12日より日本テレビ系で放送がスタートする中村蒼主演の『十六夜膳房』に、門脇麦、倉悠貴、野波麻帆ら16人の出演が決定した。",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "菅井友香",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "257bf93fe446250c",
       "title": "乃木坂46、約9年ぶりの東京体育館でアンダーライブ 小川彩が初センター、全国カラオケで生配信",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260913-4961126/",
       "publishedAt": "2026-09-13T09:00:00.000Z",
       "summary": "約9年ぶりに“聖地”へ――。乃木坂46の「42ndSG アンダーライブ」が30日(18:30～)、東京体育館で開催され、その模様がJOYSOUND「みるハコ」を通じて全国のカラオケルームへ生配信される。最新アンダー楽曲「フォルテシモ」で自身初のアンダーセンターを務める小川彩を中心に、14人がステージに立つ。",
