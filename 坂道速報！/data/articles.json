@@ -1,38 +1,46 @@
 {
-  "updatedAt": "2026-09-14T05:02:33.835Z",
+  "updatedAt": "2026-09-14T12:56:26.058Z",
   "articles": [
     {
-      "id": "2a9fc5a5f01602a4",
-      "title": "櫻坂46、16thシングル『愛MUST BE』新ビジュアル公開 表題曲の先行配信、MVプレミア公開も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2522498.html",
-      "publishedAt": "2026-09-14T04:43:01.000Z",
-      "summary": "櫻坂46が、10月14日にリリースする16thシングル『愛MUST BE』の新ビジュアルおよび配信ジャケットを公開。また、あわせてビジュアルの撮影風景を収めたティザー映像も公開となった。 本作の表題曲「愛MUST B",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "ceaebaf8b96c95f2",
-      "title": "櫻坂46、16thシングル「愛MUST BE」新ビジュアル公開。MVプレミア公開＆先行配信へ",
+      "id": "e268fa989a669e86",
+      "title": "『ユイカ』、新曲「かわいくない」が『らんま1/2』第3期EDテーマに。「全力で寄り添える楽曲にしよう！と意気込んで書かせていただきました」",
       "sourceName": "BARKS",
       "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1088357",
-      "publishedAt": "2026-09-14T04:18:49.000Z",
-      "summary": "10月14日発売の16thシングル「愛MUST BE」の新アーティスト写真、および配信ジャケットを公開した。 本楽曲は三期生・谷口愛季がセンターに座り、表題曲としては初のセンターを務める。新ビジュアル公開とともに、撮影風景を収めたティザー映像も公開となった。さらに、9月17日(木)0時からは「愛MUST BE」のミュージックビデオがYouTubeプレミア公開",
+      "articleUrl": "https://barks.jp/news/1088415",
+      "publishedAt": "2026-09-14T09:00:36.000Z",
+      "summary": "『ユイカ』の新曲「かわいくない」が、2026年10月3日より日本テレビにて毎週土曜日24:55〜放送スタート、日本テレビ系にて順次全国放送、放送直後よりNetflixにて独占配信されるTVアニメ『らんま1/2』第3期エンディングテーマに決定した。 TVアニメ『らんま1/2』は、2024年10月より展開されてきた完全新作アニメ。水をかぶると女に、お湯をかぶると",
       "groups": [
-        "櫻坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9b15a9574a146369",
+      "title": "ふみの、新曲「素直未満」が『らんま1/2』第3期OPテーマに。「二面性や素直になれないあのもどかしい気持ちを楽曲へ落とし込みました」",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1088434",
+      "publishedAt": "2026-09-14T09:00:12.000Z",
+      "summary": "ふみのの新曲「素直未満」が、TVアニメ『らんま1/2』第3期のオープニングテーマに決定したことが発表された。 TVアニメ「らんま1/2」第3期は、10月3日(土)より日本テレビにて毎週土曜日24:55から放送。日本テレビ系にて順次全国放送され、放送直後よりNetflixにて独占配信される。 「素直未満」は、ふみのが作詞を手がけ、作曲にも参加した新曲。作品に登",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -118,28 +126,6 @@
       "memberMatches": []
     },
     {
-      "id": "4a15910d358e37f1",
-      "title": "舞台本番中に背後から聞こえた“謎の声”「あともう少し…」 生駒里奈の不思議体験 終演後に知った“劇場の噂”とは「霊感のない私でさえ…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20260913-4956550/",
-      "publishedAt": "2026-09-13T12:00:00.000Z",
-      "summary": "「首の後ろで『あともう少し』って言われたんですよ」――。俳優の生駒里奈が、8月28日に公開されたYouTubeチャンネル『好井まさおの怪談を浴びる会』に出演し、舞台の本番中に経験したという不思議な出来事を告白。音楽が鳴り響くなか、首のすぐ後ろから声が聞こえ、終演後には劇場に伝わる“ある噂”を知らされたという。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生駒里奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "257bf93fe446250c",
       "title": "乃木坂46、約9年ぶりの東京体育館でアンダーライブ 小川彩が初センター、全国カラオケで生配信",
       "sourceName": "マイナビニュース テレビ",
@@ -156,28 +142,6 @@
       "memberMatches": [
         {
           "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "182f9b90a11824a2",
-      "title": "乃木坂46遠藤さくら、『脱力タイムズ』のギャラ暴露!? 全力解説員と“国会答弁”さながらの大論戦も",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260911-4947719/",
-      "publishedAt": "2026-09-10T21:00:00.000Z",
-      "summary": "「ずっと緊張していて…無事に終わって安心感に包まれています(笑)」――乃木坂46の遠藤さくらが、きょう11日に放送されるフジテレビ系バラエティ番組『全力!脱力タイムズ』(毎週金曜23:00～)に初登場。“番組出演料”をめぐるまさかのトークや、全力解説員との大論戦に挑む。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "遠藤さくら",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -352,50 +316,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ada858f2069aab34",
-      "title": "岡田紗佳「爪痕を残そうと思わない」麻雀プロになって学んだ“ブレない”精神力",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260906-4926487/",
-      "publishedAt": "2026-09-06T11:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月31日（月）の放送には、モデル・プロ雀士の岡田紗佳さんが登場！ 本記事では、プロ雀士としての活動や失敗を引きずらないための方法について語った模様をお届けします。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6f2c7e1f003f97bc",
-      "title": "TAKARA・KOKONA「歩いてきた道のりが価値になっていることを証明したい」デビューシングル「Time is money」に込めた思いを語る",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260906-4925658/",
-      "publishedAt": "2026-09-06T07:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。8月27日（木）の放送では、TAKARA（ASHAさん、KOKONAさん）が登場！ 当記事では、お2人が出会ったガールズグループオーディション「No No Girls」の話や、8月8日にリリースされ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
