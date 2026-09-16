@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:04:01.966Z",
+  "updatedAt": "2026-09-16T21:22:02.850Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -99,9 +99,8 @@
     },
     {
       "source": "Edge Line",
-      "count": 0,
-      "ok": false,
-      "error": "fetch failed"
+      "count": 10,
+      "ok": true
     }
   ]
 }
