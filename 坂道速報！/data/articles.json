@@ -1,96 +1,48 @@
 {
-  "updatedAt": "2026-09-15T21:25:29.425Z",
+  "updatedAt": "2026-09-16T04:54:30.926Z",
   "articles": [
     {
-      "id": "5be17f446b263413",
-      "title": "櫻坂46田村保乃卒業発表、キャプテンの同期松田里奈の卒業発表から6日 センター経験者初",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609150001942.html",
-      "publishedAt": "2026-09-15T13:38:00.000Z",
-      "summary": "櫻坂46田村保乃（27）が15日、自身の公式ブログを更新し、グループからの卒業を発表した。16枚目シングル「愛MUST BE」（10月14日発売）の活動をもって卒業する。「卒業時期についてですが、櫻坂46として過ごす最後の日がいつになる…",
+      "id": "3a5e60a9b12d87d7",
+      "title": "乃木坂46・櫻坂46・日向坂46に見るキャプテン世代交代、“作る”から“繋ぐ”へ 松田里奈の卒業で迎える転換点",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2523255.html",
+      "publishedAt": "2026-09-16T03:10:23.000Z",
+      "summary": "乃木坂46、日向坂46、櫻坂46の坂道3グループで進むキャプテンの世代交代。梅澤美波、佐々木久美から菅原咲月、髙橋未来虹への継承や、松田里奈の卒業発表を通し、“ゼロから作る”から“受け継ぎ次へ繋ぐ”役割へと変化するリーダー像と、副キャプテン制がもたらすグループの未来を考察する。",
       "groups": [
-        "櫻坂46"
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
       ],
       "statuses": [
+        "og",
         "active"
       ],
       "memberMatches": [
         {
-          "name": "田村保乃",
-          "group": "櫻坂46",
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
           "status": "active"
         },
         {
           "name": "松田里奈",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a010ecfa02e588d0",
-      "title": "櫻坂46田村保乃が卒業発表「私は幸せでした。そして今も幸せです」表題曲センターでは改名後初",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609150001890.html",
-      "publishedAt": "2026-09-15T13:32:00.000Z",
-      "summary": "櫻坂46田村保乃（27）が15日、自身の公式ブログを更新し、グループからの卒業を発表した。16枚目シングル「愛MUST BE」（10月14日発売）の活動をもって卒業する。櫻坂46に改名後、シングル表題曲センター経験者では初の卒業発表とな…",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
+        },
         {
-          "name": "田村保乃",
-          "group": "櫻坂46",
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b0eb14b00c7f5f40",
-      "title": "公式身長155cm…影山優佳、本当の身長を告白 ファン「わかりますよ！」「サバ読んどるがな」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1066366/",
-      "publishedAt": "2026-09-15T12:15:00.000Z",
-      "summary": "元日向坂46で俳優の影山優佳のスタッフによる公式Xアカウントが15日、更新され、本当の身長が明らかにされた。「私の身長についてです」とXに投稿 元日向坂46で俳優の影山優佳のスタッフによる公式Xアカウントが15日、更新 […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
+        },
         {
-          "name": "影山優佳",
+          "name": "佐々木久美",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "50dceb0e592f05dd",
-      "title": "細田佳央太、久保史緒里、山口馬木也、平岩紙ら、『南田南弁護士は天才肌』出演決定",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2523845.html",
-      "publishedAt": "2026-09-15T10:00:39.000Z",
-      "summary": "10月19日よりカンテレ・フジテレビ系で放送がスタートする芦田愛菜主演の新月10ドラマ『南田南弁護士は天才肌』の追加キャストとして、平岩紙、山口馬木也、細田佳央太、久保史緒里、柿原りんか、竹内櫻の出演が発表された。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -146,28 +98,6 @@
       "articleUrl": "https://bezzy.jp/2026/09/92065/",
       "publishedAt": "2026-09-14T01:05:00.000Z",
       "summary": "櫻坂46が、10月14日(水)にリリースする16thシングル『愛MUST BE』の新アーティストビジュアルを公開した。 昨夜放送されたレギュラー番組「そこ曲がったら、櫻坂？」内で発表された今作のフォーメーションでセンターを務めるのは三期生・谷口愛季。表題曲としては初めてのセンターとなり、番組内のインタビューで谷口は「不安な気持ちは、少しはあるんですけど、期待",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7f72a9428f01c800",
-      "title": "櫻坂46、三期生・谷口愛季が16thシングル『愛MUST BE』で初センター！「新しい魅力を発信していきたい」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/667266.html",
-      "publishedAt": "2026-09-14T00:00:08.000Z",
-      "summary": "櫻坂46が10月14日に発売する16thシングル『愛MUST BE』のフォーメーションが、レギュラー番組『そこ曲がったら、櫻坂？』内で発表された。表題曲のセンターを務めるのは三期生の谷口愛季。谷口が櫻坂46の表題曲でセンターを担当するのは今回が初となる。番組内のインタビ ... The post 櫻坂46、三期生・谷口愛季が16thシングル『愛MUST BE",
       "groups": [
         "櫻坂46"
       ],
