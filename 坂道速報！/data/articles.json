@@ -1,38 +1,77 @@
 {
-  "updatedAt": "2026-09-17T04:57:42.193Z",
+  "updatedAt": "2026-09-17T11:47:57.579Z",
   "articles": [
     {
-      "id": "71c79163f42fcc9d",
-      "title": "櫻坂46、三期生・谷口愛季がセンターを務める新曲「愛MUST BE」先行配信スタート。結婚前夜に行われる“ヘンナイト”をモチーフにしたMV公開も",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1088843",
-      "publishedAt": "2026-09-17T02:39:21.000Z",
-      "summary": "櫻坂46が、2026年10月14日にリリースする最新シングルより、表題曲の「愛MUST BE」を先行配信リリースした。あわせて、本楽曲のMVも公開された。 今作のセンターを務めるのは三期生の谷口愛季で、表題曲では初めてのセンター抜擢となる。「愛MUST BE」は、優しさが連鎖し、愛が愛を生み出していく未来への願いを込めた楽曲だという。 MVの監督を務めたのは",
+      "id": "c6f90e6d654f84a2",
+      "title": "King Gnu井口理が最も信じられるのは「一蘭のスープの味」映画「逃げろお嬢さん」あいさつ",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609170001458.html",
+      "publishedAt": "2026-09-17T10:42:19.000Z",
+      "summary": "ロックバンドKing Gnuのボーカル井口理（32）と女優の深川麻衣（35）、伊藤ちひろ監督が17日、都内の劇場で行われた映画「逃げろお嬢さん」（10月2日公開、伊藤ちひろ監督）の完成披露上映会前に、舞台あいさつを行った。 井口は映画主…",
       "groups": [
-        "櫻坂46"
+        "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
-          "status": "active"
-        },
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "32dccb566074a3c2",
+      "title": "King Gnu井口理、主演映画の題字担当「100枚ぐらい書いた」 監督が絶賛「いい字ですよね」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1067260/",
+      "publishedAt": "2026-09-17T10:29:02.000Z",
+      "summary": "ロックバンド・King Gnuの井口理が17日、都内で行われた映画『逃げろお嬢さん』（10月2日公開）の完成披露上映会に深川麻衣、伊藤ちひろ監督とともに登壇した。監督からお願いされ…映画『逃げろお嬢さん』完成披露上映会 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
         {
-          "name": "増本綺良",
-          "group": "櫻坂46",
-          "status": "active"
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "a56f2447d0a19dc3",
+      "title": "深川麻衣、元アイドル役に「すごく勇気がいりました」 歌唱＆ダンスシーンの“豪華布陣”に気合",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1066943/",
+      "publishedAt": "2026-09-17T10:05:12.000Z",
+      "summary": "ロックバンド・King Gnuの井口理が主演を務めた映画『逃げろお嬢さん』（10月2日公開）の完成披露上映会が17日、都内の劇場で行われ、井口をはじめ深川麻衣、伊藤ちひろ監督が登壇した。映画『逃げろお嬢さん』完成披露上映 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
     {
       "id": "d9bcc3d1963e3a5f",
       "title": "日向坂46松尾桜「東京ガールズコレクション」出演決定に号泣「家族も泣いて喜んでくれて…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260917-4981194/",
       "publishedAt": "2026-09-16T20:50:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月11日（金）の",
@@ -105,28 +144,6 @@
         {
           "name": "賀喜遥香",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "064d6ea86a35f16f",
-      "title": "映画『我々は宇宙人』 山﨑天が声優を務めたクラスメイト・小夏との時間を切り取った〈小夏版予告〉公開",
-      "sourceName": "otocoto",
-      "sourceUrl": "https://otocoto.jp/feed/",
-      "articleUrl": "https://otocoto.jp/news/wearealiens0915/",
-      "publishedAt": "2026-09-15T01:00:00.000Z",
-      "summary": "第79回カンヌ国際映画祭監督週間でのワールドプレミア上映、さらにアヌシー国際アニメーション映画祭2026長編コンペティション部門(2026 Feature Fi...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
