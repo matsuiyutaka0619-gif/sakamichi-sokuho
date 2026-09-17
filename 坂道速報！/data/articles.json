@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-16T21:22:02.849Z",
+  "updatedAt": "2026-09-17T04:57:42.193Z",
   "articles": [
+    {
+      "id": "71c79163f42fcc9d",
+      "title": "櫻坂46、三期生・谷口愛季がセンターを務める新曲「愛MUST BE」先行配信スタート。結婚前夜に行われる“ヘンナイト”をモチーフにしたMV公開も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1088843",
+      "publishedAt": "2026-09-17T02:39:21.000Z",
+      "summary": "櫻坂46が、2026年10月14日にリリースする最新シングルより、表題曲の「愛MUST BE」を先行配信リリースした。あわせて、本楽曲のMVも公開された。 今作のセンターを務めるのは三期生の谷口愛季で、表題曲では初めてのセンター抜擢となる。「愛MUST BE」は、優しさが連鎖し、愛が愛を生み出していく未来への願いを込めた楽曲だという。 MVの監督を務めたのは",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "増本綺良",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d9bcc3d1963e3a5f",
+      "title": "日向坂46松尾桜「東京ガールズコレクション」出演決定に号泣「家族も泣いて喜んでくれて…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260917-4981194/",
+      "publishedAt": "2026-09-16T20:50:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月11日（金）の",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "05e7fefa07c871f8",
       "title": "櫻坂46・谷口愛季が純白ドレス姿で揺れる気持ちを表現、新シングル「愛MUST BE」MV公開",
@@ -26,8 +90,8 @@
     {
       "id": "f0ad766bbefc9156",
       "title": "乃木坂46賀喜遥香「私、共犯者だったのに…！」ステージ上での訴えにスタッフから謝罪!?「真夏の全国ツアー2026」東京公演を振り返る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260916-4979333/",
       "publishedAt": "2026-09-16T12:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月10日（木）の放送では、8月20～23日に明治神宮野球場でおこなわれた「真夏の全国ツアー2026」東京公演の振り返りをおこないました。",
@@ -107,28 +171,6 @@
         {
           "name": "谷口愛季",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "257bf93fe446250c",
-      "title": "乃木坂46、約9年ぶりの東京体育館でアンダーライブ 小川彩が初センター、全国カラオケで生配信",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260913-4961126/",
-      "publishedAt": "2026-09-13T09:00:00.000Z",
-      "summary": "約9年ぶりに“聖地”へ――。乃木坂46の「42ndSG アンダーライブ」が30日(18:30～)、東京体育館で開催され、その模様がJOYSOUND「みるハコ」を通じて全国のカラオケルームへ生配信される。最新アンダー楽曲「フォルテシモ」で自身初のアンダーセンターを務める小川彩を中心に、14人がステージに立つ。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
