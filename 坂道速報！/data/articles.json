@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T17:04:28.940Z",
+  "updatedAt": "2026-09-17T21:26:36.257Z",
   "articles": [
     {
       "id": "5404e766eb88ad16",
@@ -872,78 +872,6 @@
       "memberMatches": [
         {
           "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c9a784c033f18401",
-      "title": "乃木坂46ニューシングルの収録内容解禁、表題曲選抜メンバーによる「告白したい病」が全形態に",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/07/88788/",
-      "publishedAt": "2026-07-06T09:30:00.000Z",
-      "summary": "7月22日(水)に発売される乃木坂46の42ndシングル『是非に及ばず』の全収録楽曲と歌唱メンバーが解禁された。 本作には5期生・一ノ瀬美空がセンターを務める表題曲と、42ndシングル選抜メンバーが歌唱する「告白したい病」を全形態共通曲として収録。また全4種類の初回限定盤では、TYPE-Aに小川彩がセンターを務めるアンダー曲「フォルテシモ」、TYPE-Bに井",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "筒井あやめ",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "弓木奈於",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅原咲月",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "冨里奈央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "中西アルノ",
           "group": "乃木坂46",
           "status": "active"
         }
