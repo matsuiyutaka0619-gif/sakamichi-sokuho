@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-18T04:49:52.971Z",
+  "updatedAt": "2026-09-18T11:22:43.094Z",
   "articles": [
+    {
+      "id": "89aa4c86e76533f2",
+      "title": "日向坂46、最新シングル特典映像から「17th Single ひなた坂46 LIVE」ダイジェスト公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/92303/",
+      "publishedAt": "2026-09-18T10:00:00.000Z",
+      "summary": "9月30日(水)に発売される日向坂46の18thシングル『イチャイチャ虫』TYPE-A、B、Cに収録される「17th Single ひなた坂46 LIVE ~Director’s Cut Collections~」のダイジェスト映像が公開された。 この映像は、6月16日・17日にTOYOTA ARENA TOKYOにて開催された「17th Single ひな",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "76284f698f72a700",
       "title": "日向坂46・大野愛実、「B.L.T.」初表紙！キュートな侵略者に変身、同期・鶴崎仁香は初ソログラビア",
@@ -269,43 +283,6 @@
         {
           "name": "清水理央",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "cb0917a8b9eaf634",
-      "title": "乃木坂46賀喜遥香 北海道のライブ後に行った“焼肉会”を振り返る「五百城茉央ちゃん、冨里奈央ちゃん、川端晃菜ちゃんと同じテーブルで…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260909-4942422/",
-      "publishedAt": "2026-09-09T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、7月4日、5日におこなわれた北海道公演について語った模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "冨里奈央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川端晃菜",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
