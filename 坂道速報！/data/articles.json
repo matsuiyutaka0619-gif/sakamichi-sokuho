@@ -1,47 +1,30 @@
 {
-  "updatedAt": "2026-09-17T21:26:36.257Z",
+  "updatedAt": "2026-09-18T04:49:52.971Z",
   "articles": [
     {
-      "id": "5404e766eb88ad16",
-      "title": "元乃木坂46与田祐希「女子力が上がった気がするっちゃけど、どうかね？」ワイナリー体験動画公開",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609170002190.html",
-      "publishedAt": "2026-09-17T15:00:00.000Z",
-      "summary": "元乃木坂46与田祐希（26）が、サントリーWOW！PARK【Vlogシリーズ】に登場する。 「サントリーWOW！PARK」はお酒や飲料、音楽・アート、スポーツなど、サントリーならではのさまざまな体験をひとつにつなぐ新サービスで、7月の開…",
+      "id": "76284f698f72a700",
+      "title": "日向坂46・大野愛実、「B.L.T.」初表紙！キュートな侵略者に変身、同期・鶴崎仁香は初ソログラビア",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/668119.html",
+      "publishedAt": "2026-09-18T02:00:40.000Z",
+      "summary": "日向坂46の大野愛実が、9月28日発売の「B.L.T.2026年11月号」で表紙・巻頭に初登場する。さらに、同期の五期生・鶴崎仁香も自身初となるソログラビアを飾る。2025年3月に日向坂46の五期生として加入した大野。表題曲センターや女性ファッション誌の専属モデル、ドラ ... The post 日向坂46・大野愛実、「B.L.T.」初表紙！キュートな侵略者",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "8c6c95405a8ae41c",
-      "title": "のん「エナジードリンク必要ありません」、藤ケ谷太輔「考察いりません」 人気ドラマ続編PR",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609170002066.html",
-      "publishedAt": "2026-09-17T13:30:12.000Z",
-      "summary": "女優のん（33）、Kis－My－Ft2藤ケ谷太輔（39）、渡部篤郎（58）、森川葵（31）、髙橋ひかる（24）、鈴川紗由（20）、菅井友香（30）、英勉監督（57）が17日、都内で行われた、DMM TVで配信するアクションコメディードラ…",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        },
         {
-          "name": "菅井友香",
-          "group": "櫻坂46",
-          "status": "og"
+          "name": "鶴崎仁香",
+          "group": "日向坂46",
+          "status": "active"
         }
       ]
     },
@@ -70,8 +53,8 @@
     {
       "id": "81717ed36e26e4f9",
       "title": "乃木坂46賀喜遥香「もう…尊いね！」6期生・増田三莉音が復帰した「真夏の全国ツアー2026」東京公演1日目を振り返る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260917-4984695/",
       "publishedAt": "2026-09-17T12:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月10日（木）の放送では、8月20～23日に明治神宮野球場でおこなわれた「真夏の全国ツアー2026」東京公演の振り返りをおこないました。",
@@ -91,28 +74,6 @@
           "name": "増田三莉音",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2cee1f70328cf92a",
-      "title": "のん、“極秘ミッション”で不審な動き…と思いきや「今のは私の自然な挙動です（笑）」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1066977/",
-      "publishedAt": "2026-09-17T11:55:52.000Z",
-      "summary": "俳優・のんとKis-My-Ft2の藤ヶ谷太輔が17日、都内で行われたDMM TVオリジナルドラマ『幸せカナコの殺し屋生活2』（17日独占配信開始）配信記念イベントに、渡部篤郎、森川葵、髙橋ひかる、鈴川紗由、菅井友香、英勉 […]",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "菅井友香",
-          "group": "櫻坂46",
-          "status": "og"
         }
       ]
     },
@@ -345,48 +306,6 @@
         {
           "name": "川端晃菜",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "58d6f262e9f1a3d5",
-      "title": "日向坂46山下葉留花「陽子は“愛”重めだと思います」髙橋未来虹と18枚目シングル「イチャイチャ虫」MVの正源司陽子を絶賛",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260909-4942278/",
-      "publishedAt": "2026-09-09T12:00:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月4日（金）の放",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "正源司陽子",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
