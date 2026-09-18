@@ -1,6 +1,100 @@
 {
-  "updatedAt": "2026-09-18T16:28:59.774Z",
+  "updatedAt": "2026-09-18T20:57:26.551Z",
   "articles": [
+    {
+      "id": "d5fc104adcce09f7",
+      "title": "乃木坂46小川彩「毎日投げに行って」肩作った！19日楽天戦で自身３度目マウンド、悲願達成狙う",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609180001009.html",
+      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "summary": "乃木坂46の野球好きメンバー小川彩（19）、金川紗耶（24）、黒見明香（22）、柴田柚菜（23）、瀬戸口心月（21）、長嶋凛桜（19）の6人で構成される「乃木坂野球部」が19日、楽天モバイル最強パーク宮城で行われる楽天対ソフトバンク戦に…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "黒見明香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "瀬戸口心月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "長嶋凛桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9e7b3faacd2ef05a",
+      "title": "乃木坂野球部“今季最終戦”今日19日に楽天戦登場、なるか勝利の女神 今季ここまでの活動は…",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609180000591.html",
+      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "summary": "乃木坂46の野球好きメンバー小川彩（19）、金川紗耶（24）、黒見明香（22）、柴田柚菜（23）、瀬戸口心月（21）、長嶋凛桜（19）の6人で構成される「乃木坂野球部」が19日、楽天モバイル最強パーク宮城で行われる楽天対ソフトバンク戦に…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "黒見明香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "柴田柚菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "瀬戸口心月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "長嶋凛桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "89aa4c86e76533f2",
       "title": "日向坂46、最新シングル特典映像から「17th Single ひなた坂46 LIVE」ダイジェスト公開",
