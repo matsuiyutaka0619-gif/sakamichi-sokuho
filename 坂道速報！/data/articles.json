@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-18T20:57:26.551Z",
+  "updatedAt": "2026-09-19T04:42:33.903Z",
   "articles": [
     {
-      "id": "d5fc104adcce09f7",
-      "title": "乃木坂46小川彩「毎日投げに行って」肩作った！19日楽天戦で自身３度目マウンド、悲願達成狙う",
+      "id": "a7f1ee7889befdc3",
+      "title": "乃木坂野球部が楽天戦来場、トークショーで今季振り返り 長嶋凛桜は始球式に「反省点山盛り」",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609180001009.html",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609190000394.html",
+      "publishedAt": "2026-09-19T03:40:16.000Z",
       "summary": "乃木坂46の野球好きメンバー小川彩（19）、金川紗耶（24）、黒見明香（22）、柴田柚菜（23）、瀬戸口心月（21）、長嶋凛桜（19）の6人で構成される「乃木坂野球部」が19日、楽天モバイル最強パーク宮城で行われる楽天対ソフトバンク戦に…",
       "groups": [
         "乃木坂46"
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "id": "9e7b3faacd2ef05a",
-      "title": "乃木坂野球部“今季最終戦”今日19日に楽天戦登場、なるか勝利の女神 今季ここまでの活動は…",
+      "id": "629c3835dfa85e08",
+      "title": "乃木坂野球部・黒見明香「旗の向きで風向きをチェック」元楽天銀次さんからアドバイス受けた",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609180000591.html",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609190000372.html",
+      "publishedAt": "2026-09-19T03:35:12.000Z",
       "summary": "乃木坂46の野球好きメンバー小川彩（19）、金川紗耶（24）、黒見明香（22）、柴田柚菜（23）、瀬戸口心月（21）、長嶋凛桜（19）の6人で構成される「乃木坂野球部」が19日、楽天モバイル最強パーク宮城で行われる楽天対ソフトバンク戦に…",
       "groups": [
         "乃木坂46"
@@ -92,6 +92,108 @@
           "name": "長嶋凛桜",
           "group": "乃木坂46",
           "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "995d8d5005695d8f",
+      "title": "与田祐希のダンス撮影時の秘蔵カットも 『溺愛カレシの作り方』60秒本予告公開",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2529924.html",
+      "publishedAt": "2026-09-19T03:00:11.000Z",
+      "summary": "10月7日よりテレ東系で放送がスタートする与田祐希主演のドラマNEXT『溺愛カレシの作り方 〜セから本命になる女の子の話〜』の60秒本予告が公開され、オープニングテーマがasmiの「愛カロ厨」に決定した。 本作は、『",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "9c74695899adcb68",
+      "title": "asmi、新曲「愛カロ厨」が与田祐希主演のドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』OPテーマに決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1089241",
+      "publishedAt": "2026-09-19T03:00:00.000Z",
+      "summary": "asmiが、2026年10月7日より放送されるテレ東ドラマNEXT『溺愛カレシの作り方 〜セから本命になる女の子の話〜』のオープニングテーマに、新曲「愛カロ厨（読み：アイカロチュー）」が起用されたことを発表した。 『溺愛カレシの作り方 〜セから本命になる女の子の話〜』は、第50回放送文化基金賞ドラマ部門で優秀賞を受賞した『初恋、ざらり』などの話題作を生み出し",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "08f70e78d6d77fa3",
+      "title": "日向坂46、18thシングル特典映像を公開！「17th Single ひなた坂46 LIVE」の熱気凝縮",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/668400.html",
+      "publishedAt": "2026-09-18T23:30:00.000Z",
+      "summary": "日向坂46が、9月30日に発売する18thシングルの初回仕様限定盤TYPE-A、TYPE-B、TYPE-Cに収録される「17th Single ひなた坂46 LIVE ～Director’s Cut Collections～」のダイジェスト映像を、公式YouTubeチャ ... The post 日向坂46、18thシングル特典映像を公開！「17th Sin",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "b943cc2b50005a4d",
+      "title": "朝日奈央×新川優愛『妻を引退します』に時任勇気、犬飼貴丈、松田好花、本髙克樹ら出演へ",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2529723.html",
+      "publishedAt": "2026-09-18T22:00:31.000Z",
+      "summary": "10月5日からテレビ東京のドラマプレミア23枠にて放送がスタートする朝日奈央と新川優愛のW主演ドラマ『妻を引退します』のメインビジュアルが公開され、新たに時任勇気、犬飼貴丈、松田好花、本髙克樹（B&ZAI）、山",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fb58f0104ef25462",
+      "title": "須田景凪「いかにすぐにサビが来るか…」激変する音楽トレンドとの向き合い方を語る 3年ぶりのアルバム『LOVE HATE』制作秘話も",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260919-4992002/",
+      "publishedAt": "2026-09-18T20:50:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。9月12日（土）の放送には、ミュージシャンの須田景凪さんが登場！ 9月9日（水）にリリースされたメジャー3枚目となるアルバム『LOVE HATE』について語りました。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
@@ -327,33 +429,6 @@
       "memberMatches": [
         {
           "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d8bc5bb8845858e9",
-      "title": "乃木坂46賀喜遥香「森平麗心ちゃんとWセンターで…」『真夏の全国ツアー2026』広島公演で披露された“レア演出”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260910-4947278/",
-      "publishedAt": "2026-09-10T11:00:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、7月11日、12日におこなわれた広島公演について語った模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "森平麗心",
           "group": "乃木坂46",
           "status": "active"
         }
