@@ -1,100 +1,6 @@
 {
-  "updatedAt": "2026-09-19T04:42:33.903Z",
+  "updatedAt": "2026-09-19T11:06:04.558Z",
   "articles": [
-    {
-      "id": "a7f1ee7889befdc3",
-      "title": "乃木坂野球部が楽天戦来場、トークショーで今季振り返り 長嶋凛桜は始球式に「反省点山盛り」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609190000394.html",
-      "publishedAt": "2026-09-19T03:40:16.000Z",
-      "summary": "乃木坂46の野球好きメンバー小川彩（19）、金川紗耶（24）、黒見明香（22）、柴田柚菜（23）、瀬戸口心月（21）、長嶋凛桜（19）の6人で構成される「乃木坂野球部」が19日、楽天モバイル最強パーク宮城で行われる楽天対ソフトバンク戦に…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "黒見明香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "柴田柚菜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "瀬戸口心月",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "長嶋凛桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "629c3835dfa85e08",
-      "title": "乃木坂野球部・黒見明香「旗の向きで風向きをチェック」元楽天銀次さんからアドバイス受けた",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609190000372.html",
-      "publishedAt": "2026-09-19T03:35:12.000Z",
-      "summary": "乃木坂46の野球好きメンバー小川彩（19）、金川紗耶（24）、黒見明香（22）、柴田柚菜（23）、瀬戸口心月（21）、長嶋凛桜（19）の6人で構成される「乃木坂野球部」が19日、楽天モバイル最強パーク宮城で行われる楽天対ソフトバンク戦に…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "黒見明香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "柴田柚菜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "瀬戸口心月",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "長嶋凛桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
     {
       "id": "995d8d5005695d8f",
       "title": "与田祐希のダンス撮影時の秘蔵カットも 『溺愛カレシの作り方』60秒本予告公開",
@@ -103,28 +9,6 @@
       "articleUrl": "https://realsound.jp/movie/2026/09/post-2529924.html",
       "publishedAt": "2026-09-19T03:00:11.000Z",
       "summary": "10月7日よりテレ東系で放送がスタートする与田祐希主演のドラマNEXT『溺愛カレシの作り方 〜セから本命になる女の子の話〜』の60秒本予告が公開され、オープニングテーマがasmiの「愛カロ厨」に決定した。 本作は、『",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9c74695899adcb68",
-      "title": "asmi、新曲「愛カロ厨」が与田祐希主演のドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』OPテーマに決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1089241",
-      "publishedAt": "2026-09-19T03:00:00.000Z",
-      "summary": "asmiが、2026年10月7日より放送されるテレ東ドラマNEXT『溺愛カレシの作り方 〜セから本命になる女の子の話〜』のオープニングテーマに、新曲「愛カロ厨（読み：アイカロチュー）」が起用されたことを発表した。 『溺愛カレシの作り方 〜セから本命になる女の子の話〜』は、第50回放送文化基金賞ドラマ部門で優秀賞を受賞した『初恋、ざらり』などの話題作を生み出し",
       "groups": [
         "乃木坂46"
       ],
@@ -152,6 +36,28 @@
       ],
       "statuses": [],
       "memberMatches": []
+    },
+    {
+      "id": "bec863fdeb663876",
+      "title": "楽天、乃木坂野球部の小川彩さんがセレモニアルピッチ",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260919-4994062/",
+      "publishedAt": "2026-09-18T22:26:54.000Z",
+      "summary": "楽天－ソフトバンクの試合前に乃木坂野球部の小川彩さんがセレモニアルピッチを行った。 ▼ 小川彩さん 「初めて1人で投げるセレモニアルピッチだったので、すごく緊張しました。ここ1ヶ月、ほ…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
     },
     {
       "id": "b943cc2b50005a4d",
@@ -234,28 +140,6 @@
         {
           "name": "鶴崎仁香",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3b59c0c7781ae02f",
-      "title": "櫻坂46、16thシングル「愛 MUST BE」MV公開！三期生・谷口愛季が表題曲初センター",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/668006.html",
-      "publishedAt": "2026-09-17T12:30:44.000Z",
-      "summary": "櫻坂46の16thシングル「愛 MUST BE」のミュージックビデオが公開され、ストリーミング＆ダウンロードでの先行配信もスタートした。今作でセンターを務めるのは三期生の谷口愛季。表題曲では今回が初のセンター抜擢となる。楽曲には、優しさが連鎖し、愛が愛を生み出していく未 ... The post 櫻坂46、16thシングル「愛 MUST BE」MV公開！三期",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
@@ -408,28 +292,6 @@
         {
           "name": "谷口愛季",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "497a2b104eae38c5",
-      "title": "乃木坂46賀喜遥香「“盗んでごめん…”と思いながら過ごしていました」ライブツアー中に密かに担っていた役割とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260910-4947537/",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月3日（木）の放送では、6月～8月にかけて開催された「乃木坂46 真夏の全国ツアー2026」の振り返り授業をお届け！ 本記事では、今回のツアーのコンセプトについて語った模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
