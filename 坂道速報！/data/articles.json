@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-20T11:30:59.321Z",
+  "updatedAt": "2026-09-20T16:12:00.865Z",
   "articles": [
+    {
+      "id": "5ea20e1925ddf2a4",
+      "title": "日向坂46・大野愛実、B.L.T.表紙でキュートな侵略者に！櫻坂46・増本綺良は卒業前ラストグラビア",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/668866.html",
+      "publishedAt": "2026-09-20T10:00:06.000Z",
+      "summary": "日向坂46の大野愛実が、9月28日発売の「B.L.T.2026年11月号」の表紙・巻頭に登場する。あわせて、グループ卒業を控える櫻坂46・増本綺良の裏表紙カットも公開された。2025年3月に日向坂46の五期生として加入した大野。今回は、日向坂46の魅力を世界へ広げていく ... The post 日向坂46・大野愛実、B.L.T.表紙でキュートな侵略者に！櫻",
+      "groups": [
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "増本綺良",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "ecac63df7ba9e70d",
       "title": "深川麻衣、訳アリ元アイドル役で新境地 井口理主演映画『逃げろお嬢さん』新場面写真公開",
@@ -88,42 +116,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "995d8d5005695d8f",
-      "title": "与田祐希のダンス撮影時の秘蔵カットも 『溺愛カレシの作り方』60秒本予告公開",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2529924.html",
-      "publishedAt": "2026-09-19T03:00:11.000Z",
-      "summary": "10月7日よりテレ東系で放送がスタートする与田祐希主演のドラマNEXT『溺愛カレシの作り方 〜セから本命になる女の子の話〜』の60秒本予告が公開され、オープニングテーマがasmiの「愛カロ厨」に決定した。 本作は、『",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "08f70e78d6d77fa3",
-      "title": "日向坂46、18thシングル特典映像を公開！「17th Single ひなた坂46 LIVE」の熱気凝縮",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/668400.html",
-      "publishedAt": "2026-09-18T23:30:00.000Z",
-      "summary": "日向坂46が、9月30日に発売する18thシングルの初回仕様限定盤TYPE-A、TYPE-B、TYPE-Cに収録される「17th Single ひなた坂46 LIVE ～Director’s Cut Collections～」のダイジェスト映像を、公式YouTubeチャ ... The post 日向坂46、18thシングル特典映像を公開！「17th Sin",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "fb58f0104ef25462",
