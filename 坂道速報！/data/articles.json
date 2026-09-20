@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-20T16:12:00.865Z",
+  "updatedAt": "2026-09-20T20:52:54.367Z",
   "articles": [
+    {
+      "id": "3a15ef7b85dca35b",
+      "title": "乃木坂46長嶋凛桜、約５カ月での変化「かしこまった子」から「友達と過ごしている時の自分」へ",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609130002240.html",
+      "publishedAt": "2026-09-20T20:10:00.000Z",
+      "summary": "乃木坂46「真夏の全国ツアー2026」が残すところ明治神宮野球場公演のみとなった頃、メンバーの長嶋凛桜（19）に連載「坂道の火曜日」のインタビューをする機会に恵まれた。連載取材の良さの一つはこれか、と大きな驚きの残るインタビューだった。…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "長嶋凛桜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "5ea20e1925ddf2a4",
       "title": "日向坂46・大野愛実、B.L.T.表紙でキュートな侵略者に！櫻坂46・増本綺良は卒業前ラストグラビア",
