@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-09-21T05:03:17.450Z",
+  "updatedAt": "2026-09-21T12:55:45.516Z",
   "articles": [
+    {
+      "id": "f5266f9d1b7ef5e0",
+      "title": "「全乃木坂ファンが喜ぶ」秋元真夏、生田絵梨花＆設楽統と３ショット「乃木坂時代と変わらず…」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609210001370.html",
+      "publishedAt": "2026-09-21T10:54:00.000Z",
+      "summary": "元乃木坂46の秋元真夏（33）が21日、自身のインスタグラムを更新。グループ時代の同期で女優の生田絵梨花（29）と、お笑いコンビ「バナナマン」の設楽統（53）との3ショットをアップした。 秋元は、生田と設楽に挟まれて笑顔を浮かべる写真を…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "秋元真夏",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1d87e6932d42f631",
+      "title": "『コントと音楽』第7弾、千秋楽レポート 柄本時生、西野七瀬らが作り上げた最高峰の夜",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2531172.html",
+      "publishedAt": "2026-09-21T10:30:17.000Z",
+      "summary": "柄本時生、西野七瀬、鈴木杏樹、足立梨花、山中聡が出演する舞台「コントと音楽 vol.7『今宵、丸の内で』」が、9月13日にCOTTON CLUBにて幕を閉じた。9月4日に開幕し、9日間15公演にわたって上演されてきた、",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "a1e94a44ecac2747",
+      "title": "守屋茜、“雰囲気ガラリ”な最新ショットに「ため息が出るほどの美しさ」「心臓ヒュンッッてなった」とファン熱狂",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1069396/",
+      "publishedAt": "2026-09-21T09:52:55.000Z",
+      "summary": "元櫻坂46で俳優の守屋茜が21日、自身のインスタグラムを更新。雰囲気ガラリな最新ショットを公開し、反響を呼んでいる。8月31日にテンカラットを退所 元櫻坂46で俳優の守屋茜が21日、自身のインスタグラムを更新。雰囲気ガ […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "守屋茜",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "e02bd401e69e7672",
       "title": "間寛平「24時間テレビ」初代チャリティーランナーの裏側を明かす「150kmくらいでリタイアさせられたんやけど…」",
