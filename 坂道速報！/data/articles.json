@@ -1,24 +1,29 @@
 {
-  "updatedAt": "2026-09-22T05:04:19.586Z",
+  "updatedAt": "2026-09-22T11:45:28.356Z",
   "articles": [
     {
-      "id": "b92bc8483db30c4e",
-      "title": "日向坂46正源司陽子、愛の言葉がエネルギー 新曲で２年ぶり３度目のシングル表題曲センター",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202609220000042.html",
-      "publishedAt": "2026-09-22T04:00:00.000Z",
-      "summary": "日向坂46正源司陽子（19）が、30日リリースの新曲「イチャイチャ虫」で2年ぶり3度目のシングル表題曲センターを務める心境を語った。ラジオやイベントでも、心の距離の近さでファンを引きつける。加入4周年を迎える変化を実感しつつ、精神面でも…",
+      "id": "ab4403c7641d55ec",
+      "title": "櫻坂46の静かな強さを表現した『愛MUST BE』ジャケット公開、BACKSセンターは小田倉麗奈に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/92468/",
+      "publishedAt": "2026-09-22T06:45:00.000Z",
+      "summary": "10月14日(水)に発売される櫻坂46の16thシングル『愛MUST BE』のジャケットアートワークが公開された。 “道中”をコンセプトに掲げる本作のジャケットでは、アートディレクションを上田マルコが担当。現代的で無機質な路面や建築物を背景に、静かな強さをまとい歩むメンバーの姿が表現されている。 そのスタイリングはモノトーンを基調としたシンプルな世界観で、ア",
       "groups": [
-        "日向坂46"
+        "櫻坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "正源司陽子",
-          "group": "日向坂46",
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
           "status": "active"
         }
       ]
@@ -63,28 +68,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "1d87e6932d42f631",
-      "title": "『コントと音楽』第7弾、千秋楽レポート 柄本時生、西野七瀬らが作り上げた最高峰の夜",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2531172.html",
-      "publishedAt": "2026-09-21T10:30:17.000Z",
-      "summary": "柄本時生、西野七瀬、鈴木杏樹、足立梨花、山中聡が出演する舞台「コントと音楽 vol.7『今宵、丸の内で』」が、9月13日にCOTTON CLUBにて幕を閉じた。9月4日に開幕し、9日間15公演にわたって上演されてきた、",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "e02bd401e69e7672",
