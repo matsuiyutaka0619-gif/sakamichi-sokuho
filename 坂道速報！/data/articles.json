@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-09-22T21:23:30.049Z",
+  "updatedAt": "2026-09-23T04:50:19.442Z",
   "articles": [
+    {
+      "id": "fda5bea11377de68",
+      "title": "坂道グループで広がるセンターの選択肢 一ノ瀬美空、谷口愛季、大野愛実らが映す世代交代と楽曲表現の広がり",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2528136.html",
+      "publishedAt": "2026-09-23T03:10:49.000Z",
+      "summary": "櫻坂46の16thシングル『愛MUST BE』で谷口愛季が初の表題曲センターに。乃木坂46では池田瑛紗、一ノ瀬美空、日向坂46では大野愛実などの新たなセンター経験者が相次いでいる。本稿では、楽曲ごとの表現の幅や次世代メンバーへのバトンという視点から、坂道グループで広がるセンター起用の現在地を考える。",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "a6172186a43a0871",
+      "title": "日向坂46金村美玖、黒ランジェリーで新境地 セカンド写真集10・20発売",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609230000309.html",
+      "publishedAt": "2026-09-23T03:10:32.000Z",
+      "summary": "日向坂46金村美玖（24）のセカンド写真集「機微」（10月20日発売、講談社）の先行カットが22日、公開された。 今回公開されたのは、オーストリアのザルツカンマーグート地方にあるレトロなホテルにて、繊細な黒のランジェリーを着て撮影された…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "3e49d25be43d6f90",
       "title": "「“ウケる！”と思たらしつこくいくねん」間寛平が語る“吉本新喜劇”今と昔の違いとは？",
