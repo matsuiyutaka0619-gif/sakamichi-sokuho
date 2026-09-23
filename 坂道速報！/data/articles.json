@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T04:50:19.442Z",
+  "updatedAt": "2026-09-23T11:44:40.779Z",
   "articles": [
     {
-      "id": "fda5bea11377de68",
-      "title": "坂道グループで広がるセンターの選択肢 一ノ瀬美空、谷口愛季、大野愛実らが映す世代交代と楽曲表現の広がり",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2528136.html",
-      "publishedAt": "2026-09-23T03:10:49.000Z",
-      "summary": "櫻坂46の16thシングル『愛MUST BE』で谷口愛季が初の表題曲センターに。乃木坂46では池田瑛紗、一ノ瀬美空、日向坂46では大野愛実などの新たなセンター経験者が相次いでいる。本稿では、楽曲ごとの表現の幅や次世代メンバーへのバトンという視点から、坂道グループで広がるセンター起用の現在地を考える。",
+      "id": "df5b19807bfae790",
+      "title": "乃木坂46賀喜遥香「涙を流すことがあったら先輩皆で抱きしめたい」青葉坂46応募者の背中押す",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609230001217.html",
+      "publishedAt": "2026-09-23T10:14:55.000Z",
+      "summary": "乃木坂46賀喜遥香（25）池田瑛紗（24）、櫻坂46森田ひかる（25）的野美青（19）、日向坂46上村ひなの（22）大野愛実（19）が23日、都内で、坂道グループの新プロジェクト「青葉坂46」に関する取材会に登壇した。 「青葉坂46」は…",
       "groups": [
         "乃木坂46",
         "櫻坂46",
@@ -19,18 +19,28 @@
       ],
       "memberMatches": [
         {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
           "name": "池田瑛紗",
           "group": "乃木坂46",
           "status": "active"
         },
         {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
+          "name": "的野美青",
+          "group": "櫻坂46",
           "status": "active"
         },
         {
-          "name": "谷口愛季",
+          "name": "森田ひかる",
           "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "上村ひなの",
+          "group": "日向坂46",
           "status": "active"
         },
         {
@@ -41,14 +51,38 @@
       ]
     },
     {
-      "id": "a6172186a43a0871",
-      "title": "日向坂46金村美玖、黒ランジェリーで新境地 セカンド写真集10・20発売",
+      "id": "03e62619584dd124",
+      "title": "間寛平「阪急電車が止まったんやで」20代前半で大阪の百貨店に呼んだ“桁違いの客数”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260923-5015740/",
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。9月3日（木）の放送では、間寛平さんが登場！ 本記事では、間さんが24歳で吉本新喜劇の座長に就任した当時のエピソードについて語った模様を紹介します。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "08bd7ed795633c4a",
+      "title": "日向坂46大野愛実「タイムリミットあるからこそ芽生える感情大切に」青葉坂46応募者へメッセージ",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609230000309.html",
-      "publishedAt": "2026-09-23T03:10:32.000Z",
-      "summary": "日向坂46金村美玖（24）のセカンド写真集「機微」（10月20日発売、講談社）の先行カットが22日、公開された。 今回公開されたのは、オーストリアのザルツカンマーグート地方にあるレトロなホテルにて、繊細な黒のランジェリーを着て撮影された…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609230001036.html",
+      "publishedAt": "2026-09-23T09:16:39.000Z",
+      "summary": "乃木坂46賀喜遥香（25）池田瑛紗（24）、櫻坂46森田ひかる（25）的野美青（19）、日向坂46上村ひなの（22）大野愛実（19）が23日、都内で、坂道グループの新プロジェクト「青葉坂46」に関する取材会に登壇し、未来の後輩へ向けてメ…",
       "groups": [
+        "乃木坂46",
+        "櫻坂46",
         "日向坂46"
       ],
       "statuses": [
@@ -56,17 +90,58 @@
       ],
       "memberMatches": [
         {
-          "name": "金村美玖",
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "的野美青",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "上村ひなの",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
           "group": "日向坂46",
           "status": "active"
         }
       ]
     },
     {
+      "id": "828ff155981dd51f",
+      "title": "青葉坂46、オーディションに関する重大発表を9月24日20時に公開！坂道4チャンネルで同時発表",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/669450.html",
+      "publishedAt": "2026-09-23T06:00:48.000Z",
+      "summary": "現在メンバー募集のオーディションを開催している青葉坂46が、オーディションに関する新たな重大発表を9月24日（木）20時にYouTubeで発表することが決定した。乃木坂46・櫻坂46・日向坂46・青葉坂46の4つのチャンネルで同時に情報が発表される。青葉坂46は、今回の ... The post 青葉坂46、オーディションに関する重大発表を9月24日20時に",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
       "id": "3e49d25be43d6f90",
       "title": "「“ウケる！”と思たらしつこくいくねん」間寛平が語る“吉本新喜劇”今と昔の違いとは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260922-5010906/",
       "publishedAt": "2026-09-22T11:50:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。9月3日（木）の放送では、間寛平さんが登場！ 本記事では、間さんがゼネラルマネージャー（GM）視点から語る「吉本新喜劇の変化」について語った模様をお届けします。今年12月には、吉本新喜劇東京特別公演",
