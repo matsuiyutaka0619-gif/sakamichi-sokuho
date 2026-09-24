@@ -1,11 +1,235 @@
 {
-  "updatedAt": "2026-09-24T04:58:20.113Z",
+  "updatedAt": "2026-09-24T11:53:20.768Z",
   "articles": [
+    {
+      "id": "00782bb0b747f994",
+      "title": "乃木坂46、櫻坂46、日向坂46が夢の共演 各グループから5人ずつの坂道選抜結成…センターは井上和",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1071064/",
+      "publishedAt": "2026-09-24T11:30:00.000Z",
+      "summary": "乃木坂46、櫻坂46、日向坂46へとつながる1年限定の新グループ・青葉坂46のメンバー募集オーディションが開催されている中、オーディションのテーマソングとして乃木坂46、櫻坂46、日向坂46の各メンバー15人からなる坂道 […]",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "240bcf4fb96ef790",
+      "title": "乃木坂46・櫻坂46・日向坂46が初競演、青葉坂46オーディションテーマ曲「Audition」配信決定",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/92551/",
+      "publishedAt": "2026-09-24T11:30:00.000Z",
+      "summary": "現在募集受付中の新たな坂道グループ“青葉坂46”オーディションのテーマソング「Audition」が9月26日(土)にリリースされることが決定した。 「Audition」は、乃木坂46、櫻坂46、日向坂46の各メンバー15名からなる“坂道選抜”による完全新曲。本日各坂道グループのYouTubeチャンネルにて公開された映像で楽曲のリリース、選抜メンバーが発表され",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "的野美青",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下瞳月",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "上村ひなの",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "小坂菜緒",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "正源司陽子",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c536586a3da01113",
+      "title": "賀喜遥香「乃木坂46が大好きだったから頑張れた」現役坂道メンバーがオーディション秘話！青葉坂46セミナー開催",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/669688.html",
+      "publishedAt": "2026-09-24T10:30:27.000Z",
+      "summary": "現在メンバー募集のオーディションを開催している新たな坂道グループ・青葉坂46が、応募締め切りに先駆け、東京・名古屋・大阪でオーディションセミナーを開催した。乃木坂46、櫻坂46、日向坂46の現役メンバーが登壇し、自身のオーディション経験や当時の心境を語った。9月17日の ... The post 賀喜遥香「乃木坂46が大好きだったから頑張れた」現役坂道メンバ",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cea4538f97150105",
+      "title": "影山優佳、あざとキュートなお腹チラ見せ・上目遣いショットを投稿！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/669206.html",
+      "publishedAt": "2026-09-24T09:45:29.000Z",
+      "summary": "9月21日、タレントの影山優佳が自身のInstagramを更新した。影山優佳は淡いブルーのリブカーディガンにブラックデニムを合わせ、爽やかなカジュアルコーデを披露し「だんだんおふざけ。不安や心配で眠れない時は話してみて外に置いておくこともワン・アイデアだよ」とコメントを ... The post 影山優佳、あざとキュートなお腹チラ見せ・上目遣いショットを投稿",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "ca4d5cbca9692283",
+      "title": "氣志團、千葉・幕張メッセ開催の＜氣志團万博2026＞タイムテーブル発表",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1090893",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "summary": "氣志團が、2026年11月7日・8日に千葉・幕張メッセにて開催する＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞のタイムテーブルを公開した。 ＜氣志團万博＞のオフィシャルHP最終先行受付（先着）は、9月30日23時59分まで受付中なので是非チェックしてほしい。 ◆ ◆ ◆ ◾️11月7日（土）※五十音順 秋山竜次（ロ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "dee2407a60f8428d",
+      "title": "長濱ねる、“激カワ“誕生日お祝いショット おじゃる丸ケーキとともに「28歳になりました」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2532641.html",
+      "publishedAt": "2026-09-24T08:00:51.000Z",
+      "summary": "俳優の長濱ねるが自身のInstagramを更新し、9月4日に28歳の誕生日を迎えたことを報告するオフショットを披露した。 投稿には、黒の長袖トップスというシンプルな装いの長濱の姿が。目の前には、アニメ『おじゃる丸 』",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "a8605141afaaf0ad",
+      "title": "長濱ねる、28歳の誕生日を報告 嬉しそうに“おじゃる丸”ケーキを見つめる姿も",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2532771.html",
+      "publishedAt": "2026-09-24T08:00:35.000Z",
+      "summary": "長濱ねるが自身のInstagramを更新。28歳の誕生日を迎えたことを報告した。",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "83b871a984b07017",
       "title": "「Tシャツが戻るまで」など全3話 仲里依紗×のん×深川麻衣『Tokyo middle 30』特別編配信",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260923-5008620/",
       "publishedAt": "2026-09-23T13:54:00.000Z",
       "summary": "23日に最終回を迎えたフジテレビ系ドラマ『Tokyo middle 30』の特別編『Tokyo middle 30 ～15年ぶりのお泊まり会～』全3話が、同日22時54分からFODで独占配信を開始した。",
@@ -109,20 +333,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "1d20fdca180b2c8a",
-      "title": "【ライブレポート】日向坂46、新曲『イチャイチャ虫』を圧巻のパフォーマンスで披露！ランウェイイベントならではの特別演出でボルテージを最高潮に！＜IDOL RUNWAY COLLECTION 2026 A/W＞",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/669168.html",
-      "publishedAt": "2026-09-21T21:00:29.000Z",
-      "summary": "9月20日、横浜アリーナにて「第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER Supported by TGC」が開催され、日向坂46がライブステージに登場。ファッションとアイドルの融合をテーマにした本イベントで、観客を巻き込 ... The post 【ライブレポート】日向坂46、新曲『イチャイチャ虫』を圧巻のパ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "e02bd401e69e7672",
