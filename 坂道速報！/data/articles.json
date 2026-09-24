@@ -1,27 +1,69 @@
 {
-  "updatedAt": "2026-09-24T17:16:15.119Z",
+  "updatedAt": "2026-09-24T21:34:12.787Z",
   "articles": [
     {
-      "id": "4c5b45b40ef78c76",
-      "title": "３坂道合同選抜15人で「青葉坂46」テーマソング歌う センターは乃木坂46の井上和",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609240001755.html",
-      "publishedAt": "2026-09-24T13:49:36.000Z",
-      "summary": "新坂道グループプロジェクト「青葉坂46」のテーマソング「Audition」が26日にリリースされる。24日、各坂道グループの公式YouTubeチャンネルで発表された。 同楽曲は乃木坂46、櫻坂46、日向坂46の合同で製作された。選抜メン…",
+      "id": "5360ad91daad840a",
+      "title": "@onefive、書き下ろし楽曲「バニララテ」が与田祐希主演ドラマ『溺愛カレシの作り方』EDテーマに",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2532937.html",
+      "publishedAt": "2026-09-24T21:00:17.000Z",
+      "summary": "@onefiveの書き下ろし楽曲「バニララテ」が、10月7日放送スタートのドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』（テレビ東京系）のエンディングテーマに決定した。 本作は、ざくざくろの同名漫画を実",
       "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
+        "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "井上和",
+          "name": "与田祐希",
           "group": "乃木坂46",
-          "status": "active"
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b8841f5790a8110f",
+      "title": "『溺愛カレシの作り方』ED曲は@onefive 与田祐希＆野村周平との現場訪問オフショットも",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/09/post-2533157.html",
+      "publishedAt": "2026-09-24T21:00:10.000Z",
+      "summary": "10月7日よりテレ東系で放送がスタートする与田祐希主演のドラマNEXT『溺愛カレシの作り方 〜セから本命になる女の子の話〜』のエンディングテーマが@onefiveの「バニララテ」に決定。あわせて特別オフショットが公開さ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "37b330559eae1aeb",
+      "title": "4人組アイドル＠onefive与田祐希×野村周平ドラマのエンディング担当、現場に差し入れも",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609240001419.html",
+      "publishedAt": "2026-09-24T21:00:00.000Z",
+      "summary": "4人組アイドルグループ「＠onefive（ワンファイブ）」が、テレビ東京系「溺愛カレシの作り方 ～セから本命になる女の子の話～」（10月7日開始、水曜深夜0時30分）のエンディングテーマ「バニララテ」を担当することが24日、分かった。 …",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
