@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-24T11:53:20.768Z",
+  "updatedAt": "2026-09-24T17:16:15.119Z",
   "articles": [
+    {
+      "id": "4c5b45b40ef78c76",
+      "title": "３坂道合同選抜15人で「青葉坂46」テーマソング歌う センターは乃木坂46の井上和",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609240001755.html",
+      "publishedAt": "2026-09-24T13:49:36.000Z",
+      "summary": "新坂道グループプロジェクト「青葉坂46」のテーマソング「Audition」が26日にリリースされる。24日、各坂道グループの公式YouTubeチャンネルで発表された。 同楽曲は乃木坂46、櫻坂46、日向坂46の合同で製作された。選抜メン…",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "77577fd46a843b76",
+      "title": "乃木坂46賀喜遥香「もう…ずっといてほしい！」3期生との距離がより縮まった「真夏の全国ツアー2026」舞台裏を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260924-5021645/",
+      "publishedAt": "2026-09-24T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月17日（木）の放送では、先週に引き続き、8月20～23日に明治神宮野球場でおこなわれた「真夏の全国ツアー2026」東京公演の振り返りをおこないました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "00782bb0b747f994",
       "title": "乃木坂46、櫻坂46、日向坂46が夢の共演 各グループから5人ずつの坂道選抜結成…センターは井上和",
@@ -156,20 +202,6 @@
       ]
     },
     {
-      "id": "ca4d5cbca9692283",
-      "title": "氣志團、千葉・幕張メッセ開催の＜氣志團万博2026＞タイムテーブル発表",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1090893",
-      "publishedAt": "2026-09-24T09:00:00.000Z",
-      "summary": "氣志團が、2026年11月7日・8日に千葉・幕張メッセにて開催する＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞のタイムテーブルを公開した。 ＜氣志團万博＞のオフィシャルHP最終先行受付（先着）は、9月30日23時59分まで受付中なので是非チェックしてほしい。 ◆ ◆ ◆ ◾️11月7日（土）※五十音順 秋山竜次（ロ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "dee2407a60f8428d",
       "title": "長濱ねる、“激カワ“誕生日お祝いショット おじゃる丸ケーキとともに「28歳になりました」",
       "sourceName": "リアルサウンド 映画部",
@@ -177,34 +209,6 @@
       "articleUrl": "https://realsound.jp/movie/2026/09/post-2532641.html",
       "publishedAt": "2026-09-24T08:00:51.000Z",
       "summary": "俳優の長濱ねるが自身のInstagramを更新し、9月4日に28歳の誕生日を迎えたことを報告するオフショットを披露した。 投稿には、黒の長袖トップスというシンプルな装いの長濱の姿が。目の前には、アニメ『おじゃる丸 』",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a8605141afaaf0ad",
-      "title": "長濱ねる、28歳の誕生日を報告 嬉しそうに“おじゃる丸”ケーキを見つめる姿も",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2532771.html",
-      "publishedAt": "2026-09-24T08:00:35.000Z",
-      "summary": "長濱ねるが自身のInstagramを更新。28歳の誕生日を迎えたことを報告した。",
       "groups": [
         "日向坂46",
         "櫻坂46"
