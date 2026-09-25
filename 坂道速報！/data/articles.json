@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-09-25T11:56:13.343Z",
+  "updatedAt": "2026-09-25T17:16:26.474Z",
   "articles": [
+    {
+      "id": "f80a06fdd1ec8602",
+      "title": "坂道選抜15名が歌う「Audition」MV公開、未来の青葉坂46に向けてアイドルの“光と影”を表現",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/92626/",
+      "publishedAt": "2026-09-25T15:00:00.000Z",
+      "summary": "乃木坂46、櫻坂46、日向坂46から選ばれたメンバー15名からなる“坂道選抜”が歌う楽曲「Audition」の配信が本日9月26日(土)にスタートし、同時にMusic Videoが公開された。 本楽曲は、現在メンバーを募集している新たな坂道グループ“青葉坂46”のオーディションのテーマソングとして制作された完全新曲。9月24日(木)に各坂道グループのYouT",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9e30daf4903c8e21",
+      "title": "「理想的じゃなくても幸せって見つかる」汐れいらが自身の境遇と重ねた最新曲「Clover」制作秘話を語る",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260925-5026905/",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。9月19日（土）の放送は、秋田県秋田市の「エリアなかいち」にぎわい交流館AU 1F 特設会場から公開生放送でお届け！ ゲストには、シンガーソングライター・汐(うしお)れいらさんが登場！ 9月",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "516c53a139df23f8",
+      "title": "映画「我々は宇宙人」舞台あいさつで、櫻坂46山﨑天の誕生日を祝福のはずが大喜利大会状態に!?",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609250001720.html",
+      "publishedAt": "2026-09-25T11:29:35.000Z",
+      "summary": "俳優の坂東龍汰（29）、岡山天音（32）、櫻坂46の山﨑天（20）、お笑いコンビ・令和ロマンの松井ケムリ（33）、門脇康平監督（29）が25日、都内劇場でアニメーション映画「我々は宇宙人」（門脇康平監督）の公開初日舞台あいさつを行った。…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b5a9291f9a41a3bf",
       "title": "乃木坂46＆Oriensが『Zipper』秋号の表紙に登場！賀喜遥香ら7人は60年代モッズスタイル披露",
@@ -262,22 +350,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "828ff155981dd51f",
-      "title": "青葉坂46、オーディションに関する重大発表を9月24日20時に公開！坂道4チャンネルで同時発表",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/669450.html",
-      "publishedAt": "2026-09-23T06:00:48.000Z",
-      "summary": "現在メンバー募集のオーディションを開催している青葉坂46が、オーディションに関する新たな重大発表を9月24日（木）20時にYouTubeで発表することが決定した。乃木坂46・櫻坂46・日向坂46・青葉坂46の4つのチャンネルで同時に情報が発表される。青葉坂46は、今回の ... The post 青葉坂46、オーディションに関する重大発表を9月24日20時に",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "3e49d25be43d6f90",
