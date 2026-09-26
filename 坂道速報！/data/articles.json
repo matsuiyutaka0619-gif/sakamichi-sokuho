@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T05:05:37.834Z",
+  "updatedAt": "2026-09-26T11:30:34.756Z",
   "articles": [
     {
       "id": "f0dd93dff75cec91",
@@ -169,8 +169,8 @@
     {
       "id": "9e30daf4903c8e21",
       "title": "「理想的じゃなくても幸せって見つかる」汐れいらが自身の境遇と重ねた最新曲「Clover」制作秘話を語る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260925-5026905/",
       "publishedAt": "2026-09-25T12:00:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。9月19日（土）の放送は、秋田県秋田市の「エリアなかいち」にぎわい交流館AU 1F 特設会場から公開生放送でお届け！ ゲストには、シンガーソングライター・汐(うしお)れいらさんが登場！ 9月",
@@ -361,30 +361,6 @@
       ]
     },
     {
-      "id": "c536586a3da01113",
-      "title": "賀喜遥香「乃木坂46が大好きだったから頑張れた」現役坂道メンバーがオーディション秘話！青葉坂46セミナー開催",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/669688.html",
-      "publishedAt": "2026-09-24T10:30:27.000Z",
-      "summary": "現在メンバー募集のオーディションを開催している新たな坂道グループ・青葉坂46が、応募締め切りに先駆け、東京・名古屋・大阪でオーディションセミナーを開催した。乃木坂46、櫻坂46、日向坂46の現役メンバーが登壇し、自身のオーディション経験や当時の心境を語った。9月17日の ... The post 賀喜遥香「乃木坂46が大好きだったから頑張れた」現役坂道メンバ",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "83b871a984b07017",
       "title": "「Tシャツが戻るまで」など全3話 仲里依紗×のん×深川麻衣『Tokyo middle 30』特別編配信",
       "sourceName": "マイナビニュース テレビ",
@@ -558,43 +534,6 @@
         {
           "name": "増田三莉音",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d9bcc3d1963e3a5f",
-      "title": "日向坂46松尾桜「東京ガールズコレクション」出演決定に号泣「家族も泣いて喜んでくれて…」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260917-4981194/",
-      "publishedAt": "2026-09-16T20:50:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月11日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -1124,28 +1063,6 @@
         },
         {
           "name": "長嶋凛桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "aba016eed804daa3",
-      "title": "乃木坂46「久保史緒里 卒業コンサート」が8月26日映像商品化、特典にはメイキング＆インタビュー",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/07/89220/",
-      "publishedAt": "2026-07-14T03:00:00.000Z",
-      "summary": "乃木坂46が、新たな映像商品『SHIORI KUBO GRADUATION CONCERT』を8月26日(水)にリリースする。 今作には、昨年11月26日・27日に神奈川県・横浜アリーナにて開催された「乃木坂46 久保史緒里 卒業コンサート」を収録。久保史緒里は乃木坂46に3期生メンバーとして2016年9月に加入し、約9年間にわたりグループを牽引。乃木坂46",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
           "group": "乃木坂46",
           "status": "active"
         }
