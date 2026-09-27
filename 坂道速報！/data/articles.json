@@ -1,25 +1,68 @@
 {
-  "updatedAt": "2026-09-27T12:09:06.783Z",
+  "updatedAt": "2026-09-27T17:01:24.935Z",
   "articles": [
     {
-      "id": "0ef6c86c9d638a4e",
-      "title": "生田絵梨花、『めおと日和』クランクイン スタイリングに注目「指輪してる!?」「とっても綺麗」",
+      "id": "a6132734d0421d68",
+      "title": "日向坂46「それでもいつか」MV公開、下田衣珠季センターで五期生10人が思い思いの表情で歌う",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/09/92677/",
+      "publishedAt": "2026-09-27T15:45:00.000Z",
+      "summary": "日向坂46が、9月30日(水)に発売する18thシングル収録曲から五期生メンバー歌唱曲「それでもいつか」のMusic Videoを公開した。 五期生の中で、本作でセンターを務めるのは下田衣珠季。本日までフォーメーションは発表されておらず、公開された映像によって明らかとなった。 濵田明日也が監督を務めた今回のMusic Videoでは、五期生一人ひとりが自分の",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "下田衣珠季",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8c4fcfbeb4ceb6e6",
+      "title": "乃木坂46・櫻坂46・日向坂46から15名集結！青葉坂46オーディションテーマ曲『Audition』配信＆MV公開",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/670347.html",
+      "publishedAt": "2026-09-27T13:00:56.000Z",
+      "summary": "青葉坂46オーディションのテーマソング『Audition』が9月26日に配信リリースされ、Music Videoが公開された。同曲は、乃木坂46、櫻坂46、日向坂46の3グループ合同で制作された新曲。各グループから5名ずつ、計15名による坂道選抜が歌唱している。乃木坂4 ... The post 乃木坂46・櫻坂46・日向坂46から15名集結！青葉坂46オー",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "9a5a0d8365f298cf",
+      "title": "遠藤さくら×賀喜遥香、『東カレ』表紙で“密着バックハグ” ファン悶絶「ただただ尊い」「神々しい」",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1072554/",
-      "publishedAt": "2026-09-27T10:52:32.000Z",
-      "summary": "俳優の生田絵梨花が27日までに、10月15日放送スタートのフジテレビ系連続ドラマ『波うららかに、めおと日和』（木曜午後10時）にクランクインしたことを、同ドラマの公式Xが報告した。『めおと日和』芳森芙美子役 俳優の生田 […]",
+      "articleUrl": "https://encount.press/archives/1072534/",
+      "publishedAt": "2026-09-27T12:38:08.000Z",
+      "summary": "アイドルグループ・乃木坂46の遠藤さくらと賀喜遥香が、『東京カレンダー』12月号の表紙を務めることを、27日までに同誌の公式Xが報告した。『東京カレンダー』12月号の表紙に アイドルグループ・乃木坂46の遠藤さくらと賀 […]",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "生田絵梨花",
+          "name": "遠藤さくら",
           "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
