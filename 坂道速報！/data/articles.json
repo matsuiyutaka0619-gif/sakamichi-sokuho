@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-28T14:04:18.763Z",
+  "updatedAt": "2026-09-28T23:19:46.866Z",
   "articles": [
+    {
+      "id": "6f1978a7ed4829db",
+      "title": "同世代の俳優が次々と車移動に 当時は焦りや羨望があった富田望生が気づいた“電車移動の利点”とは「むしろ電車で通ったほうが…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260929-5039971/",
+      "publishedAt": "2026-09-28T21:35:00.000Z",
+      "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇。進行を古旗笑佳アナウンサーが担当した。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "64c6c52ec8a349c1",
       "title": "muque、芦田愛菜主演ドラマ主題歌「いいんじゃない」配信リリース決定。ジャケットも公開",
@@ -41,28 +63,6 @@
         {
           "name": "齋藤飛鳥",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "e8e00f44fe0ce66b",
-      "title": "前田拳太郎主演映画『まだねむくないズ』製作へ 江原パジャマ、RYOTO、濱岸ひよりら共演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2536470.html",
-      "publishedAt": "2026-09-28T10:30:42.000Z",
-      "summary": "前田拳太郎が主演を務め、江原パジャマ、RYOTO（BMSG TRAINEE）、濱岸ひより、矢野ななからが共演する映画『まだねむくないズ』の製作が発表された。 本作は、『トランジット・イン・フラミンゴ』の堀内友貴が監督",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "濱岸ひより",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
