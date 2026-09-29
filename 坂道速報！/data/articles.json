@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-28T23:19:46.866Z",
+  "updatedAt": "2026-09-29T05:48:58.009Z",
   "articles": [
+    {
+      "id": "7655ee0eb137b335",
+      "title": "カズレーザー、なじみの店員に秘密を話す「めちゃくちゃ口が堅くて信用できる人」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1073442/",
+      "publishedAt": "2026-09-29T04:50:27.000Z",
+      "summary": "お笑いコンビ・メイプル超合金のカズレーザーが29日、都内で行われた映画『ディスクロージャー・デイ』公開直前“開示”イベントに、松村沙友理、特別ゲストの超常現象有識者・角由紀子氏と共に出席した。映画『ディスクロージャー・デ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "6f1978a7ed4829db",
       "title": "同世代の俳優が次々と車移動に 当時は焦りや羨望があった富田望生が気づいた“電車移動の利点”とは「むしろ電車で通ったほうが…」",
@@ -48,8 +70,8 @@
     {
       "id": "2a59610d03892b0f",
       "title": "齋藤飛鳥が「私、あれが本当に苦手で」と語る“仕事で最初に訪れる時間”とは「どうしても最初はツンケンしちゃう」「いつも反省してます」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260928-5039780/",
       "publishedAt": "2026-09-28T10:35:00.000Z",
       "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇した。",
@@ -92,8 +114,8 @@
     {
       "id": "1481782df5587c1a",
       "title": "乃木坂46井上和、ミニスカ×ブーツで秋モード ふわふわ帽子でキュートな笑顔",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260928-5040082/",
       "publishedAt": "2026-09-28T04:00:00.000Z",
       "summary": "乃木坂46の井上和が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
@@ -148,28 +170,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "f385405ac9831842",
-      "title": "「はい可愛いーーー!!」相楽伊織、シックなホワイトコーデで大人きれいめスタイル公開！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/670210.html",
-      "publishedAt": "2026-09-27T10:00:58.000Z",
-      "summary": "乃木坂46の元メンバーでタレントの相楽伊織が9月27日までに自身のInstagramを更新した。相楽伊織は白のノースリーブトップスにロングスカートを合わせ、黒のベルトをアクセントにした上品なホワイトコーデを披露し「#音ボケpops先週もご覧いただきありがとうございました ... The post 「はい可愛いーーー!!」相楽伊織、シックなホワイトコーデで大人",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "相楽伊織",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "2fae28f110f675a8",
