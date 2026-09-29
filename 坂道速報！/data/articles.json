@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T05:48:58.009Z",
+  "updatedAt": "2026-09-29T12:59:53.765Z",
   "articles": [
     {
-      "id": "7655ee0eb137b335",
-      "title": "カズレーザー、なじみの店員に秘密を話す「めちゃくちゃ口が堅くて信用できる人」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1073442/",
-      "publishedAt": "2026-09-29T04:50:27.000Z",
-      "summary": "お笑いコンビ・メイプル超合金のカズレーザーが29日、都内で行われた映画『ディスクロージャー・デイ』公開直前“開示”イベントに、松村沙友理、特別ゲストの超常現象有識者・角由紀子氏と共に出席した。映画『ディスクロージャー・デ […]",
+      "id": "edcd23abcfa8a1cf",
+      "title": "睡眠の質を上げるために濱尾ノリタカがやっている“あること”「僕はそれにちょっと悩まされているので…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20260929-5040121/",
+      "publishedAt": "2026-09-29T10:35:00.000Z",
+      "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇した。",
       "groups": [
         "乃木坂46"
       ],
@@ -17,8 +17,62 @@
       ],
       "memberMatches": [
         {
-          "name": "松村沙友理",
+          "name": "齋藤飛鳥",
           "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "2624672ff7ed4012",
+      "title": "元乃木坂46 和田まあや、披露宴にOG集結 秋元真夏、高山一実らとの再会に「ずっと素敵な関係」「古参ファンには堪らない」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2538158.html",
+      "publishedAt": "2026-09-29T09:40:50.000Z",
+      "summary": "元乃木坂46の和田まあやが披露宴を開き、多くの乃木坂46卒業生が参加したことが話題になっている。和田をはじめ、乃木坂46OGメンバーがそれぞれのInstagramから当日の様子を公開している。 今年4月、メディア制作",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "秋元真夏",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "高山一実",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "和田まあや",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "08e80a9d20595698",
+      "title": "齊藤京子、1番うれしい“異性からのプレゼント”明かす ヒコロヒーの案に「天才」「ちょうどいい」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/09/29/20163586289/",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "summary": "28日深夜放送『キョコロヒー』（テレビ朝日系）で、女優・齊藤京子とお笑い芸人・ヒコロヒーが「異性からのうれしいプレゼント」について言及し、話題を集めている。 ■異性へのプレゼントに悩み 齊藤とヒコロヒーがMCを務める同番…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齊藤京子",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -42,28 +96,6 @@
           "name": "齋藤飛鳥",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "64c6c52ec8a349c1",
-      "title": "muque、芦田愛菜主演ドラマ主題歌「いいんじゃない」配信リリース決定。ジャケットも公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1091692",
-      "publishedAt": "2026-09-28T13:54:26.000Z",
-      "summary": "muqueが、ドラマ『南田南弁護士は天才肌』 主題歌として書き下ろした新曲「いいんじゃない」を10月20日(火)に配信リリースすることが決定した。 本作ドラマは、芦田愛菜演じる自閉スペクトラム症の新人弁護士・南田南が、社会で様々な壁にぶつかりながらも、独自の視点とひらめきで数々の難題に挑むハートフル法廷ドラマ。本日、muqueの楽曲を使用した第1話PR映像が",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -154,22 +186,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "8c4fcfbeb4ceb6e6",
-      "title": "乃木坂46・櫻坂46・日向坂46から15名集結！青葉坂46オーディションテーマ曲『Audition』配信＆MV公開",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/670347.html",
-      "publishedAt": "2026-09-27T13:00:56.000Z",
-      "summary": "青葉坂46オーディションのテーマソング『Audition』が9月26日に配信リリースされ、Music Videoが公開された。同曲は、乃木坂46、櫻坂46、日向坂46の3グループ合同で制作された新曲。各グループから5名ずつ、計15名による坂道選抜が歌唱している。乃木坂4 ... The post 乃木坂46・櫻坂46・日向坂46から15名集結！青葉坂46オー",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "2fae28f110f675a8",
