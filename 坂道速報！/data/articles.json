@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-29T22:20:14.883Z",
+  "updatedAt": "2026-09-30T05:38:34.426Z",
   "articles": [
+    {
+      "id": "8766f96937a26d0c",
+      "title": "乃木坂46 5期生、“強み”が次々と個人仕事へ 井上和、五百城茉央、奥田いろは、池田瑛紗に見る4年の変化",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/09/post-2537253.html",
+      "publishedAt": "2026-09-30T03:10:12.000Z",
+      "summary": "この秋、乃木坂46 5期生の個人活動がそれぞれの得意分野を活かす形で広がっている。本稿では、井上和、五百城茉央、奥田いろは、池田瑛紗らそれぞれの個人活動の広がりを辿っていく。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "6e443d8c84ab9894",
       "title": "日向坂46＆KO1KEYZ、『HMV the music ＆ movie master』最新号でW表紙！撮り下ろし＆インタビュー掲載",
@@ -34,94 +71,6 @@
       ]
     },
     {
-      "id": "bf7df4d5cdf5d7bb",
-      "title": "Dream Ami、『ダウト -15年目の復讐-』で約6年ぶりの連ドラ出演 佐々木美玲が刑事役に",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2538154.html",
-      "publishedAt": "2026-09-29T21:00:58.000Z",
-      "summary": "10月1日より読売テレビ・日本テレビ系で放送がスタートする仁村紗和主演ドラマ『ダウト -15年目の復讐-』の追加キャストとして、Dream Amiと佐々木美玲の出演が発表された。 本作は、完全オリジナルのノンストップ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐々木美玲",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d5e0063745c89a84",
-      "title": "『殺人の門』森田望智が松下洸平の妻役に 堀未央奈＆結木滉星も重要キャラ役で出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/09/post-2537571.html",
-      "publishedAt": "2026-09-29T21:00:53.000Z",
-      "summary": "2027年2月19日に全国公開される山﨑賢人と松下洸平のW主演映画『殺人の門』の追加キャストとして、森田望智、堀未央奈、結木滉星の出演が発表された。 国内累計発行部数1億部を突破した東野圭吾の同名小説を実写映画化する",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "堀未央奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d8cdb10ff6473f14",
-      "title": "与田祐希「溺愛カレシの作り方」主演、スパルタ派は否定「あまり怒らないでほしい」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609290001697.html",
-      "publishedAt": "2026-09-29T21:00:00.000Z",
-      "summary": "元乃木坂46与田祐希（26）が、29日までに都内で行われた主演するテレビ東京系連続ドラマ「溺愛カレシの作り方～セから本命になる女の子の話～」（10月7日スタート、水曜深夜0時半）記者会見に出席した。 恋の妖精のスパルタレッスンで成長して…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "f97bbb44abe25af9",
-      "title": "元乃木坂46与田祐希、壁の乗り越え方は「気合と根性」 野村周平「俺の肉体美が見どころ」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609290000841.html",
-      "publishedAt": "2026-09-29T21:00:00.000Z",
-      "summary": "元乃木坂46与田祐希（26）が、主演するテレビ東京系ドラマ「溺愛カレシの作り方～セから本命になる女の子の話～」（10月7日スタート、水曜深夜0時半）記者会見を29日までに都内の同局で行い、野村周平（32）とともに意気込みを語った。 ざく…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "a9dca3fab86688e0",
       "title": "片思い中の先輩と体を重ねた翌日からメッセージは既読無視、不安に耐えかねて問い詰めた結果返ってきた言葉は…“愚かで愛おしい”恋愛奮闘劇で白井桜役演じる与田祐希が作品に抱いた印象とは ドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』記者会見",
       "sourceName": "マイナビニュース エンタメ",
@@ -144,54 +93,10 @@
       ]
     },
     {
-      "id": "bc62dd0d636fa530",
-      "title": "山﨑賢人＆松下洸平W主演映画『殺人の門』 追加キャストに結木滉星、森田望智、堀未央奈",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1073808/",
-      "publishedAt": "2026-09-29T21:00:00.000Z",
-      "summary": "俳優の山﨑賢人と松下洸平がダブル主演を務める映画『殺人の門』（2027年2月19日公開）の追加キャストとして、森田望智、堀未央奈、結木滉星の出演が30日、発表された。江口のりこ演じるベテラン刑事と共に事件を追う 俳優の […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "堀未央奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "1034e8ceb17a59a7",
-      "title": "Dream Ami、6年ぶり連ドラ出演 元日向坂46佐々木美玲と共に『ダウト』容疑者候補に",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1073810/",
-      "publishedAt": "2026-09-29T21:00:00.000Z",
-      "summary": "俳優の仁村紗和が主演を務め、FANTASTICSの佐藤大樹が共演する10月1日スタートの読売テレビ・日本テレビ系連続ドラマ『ダウト -15年目の復讐-』（木曜午後11時59分）の容疑者候補となる追加キャストとして、Dre […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "佐々木美玲",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "edcd23abcfa8a1cf",
       "title": "睡眠の質を上げるために濱尾ノリタカがやっている“あること”「僕はそれにちょっと悩まされているので…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260929-5040121/",
       "publishedAt": "2026-09-29T10:35:00.000Z",
       "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇した。",
@@ -205,60 +110,6 @@
         {
           "name": "齋藤飛鳥",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "2624672ff7ed4012",
-      "title": "元乃木坂46 和田まあや、披露宴にOG集結 秋元真夏、高山一実らとの再会に「ずっと素敵な関係」「古参ファンには堪らない」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/09/post-2538158.html",
-      "publishedAt": "2026-09-29T09:40:50.000Z",
-      "summary": "元乃木坂46の和田まあやが披露宴を開き、多くの乃木坂46卒業生が参加したことが話題になっている。和田をはじめ、乃木坂46OGメンバーがそれぞれのInstagramから当日の様子を公開している。 今年4月、メディア制作",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "秋元真夏",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "高山一実",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "和田まあや",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "08e80a9d20595698",
-      "title": "齊藤京子、1番うれしい“異性からのプレゼント”明かす ヒコロヒーの案に「天才」「ちょうどいい」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/09/29/20163586289/",
-      "publishedAt": "2026-09-29T07:00:00.000Z",
-      "summary": "28日深夜放送『キョコロヒー』（テレビ朝日系）で、女優・齊藤京子とお笑い芸人・ヒコロヒーが「異性からのうれしいプレゼント」について言及し、話題を集めている。 ■異性へのプレゼントに悩み 齊藤とヒコロヒーがMCを務める同番…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齊藤京子",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
