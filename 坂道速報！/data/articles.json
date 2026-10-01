@@ -1,25 +1,47 @@
 {
-  "updatedAt": "2026-10-01T13:25:32.400Z",
+  "updatedAt": "2026-10-01T22:44:26.707Z",
   "articles": [
     {
-      "id": "75be57e98b53fff7",
-      "title": "悪役だらけの映画で舘ひろし、岩田剛典ら新境地 小栗旬は「全裸に注目」と間宮祥太朗の肉体PR",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610010001780.html",
-      "publishedAt": "2026-10-01T12:51:30.000Z",
-      "summary": "映画「バッド・ルーテナント・トウキョウ」（23日公開、三池崇史監督）主演の小栗旬（43）をはじめ、間宮祥太朗（33）、リヴ・モーガン（32）、野村周平（32）、西野七瀬（32）、向里祐香（36）、岩田剛典（37）、中野英雄（61）、村上…",
+      "id": "cba15651f748ca0b",
+      "title": "かつて天才子役として一世を風靡、芸能界引退後は幸せな結婚生活、しかし娘の事故と夫の裏切りで…“痛快復讐エンタメ劇”で主人公・鮎川穂奈未役演じる朝日奈央が語った「注目ポイント」とは ドラマ『妻を引退します』記者会見",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261002-5050468/",
+      "publishedAt": "2026-10-01T22:10:00.000Z",
+      "summary": "テレ東のドラマ『妻を引退します』(10月5日スタート 毎週月曜23:06〜23:55)の記者会見がこのほど、都内で行われ、朝日奈央、新川優愛、時任勇気、犬飼貴丈、松田好花、B&ZAI・本高克樹(「高」は「はしごだか」)らが登壇した。",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "西野七瀬",
-          "group": "乃木坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "a971af188699a9ee",
+      "title": "乃木坂46賀喜遥香「何を準備すればいいか分からなかった」8年前に受けた“坂道合同オーディション”当時の心境を告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261001-5058777/",
+      "publishedAt": "2026-10-01T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月24日（木）の放送では、遥香先生が乃木坂46に加入するきっかけとなった坂道合同オーディションについて語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -38,28 +60,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "f2fdd3a78a9b0f45",
-      "title": "『地雷グリコ』堀田真由が最凶のライバル役 山下美月はブルーメッシュのベリーショートに",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2539606.html",
-      "publishedAt": "2026-10-01T08:00:09.000Z",
-      "summary": "11月13日よりPrime Videoにて世界独占配信される、森七菜と蒔田彩珠がW主演を務めるPrime Originalドラマ『地雷グリコ』の追加キャストとして、堀田真由、山下美月、前田拳太郎、前田旺志郎、髙橋大翔の",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "9e74ce6a69121398",
@@ -153,8 +153,8 @@
     {
       "id": "e4f7be53c287b586",
       "title": "ワンマンな性格が仇となり周囲から孤立、社内不倫が発覚して退職に追い込まれる…キャリアも夢も失い人生のどん底へ落ちた編集者・清水麦役演じる齋藤飛鳥が役作りで大切にしたこととは ドラマ『まめとむぎ』記者会見",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261001-5050768/",
       "publishedAt": "2026-09-30T22:20:00.000Z",
       "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇した。",
@@ -286,38 +286,6 @@
           "name": "与田祐希",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6e443d8c84ab9894",
-      "title": "日向坂46＆KO1KEYZ、『HMV the music ＆ movie master』最新号でW表紙！撮り下ろし＆インタビュー掲載",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/671085.html",
-      "publishedAt": "2026-09-29T22:00:04.000Z",
-      "summary": "日向坂46とKO1KEYZが、9月29日発行のフリーペーパー『HMV the music & movie master ISSUE 402』の表紙を飾る。日向坂46は、9月30日に18thシングル『イチャイチャ虫』を発売。誌面には上村ひなの、小西夏菜実、藤嶌果歩 ... The post 日向坂46＆KO1KEYZ、『HMV the music ＆ movi",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "上村ひなの",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "小西夏菜実",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
@@ -688,28 +656,6 @@
           "name": "正源司陽子",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "03e62619584dd124",
-      "title": "間寛平「阪急電車が止まったんやで」20代前半で大阪の百貨店に呼んだ“桁違いの客数”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260923-5015740/",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。9月3日（木）の放送では、間寛平さんが登場！ 本記事では、間さんが24歳で吉本新喜劇の座長に就任した当時のエピソードについて語った模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
