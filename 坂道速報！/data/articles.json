@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T06:03:16.672Z",
+  "updatedAt": "2026-10-01T13:25:32.400Z",
   "articles": [
     {
-      "id": "bfb2c19bd5573def",
-      "title": "元テレビ東京の塩田真弓キャスターがFIRST AGENT所属 吉川美代子、優木まおみの後輩に",
+      "id": "75be57e98b53fff7",
+      "title": "悪役だらけの映画で舘ひろし、岩田剛典ら新境地 小栗旬は「全裸に注目」と間宮祥太朗の肉体PR",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610010000515.html",
-      "publishedAt": "2026-10-01T05:24:26.000Z",
-      "summary": "元テレビ東京の報道番組の塩田真弓キャスター(50)が1日付で、芸能事務所「FIRST AGENT」に所属した。同社には、女優浅野温子(65)やニュースキャスター吉川美代子(72)、優木まおみ(46)、朝比奈彩(32)、松村沙友理(34)…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610010001780.html",
+      "publishedAt": "2026-10-01T12:51:30.000Z",
+      "summary": "映画「バッド・ルーテナント・トウキョウ」（23日公開、三池崇史監督）主演の小栗旬（43）をはじめ、間宮祥太朗（33）、リヴ・モーガン（32）、野村周平（32）、西野七瀬（32）、向里祐香（36）、岩田剛典（37）、中野英雄（61）、村上…",
       "groups": [
         "乃木坂46"
       ],
@@ -17,7 +17,45 @@
       ],
       "memberMatches": [
         {
-          "name": "松村沙友理",
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1e5c034f7569fee5",
+      "title": "青葉坂46の所属先発表は来年12月19日、オリジナル曲リリースや冠番組など活動内容が明らかに",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/92815/",
+      "publishedAt": "2026-10-01T09:05:00.000Z",
+      "summary": "現在メンバーを募集している新たな坂道グループ“青葉坂46”のオーディション後の活動内容が発表された。 すでに発表されている通り、青葉坂46の活動期間は約1年間。その後、乃木坂46の7期生・櫻坂46の5期生・日向坂46の6期生のいずれかへと配属となるが、2027年以降の活動内容と解散ライブの開催と日程が本日明らかとなった。 青葉坂46の解散ライブは2027年1",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "f2fdd3a78a9b0f45",
+      "title": "『地雷グリコ』堀田真由が最凶のライバル役 山下美月はブルーメッシュのベリーショートに",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2539606.html",
+      "publishedAt": "2026-10-01T08:00:09.000Z",
+      "summary": "11月13日よりPrime Videoにて世界独占配信される、森七菜と蒔田彩珠がW主演を務めるPrime Originalドラマ『地雷グリコ』の追加キャストとして、堀田真由、山下美月、前田拳太郎、前田旺志郎、髙橋大翔の",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -41,28 +79,6 @@
         {
           "name": "平手友梨奈",
           "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "d5ec73477a59baf8",
-      "title": "ゆず、楽曲「君を想う」オーケストラアレンジがNEXCO西日本の新CMソングに",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1092151",
-      "publishedAt": "2026-10-01T01:42:00.000Z",
-      "summary": "2027年にデビュー30周年を迎えるゆずの楽曲「君を想う(Symphonic Orchestra Version)」が、NEXCO西日本の新CMソングに起用されることが決定した。本日10月1日より、西日本エリアのテレビやラジオおよびYouTubeなどのウェブ広告で順次放送・配信される。 CMソングに起用された「君を想う」は、ゆずがデビュー25周年を迎えた20",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -217,8 +233,8 @@
     {
       "id": "dfa1cdedfb3ea239",
       "title": "日向坂46松尾桜「私のぬいぐるみで…」二代目キャプテン・髙橋未来虹がMV撮影中に見せた“かわいい行動”にキュン！",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20260930-5053310/",
       "publishedAt": "2026-09-30T12:00:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月25日（金）の",
@@ -683,28 +699,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260923-5015740/",
       "publishedAt": "2026-09-23T10:00:00.000Z",
       "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。9月3日（木）の放送では、間寛平さんが登場！ 本記事では、間さんが24歳で吉本新喜劇の座長に就任した当時のエピソードについて語った模様を紹介します。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "3e49d25be43d6f90",
-      "title": "「“ウケる！”と思たらしつこくいくねん」間寛平が語る“吉本新喜劇”今と昔の違いとは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260922-5010906/",
-      "publishedAt": "2026-09-22T11:50:00.000Z",
-      "summary": "山崎怜奈（れなち）がパーソナリティを務めるTOKYO FMのラジオ番組「山崎怜奈の誰かに話したかったこと。（ダレハナ）」（毎週月曜～木曜13:00～14:55）。9月3日（木）の放送では、間寛平さんが登場！ 本記事では、間さんがゼネラルマネージャー（GM）視点から語る「吉本新喜劇の変化」について語った模様をお届けします。今年12月には、吉本新喜劇東京特別公演",
       "groups": [
         "乃木坂46"
       ],
