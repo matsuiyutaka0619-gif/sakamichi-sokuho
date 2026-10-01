@@ -1,6 +1,139 @@
 {
-  "updatedAt": "2026-09-30T22:20:41.065Z",
+  "updatedAt": "2026-10-01T06:03:16.672Z",
   "articles": [
+    {
+      "id": "bfb2c19bd5573def",
+      "title": "元テレビ東京の塩田真弓キャスターがFIRST AGENT所属 吉川美代子、優木まおみの後輩に",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610010000515.html",
+      "publishedAt": "2026-10-01T05:24:26.000Z",
+      "summary": "元テレビ東京の報道番組の塩田真弓キャスター(50)が1日付で、芸能事務所「FIRST AGENT」に所属した。同社には、女優浅野温子(65)やニュースキャスター吉川美代子(72)、優木まおみ(46)、朝比奈彩(32)、松村沙友理(34)…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "9e74ce6a69121398",
+      "title": "平手友梨奈、ソロ初の日本武道館ワンマン『アナタタチノカルテ』を全曲ノーカット放送！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/671305.html",
+      "publishedAt": "2026-10-01T02:00:40.000Z",
+      "summary": "平手友梨奈が8月20日に東京・日本武道館で開催したワンマンライブ『アナタタチノカルテ』が、9月27日にCS放送・TBSチャンネル1で全曲ノーカットでTV初独占放送された。平手にとって1年ぶり、2度目のワンマンライブとなった同公演は、ソロとして初めて日本武道館で開催。全編 ... The post 平手友梨奈、ソロ初の日本武道館ワンマン『アナタタチノカルテ』を",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "平手友梨奈",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d5ec73477a59baf8",
+      "title": "ゆず、楽曲「君を想う」オーケストラアレンジがNEXCO西日本の新CMソングに",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1092151",
+      "publishedAt": "2026-10-01T01:42:00.000Z",
+      "summary": "2027年にデビュー30周年を迎えるゆずの楽曲「君を想う(Symphonic Orchestra Version)」が、NEXCO西日本の新CMソングに起用されることが決定した。本日10月1日より、西日本エリアのテレビやラジオおよびYouTubeなどのウェブ広告で順次放送・配信される。 CMソングに起用された「君を想う」は、ゆずがデビュー25周年を迎えた20",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b973c68c452b8363",
+      "title": "乃木坂46、14人で紡いだ未来へ続く物語！小川彩が座長務める42ndSGアンダーライブ完走",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/671332.html",
+      "publishedAt": "2026-09-30T22:30:02.000Z",
+      "summary": "乃木坂46が9月29日、30日の2日間、東京体育館で『42ndSG アンダーライブ』を開催した。アンダーライブとして同会場で公演を行うのは約9年ぶりとなった。出演したのは愛宕心響、伊藤理々杏、岡本姫奈、小川彩、奥田いろは、小津玲奈、海邉朱莉、金川紗耶、川端晃菜、黒見明香 ... The post 乃木坂46、14人で紡いだ未来へ続く物語！小川彩が座長務める4",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤理々杏",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "黒見明香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "岡本姫奈",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "愛宕心響",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小津玲奈",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "海邉朱莉",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川端晃菜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "e4f7be53c287b586",
       "title": "ワンマンな性格が仇となり周囲から孤立、社内不倫が発覚して退職に追い込まれる…キャリアも夢も失い人生のどん底へ落ちた編集者・清水麦役演じる齋藤飛鳥が役作りで大切にしたこととは ドラマ『まめとむぎ』記者会見",
@@ -24,52 +157,8 @@
       ]
     },
     {
-      "id": "1ab7b90bd9c2564e",
-      "title": "与田祐希×吉川愛×菊地姫奈、『ガチャ-廻世界-』でトリプル主演に 共演に岩瀬洋志",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2538999.html",
-      "publishedAt": "2026-09-30T22:00:51.000Z",
-      "summary": "与田祐希、吉川愛、菊地姫奈の3人が、2027年2月19日に公開される映画『ガチャ-廻世界-』でトリプル主演を務めることが決定。あわせて特報映像とティザービジュアルが公開された。 本作は、廻すだけで生まれ変われる “転",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5ad5015c1729558e",
-      "title": "与田祐希、吉川愛、菊地姫奈が映画「ガチャ－廻世界－」で異色の“３人１役”主演",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202609300001424.html",
-      "publishedAt": "2026-09-30T22:00:00.000Z",
-      "summary": "元乃木坂46与田祐希（26）吉川愛（26）菊地姫奈（21）が、映画「ガチャ－廻世界－」（27年2月19日公開）にトリプル主演することが9月30日、分かった。 人生に限界を感じていた中で突如現れた、回す度に転生でき、新たな人生が授けられる…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "642acf62b4b9e928",
-      "title": "与田祐希×吉川愛×菊地姫奈トリプル主演、3人1役の異色設定ホラー『ガチャ-廻世界-』来年2月公開",
+      "title": "与田祐希×吉川愛×菊地姫奈トリプル主演、3人1役の異色ホラー『ガチャ-廻世界-』来年2月公開",
       "sourceName": "Bezzy",
       "sourceUrl": "https://bezzy.jp/feed/",
       "articleUrl": "https://bezzy.jp/2026/10/92758/",
@@ -126,28 +215,6 @@
       "memberMatches": []
     },
     {
-      "id": "42a51e90c966501a",
-      "title": "新婚の元アイドル、「旦那さんも超絶イケメン！」 結婚式参加の鈴木拓が感嘆「カッコよかったー」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1074425/",
-      "publishedAt": "2026-09-30T12:40:00.000Z",
-      "summary": "お笑いコンビ・ドランクドラゴンの鈴木拓が29日、元アイドルの結婚式に参加したことを自身のXで報告すると、ファンから多くのコメントが寄せられている。かつて共演した和田まあやを祝福「綺麗だった」 お笑いコンビ・ドランクドラ […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "和田まあや",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "dfa1cdedfb3ea239",
       "title": "日向坂46松尾桜「私のぬいぐるみで…」二代目キャプテン・髙橋未来虹がMV撮影中に見せた“かわいい行動”にキュン！",
       "sourceName": "マイナビニュース エンタメ",
@@ -187,8 +254,8 @@
     {
       "id": "aef1d67980f0c960",
       "title": "体を重ねた翌日からメッセージは既読無視、やっと話せても「忙しい」の一点張り…“最低なクズ男”綿貫圭介役演じた野村周平が作品の見どころを語る「何も考えずに面白く観られる」 ドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』記者会見",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20260930-5045423/",
       "publishedAt": "2026-09-30T10:35:00.000Z",
       "summary": "テレ東のドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』(10月7日スタート 毎週水曜深夜24:30〜※初回放送は24:45〜)の記者会見がこのほど、都内で行われ、与田祐希、野村周平が登壇した。",
