@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-02T12:44:02.449Z",
+  "updatedAt": "2026-10-02T22:18:11.235Z",
   "articles": [
+    {
+      "id": "7735578153a12a9a",
+      "title": "若月佑美「飾ってくれたお店に偶然入るかもしれない」初の作品展で原本も販売",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610020001036.html",
+      "publishedAt": "2026-10-02T21:55:00.000Z",
+      "summary": "元乃木坂46の若月佑美（32）が2日、都内で、デビュー15周年を記念した初の作品展「FIRST EGOISM」の会見に登壇した。 さまざまな作品が並ぶ展示では原本の販売も行う。「これからSNSで見かけたり、（購入して）飾ってくれたお店に…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "若月佑美",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "97a0382d09d9fbef",
+      "title": "「バンドをクビになるんじゃないかと…」かりゆし58前川が最近やらかした大失敗とは？ 最新アルバム『結縁音』制作秘話も",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261003-5065861/",
+      "publishedAt": "2026-10-02T20:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。9月26日（土）の放送には、かりゆし58の前川真悟さん（Vo./Ba.）と宮平直樹さん（Gt.）が登場！ “お酒”にまつわるエピソードや、10月14日（水）にリリースされるアルバム『結縁音』に",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b6782656b0c87073",
+      "title": "櫻坂46の新BACKS曲「自称バレエダンサー」MV公開、センター小田倉麗奈はバイオリンを奏でる",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/92871/",
+      "publishedAt": "2026-10-02T15:40:00.000Z",
+      "summary": "櫻坂46が、10月14日(水)に発売する16枚目シングル『愛MUST BE』に収録されるBACKSメンバー曲「自称バレエダンサー」のMusic Videoを公開した。 先行配信も同時にスタートした本楽曲で、センターを務めるのは三期生・小田倉麗奈。作曲は櫻坂46の数々の代表曲を手掛けるナスカが務め、ハードなサウンドでありながらも“なりたい自分”への未練や憧れを",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "a20be80398c4a2f7",
       "title": "乃木坂46の6期生、グラビア新企画スタート 大越ひなのに注目「顔面が強い」「ビジュ良すぎ」",
@@ -33,20 +99,6 @@
       "summary": "櫻坂46と千葉ロッテマリーンズのコラボグッズが、10月2日12時よりマリーンズオンラインストアで受注販売される。今回のコラボは、11月14日、15日にZOZOマリンスタジアムで開催される櫻坂46『6th YEAR ANNIVERSARY LIVE』を記念して実現。ライブ ... The post 櫻坂46×千葉ロッテマリーンズ、コラボグッズ発売！メンバー名入",
       "groups": [
         "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "b34cb055fb66c6b4",
-      "title": "乃木坂46・６期生の個性に迫る撮り下ろしグラビア企画がスタート 毎日１人ずつ公開予定",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610020001343.html",
-      "publishedAt": "2026-10-02T11:35:55.000Z",
-      "summary": "乃木坂46の6期生の個性に迫る撮り下ろしグラビア企画「6期生グラビアNogizaka Colors」が2日、公式サイトでスタートした。 加入してから2年目を迎えた6期生メンバーそれぞれの“色（個性）”を引き出す企画で、トップバッターは期…",
-      "groups": [
-        "乃木坂46"
       ],
       "statuses": [],
       "memberMatches": []
@@ -170,95 +222,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "9e74ce6a69121398",
-      "title": "平手友梨奈、ソロ初の日本武道館ワンマン『アナタタチノカルテ』を全曲ノーカット放送！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/671305.html",
-      "publishedAt": "2026-10-01T02:00:40.000Z",
-      "summary": "平手友梨奈が8月20日に東京・日本武道館で開催したワンマンライブ『アナタタチノカルテ』が、9月27日にCS放送・TBSチャンネル1で全曲ノーカットでTV初独占放送された。平手にとって1年ぶり、2度目のワンマンライブとなった同公演は、ソロとして初めて日本武道館で開催。全編 ... The post 平手友梨奈、ソロ初の日本武道館ワンマン『アナタタチノカルテ』を",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "b973c68c452b8363",
-      "title": "乃木坂46、14人で紡いだ未来へ続く物語！小川彩が座長務める42ndSGアンダーライブ完走",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/671332.html",
-      "publishedAt": "2026-09-30T22:30:02.000Z",
-      "summary": "乃木坂46が9月29日、30日の2日間、東京体育館で『42ndSG アンダーライブ』を開催した。アンダーライブとして同会場で公演を行うのは約9年ぶりとなった。出演したのは愛宕心響、伊藤理々杏、岡本姫奈、小川彩、奥田いろは、小津玲奈、海邉朱莉、金川紗耶、川端晃菜、黒見明香 ... The post 乃木坂46、14人で紡いだ未来へ続く物語！小川彩が座長務める4",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "伊藤理々杏",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "黒見明香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "岡本姫奈",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "愛宕心響",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小津玲奈",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "海邉朱莉",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川端晃菜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "e4f7be53c287b586",
