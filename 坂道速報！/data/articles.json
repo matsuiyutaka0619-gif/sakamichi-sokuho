@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-01T22:44:26.707Z",
+  "updatedAt": "2026-10-02T05:46:25.240Z",
   "articles": [
+    {
+      "id": "a32bf3af2af55864",
+      "title": "山下美月、“大胆ベリーショット”イメチェンに驚き イケメン生徒会長役にファン大歓喜",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2541615.html",
+      "publishedAt": "2026-10-02T03:30:27.000Z",
+      "summary": "元乃木坂46で俳優の山下美月が10月1日、自身のInstagramを更新。森七菜と蒔田彩珠が主演を務めるPrime Originalドラマ『地雷グリコ』に生徒会長役で出演を報告、大胆にイメージチェンジしたベリーショート",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b1ce6c087e25dd33",
+      "title": "青葉坂46、2027年12月に日本武道館で解散ライブ！乃木坂46・櫻坂46・日向坂46への配属先も発表",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/671496.html",
+      "publishedAt": "2026-10-02T03:30:18.000Z",
+      "summary": "現在メンバー募集オーディションを開催している新たな坂道グループ・青葉坂46が、2027年12月19日に東京・日本武道館で解散ライブを開催することを発表した。同公演では、メンバーの乃木坂46、櫻坂46、日向坂46への配属先も発表される。青葉坂46は、現在開催中のオーディシ ... The post 青葉坂46、2027年12月に日本武道館で解散ライブ！乃木坂4",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "cba15651f748ca0b",
       "title": "かつて天才子役として一世を風靡、芸能界引退後は幸せな結婚生活、しかし娘の事故と夫の裏切りで…“痛快復讐エンタメ劇”で主人公・鮎川穂奈未役演じる朝日奈央が語った「注目ポイント」とは ドラマ『妻を引退します』記者会見",
@@ -22,6 +60,20 @@
           "status": "og"
         }
       ]
+    },
+    {
+      "id": "29b4491e44ed2809",
+      "title": "ロッテ、櫻坂46とのコラボグッズを発売",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261002-5061188/",
+      "publishedAt": "2026-10-01T16:08:23.000Z",
+      "summary": "ロッテは2日、12時00分からマリーンズオンラインストアで「櫻坂46」とのコラボグッズを発売することになったと発表した。 このグッズは、11月14日および15日に櫻坂46「6th YEAR…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "a971af188699a9ee",
@@ -550,28 +602,6 @@
           "name": "西野七瀬",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "77577fd46a843b76",
-      "title": "乃木坂46賀喜遥香「もう…ずっといてほしい！」3期生との距離がより縮まった「真夏の全国ツアー2026」舞台裏を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260924-5021645/",
-      "publishedAt": "2026-09-24T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。9月17日（木）の放送では、先週に引き続き、8月20～23日に明治神宮野球場でおこなわれた「真夏の全国ツアー2026」東京公演の振り返りをおこないました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
