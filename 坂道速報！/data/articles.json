@@ -1,27 +1,63 @@
 {
-  "updatedAt": "2026-10-03T05:23:46.270Z",
+  "updatedAt": "2026-10-03T11:44:51.501Z",
   "articles": [
     {
-      "id": "4d0f90ec26285629",
-      "title": "櫻坂46、16thシングルから「自称バレエダンサー」先行配信開始＋MV公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1092426",
-      "publishedAt": "2026-10-03T04:41:14.000Z",
-      "summary": "櫻坂46が、本日10月3日(土)よりBACKS曲「自称バレエダンサー」の配信リリースを開始した。本楽曲は、10月14日(水)に発売となる16thシングル「愛MUST BE」に収録される。 今作シングルの表題曲「愛MUST BE」がすでに先行配信されているなか、BACKS曲「自称バレエダンサー」では、三期生・小田倉麗奈がセンターを務める。「なりたい自分」への未",
+      "id": "3cb98e72d8926acc",
+      "title": "乃木坂46・6期生の個性に迫る新グラビア企画スタート！トップバッターは大越ひなの",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/671836.html",
+      "publishedAt": "2026-10-03T11:00:33.000Z",
+      "summary": "乃木坂46の6期生にフォーカスした撮り下ろしグラビア企画『6期生グラビア Nogizaka Colors』が、乃木坂46公式サイトでスタートした。本企画は、加入から2年目を迎えた6期生メンバーそれぞれの色、個性を引き出す撮り下ろしグラビア企画。トップバッターとして大越ひ ... The post 乃木坂46・6期生の個性に迫る新グラビア企画スタート！トップバ",
       "groups": [
-        "櫻坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "小田倉麗奈",
-          "group": "櫻坂46",
+          "name": "大越ひなの",
+          "group": "乃木坂46",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "7187ca3d5a3b4df2",
+      "title": "三田寛子「お産も安産でうまくいきますように」お守り手に長男の嫁・能條愛未と２ショット",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610030001648.html",
+      "publishedAt": "2026-10-03T10:37:56.000Z",
+      "summary": "三田寛子（60）が3日、インスタグラムを更新。前日2日に長男の歌舞伎俳優・中村橋之助（30）との間の第1子妊娠を発表した、元乃木坂46能條愛未（31）とのツーショットを投稿した。 「うまくいく守」を手に「お産も安産でうまくいきますように…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "能條愛未",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fd0ba40672020a47",
+      "title": "【ライブレポート】僕が見たかった青空、爽やかな笑顔で華やかに熱唱＜a-nation 2026＞",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/671827.html",
+      "publishedAt": "2026-10-03T09:00:54.000Z",
+      "summary": "10月3日（土）、お台場で開催されている「a-nation 2026」に、僕が見たかった青空が出演した。この記事では、同イベントのライブレポートをお届けする。初日オープニングアクトに登場したのは「乃木坂46公式ライバル」として結成された、僕が見たかった青空。2年ぶり2回 ... The post 【ライブレポート】僕が見たかった青空、爽やかな笑顔で華やかに熱",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "cea6f46ffc3f2394",
@@ -41,28 +77,6 @@
         {
           "name": "小田倉麗奈",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "1bb41cef0d793f02",
-      "title": "日向坂46最年少17歳・渡辺莉奈が明かした決意と選抜落ちの悔しさ「人生捧げている」「ここで踏ん張る」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1073707/",
-      "publishedAt": "2026-10-03T01:40:00.000Z",
-      "summary": "アイドルグループ・日向坂46が、9月30日に18枚目シングル『イチャイチャ虫』をリリースした。四期生の渡辺莉奈は、ひなた坂46（日向坂46アンダーメンバーの呼称）として、共通カップリング曲『風にキンモクセイ』に参加してい […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "渡辺莉奈",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -92,8 +106,8 @@
     {
       "id": "97a0382d09d9fbef",
       "title": "「バンドをクビになるんじゃないかと…」かりゆし58前川が最近やらかした大失敗とは？ 最新アルバム『結縁音』制作秘話も",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261003-5065861/",
       "publishedAt": "2026-10-02T20:00:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。9月26日（土）の放送には、かりゆし58の前川真悟さん（Vo./Ba.）と宮平直樹さん（Gt.）が登場！ “お酒”にまつわるエピソードや、10月14日（水）にリリースされるアルバム『結縁音』に",
@@ -415,28 +429,6 @@
       ]
     },
     {
-      "id": "6f1978a7ed4829db",
-      "title": "同世代の俳優が次々と車移動に 当時は焦りや羨望があった富田望生が気づいた“電車移動の利点”とは「むしろ電車で通ったほうが…」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260929-5039971/",
-      "publishedAt": "2026-09-28T21:35:00.000Z",
-      "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇。進行を古旗笑佳アナウンサーが担当した。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "1481782df5587c1a",
       "title": "乃木坂46井上和、ミニスカ×ブーツで秋モード ふわふわ帽子でキュートな笑顔",
       "sourceName": "マイナビニュース 芸能",
@@ -543,28 +535,6 @@
           "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9e30daf4903c8e21",
-      "title": "「理想的じゃなくても幸せって見つかる」汐れいらが自身の境遇と重ねた最新曲「Clover」制作秘話を語る",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260925-5026905/",
-      "publishedAt": "2026-09-25T12:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。9月19日（土）の放送は、秋田県秋田市の「エリアなかいち」にぎわい交流館AU 1F 特設会場から公開生放送でお届け！ ゲストには、シンガーソングライター・汐(うしお)れいらさんが登場！ 9月",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
