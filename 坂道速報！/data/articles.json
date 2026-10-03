@@ -1,24 +1,90 @@
 {
-  "updatedAt": "2026-10-02T22:18:11.235Z",
+  "updatedAt": "2026-10-03T05:23:46.270Z",
   "articles": [
     {
-      "id": "7735578153a12a9a",
-      "title": "若月佑美「飾ってくれたお店に偶然入るかもしれない」初の作品展で原本も販売",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610020001036.html",
-      "publishedAt": "2026-10-02T21:55:00.000Z",
-      "summary": "元乃木坂46の若月佑美（32）が2日、都内で、デビュー15周年を記念した初の作品展「FIRST EGOISM」の会見に登壇した。 さまざまな作品が並ぶ展示では原本の販売も行う。「これからSNSで見かけたり、（購入して）飾ってくれたお店に…",
+      "id": "4d0f90ec26285629",
+      "title": "櫻坂46、16thシングルから「自称バレエダンサー」先行配信開始＋MV公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1092426",
+      "publishedAt": "2026-10-03T04:41:14.000Z",
+      "summary": "櫻坂46が、本日10月3日(土)よりBACKS曲「自称バレエダンサー」の配信リリースを開始した。本楽曲は、10月14日(水)に発売となる16thシングル「愛MUST BE」に収録される。 今作シングルの表題曲「愛MUST BE」がすでに先行配信されているなか、BACKS曲「自称バレエダンサー」では、三期生・小田倉麗奈がセンターを務める。「なりたい自分」への未",
       "groups": [
-        "乃木坂46"
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cea6f46ffc3f2394",
+      "title": "櫻坂46、16thシングルBACKS曲『自称バレエダンサー』先行配信＆MV公開決定！センターは小田倉麗奈",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/671736.html",
+      "publishedAt": "2026-10-03T02:00:15.000Z",
+      "summary": "櫻坂46が、10月14日に発売する16thシングル『愛 MUST BE』に収録されるBACKS曲『自称バレエダンサー』の先行配信とMusic Videoの公開を発表した。すでに収録楽曲は発表されていたが、今回『自称バレエダンサー』がBACKSメンバーによる楽曲であること ... The post 櫻坂46、16thシングルBACKS曲『自称バレエダンサー』先",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1bb41cef0d793f02",
+      "title": "日向坂46最年少17歳・渡辺莉奈が明かした決意と選抜落ちの悔しさ「人生捧げている」「ここで踏ん張る」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1073707/",
+      "publishedAt": "2026-10-03T01:40:00.000Z",
+      "summary": "アイドルグループ・日向坂46が、9月30日に18枚目シングル『イチャイチャ虫』をリリースした。四期生の渡辺莉奈は、ひなた坂46（日向坂46アンダーメンバーの呼称）として、共通カップリング曲『風にキンモクセイ』に参加してい […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "渡辺莉奈",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d08078258686e5ac",
+      "title": "鮎川蓮也と不倫関係、穂奈未に抱く強い嫉妬心と執着、歪んだ感情…“イズマイ”の愛称で老若男女から支持を集める人気俳優・泉舞花役演じる新川優愛が「楽しみにしていただきたい」と語る見どころとは ドラマ『妻を引退します』記者会見",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261003-5052041/",
+      "publishedAt": "2026-10-02T22:35:00.000Z",
+      "summary": "テレ東のドラマ『妻を引退します』(10月5日スタート 毎週月曜23:06～23:55)の記者会見がこのほど、都内で行われ、朝日奈央、新川優愛、時任勇気、犬飼貴丈、松田好花、B&ZAI・本高克樹(「高」は「はしごだか」)らが登壇した。",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "若月佑美",
-          "group": "乃木坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -68,28 +134,6 @@
       ]
     },
     {
-      "id": "a20be80398c4a2f7",
-      "title": "乃木坂46の6期生、グラビア新企画スタート 大越ひなのに注目「顔面が強い」「ビジュ良すぎ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1075657/",
-      "publishedAt": "2026-10-02T12:20:00.000Z",
-      "summary": "アイドルグループ・乃木坂46の6期生のグラビア企画が2日にスタート。トップバッターの写真が公開され、早くも話題を呼んでいる。トップバッターは大越ひなの アイドルグループ・乃木坂46の6期生のグラビア企画が2日にスタート […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "大越ひなの",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "82a7572b48e2b795",
       "title": "櫻坂46×千葉ロッテマリーンズ、コラボグッズ発売！メンバー名入りベースボールシャツも登場",
       "sourceName": "WWSチャンネル",
@@ -106,8 +150,8 @@
     {
       "id": "3c68534178a7480d",
       "title": "人気俳優の“イズマイ”と不倫、CM撮影中に娘が階段から転落、事故の原因は不倫…芸能事務所の副社長で穂奈未の夫・蓮也役演じる犬飼貴丈が役柄に抱いた印象とは ドラマ『妻を引退します』記者会見",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261002-5051840/",
       "publishedAt": "2026-10-02T10:35:00.000Z",
       "summary": "テレ東のドラマ『妻を引退します』(10月5日スタート 毎週月曜23:06〜23:55)の記者会見がこのほど、都内で行われ、朝日奈央、新川優愛、時任勇気、犬飼貴丈、松田好花、B&ZAI・本高克樹(「高」は「はしごだか」)らが登壇した。",
@@ -268,28 +312,6 @@
       ]
     },
     {
-      "id": "2c6f7c36449bf124",
-      "title": "櫻坂46『15th Single BACKS LIVE!!』＆増本綺良の卒業セレモニー公式レポート！全身全霊",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/206332",
-      "publishedAt": "2026-09-30T16:17:32.000Z",
-      "summary": "アイドルグループ『櫻坂46』の15th Double A-side Single『Lonesome rabbit / What’s “KAZOKU”?』の“BACKSメンバー”による単独ライブ『15th S...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "増本綺良",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "dfa1cdedfb3ea239",
       "title": "日向坂46松尾桜「私のぬいぐるみで…」二代目キャプテン・髙橋未来虹がMV撮影中に見せた“かわいい行動”にキュン！",
       "sourceName": "マイナビニュース 芸能",
@@ -400,28 +422,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20260929-5039971/",
       "publishedAt": "2026-09-28T21:35:00.000Z",
       "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇。進行を古旗笑佳アナウンサーが担当した。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "2a59610d03892b0f",
-      "title": "齋藤飛鳥が「私、あれが本当に苦手で」と語る“仕事で最初に訪れる時間”とは「どうしても最初はツンケンしちゃう」「いつも反省してます」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20260928-5039780/",
-      "publishedAt": "2026-09-28T10:35:00.000Z",
-      "summary": "テレ東のドラマ『まめとむぎ』(10月2日スタート 毎週金曜24:12～)の記者会見がこのほど、都内で行われ、齋藤飛鳥、富田望生、濱尾ノリタカが登壇した。",
       "groups": [
         "乃木坂46"
       ],
