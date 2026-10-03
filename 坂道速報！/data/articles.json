@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-03T11:44:51.501Z",
+  "updatedAt": "2026-10-03T16:26:46.828Z",
   "articles": [
+    {
+      "id": "b9619f19aff77f2b",
+      "title": "三田寛子、第1子妊娠の元乃木坂46義娘と願掛けにネット「ますます仲良し」「お守りデカッ」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1076478/",
+      "publishedAt": "2026-10-03T12:02:32.000Z",
+      "summary": "タレントの三田寛子が3日、自身のインスタグラムを更新し、長男・中村橋之助の妻で元乃木坂46の俳優・能條愛未と共に、願掛けのお守りを手にする笑顔の写真を紹介。仲睦まじい2人に、注目が集まっている。佐賀県・祐徳稲荷神のお守り […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "能條愛未",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "3cb98e72d8926acc",
       "title": "乃木坂46・6期生の個性に迫る新グラビア企画スタート！トップバッターは大越ひなの",
@@ -20,28 +42,6 @@
           "name": "大越ひなの",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7187ca3d5a3b4df2",
-      "title": "三田寛子「お産も安産でうまくいきますように」お守り手に長男の嫁・能條愛未と２ショット",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610030001648.html",
-      "publishedAt": "2026-10-03T10:37:56.000Z",
-      "summary": "三田寛子（60）が3日、インスタグラムを更新。前日2日に長男の歌舞伎俳優・中村橋之助（30）との間の第1子妊娠を発表した、元乃木坂46能條愛未（31）とのツーショットを投稿した。 「うまくいく守」を手に「お産も安産でうまくいきますように…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "能條愛未",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -84,8 +84,8 @@
     {
       "id": "d08078258686e5ac",
       "title": "鮎川蓮也と不倫関係、穂奈未に抱く強い嫉妬心と執着、歪んだ感情…“イズマイ”の愛称で老若男女から支持を集める人気俳優・泉舞花役演じる新川優愛が「楽しみにしていただきたい」と語る見どころとは ドラマ『妻を引退します』記者会見",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261003-5052041/",
       "publishedAt": "2026-10-02T22:35:00.000Z",
       "summary": "テレ東のドラマ『妻を引退します』(10月5日スタート 毎週月曜23:06～23:55)の記者会見がこのほど、都内で行われ、朝日奈央、新川優愛、時任勇気、犬飼貴丈、松田好花、B&ZAI・本高克樹(「高」は「はしごだか」)らが登壇した。",
