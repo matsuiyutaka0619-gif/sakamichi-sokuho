@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T05:48:30.068Z",
+  "updatedAt": "2026-10-05T14:49:35.626Z",
   "articles": [
     {
       "id": "a350861aee50a04d",
@@ -40,28 +40,6 @@
       "memberMatches": [
         {
           "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ebffa64b8373d8f0",
-      "title": "乃木坂46・6期生グラビア企画第2弾！海邉朱莉が『Nogizaka Colors』に登場",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/671883.html",
-      "publishedAt": "2026-10-03T21:30:25.000Z",
-      "summary": "乃木坂46の6期生にフォーカスした撮り下ろしグラビア企画『6期生グラビア Nogizaka Colors』の第2弾として、海邉朱莉のグラビアが10月3日、乃木坂46公式サイトで公開された。本企画は、加入から2年目を迎えた6期生メンバーそれぞれの色、個性を引き出す撮り下ろ ... The post 乃木坂46・6期生グラビア企画第2弾！海邉朱莉が『Nogiza",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "海邉朱莉",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -313,28 +291,6 @@
       "memberMatches": [
         {
           "name": "下田衣珠季",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2fae28f110f675a8",
-      "title": "『CanCam』専属モデルも務める日向坂46の19歳・大野愛実、“全方位モテ”の冬コーデ ファーとリボンが存在感",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260927-5030136/",
-      "publishedAt": "2026-09-27T05:00:00.000Z",
-      "summary": "日向坂46の大野愛実が19日、横浜アリーナで行われた「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」(TGC)に出演した。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "大野愛実",
           "group": "日向坂46",
           "status": "active"
         }
