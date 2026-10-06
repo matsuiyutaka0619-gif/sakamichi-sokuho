@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-05T14:49:35.626Z",
+  "updatedAt": "2026-10-06T00:06:46.884Z",
   "articles": [
+    {
+      "id": "fe3ddfc58c50e668",
+      "title": "影山優佳、オーディション再現にネットざわつく「スカートもお構いなし」「なぜこれを選んだのか…」「面白すぎやろw」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1077139/",
+      "publishedAt": "2026-10-05T22:20:00.000Z",
+      "summary": "元日向坂46で俳優の影山優佳が、5日までに自身のXを更新し、アイドルとしてのデビューを勝ち取った自己PRを再現。笑撃の全力パフォーマンスが、2万件もの“いいね！”を集め反響を呼んでいる。2016年に合格した時の自己PR […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "a350861aee50a04d",
       "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
@@ -20,28 +42,6 @@
           "name": "齋藤飛鳥",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "0b22658bb8ec3daf",
-      "title": "乃木坂46・小川彩、初の座長で覚悟のステージ！42ndSGアンダーライブ舞台裏ドキュメンタリー放送決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/671938.html",
-      "publishedAt": "2026-10-04T10:00:24.000Z",
-      "summary": "乃木坂46『42ndSGアンダーライブ』の舞台裏に密着したドキュメンタリー『乃木坂46アンダードキュメンタリー〜42ndSGアンダーライブ舞台裏〜』が、10月30日22時よりCS放送TBSチャンネル1で放送される。9月29日、30日に東京体育館で開催された『乃木坂46 ... The post 乃木坂46・小川彩、初の座長で覚悟のステージ！42ndSGアンダ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -118,28 +118,6 @@
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261002-5051840/",
       "publishedAt": "2026-10-02T10:35:00.000Z",
-      "summary": "テレ東のドラマ『妻を引退します』(10月5日スタート 毎週月曜23:06〜23:55)の記者会見がこのほど、都内で行われ、朝日奈央、新川優愛、時任勇気、犬飼貴丈、松田好花、B&ZAI・本高克樹(「高」は「はしごだか」)らが登壇した。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "cba15651f748ca0b",
-      "title": "かつて天才子役として一世を風靡、芸能界引退後は幸せな結婚生活、しかし娘の事故と夫の裏切りで…“痛快復讐エンタメ劇”で主人公・鮎川穂奈未役演じる朝日奈央が語った「注目ポイント」とは ドラマ『妻を引退します』記者会見",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261002-5050468/",
-      "publishedAt": "2026-10-01T22:10:00.000Z",
       "summary": "テレ東のドラマ『妻を引退します』(10月5日スタート 毎週月曜23:06〜23:55)の記者会見がこのほど、都内で行われ、朝日奈央、新川優愛、時任勇気、犬飼貴丈、松田好花、B&ZAI・本高克樹(「高」は「はしごだか」)らが登壇した。",
       "groups": [
         "日向坂46"
