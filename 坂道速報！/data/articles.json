@@ -1,14 +1,36 @@
 {
-  "updatedAt": "2026-10-07T13:31:40.088Z",
+  "updatedAt": "2026-10-07T23:08:57.634Z",
   "articles": [
     {
-      "id": "ca5af43fdf167aaf",
-      "title": "影山優佳、大阪名物の“頬張り顔”が反則級のかわいさ 「ぎゅーってして食べるんだって！」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2546256.html",
-      "publishedAt": "2026-10-07T09:00:07.000Z",
-      "summary": "俳優の影山優佳が自身のInstagramを更新し、出演中のミュージカル『シークレットステージ』大阪公演を終えた後のオフショットを公開した。 投稿には、「舞台終わりにマネージャーさんが大阪観光に連れて行ってくれました」",
+      "id": "66368b15a5062a2a",
+      "title": "ひなた坂46、2daysライブでWアンコール！座長・清水理央「いつか表題曲のセンターに」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/672535.html",
+      "publishedAt": "2026-10-07T22:00:19.000Z",
+      "summary": "日向坂46のアンダーグループ・ひなた坂46による『18th Single ひなた坂46 LIVE』が、10月6日、7日の2日間にわたり千葉・LaLa arena TOKYO-BAYで開催された。この記事では、2日目公演の模様をお届けする。今回のひなた坂46には、清水理央 ... The post ひなた坂46、2daysライブでWアンコール！座長・清水理央「",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "清水理央",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d989d201bf7d4988",
+      "title": "渡邉美穂「俳優モードだったのに」会見で素が出る“失態” あたふた姿に会場爆笑",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1077617/",
+      "publishedAt": "2026-10-07T21:00:00.000Z",
+      "summary": "俳優の渡邉美穂と浅川梨奈が6日、都内で行われたテレビ東京系連続ドラマ『嘘をついた私たち』（10月8日スタート、木曜深夜0時）の記者会見に出席。お互いの印象を明かし、仲の良さを見せつけた。『嘘をついた私たち』で幼なじみ役 […]",
       "groups": [
         "日向坂46"
       ],
@@ -17,9 +39,53 @@
       ],
       "memberMatches": [
         {
-          "name": "影山優佳",
+          "name": "渡邉美穂",
           "group": "日向坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b8f6c6a41c66977b",
+      "title": "『18th Single ひなた坂46 LIVE』開催で2日目公式レポート！清水理央 想い滔々のスピーチ",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/206771",
+      "publishedAt": "2026-10-07T14:56:03.000Z",
+      "summary": "アイドルグループ『日向坂46』のシングル表題曲を歌う選抜メンバー以外で構成されたアンダーグループが10月6日と10月7日に千葉・船橋のLaLa arena TOKYO-BAYで『18th Single ひなた坂46 L...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "清水理央",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5af422aff0628012",
+      "title": "乃木坂46賀喜遥香「1人でずっとデスゲームです（笑）」最近ドハマりしている“ゲーム”とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261007-5091472/",
+      "publishedAt": "2026-10-07T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月1日（木）の放送では、最近ハマっているゲームについて語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -931,20 +997,6 @@
           "status": "og"
         }
       ]
-    },
-    {
-      "id": "888c9e6ac118a2ae",
-      "title": "日向坂46「7回目のひな誕祭」ダイジェスト公開、初の生バンド演奏など見どころを凝縮",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/07/89664/",
-      "publishedAt": "2026-07-23T09:25:00.000Z",
-      "summary": "8月5日(水)に発売となる日向坂46のライブBlu-ray＆DVD『7周年記念MEMORIAL LIVE「7回目のひな誕祭 〜Welcome to HINATAZAKA ROCKESTRA〜」in 横浜スタジアム』のダイジェスト映像が公開された。 「7回目のひな誕祭」は今年の4月4日・5日に横浜スタジアムで開催されたグループ結成7周年記念ライブで、2日間で合",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
