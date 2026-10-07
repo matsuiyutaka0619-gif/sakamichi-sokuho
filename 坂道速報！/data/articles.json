@@ -1,37 +1,25 @@
 {
-  "updatedAt": "2026-10-07T06:06:55.126Z",
+  "updatedAt": "2026-10-07T13:31:40.088Z",
   "articles": [
     {
-      "id": "e82a271ec493d5b2",
-      "title": "坂道メンバーにとって“出身地”はなぜ強みになる？ 五百城茉央、小島凪紗、竹内希来里らの地元仕事から考える",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2544567.html",
-      "publishedAt": "2026-10-07T03:10:35.000Z",
-      "summary": "五百城茉央、小島凪紗、竹内希来里ら、地元に根ざした活動を広げる坂道メンバーたち。スポーツクラブや地域メディア、冠番組などとの継続的な関わりは、新たなファンとの接点を生み、一人ひとりの個性や活動の幅にもつながっている。本稿では、なぜ彼女たちにとって“出身地”が強みになるのかを紐解いていく。",
+      "id": "ca5af43fdf167aaf",
+      "title": "影山優佳、大阪名物の“頬張り顔”が反則級のかわいさ 「ぎゅーってして食べるんだって！」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2546256.html",
+      "publishedAt": "2026-10-07T09:00:07.000Z",
+      "summary": "俳優の影山優佳が自身のInstagramを更新し、出演中のミュージカル『シークレットステージ』大阪公演を終えた後のオフショットを公開した。 投稿には、「舞台終わりにマネージャーさんが大阪観光に連れて行ってくれました」",
       "groups": [
-        "乃木坂46",
-        "櫻坂46",
         "日向坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "五百城茉央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小島凪紗",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "竹内希来里",
+          "name": "影山優佳",
           "group": "日向坂46",
-          "status": "active"
+          "status": "og"
         }
       ]
     },
