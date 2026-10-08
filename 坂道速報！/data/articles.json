@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-07T23:08:57.634Z",
+  "updatedAt": "2026-10-08T06:12:20.198Z",
   "articles": [
+    {
+      "id": "b9559080ed385d74",
+      "title": "出口夏希＆道枝駿佑が『andGIRL』秋号表紙に登場！白石麻衣、早乙女太一＆友貴らも誌面を彩る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/672579.html",
+      "publishedAt": "2026-10-08T03:00:58.000Z",
+      "summary": "女性向けファッション誌『andGIRL』秋号が10月7日に発売された。通常版の表紙を出口夏希、特別版の表紙をなにわ男子の道枝駿佑が務める。通常版のカバーガールを務める出口は、中面企画『素顔のままで』にも登場。シックなレザージャケットやシアーブラウス、鮮やかなブルーのニッ ... The post 出口夏希＆道枝駿佑が『andGIRL』秋号表紙に登場！白石麻衣",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "66368b15a5062a2a",
       "title": "ひなた坂46、2daysライブでWアンコール！座長・清水理央「いつか表題曲のセンターに」",
@@ -20,28 +42,6 @@
           "name": "清水理央",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d989d201bf7d4988",
-      "title": "渡邉美穂「俳優モードだったのに」会見で素が出る“失態” あたふた姿に会場爆笑",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1077617/",
-      "publishedAt": "2026-10-07T21:00:00.000Z",
-      "summary": "俳優の渡邉美穂と浅川梨奈が6日、都内で行われたテレビ東京系連続ドラマ『嘘をついた私たち』（10月8日スタート、木曜深夜0時）の記者会見に出席。お互いの印象を明かし、仲の良さを見せつけた。『嘘をついた私たち』で幼なじみ役 […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "渡邉美穂",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
