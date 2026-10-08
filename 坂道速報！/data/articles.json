@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-08T06:12:20.198Z",
+  "updatedAt": "2026-10-08T13:37:51.968Z",
   "articles": [
+    {
+      "id": "d61fa048c186c466",
+      "title": "幼なじみと秘密の“おまじない”、結婚を祝福するために「やめたい」と涙の訴え…ドラマ『嘘をついた私たち』のストーリーに渡邉美穂が本音「こんなのが現実にあったらたまったもんじゃない(笑)」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261008-5089580/",
+      "publishedAt": "2026-10-08T12:05:00.000Z",
+      "summary": "テレビ大阪のドラマ『嘘をついた私たち』(10月8日スタート 毎週木曜24:00〜)の記者会見がこのほど行われ、渡邉美穂、砂田将宏(BALLISTIK BOYZ from EXILE TRIBE)、浅川梨奈、池田匡志が登壇。進行を上原美穂アナウンサーが担当した。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "渡邉美穂",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "5c900317c3c9d7e3",
+      "title": "乃木坂46 6期生・小津玲奈、個性に迫る撮り下ろしグラビア公開！『Nogizaka Colors』第5弾に登場",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/672672.html",
+      "publishedAt": "2026-10-08T11:00:14.000Z",
+      "summary": "乃木坂46の6期生にフォーカスした撮り下ろしグラビア企画『6期生グラビア Nogizaka Colors』の第5弾として、小津玲奈のグラビアが乃木坂46公式サイトで公開された。同企画は、加入から2年目を迎えた6期生メンバーそれぞれの色＝個性を引き出す撮り下ろしグラビア企 ... The post 乃木坂46 6期生・小津玲奈、個性に迫る撮り下ろしグラビア公開",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小津玲奈",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d6e25a0ba9d4b82a",
+      "title": "「私への評価は作品への評価」櫻坂46・山﨑天が語る俳優業、20代、本当の自分",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/92856/",
+      "publishedAt": "2026-10-08T10:00:00.000Z",
+      "summary": "熱さと冷静さ。櫻坂46がステージで掲げるこの二つを、誰よりも体現しているのは山﨑天なのかもしれない。 アイドル、モデルという肩書きに、今年から本格的に俳優の2文字も加わった。でも素顔は根っからの“面白いこと”好きで、表現の深度だけでなく、周囲を明るくすることにも全力を懸ける。9月28日に誕生日を迎えたばかりの21歳は、それぞれのモードをオートマチックに変化さ",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b9559080ed385d74",
       "title": "出口夏希＆道枝駿佑が『andGIRL』秋号表紙に登場！白石麻衣、早乙女太一＆友貴らも誌面を彩る",
@@ -70,8 +136,8 @@
     {
       "id": "5af422aff0628012",
       "title": "乃木坂46賀喜遥香「1人でずっとデスゲームです（笑）」最近ドハマりしている“ゲーム”とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261007-5091472/",
       "publishedAt": "2026-10-07T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月1日（木）の放送では、最近ハマっているゲームについて語りました。",
