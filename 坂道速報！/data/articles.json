@@ -1,47 +1,91 @@
 {
-  "updatedAt": "2026-10-08T23:24:36.525Z",
+  "updatedAt": "2026-10-09T06:15:44.871Z",
   "articles": [
     {
-      "id": "25cb1cd61a2a501a",
-      "title": "飯豊まりえが間宮祥太朗のバディに 『神のクイズ』に久保史緒里、中川大輔、光石研ら出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2547993.html",
-      "publishedAt": "2026-10-08T22:00:44.000Z",
-      "summary": "12月4日よりPrime Videoで配信される間宮祥太朗主演のPrime Originalドラマ『神のクイズ』の追加キャストとして、飯豊まりえ、久保史緒里、中川大輔、古舘佑太郎、瀬戸朝香、淵上泰史、光石研の出演が決定",
+      "id": "840b9abaa3b5a473",
+      "title": "日向坂46金村美玖、白ドレスまとい儚げな横顔見せる セカンド写真集10・20発売",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610090000574.html",
+      "publishedAt": "2026-10-09T05:18:27.000Z",
+      "summary": "日向坂46金村美玖（24）のセカンド写真集「機微」（10月20日発売・講談社）の先行カットが公開された。 今回公開されたのは、ザルツカンマーグート地方の美しい湖の上で、ボートに揺られて撮影された1枚。いくつか候補があったボートの中で、衣…",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
+          "name": "金村美玖",
+          "group": "日向坂46",
           "status": "active"
         }
       ]
     },
     {
-      "id": "d81ac4cd7de16649",
-      "title": "飯豊まりえ、間宮祥太朗とバディに 久保史緒里は解剖医役…Prime Video『神のクイズ』キャスト7人解禁",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1078880/",
-      "publishedAt": "2026-10-08T22:00:00.000Z",
-      "summary": "俳優の間宮祥太朗が主演を務めるPrime Originalドラマ『神のクイズ』が、12月4日よりPrime Videoで世界独占配信される。9日、飯豊まりえ、久保史緒里、中川大輔、古舘佑太郎、瀬戸朝香、淵上泰史、光石研の […]",
+      "id": "1430953302b54dbe",
+      "title": "「相当な覚悟をしていただかないと、本当に胸いっぱいに」 本田響矢、『めおと日和』続編の“キュン倍増”を予告",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261009-5100023/",
+      "publishedAt": "2026-10-09T03:39:00.000Z",
+      "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。芳根と本田が、続編でさらに増量した“キュン”について語った。",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "久保史緒里",
+          "name": "生田絵梨花",
           "group": "乃木坂46",
-          "status": "active"
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "ced9c9e2294bba24",
+      "title": "『めおと日和』続編、フジテレビ内で撮影環境が“昇格” セットが地下からスタジオへ…芳根京子「やりましたね!」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261009-5099984/",
+      "publishedAt": "2026-10-09T03:28:55.000Z",
+      "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。小関が、続編で“パワーアップ”した撮影環境を明かした。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "a5def3631fbc7340",
+      "title": "「カレーを頼んだらカレーは入ってるじゃないですか」「カレー頼んでるからね」芳根京子、軽ツッコミで本田響矢と抜群の“夫婦”コンビネーション",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261009-5099944/",
+      "publishedAt": "2026-10-09T03:20:35.000Z",
+      "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。本田が最近感じた“幸せ”を明かし、共演者をほっこりさせた。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
@@ -68,32 +112,10 @@
       ]
     },
     {
-      "id": "1fcae9691e643876",
-      "title": "齋藤飛鳥、乃木坂46卒業から約3年半を経て掴んだ自身のペース 30代に向けての展望も",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2546886.html",
-      "publishedAt": "2026-10-08T20:30:28.000Z",
-      "summary": "テレ東系ドラマ24枠で放送中の『まめとむぎ』で、主人公・清水麦を演じる齋藤飛鳥。彼女が今回挑んだのは、挫折と向き合い、泥臭くも変化を受け入れていく30歳の女性だ。乃木坂46卒業から約3年半を経てようやく掴んだ自身のペース、役を通して得た「人生の変化への向き合い方」、そして2年後に迫る30代へのリアルな胸の内を聞いた。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "f6bbf157c59c8e7c",
       "title": "乃木坂46賀喜遥香「もう流行りに乗れへん！」いとこから知った高校生の流行に驚き！家族や親戚と過ごした“夏休み”を振り返る",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261008-5096950/",
       "publishedAt": "2026-10-08T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月1日（木）の放送では、「真夏の全国ツアー2026」の後にあった“夏休み”の過ごし方を明かしていました。",
@@ -114,8 +136,8 @@
     {
       "id": "d61fa048c186c466",
       "title": "幼なじみと秘密の“おまじない”、結婚を祝福するために「やめたい」と涙の訴え…ドラマ『嘘をついた私たち』のストーリーに渡邉美穂が本音「こんなのが現実にあったらたまったもんじゃない(笑)」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261008-5089580/",
       "publishedAt": "2026-10-08T12:05:00.000Z",
       "summary": "テレビ大阪のドラマ『嘘をついた私たち』(10月8日スタート 毎週木曜24:00〜)の記者会見がこのほど行われ、渡邉美穂、砂田将宏(BALLISTIK BOYZ from EXILE TRIBE)、浅川梨奈、池田匡志が登壇。進行を上原美穂アナウンサーが担当した。",
@@ -1127,28 +1149,6 @@
           "name": "山﨑天",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4d44fa1b5d571443",
-      "title": "河田陽菜が䋝田圭亮主演『いつかアイツに会いに行く』新章に出演、日向坂46卒業後初の舞台に挑む",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/07/89669/",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "summary": "昨年日向坂46を卒業した河田陽菜が、9月に東京・新宿と銀座で上演される舞台『いつかアイツに会いに行く-BEYOND THE MOON-』に出演することが発表された。 本作は2025年に上演され好評を博した舞台『いつかアイツに会いに行く』の新章として誕生したオリジナル作品で、ニッポン放送×小林顕作によるコメディシリーズの第二弾にあたる。前作に続き演出・音楽・原",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "河田陽菜",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     }
