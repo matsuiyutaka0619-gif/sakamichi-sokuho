@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-09T13:27:45.109Z",
+  "updatedAt": "2026-10-09T22:42:32.424Z",
   "articles": [
+    {
+      "id": "9a0500269d342df1",
+      "title": "生田絵梨花、仲良しの主演芳根京子との共演に「一緒に本読みをして門をくぐれたのが良かった」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610090001012.html",
+      "publishedAt": "2026-10-09T21:55:00.000Z",
+      "summary": "元乃木坂46で女優の生田絵梨花（29）が9日、東京・神田明神で、フジテレビ系ドラマ「波うららかに、めおと日和」（15日開始、木曜午後10時）の大ヒット祈願を行った。 昨年4月期に放送された人気作の続編に新キャストとして参加し「1年前はこ…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "f590877eaafe6012",
+      "title": "日向坂46上村ひなの「タイトルにびっくりされたんじゃないかな」最新シングル「イチャイチャ虫」に遠山大輔も驚き「やすすどうなってんだ!?」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261009-5102467/",
+      "publishedAt": "2026-10-09T12:50:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月3日（土）の放送は、日向坂46の上村ひなのさん、山下葉留花さんが登場！ 元日向坂46メンバーの潮との交流や、9月30日にリリースされたシングル「イチャイチャ虫」について伺いました。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "上村ひなの",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "1430953302b54dbe",
       "title": "「相当な覚悟をしていただかないと、本当に胸いっぱいに」 本田響矢、『めおと日和』続編の“キュン倍増”を予告",
@@ -178,28 +233,6 @@
       ]
     },
     {
-      "id": "b9559080ed385d74",
-      "title": "出口夏希＆道枝駿佑が『andGIRL』秋号表紙に登場！白石麻衣、早乙女太一＆友貴らも誌面を彩る",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/672579.html",
-      "publishedAt": "2026-10-08T03:00:58.000Z",
-      "summary": "女性向けファッション誌『andGIRL』秋号が10月7日に発売された。通常版の表紙を出口夏希、特別版の表紙をなにわ男子の道枝駿佑が務める。通常版のカバーガールを務める出口は、中面企画『素顔のままで』にも登場。シックなレザージャケットやシアーブラウス、鮮やかなブルーのニッ ... The post 出口夏希＆道枝駿佑が『andGIRL』秋号表紙に登場！白石麻衣",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "5af422aff0628012",
       "title": "乃木坂46賀喜遥香「1人でずっとデスゲームです（笑）」最近ドハマりしている“ゲーム”とは？",
       "sourceName": "マイナビニュース 芸能",
@@ -366,43 +399,6 @@
           "name": "与田祐希",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "dfa1cdedfb3ea239",
-      "title": "日向坂46松尾桜「私のぬいぐるみで…」二代目キャプテン・髙橋未来虹がMV撮影中に見せた“かわいい行動”にキュン！",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20260930-5053310/",
-      "publishedAt": "2026-09-30T12:00:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。9月25日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
