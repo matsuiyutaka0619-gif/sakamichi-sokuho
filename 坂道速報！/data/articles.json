@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-10-09T06:15:44.871Z",
+  "updatedAt": "2026-10-09T13:27:45.109Z",
   "articles": [
-    {
-      "id": "840b9abaa3b5a473",
-      "title": "日向坂46金村美玖、白ドレスまとい儚げな横顔見せる セカンド写真集10・20発売",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610090000574.html",
-      "publishedAt": "2026-10-09T05:18:27.000Z",
-      "summary": "日向坂46金村美玖（24）のセカンド写真集「機微」（10月20日発売・講談社）の先行カットが公開された。 今回公開されたのは、ザルツカンマーグート地方の美しい湖の上で、ボートに揺られて撮影された1枚。いくつか候補があったボートの中で、衣…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金村美玖",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
     {
       "id": "1430953302b54dbe",
       "title": "「相当な覚悟をしていただかないと、本当に胸いっぱいに」 本田響矢、『めおと日和』続編の“キュン倍増”を予告",
@@ -218,50 +196,6 @@
           "name": "白石麻衣",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "66368b15a5062a2a",
-      "title": "ひなた坂46、2daysライブでWアンコール！座長・清水理央「いつか表題曲のセンターに」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/672535.html",
-      "publishedAt": "2026-10-07T22:00:19.000Z",
-      "summary": "日向坂46のアンダーグループ・ひなた坂46による『18th Single ひなた坂46 LIVE』が、10月6日、7日の2日間にわたり千葉・LaLa arena TOKYO-BAYで開催された。この記事では、2日目公演の模様をお届けする。今回のひなた坂46には、清水理央 ... The post ひなた坂46、2daysライブでWアンコール！座長・清水理央「",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "清水理央",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b8f6c6a41c66977b",
-      "title": "『18th Single ひなた坂46 LIVE』開催で2日目公式レポート！清水理央 想い滔々のスピーチ",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/206771",
-      "publishedAt": "2026-10-07T14:56:03.000Z",
-      "summary": "アイドルグループ『日向坂46』のシングル表題曲を歌う選抜メンバー以外で構成されたアンダーグループが10月6日と10月7日に千葉・船橋のLaLa arena TOKYO-BAYで『18th Single ひなた坂46 L...",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "清水理央",
-          "group": "日向坂46",
-          "status": "active"
         }
       ]
     },
