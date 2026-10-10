@@ -1,14 +1,80 @@
 {
-  "updatedAt": "2026-10-09T22:42:32.424Z",
+  "updatedAt": "2026-10-10T05:58:52.531Z",
   "articles": [
     {
-      "id": "9a0500269d342df1",
-      "title": "生田絵梨花、仲良しの主演芳根京子との共演に「一緒に本読みをして門をくぐれたのが良かった」",
+      "id": "6d82903da68410a5",
+      "title": "櫻坂46・山﨑天、若き日の“唯一の楽しみ”は給食「全部おかわりして、牛乳も2本」 長身に共演者も納得",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1079739/",
+      "publishedAt": "2026-10-10T05:44:50.000Z",
+      "summary": "櫻坂46の山﨑天が10日、都内で行われたアニメーション映画『我々は宇宙人』大ヒット舞台あいさつに、ダブル主演を務めた俳優の坂東龍汰と岡山天音をはじめ、主題歌『ささくれ』を担当したadieu（上白石萌歌）、門脇康平監督と共 […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "994aa93181ce3d27",
+      "title": "adieu（上白石萌歌）、4歳時の写真が「変ってなさすぎ」 共演者も衝撃「一瞬で分かる」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1079738/",
+      "publishedAt": "2026-10-10T05:31:37.000Z",
+      "summary": "アーティストadieu（上白石萌歌）が10日、都内で行われたアニメーション映画『我々は宇宙人』大ヒット舞台あいさつに、ダブル主演を務めた俳優の坂東龍汰と岡山天音をはじめ、山﨑天（櫻坂46）、門脇康平監督と共に出席した。『 […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9db2e6a5e518a5a9",
+      "title": "櫻坂46山﨑天「全部おかわりしていました」子供の頃の給食の思い出「本当に感謝しています」",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610090001012.html",
-      "publishedAt": "2026-10-09T21:55:00.000Z",
-      "summary": "元乃木坂46で女優の生田絵梨花（29）が9日、東京・神田明神で、フジテレビ系ドラマ「波うららかに、めおと日和」（15日開始、木曜午後10時）の大ヒット祈願を行った。 昨年4月期に放送された人気作の続編に新キャストとして参加し「1年前はこ…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610100000457.html",
+      "publishedAt": "2026-10-10T05:12:10.000Z",
+      "summary": "櫻坂46山﨑天（21）が10日、映画「我々は宇宙人」（門脇康平監督）の大ヒット御礼舞台あいさつに登壇した。 同作は22年に誕生し映画業界で異彩を放つ新進映画レーベルNOTHING NEWが初めて手がける長編アニメーション。平成の田舎町で…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "0b110e77665e5c3d",
+      "title": "「オールスター後夜祭」１年ぶり放送で永久追放者は誰？ザコシショウら13人／過去の追放者一覧",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610100000400.html",
+      "publishedAt": "2026-10-10T05:00:00.000Z",
+      "summary": "TBSの深夜クイズバラエティー特番「オールスター後夜祭'26秋」（土曜深夜0時58分）が10日深夜に生放送される。今春は放送がなかったため、1年ぶりの放送となる。MCは前回同様、有吉弘行（52）と元乃木坂46の高山一実（32）が担当する…",
       "groups": [
         "乃木坂46"
       ],
@@ -17,8 +83,52 @@
       ],
       "memberMatches": [
         {
-          "name": "生田絵梨花",
+          "name": "高山一実",
           "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "546bc93cebe2c938",
+      "title": "坂東龍汰、主演映画の拡大上映決定で監督と熱い抱擁 「観られないと言っていた友達が結構いた」と感無量",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1079572/",
+      "publishedAt": "2026-10-10T04:57:33.000Z",
+      "summary": "俳優の坂東龍汰と岡山天音が10日、都内で行われた、ダブル主演を務めるアニメーション映画『我々は宇宙人』大ヒット舞台あいさつに、山﨑天（櫻坂46）、adieu（上白石萌歌）、門脇康平監督と共に出席した。映画『我々は宇宙人』 […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f7abb8d34146d53e",
+      "title": "渡邉美穂主演『旦那の浮気相手とLINE友達になってみた』第二章配信開始！元夫・東ブクロが謎の美女と逆襲",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/web/673047.html",
+      "publishedAt": "2026-10-09T23:00:56.000Z",
+      "summary": "渡邉美穂が主演を務める縦型ショートドラマ『旦那の浮気相手とLINE友達になってみた』の第二章『元旦那のイマカノ編』が、10月9日19時よりタテドラで配信開始された。本作は、信頼していた夫の裏切りを知った主人公・ハッチが、浮気相手とLINEでつながり、裏切った夫たちを追い ... The post 渡邉美穂主演『旦那の浮気相手とLINE友達になってみた』第二章",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "渡邉美穂",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -59,8 +169,8 @@
     {
       "id": "1430953302b54dbe",
       "title": "「相当な覚悟をしていただかないと、本当に胸いっぱいに」 本田響矢、『めおと日和』続編の“キュン倍増”を予告",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261009-5100023/",
       "publishedAt": "2026-10-09T03:39:00.000Z",
       "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。芳根と本田が、続編でさらに増量した“キュン”について語った。",
@@ -81,8 +191,8 @@
     {
       "id": "ced9c9e2294bba24",
       "title": "『めおと日和』続編、フジテレビ内で撮影環境が“昇格” セットが地下からスタジオへ…芳根京子「やりましたね!」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261009-5099984/",
       "publishedAt": "2026-10-09T03:28:55.000Z",
       "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。小関が、続編で“パワーアップ”した撮影環境を明かした。",
@@ -103,8 +213,8 @@
     {
       "id": "a5def3631fbc7340",
       "title": "「カレーを頼んだらカレーは入ってるじゃないですか」「カレー頼んでるからね」芳根京子、軽ツッコミで本田響矢と抜群の“夫婦”コンビネーション",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261009-5099944/",
       "publishedAt": "2026-10-09T03:20:35.000Z",
       "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。本田が最近感じた“幸せ”を明かし、共演者をほっこりさせた。",
@@ -185,28 +295,6 @@
           "name": "渡邉美穂",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5c900317c3c9d7e3",
-      "title": "乃木坂46 6期生・小津玲奈、個性に迫る撮り下ろしグラビア公開！『Nogizaka Colors』第5弾に登場",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/672672.html",
-      "publishedAt": "2026-10-08T11:00:14.000Z",
-      "summary": "乃木坂46の6期生にフォーカスした撮り下ろしグラビア企画『6期生グラビア Nogizaka Colors』の第5弾として、小津玲奈のグラビアが乃木坂46公式サイトで公開された。同企画は、加入から2年目を迎えた6期生メンバーそれぞれの色＝個性を引き出す撮り下ろしグラビア企 ... The post 乃木坂46 6期生・小津玲奈、個性に迫る撮り下ろしグラビア公開",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小津玲奈",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
