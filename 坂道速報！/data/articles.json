@@ -1,30 +1,56 @@
 {
-  "updatedAt": "2026-10-10T21:49:07.167Z",
+  "updatedAt": "2026-10-11T05:54:27.833Z",
   "articles": [
     {
-      "id": "aff7412571f998e0",
-      "title": "長濱ねる、驚きの女優スリーショット公開「美味しい中華を食べたよ」同学年＆同事務所でお出かけ",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610100001960.html",
-      "publishedAt": "2026-10-10T20:55:00.000Z",
-      "summary": "女優の長濱ねる（28）が26日までに、自身のインスタグラムとストーリーズを更新。驚きの女優スリーショットを投稿した。 「美味しい中華を食べたよ」とつづり、同じ事務所で同学年の、白石聖（28）、鳴海唯（28）と一緒に出かけたことを報告。3…",
+      "id": "8c37d349d0a5b81c",
+      "title": "松田好花、ドラマの脚本に初挑戦＆主演 姉役に加藤史帆、監督は今泉力哉",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2550519.html",
+      "publishedAt": "2026-10-11T03:00:51.000Z",
+      "summary": "元日向坂46の松田好花が放送作家として番組作りに挑む『放送作家松田好花 リスタート』（テレ東系）にて、松田がドラマの脚本初挑戦し主演を務めることが決定。姉役で加藤史帆が出演し、今泉力哉が監督を務める。 本作は、松田が",
       "groups": [
-        "日向坂46",
-        "櫻坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "長濱ねる",
+          "name": "加藤史帆",
           "group": "日向坂46",
           "status": "og"
         },
         {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b12fb1bc2e6a0630",
+      "title": "松田好花がドラマ脚本に初挑戦＆自身で主演 姉役に元日向坂46の加藤史帆が出演決定",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1080215/",
+      "publishedAt": "2026-10-11T03:00:00.000Z",
+      "summary": "元日向坂46の松田好花が、放送作家として番組作りに挑戦するテレビ東京のプロジェクト第3弾『放送作家松田好花 リスタート』（土曜深夜1時50分）で、ドラマ脚本に初挑戦することが、11日に発表された。併せて、松田が同ドラマに […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "加藤史帆",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "松田好花",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -1084,28 +1110,6 @@
         {
           "name": "川﨑桜",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ac9b892e506d8e3e",
-      "title": "櫻坂46・山﨑天×令和ロマン・松井ケムリがアニメ映画『我々は宇宙人』声優に決定、本予告も解禁",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/07/89732/",
-      "publishedAt": "2026-07-26T23:00:00.000Z",
-      "summary": "門脇康平が初長編監督を務めるアニメーション映画『我々は宇宙人』の本ポスターと本予告映像が解禁され、山﨑天（櫻坂46）と松井ケムリ（令和ロマン）らが声優として出演することが明らかになった。 本作は、“才能が潰されない世の中”を目指して2022年に設立された映画レーベル・NOTHING NEWが手がける初の長編アニメーション作品。第79回カンヌ国際映画祭監督週間",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
