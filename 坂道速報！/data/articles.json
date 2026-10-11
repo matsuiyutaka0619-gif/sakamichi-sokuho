@@ -1,14 +1,90 @@
 {
-  "updatedAt": "2026-10-11T05:54:27.833Z",
+  "updatedAt": "2026-10-11T12:58:22.806Z",
   "articles": [
     {
-      "id": "8c37d349d0a5b81c",
-      "title": "松田好花、ドラマの脚本に初挑戦＆主演 姉役に加藤史帆、監督は今泉力哉",
+      "id": "81e9cac1802da9e3",
+      "title": "『豊臣兄弟！』浜辺美波が体現した“寧々の本心” “茶々”井上和との弓対決に滲む強さ",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2550519.html",
-      "publishedAt": "2026-10-11T03:00:51.000Z",
-      "summary": "元日向坂46の松田好花が放送作家として番組作りに挑む『放送作家松田好花 リスタート』（テレ東系）にて、松田がドラマの脚本初挑戦し主演を務めることが決定。姉役で加藤史帆が出演し、今泉力哉が監督を務める。 本作は、松田が",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2550453.html",
+      "publishedAt": "2026-10-11T12:00:42.000Z",
+      "summary": "NHK大河ドラマ『豊臣兄弟！』第39回「茶々の本心」は、関白となった秀吉（池松壮亮）の後継者問題が描かれる。有力な後継ぎであった秀吉の養子・於次秀勝（柊木陽太）は病に伏せ、秀吉の甥・秀次（山田涼介）は天下人の器にあらず",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ba597631acf72257",
+      "title": "井上和、『豊臣兄弟！』茶々役を振り返る 乃木坂46の先輩・久保史緒里への想いも",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2549831.html",
+      "publishedAt": "2026-10-11T11:45:22.000Z",
+      "summary": "現在放送中のNHK大河ドラマ『豊臣兄弟！』で茶々役を務める井上和（乃木坂46）のコメントが公開された。 本作は、豊臣秀吉の弟・豊臣秀長の波乱万丈の生涯を描いた物語。主人公・木下小一郎（豊臣秀長）を仲野太賀、秀吉（木下",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2ef567fec063c4cf",
+      "title": "【豊臣兄弟！】井上和、イン前に“大河の先輩”久保史緒里からかけられた言葉とは",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1079726/",
+      "publishedAt": "2026-10-11T11:45:00.000Z",
+      "summary": "乃木坂46の井上和が茶々を演じるNHK大河ドラマ『豊臣兄弟！』（日曜午後8時）について、出演が決まった際の心境や乃木坂46の先輩・久保史緒里からの言葉、さらに母・市（宮﨑あおい）への思いなどを語った。作品は俳優・仲野太賀 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "1f3657b261f1c782",
+      "title": "松田好花のラジオにTOMOOがゲスト出演決定！念願の共演で楽曲やライブへの思いを語る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/radio/673368.html",
+      "publishedAt": "2026-10-11T10:00:42.000Z",
+      "summary": "10月20日（火）放送のニッポン放送『松田好花のオールナイトニッポン0(ZERO)』に、シンガーソングライターのTOMOOがゲスト出演することが決定した。松田好花がパーソナリティを務める同番組では、スペシャルウィークとなる今回の放送にTOMOOを迎える。松田はかねてより ... The post 松田好花のラジオにTOMOOがゲスト出演決定！念願の共演で楽曲",
       "groups": [
         "日向坂46"
       ],
@@ -17,11 +93,6 @@
       ],
       "memberMatches": [
         {
-          "name": "加藤史帆",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
           "name": "松田好花",
           "group": "日向坂46",
           "status": "og"
@@ -29,13 +100,13 @@
       ]
     },
     {
-      "id": "b12fb1bc2e6a0630",
-      "title": "松田好花がドラマ脚本に初挑戦＆自身で主演 姉役に元日向坂46の加藤史帆が出演決定",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1080215/",
-      "publishedAt": "2026-10-11T03:00:00.000Z",
-      "summary": "元日向坂46の松田好花が、放送作家として番組作りに挑戦するテレビ東京のプロジェクト第3弾『放送作家松田好花 リスタート』（土曜深夜1時50分）で、ドラマ脚本に初挑戦することが、11日に発表された。併せて、松田が同ドラマに […]",
+      "id": "8c37d349d0a5b81c",
+      "title": "松田好花、ドラマの脚本に初挑戦＆主演 姉役に加藤史帆、監督は今泉力哉",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2550519.html",
+      "publishedAt": "2026-10-11T03:00:51.000Z",
+      "summary": "元日向坂46の松田好花が放送作家として番組作りに挑む『放送作家松田好花 リスタート』（テレ東系）にて、松田がドラマの脚本初挑戦し主演を務めることが決定。姉役で加藤史帆が出演し、今泉力哉が監督を務める。 本作は、松田が",
       "groups": [
         "日向坂46"
       ],
@@ -95,28 +166,6 @@
         {
           "name": "高山一実",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "f7abb8d34146d53e",
-      "title": "渡邉美穂主演『旦那の浮気相手とLINE友達になってみた』第二章配信開始！元夫・東ブクロが謎の美女と逆襲",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/web/673047.html",
-      "publishedAt": "2026-10-09T23:00:56.000Z",
-      "summary": "渡邉美穂が主演を務める縦型ショートドラマ『旦那の浮気相手とLINE友達になってみた』の第二章『元旦那のイマカノ編』が、10月9日19時よりタテドラで配信開始された。本作は、信頼していた夫の裏切りを知った主人公・ハッチが、浮気相手とLINEでつながり、裏切った夫たちを追い ... The post 渡邉美穂主演『旦那の浮気相手とLINE友達になってみた』第二章",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "渡邉美穂",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
