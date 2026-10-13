@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:18:27.766Z",
+  "updatedAt": "2026-10-13T22:50:05.540Z",
   "articles": [
     {
       "id": "2177d6fb14ce930b",
@@ -90,50 +90,6 @@
       ]
     },
     {
-      "id": "04ef11a49577d380",
-      "title": "井上和ら、乃木坂46同期4人でのアフレコを回顧 「旅をしているような感覚でした」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2551467.html",
-      "publishedAt": "2026-10-13T03:50:52.000Z",
-      "summary": "11月6日に公開されるオリジナルアニメーション映画『GROTESQQQUE-グロテスク-』の完成披露上映会舞台挨拶が、10月10日に新宿バルト9にて開催された。 本作は、それぞれに異なる世界観を持つ『エリィアンズ』『",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "228a0879e932c990",
-      "title": "野村萬斎、稲垣吾郎、山下美月、玉置玲央ら『テンペスト』出演！出演13人コメント全掲載",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207049",
-      "publishedAt": "2026-10-13T00:25:27.000Z",
-      "summary": "俳優・野村萬斎、稲垣吾郎、山下美月、玉置玲央、松島庄汰、間宮啓行、今井隆文、岡野一平、山本直寛、福田転球、玉置孝匡、青柳翔、西岡德馬が2027年2月24日より上演予定のBunkamura Production 2027...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "6191e0bd36f19ee1",
       "title": "齊藤京子がソロ歌手デビュー、w.a.u×長屋晴子書き下ろしの「元気にしてた？」10月21日配信",
       "sourceName": "Bezzy",
@@ -173,28 +129,6 @@
         {
           "name": "瀬戸口心月",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4f59f791c65a1796",
-      "title": "滋賀県出身の武元唯衣 ここ滋賀で『ひこにゃんと応援！彦根城を世界遺産に！』イベ！「ついにか！」大喜び",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/culture/207015",
-      "publishedAt": "2026-10-12T07:00:26.000Z",
-      "summary": "アーティスト・武元唯衣が10月12日に東京・日本橋の滋賀県情報発信拠点「ここ滋賀」隣接イベントスペースで『ひこにゃんと応援！彦根城を世界遺産に！』に登場した。 滋賀・彦根市にある彦根城が世界遺産国内推薦候補選定となっ...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "武元唯衣",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
