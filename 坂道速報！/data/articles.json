@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-12T15:36:06.281Z",
+  "updatedAt": "2026-10-13T00:46:46.362Z",
   "articles": [
+    {
+      "id": "228a0879e932c990",
+      "title": "野村萬斎、稲垣吾郎、山下美月、玉置玲央ら『テンペスト』出演！出演13人コメント全掲載",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207049",
+      "publishedAt": "2026-10-13T00:25:27.000Z",
+      "summary": "俳優・野村萬斎、稲垣吾郎、山下美月、玉置玲央、松島庄汰、間宮啓行、今井隆文、岡野一平、山本直寛、福田転球、玉置孝匡、青柳翔、西岡德馬が2027年2月24日より上演予定のBunkamura Production 2027...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "3c1dee26e1656317",
       "title": "齊藤京子、芸能活動10周年にソロ歌手デビュー決定 新曲「元気にしてた？」配信＆ワンマンライブ開催",
@@ -63,28 +85,6 @@
         {
           "name": "齊藤京子",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "c9ed91a20edc9408",
-      "title": "齋藤飛鳥、沖縄を満喫するオフショット ジョッキビールや陶芸などを満喫「わたしを形づくる上で、きっとすごく重要」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2550801.html",
-      "publishedAt": "2026-10-12T09:00:45.000Z",
-      "summary": "齋藤飛鳥が『アナザースカイ』（日本テレビ系）の新MCに就任。10月10日放送回で沖縄を訪れた。オンエアを受けて齋藤が沖縄ロケの模様を自身のInstagramに公開している。 番組への出演は通算3回目となる齋藤は、初の",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
