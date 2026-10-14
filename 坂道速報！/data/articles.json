@@ -1,47 +1,36 @@
 {
-  "updatedAt": "2026-10-13T22:50:05.540Z",
+  "updatedAt": "2026-10-14T04:59:30.788Z",
   "articles": [
     {
-      "id": "2177d6fb14ce930b",
-      "title": "TeddyLoid×佐倉綾音×乃木坂46 井上和、映画『楽園追放 心のレゾナンス』主題歌でスペシャルコラボ",
+      "id": "9d02eb679f583f28",
+      "title": "乃木坂46 遠藤さくらが人を惹きつける理由とは 賀喜遥香らが明かした意外な素顔、自然体の奥にある優しさ",
       "sourceName": "リアルサウンド 音楽",
       "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2552124.html",
-      "publishedAt": "2026-10-13T13:00:43.000Z",
-      "summary": "TeddyLoid feat. 佐倉綾音（as ガブリエル）, 井上和（from 乃木坂46）による、映画『楽園追放 心のレゾナンス』の主題歌「Beyond the Night」がEchoesより11月11日に配信リリ",
+      "articleUrl": "https://realsound.jp/2026/10/post-2551498.html",
+      "publishedAt": "2026-10-14T03:10:32.000Z",
+      "summary": "乃木坂46の中心メンバーとして活躍する遠藤さくら。『乃木坂工事中』の「さくちゃん捜査会議」では、賀喜遥香らの証言から意外な素顔が次々と明らかに。本稿では、齋藤飛鳥から受け取った「さくらはさくらだから」という言葉も振り返りながら、自然体の遠藤が人を惹きつける理由を考える。",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "active",
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "井上和",
+          "name": "遠藤さくら",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3279f806f5f05fee",
-      "title": "TeddyLoid×佐倉綾音×乃木坂46井上和が豪華コラボ 映画主題歌を担当",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1081449/",
-      "publishedAt": "2026-10-13T13:00:00.000Z",
-      "summary": "音楽プロデューサーのTeddyLoid、声優の佐倉綾音、乃木坂46の井上和が、11月13日公開のアニメ映画『楽園追放 心のレゾナンス』の主題歌『Beyond the Night』でコラボレーションすることが13日に発表さ […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
+        },
         {
-          "name": "井上和",
+          "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
+        },
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
@@ -360,28 +349,6 @@
         {
           "name": "齋藤飛鳥",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "97a0382d09d9fbef",
-      "title": "「バンドをクビになるんじゃないかと…」かりゆし58前川が最近やらかした大失敗とは？ 最新アルバム『結縁音』制作秘話も",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261003-5065861/",
-      "publishedAt": "2026-10-02T20:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。9月26日（土）の放送には、かりゆし58の前川真悟さん（Vo./Ba.）と宮平直樹さん（Gt.）が登場！ “お酒”にまつわるエピソードや、10月14日（水）にリリースされるアルバム『結縁音』に",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
