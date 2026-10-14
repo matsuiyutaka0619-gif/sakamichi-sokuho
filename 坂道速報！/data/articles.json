@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-10-14T12:00:02.246Z",
+  "updatedAt": "2026-10-14T17:16:51.286Z",
   "articles": [
+    {
+      "id": "83daf5f413ded821",
+      "title": "乃木坂46賀喜遥香「異次元にかわいい！」櫻坂46森田ひかるとの久々の共演で思わずファン目線に!?",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261014-5129511/",
+      "publishedAt": "2026-10-14T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月8日（木）の放送では、配信動画で共演した櫻坂46・森田ひかるさんについて語りました。",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d5fc0982e0e09311",
+      "title": "櫻坂46「16th Single BACKS LIVE!!」12月に2days開催、座長・小田倉麗奈が過去最高を誓う",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/93547/",
+      "publishedAt": "2026-10-14T12:35:00.000Z",
+      "summary": "櫻坂46が、12月15日(火)・16日(水)にぴあアリーナMMで「16th Single BACKS LIVE!!」を開催することを発表。本日22時よりチケットの先行受付をスタートさせる。 本日10月14日(水)に16thシングル『愛MUST BE』をリリースした櫻坂46は、発売を記念したYouTube生配信を実施。今作の「BACKS LIVE!!」の開催は",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8890aaccd2021c18",
+      "title": "日向坂46藤嶌果歩「神のような方たちが目の前に…」“坂道選抜”参加で感じた坂道グループの凄さとは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261014-5129359/",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。10月9日（金）の",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "504323bb04e59750",
       "title": "生田絵梨花、2年ぶりのビルボードライブ公演開催 バンドセットでボーカルとキーボードを披露",
@@ -140,50 +227,6 @@
         {
           "name": "潮紗理菜",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "1430953302b54dbe",
-      "title": "「相当な覚悟をしていただかないと、本当に胸いっぱいに」 本田響矢、『めおと日和』続編の“キュン倍増”を予告",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261009-5100023/",
-      "publishedAt": "2026-10-09T03:39:00.000Z",
-      "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。芳根と本田が、続編でさらに増量した“キュン”について語った。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "ced9c9e2294bba24",
-      "title": "『めおと日和』続編、フジテレビ内で撮影環境が“昇格” セットが地下からスタジオへ…芳根京子「やりましたね!」",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261009-5099984/",
-      "publishedAt": "2026-10-09T03:28:55.000Z",
-      "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。小関が、続編で“パワーアップ”した撮影環境を明かした。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
           "status": "og"
         }
       ]
