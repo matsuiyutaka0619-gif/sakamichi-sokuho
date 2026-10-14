@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-14T17:16:51.286Z",
+  "updatedAt": "2026-10-14T21:45:31.923Z",
   "articles": [
+    {
+      "id": "b19abbfbbe5d2c16",
+      "title": "舞台『千と千尋の神隠し』千尋役7名が決定 乃木坂46 井上和、豊嶋花、平澤宏々路が初参加",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2553783.html",
+      "publishedAt": "2026-10-14T19:00:31.000Z",
+      "summary": "舞台『千と千尋の神隠し』2026-2028ワールドツアーにて千尋役を務める7名のキャストが決定。橋本環奈、上白石萌音、福地桃子、森莉那に加え、新たに井上和（乃木坂46）、豊嶋花、平澤宏々路が千尋を演じる。 本作は、宮",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f437d77b45e3615d",
+      "title": "舞台「千と千尋の神隠し」千尋役に橋本環奈、上白石萌音、井上和ら７人決定 国内外９都市で上演",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610140001135.html",
+      "publishedAt": "2026-10-14T19:00:00.000Z",
+      "summary": "今年12月から28年7月にかけて、国内5都市、海外4都市の計9都市で上演する舞台「千と千尋の神隠し」2026－2028ワールドツアーで、主人公千尋役を橋本環奈（27）、上白石萌音（28）ら7人が務めることが決まった。製作の東宝が14日、…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "8f925d69e7438f9e",
+      "title": "舞台『千と千尋の神隠し』ワールドツアー、全7人の千尋役が決定 井上和、豊嶋花、平澤宏々路が新キャストに",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1081975/",
+      "publishedAt": "2026-10-14T19:00:00.000Z",
+      "summary": "宮﨑駿の名作アニメーション映画を舞台化した『千と千尋の神隠し』のワールドツアー2026-2028の千尋役を務める7人の俳優が、15日に発表された。続投する橋本環奈、上白石萌音、福地桃子に加え、アンダースタディとして千尋役 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "83daf5f413ded821",
       "title": "乃木坂46賀喜遥香「異次元にかわいい！」櫻坂46森田ひかるとの久々の共演で思わずファン目線に!?",
