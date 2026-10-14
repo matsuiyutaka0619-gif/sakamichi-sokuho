@@ -1,34 +1,45 @@
 {
-  "updatedAt": "2026-10-14T04:59:30.788Z",
+  "updatedAt": "2026-10-14T12:00:02.246Z",
   "articles": [
     {
-      "id": "9d02eb679f583f28",
-      "title": "乃木坂46 遠藤さくらが人を惹きつける理由とは 賀喜遥香らが明かした意外な素顔、自然体の奥にある優しさ",
+      "id": "504323bb04e59750",
+      "title": "生田絵梨花、2年ぶりのビルボードライブ公演開催 バンドセットでボーカルとキーボードを披露",
       "sourceName": "リアルサウンド 音楽",
       "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2551498.html",
-      "publishedAt": "2026-10-14T03:10:32.000Z",
-      "summary": "乃木坂46の中心メンバーとして活躍する遠藤さくら。『乃木坂工事中』の「さくちゃん捜査会議」では、賀喜遥香らの証言から意外な素顔が次々と明らかに。本稿では、齋藤飛鳥から受け取った「さくらはさくらだから」という言葉も振り返りながら、自然体の遠藤が人を惹きつける理由を考える。",
+      "articleUrl": "https://realsound.jp/2026/10/post-2553560.html",
+      "publishedAt": "2026-10-14T11:30:48.000Z",
+      "summary": "生田絵梨花が、2026年12月にビルボードライブ東京、横浜にて『Erika Ikuta Premium Billboard Live 2026』を開催。ビルボードライブでの公演は2年ぶりとなる。 今回のビルボードライ",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "active",
         "og"
       ],
       "memberMatches": [
         {
-          "name": "遠藤さくら",
+          "name": "生田絵梨花",
           "group": "乃木坂46",
-          "status": "active"
-        },
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d0b0866765c92b39",
+      "title": "ミュージカル『キングアーサー』2027年再演！浦井健治、桜井玲香、WATWING・桑山隆太ら豪華キャスト集結、メインビジュアル公開",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/stage/673937.html",
+      "publishedAt": "2026-10-14T09:00:50.000Z",
+      "summary": "2023年に日本初演を果たしたミュージカル『キングアーサー』が、2027年2月から3月にかけて愛知・大阪・東京で再演されることが決定した。あわせて、メインビジュアルと東京公演の詳細、チケット情報が公開された。同作は、イギリス・ケルトに伝わるアーサー王伝説を題材に、フラン ... The post ミュージカル『キングアーサー』2027年再演！浦井健治、桜井玲",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
         {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "齋藤飛鳥",
+          "name": "桜井玲香",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -101,28 +112,6 @@
       ]
     },
     {
-      "id": "4ebb8465e834d9ec",
-      "title": "乃木坂46・6期生の瀬戸口心月、撮り下ろしグラビア公開！「Nogizaka Colors」第10弾に登場",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/673600.html",
-      "publishedAt": "2026-10-12T09:00:08.000Z",
-      "summary": "乃木坂46の6期生にフォーカスした撮り下ろしグラビア企画『6期生グラビア Nogizaka Colors』の第10弾として、瀬戸口心月のグラビアが10月11日（日）、乃木坂46公式サイトで公開された。同企画は、加入から2年目を迎えた6期生メンバーそれぞれの「色（個性）」 ... The post 乃木坂46・6期生の瀬戸口心月、撮り下ろしグラビア公開！「No",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "瀬戸口心月",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "f590877eaafe6012",
       "title": "日向坂46上村ひなの「タイトルにびっくりされたんじゃないかな」最新シングル「イチャイチャ虫」に遠山大輔も驚き「やすすどうなってんだ!?」",
       "sourceName": "マイナビニュース 芸能",
@@ -185,28 +174,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20261009-5099984/",
       "publishedAt": "2026-10-09T03:28:55.000Z",
       "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。小関が、続編で“パワーアップ”した撮影環境を明かした。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "a5def3631fbc7340",
-      "title": "「カレーを頼んだらカレーは入ってるじゃないですか」「カレー頼んでるからね」芳根京子、軽ツッコミで本田響矢と抜群の“夫婦”コンビネーション",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261009-5099944/",
-      "publishedAt": "2026-10-09T03:20:35.000Z",
-      "summary": "俳優の芳根京子、本田響矢、生田絵梨花、小関裕太が9日、東京・神田明神で行われたフジテレビ系ドラマ『波うららかに、めおと日和』(15日スタート、毎週木曜22:00～)の大ヒット祈願イベントに出席。本田が最近感じた“幸せ”を明かし、共演者をほっこりさせた。",
       "groups": [
         "乃木坂46"
       ],
