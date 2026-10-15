@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-15T17:06:09.848Z",
+  "updatedAt": "2026-10-15T21:28:15.875Z",
   "articles": [
+    {
+      "id": "ce8930a5d9c03444",
+      "title": "久保史緒里、スタジオに姿を見せるなり「こ～んに～ちは～～～～!」 戸惑いを隠せない“本家”錦鯉・長谷川",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261016-5134566/",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "summary": "元乃木坂46の久保史緒里が、きょう16日に放送されるフジテレビ系バラエティ番組『全力!脱力タイムズ』(毎週金曜23:00～)に出演し、錦鯉・長谷川雅紀のモノマネを披露。さらに、長谷川の“インテリ化計画”を全力で応援する。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "282f4603b4b2009c",
       "title": "櫻坂46、12月に「16th Single BACKS LIVE!!」開催決定！小田倉麗奈が初座長、過去7公演収録のBlu-ray BOXも発売へ",
