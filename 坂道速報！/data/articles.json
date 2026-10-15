@@ -1,11 +1,33 @@
 {
-  "updatedAt": "2026-10-15T04:47:51.319Z",
+  "updatedAt": "2026-10-15T11:36:58.842Z",
   "articles": [
+    {
+      "id": "449df26bbd81cfc7",
+      "title": "『豊臣兄弟！』母の仇・秀吉の側室になった茶々 市を演じた宮﨑あおいに「ものスゴく影響を受けた」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/10/15/20163591093/",
+      "publishedAt": "2026-10-15T08:30:00.000Z",
+      "summary": "11日放送の大河ドラマ『豊臣兄弟！』（NHK）39回で、茶々（井上和）が両親の仇・豊臣秀吉（池松壮亮）の側室に。公式SNSでは、井上が亡き母・市を演じた宮﨑あおいの影響を語り、反響を呼んでいる。 ■39回あらすじ ※ネタ…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "83daf5f413ded821",
       "title": "乃木坂46賀喜遥香「異次元にかわいい！」櫻坂46森田ひかるとの久々の共演で思わずファン目線に!?",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261014-5129511/",
       "publishedAt": "2026-10-14T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月8日（木）の放送では、配信動画で共演した櫻坂46・森田ひかるさんについて語りました。",
@@ -54,8 +76,8 @@
     {
       "id": "8890aaccd2021c18",
       "title": "日向坂46藤嶌果歩「神のような方たちが目の前に…」“坂道選抜”参加で感じた坂道グループの凄さとは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261014-5129359/",
       "publishedAt": "2026-10-14T12:00:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。10月9日（金）の",
@@ -85,28 +107,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "504323bb04e59750",
-      "title": "生田絵梨花、2年ぶりのビルボードライブ公演開催 バンドセットでボーカルとキーボードを披露",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2553560.html",
-      "publishedAt": "2026-10-14T11:30:48.000Z",
-      "summary": "生田絵梨花が、2026年12月にビルボードライブ東京、横浜にて『Erika Ikuta Premium Billboard Live 2026』を開催。ビルボードライブでの公演は2年ぶりとなる。 今回のビルボードライ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
