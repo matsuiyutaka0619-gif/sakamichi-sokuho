@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-10-15T11:36:58.842Z",
+  "updatedAt": "2026-10-15T17:06:09.848Z",
   "articles": [
+    {
+      "id": "282f4603b4b2009c",
+      "title": "櫻坂46、12月に「16th Single BACKS LIVE!!」開催決定！小田倉麗奈が初座長、過去7公演収録のBlu-ray BOXも発売へ",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/674045.html",
+      "publishedAt": "2026-10-15T13:00:53.000Z",
+      "summary": "櫻坂46が、12月15日（火）・16日（水）の2日間、神奈川・ぴあアリーナMMにて『16th Single BACKS LIVE!!』を開催することが決定した。あわせて、過去の未商品化公演を収録したLIVE Blu-ray BOXの発売も発表された。今回の開催は、10月 ... The post 櫻坂46、12月に「16th Single BACKS LIV",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "740f465533b0c0b9",
+      "title": "乃木坂46賀喜遥香「本当に太陽みたいな人」坂道選抜で櫻坂46山﨑天とのシンメに歓喜＆大緊張!?",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261015-5135181/",
+      "publishedAt": "2026-10-15T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月8日（木）の放送では、遥香先生も参加している坂道選抜が歌う楽曲「Audition」について語った模様を紹介します。",
+      "groups": [
+        "乃木坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "85ca0bbbaed50e61",
+      "title": "乃木坂46賀喜遥香「壁一面が金色で…」同期・遠藤さくらと表紙を飾る雑誌「東京カレンダー」の豪華な撮影秘話を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261015-5134798/",
+      "publishedAt": "2026-10-15T11:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月8日（木）の放送では、同期の遠藤さくらと表紙を務めた雑誌「東京カレンダー」12月号について語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "449df26bbd81cfc7",
       "title": "『豊臣兄弟！』母の仇・秀吉の側室になった茶々 市を演じた宮﨑あおいに「ものスゴく影響を受けた」",
@@ -338,28 +415,6 @@
           "name": "松本和子",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a350861aee50a04d",
-      "title": "日曜トライアル 第45回 M!LK山中柔太朗「叶えたことが特に嬉しかった」、JO1川西拓実「とても光栄」、齋藤飛鳥「びっくりしすぎてちょっと笑ってしまった」…第一線で活躍する7組が語った“初めて”の喜びと覚悟",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-45/",
-      "publishedAt": "2026-10-04T11:00:00.000Z",
-      "summary": "第一線で活躍する人々にも、まだ経験したことのない“初めて”がある。JO1・川西拓実はGP帯連ドラ初出演、M!LK・山中柔太朗は目標にしていたGP帯連続ドラマ初レギュラー、齊藤なぎさは連ドラ初主演へ。このほかにも9月には、俳優・タレントらの新たな挑戦など、様々な“初めて”が発表された。今回は、9月にマイナビニュースの「テレビ」カテゴリで掲載した記事の中から、7",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
