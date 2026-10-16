@@ -1,11 +1,55 @@
 {
-  "updatedAt": "2026-10-16T04:37:57.624Z",
+  "updatedAt": "2026-10-16T11:31:15.499Z",
   "articles": [
+    {
+      "id": "ea29eb3cc2aa3100",
+      "title": "Ado、新曲「Raven Sky」本日配信。少女・ネヴの精神世界を描いたMV公開も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1094500",
+      "publishedAt": "2026-10-16T11:00:00.000Z",
+      "summary": "Adoが、新曲「Raven Sky」を本日配信リリースし、同曲のMVを公開した。 今作のMVは、楽曲から着想を得た“鼓動”と”生命の力強さ”がテーマだという。舞台は、過去の失敗や自己嫌悪にとらわれた少女・ネヴの精神世界。壊れ、姿を変えながらも生き続ける生命を描いており、暗い色彩や不穏な情景のなかに、止まらない鼓動とまだ見ぬ可能性を宿した映像に仕上がっていると",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "40abb1246bcbeae5",
+      "title": "俳優活動10周年に迎えた「トライアンドエラー」な今。深川麻衣が忘れたくない遊び心とは",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/93386/",
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "summary": "元アイドルが、元アイドルを演じる。それだけなら、そう珍しいことではないのかもしれない。けれど深川麻衣が映画『逃げろお嬢さん』で演じた鮎川舞子は、名前も、辿ってきた道も、どこか彼女自身と重なっていく。 映画は、ある事情から行方をくらませた元アイドルの舞子（深川麻衣）と、彼女を高校時代から“推して”きた男・康太（井口理）の、ちょっと不思議な逃避行の物語。乃木坂4",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "ce8930a5d9c03444",
       "title": "久保史緒里、スタジオに姿を見せるなり「こ～んに～ちは～～～～!」 戸惑いを隠せない“本家”錦鯉・長谷川",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261016-5134566/",
       "publishedAt": "2026-10-15T20:00:00.000Z",
       "summary": "元乃木坂46の久保史緒里が、きょう16日に放送されるフジテレビ系バラエティ番組『全力!脱力タイムズ』(毎週金曜23:00～)に出演し、錦鯉・長谷川雅紀のモノマネを披露。さらに、長谷川の“インテリ化計画”を全力で応援する。",
@@ -48,8 +92,8 @@
     {
       "id": "740f465533b0c0b9",
       "title": "乃木坂46賀喜遥香「本当に太陽みたいな人」坂道選抜で櫻坂46山﨑天とのシンメに歓喜＆大緊張!?",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261015-5135181/",
       "publishedAt": "2026-10-15T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月8日（木）の放送では、遥香先生も参加している坂道選抜が歌う楽曲「Audition」について語った模様を紹介します。",
@@ -184,28 +228,6 @@
           "name": "松尾桜",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d0b0866765c92b39",
-      "title": "ミュージカル『キングアーサー』2027年再演！浦井健治、桜井玲香、WATWING・桑山隆太ら豪華キャスト集結、メインビジュアル公開",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/stage/673937.html",
-      "publishedAt": "2026-10-14T09:00:50.000Z",
-      "summary": "2023年に日本初演を果たしたミュージカル『キングアーサー』が、2027年2月から3月にかけて愛知・大阪・東京で再演されることが決定した。あわせて、メインビジュアルと東京公演の詳細、チケット情報が公開された。同作は、イギリス・ケルトに伝わるアーサー王伝説を題材に、フラン ... The post ミュージカル『キングアーサー』2027年再演！浦井健治、桜井玲",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "桜井玲香",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
