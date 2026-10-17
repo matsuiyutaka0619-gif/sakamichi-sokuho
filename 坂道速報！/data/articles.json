@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-17T04:35:18.916Z",
+  "updatedAt": "2026-10-17T10:51:09.591Z",
   "articles": [
     {
-      "id": "1e24418e20e926e3",
-      "title": "堀未央奈、10代～20代は「自分に自信が持てず」 30歳突入で「自信しかない状態で撮影できた」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1083289/",
-      "publishedAt": "2026-10-17T03:35:26.000Z",
-      "summary": "元乃木坂46で俳優の堀未央奈が17日、都内で行われた『堀未央奈写真集 深紅の余韻』（小学館）の発売記念取材会に出席した。同作にまつわる思いなどを語った。6年ぶり写真集の自己評価は「300,000点」 元乃木坂46で俳優 […]",
+      "id": "8b08430e8400280e",
+      "title": "「3カ月で16公演」「そのあと1週間…」乃木坂46川崎桜、全国ツアー後の“燃え尽き症候群”を告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261017-5144316/",
+      "publishedAt": "2026-10-17T08:00:00.000Z",
+      "summary": "乃木坂46の川崎桜(※崎はたつさき)が、16日に行われた「2026-2027シーズン フィギュアスケート記者会見」に出席。自身の全国ツアー後の心境を明かした。",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "堀未央奈",
+          "name": "川﨑桜",
           "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
         }
       ]
     },
