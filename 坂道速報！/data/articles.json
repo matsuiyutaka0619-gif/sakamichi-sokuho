@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-17T10:51:09.591Z",
+  "updatedAt": "2026-10-17T15:40:22.586Z",
   "articles": [
+    {
+      "id": "afebbcc82ac287f9",
+      "title": "櫻坂46・松田里奈、山﨑天『JA 全農 COUNTDOWN JAPAN』公開生放送に！公式レポート",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207300",
+      "publishedAt": "2026-10-17T13:56:16.000Z",
+      "summary": "『櫻坂46』の松田里奈、山﨑天が10月17日に東京・渋谷区立宮下公園芝生広場で開催されたTOKYO FM リスナー感謝祭 in 渋谷音楽祭 2026内の『JA 全農 COUNTDOWN JAPAN』（TOKYO FM）...",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "8b08430e8400280e",
       "title": "「3カ月で16公演」「そのあと1週間…」乃木坂46川崎桜、全国ツアー後の“燃え尽き症候群”を告白",
@@ -26,8 +53,8 @@
     {
       "id": "c48337ab4ca54e3e",
       "title": "“デビュー15周年”三代目JSB・ØMI「膨大な曲のなかで…」キュレーションアルバム『24/7 ～JSB FOREVER～』への思い",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261016-5140817/",
       "publishedAt": "2026-10-16T12:00:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月10日（土）の放送には、三代目 J SOUL BROTHERS from EXILE TRIBE・ØMIさんが登場！ 10月21日（水）にリリースされるキュレーションアルバム『24/7",
@@ -370,28 +397,6 @@
         {
           "name": "山﨑天",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5af422aff0628012",
-      "title": "乃木坂46賀喜遥香「1人でずっとデスゲームです（笑）」最近ドハマりしている“ゲーム”とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261007-5091472/",
-      "publishedAt": "2026-10-07T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月1日（木）の放送では、最近ハマっているゲームについて語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -1099,39 +1104,6 @@
         {
           "name": "藤嶌果歩",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "eb4f2ba0381ca634",
-      "title": "乃木坂46・同期コンビの最新の関係性は？川﨑桜×小川彩が明かす互いの推しポイント",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/89809/",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "summary": "5月に3代目キャプテン・梅澤美波が卒業し、新体制へと引き継がれた乃木坂46。時期を同じくして、それぞれ大学卒業と高校卒業という、個人としても大きな節目を迎えたのが5期生の川﨑桜と小川彩だ。 そんな2人が俳優として出演したドラマが、FOD SHORTにて全60話配信中の『野球少女鷲尾』。『乃木坂46のオールナイトニッポン』で誕生した名物キャラクターをオリジナル",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
