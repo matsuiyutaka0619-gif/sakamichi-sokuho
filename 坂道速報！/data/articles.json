@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-16T21:16:32.783Z",
+  "updatedAt": "2026-10-17T04:35:18.916Z",
   "articles": [
+    {
+      "id": "1e24418e20e926e3",
+      "title": "堀未央奈、10代～20代は「自分に自信が持てず」 30歳突入で「自信しかない状態で撮影できた」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1083289/",
+      "publishedAt": "2026-10-17T03:35:26.000Z",
+      "summary": "元乃木坂46で俳優の堀未央奈が17日、都内で行われた『堀未央奈写真集 深紅の余韻』（小学館）の発売記念取材会に出席した。同作にまつわる思いなどを語った。6年ぶり写真集の自己評価は「300,000点」 元乃木坂46で俳優 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "堀未央奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "c48337ab4ca54e3e",
       "title": "“デビュー15周年”三代目JSB・ØMI「膨大な曲のなかで…」キュレーションアルバム『24/7 ～JSB FOREVER～』への思い",
@@ -63,28 +85,6 @@
         {
           "name": "久保史緒里",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "282f4603b4b2009c",
-      "title": "櫻坂46、12月に「16th Single BACKS LIVE!!」開催決定！小田倉麗奈が初座長、過去7公演収録のBlu-ray BOXも発売へ",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/674045.html",
-      "publishedAt": "2026-10-15T13:00:53.000Z",
-      "summary": "櫻坂46が、12月15日（火）・16日（水）の2日間、神奈川・ぴあアリーナMMにて『16th Single BACKS LIVE!!』を開催することが決定した。あわせて、過去の未商品化公演を収録したLIVE Blu-ray BOXの発売も発表された。今回の開催は、10月 ... The post 櫻坂46、12月に「16th Single BACKS LIV",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小田倉麗奈",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
