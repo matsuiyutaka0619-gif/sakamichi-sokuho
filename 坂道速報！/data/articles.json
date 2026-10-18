@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-18T15:55:24.698Z",
+  "updatedAt": "2026-10-18T20:50:07.241Z",
   "articles": [
+    {
+      "id": "af532a5258d0b905",
+      "title": "表現の着想点はどこにある？若月佑美の感性から学ぶ「日常から切り取って作品にしていく」力",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610110001822.html",
+      "publishedAt": "2026-10-18T20:10:00.000Z",
+      "summary": "記者という職業の苦悩の1つにヒントを与えてもらったような感覚になる取材があった。 このほど、元乃木坂46の若月佑美（32）が東京・文京区「encounter gallery」で開く15周年記念作品展「FIRST EGOISM」の開催前会…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "若月佑美",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "2ba38e32ac8bfb49",
       "title": "前⽥拳太郎×久保史緒⾥ ネット発の最恐都市伝説がスクリーンへ 映画『巨頭ｵ』 予告映像公開",
