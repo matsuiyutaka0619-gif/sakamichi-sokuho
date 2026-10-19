@@ -1,25 +1,121 @@
 {
-  "updatedAt": "2026-10-18T20:50:07.241Z",
+  "updatedAt": "2026-10-19T04:48:40.618Z",
   "articles": [
     {
-      "id": "af532a5258d0b905",
-      "title": "表現の着想点はどこにある？若月佑美の感性から学ぶ「日常から切り取って作品にしていく」力",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610110001822.html",
-      "publishedAt": "2026-10-18T20:10:00.000Z",
-      "summary": "記者という職業の苦悩の1つにヒントを与えてもらったような感覚になる取材があった。 このほど、元乃木坂46の若月佑美（32）が東京・文京区「encounter gallery」で開く15周年記念作品展「FIRST EGOISM」の開催前会…",
+      "id": "5212c264d36d08f8",
+      "title": "櫻坂46・松田里奈、初ソロ曲をファンと聴き涙「卒業を実感しちゃいました」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/event/675227.html",
+      "publishedAt": "2026-10-19T04:30:22.000Z",
+      "summary": "櫻坂46の松田里奈と山﨑天が、10月17日（土）、渋谷区立宮下公園芝生広場で行われたTOKYO FM「JA全農 COUNTDOWN JAPAN」の公開生放送にゲスト出演。卒業を控える松田が、初のソロ曲への思いを涙ながらに語った。「TOKYO FM リスナー感謝祭 in ... The post 櫻坂46・松田里奈、初ソロ曲をファンと聴き涙「卒業を実感しちゃい",
       "groups": [
-        "乃木坂46"
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "ead094e44b2b7e2b",
+      "title": "出川哲朗『充電旅』出演の渡邉美穂が「めちゃくちゃ可愛い」 視聴者くぎ付け「ファンになりました」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1084359/",
+      "publishedAt": "2026-10-19T02:23:56.000Z",
+      "summary": "お笑い芸人の出川哲朗の冠番組、テレビ東京系『出川哲朗の充電させてもらえませんか？』（土曜日午後7時54分）の17日放送に出演した女性ゲストが話題となっている。「念願のスイカヘルメット」姿も披露 お笑い芸人の出川哲朗の冠 […]",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "若月佑美",
-          "group": "乃木坂46",
+          "name": "渡邉美穂",
+          "group": "日向坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "507bebba181f9d50",
+      "title": "乃木坂46、43rdシングル「君ロス」表題曲センターが5期生・井上和に決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1094894",
+      "publishedAt": "2026-10-19T01:42:26.000Z",
+      "summary": "乃木坂46が12月2日(水)にリリースする最新シングル「君ロス」のフォーメーションセンターを、5期生・井上和が務めることが発表された。 「君ロス」の選抜フォーメーションは乃木坂46の冠バラエティ番組『乃木坂工事中』にて発表された。センターを務める井上和は「2026年にリリースされたシングルは同じ5期生の池田瑛紗と一ノ瀬美空が初センターを務めてくれて、2人に感",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金川紗耶",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "岡本姫奈",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9ba0f3f1b8adbdc4",
+      "title": "愛猫2匹がエアコンに向かって鳴き続け…恐怖体験の乃木坂46井上和、『ほん怖』初出演で主演「思い出の番組」に感慨",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261019-5152030/",
+      "publishedAt": "2026-10-18T22:30:00.000Z",
+      "summary": "「台本を読んだだけでも、すごく怖くなってしまいました」――乃木坂46の井上和が、31日に放送されるフジテレビ系オムニバスドラマ『ほんとにあった怖い話 秋の特別編2026』(21:00～)の新作エピソード「隣人」で、『ほん怖』初出演にして主演を務める。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -31,28 +127,6 @@
       "articleUrl": "https://otocoto.jp/news/kyoto_o1018/",
       "publishedAt": "2026-10-18T09:00:00.000Z",
       "summary": "主演に前田拳太郎、ヒロインに久保史緒里を迎えた、近藤亮太監督(『ミッシング・チャイルド・ビデオテープ』)最新作、映画『巨頭ｵ』。このたび本作の主要キャストが発表...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "291af1cd02dca9e7",
-      "title": "前田拳太郎と久保史緒里が廃村の怪異に挑む 『巨頭ｵ』予告編＆ポスタービジュアル公開",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2556645.html",
-      "publishedAt": "2026-10-18T03:00:06.000Z",
-      "summary": "12月25日よりテアトル新宿、ヒューマントラストシネマ渋谷ほかにて全国公開される前田拳太郎主演映画『巨頭ｵ』の予告編とポスタービジュアルが公開された。 本作は、2006年2月22日にインターネット掲示板に投稿されたひ",
       "groups": [
         "乃木坂46"
       ],
