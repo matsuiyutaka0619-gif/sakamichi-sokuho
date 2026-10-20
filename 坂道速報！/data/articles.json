@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-20T11:45:33.276Z",
+  "updatedAt": "2026-10-20T17:14:45.165Z",
   "articles": [
+    {
+      "id": "7b67dd511fccd458",
+      "title": "富田鈴花、グループ卒業後初のソロライブ開催決定「ずっとずっと待ち焦がれていました」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1085200/",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "summary": "元日向坂46で俳優の富田鈴花が、12月20日に横浜・新都市ホールにて、グループ卒業後初のソロライブ「SUZUKA TOMITA WINTER LIVE 2026 ≪Bell Note≫」を開催することが20日に発表された […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "富田鈴花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "ffea80b0b7ab84b6",
       "title": "齊藤京子、ソロ歌手デビュー曲「元気にしてた？」MV明日公開",
