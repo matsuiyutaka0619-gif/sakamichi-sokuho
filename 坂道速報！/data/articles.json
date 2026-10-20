@@ -1,14 +1,174 @@
 {
-  "updatedAt": "2026-10-19T22:24:51.247Z",
+  "updatedAt": "2026-10-20T04:57:11.964Z",
   "articles": [
     {
-      "id": "b2c24294f0204f2f",
-      "title": "乃木坂46の新曲「君ロス」センターから『ほん怖』主演まで 井上和の躍進が止まらない",
+      "id": "ab6d46e9ccbad40b",
+      "title": "日向坂46金村美玖 撮っても“みく”がすき 恋するセカンド写真集「機微」きょう発売",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202610200000040.html",
+      "publishedAt": "2026-10-20T04:00:00.000Z",
+      "summary": "日向坂46金村美玖（24）が今日20日、ファン待望のセカンド写真集「機微」（講談社）を発売する。前作発売から約4年、“ピュアな少女”から“色香まとう大人”へ成長を遂げた。撮影を行ったのはオーストリア。自身が大好きだという映画「ビフォア・…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "24b2d8b89d9309d9",
+      "title": "日向坂46金村美玖、２nd写真集見てほしいグループのメンバーは…「初めてのことだったので」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610200000363.html",
+      "publishedAt": "2026-10-20T03:44:06.000Z",
+      "summary": "日向坂46金村美玖（24）が20日、都内でセカンド写真集「機微」（講談社）の発売記念会見に登壇した。 前作発売から約4年、待望の2作目は金村自身が大好きな映画「ビフォア・サンライズ」の舞台となったオーストリアで撮影を行った。 撮影の思い…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "f4e14ce10cc1c53f",
+      "title": "日向坂46金村美玖、セカンド写真集に向けてあえて“増量”「スクワットをたくさんして」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610200000335.html",
+      "publishedAt": "2026-10-20T03:26:16.000Z",
+      "summary": "日向坂46金村美玖（24）が20日、都内で、セカンド写真集「機微」（講談社）の発売記念会見に登壇した。 前作発売から約4年、待望の2作目は金村自身が大好きな映画「ビフォア・サンライズ」の舞台となったオーストリアで撮影を行った。 映画に合…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "66368b15a5062a2a",
+      "title": "ひなた坂46、2daysライブでWアンコール！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/672535.html",
+      "publishedAt": "2026-10-20T03:19:19.000Z",
+      "summary": "日向坂46のアンダーグループ・ひなた坂46による『18th Single ひなた坂46 LIVE』が、10月6日、7日の2日間にわたり千葉・LaLa arena TOKYO-BAYで開催された。この記事では、2日目公演の模様をお届けする。今回のひなた坂46には、清水理央 ... The post ひなた坂46、2daysライブでWアンコール！ first a",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "清水理央",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "eedbb218147d1f0e",
+      "title": "日向坂46金村美玖、OG丹生明里と割烹料理店へ 大人を実感…お会計は「払ってくれました！」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1084894/",
+      "publishedAt": "2026-10-20T03:16:49.000Z",
+      "summary": "アイドルグループ・日向坂46の金村美玖が20日、都内で2nd写真集『機微』（講談社）の発売記念会見を開催し、報道陣の取材に応じた。2nd写真集『機微』発売記念会見 アイドルグループ・日向坂46の金村美玖が20日、都内で […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "丹生明里",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "292effb6c4dd125e",
+      "title": "永野芽郁主演『ヒマチの嬢王』に斉藤由貴、城田優ら出演 平祐奈、梅澤美波らがキャバ嬢に",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2558027.html",
-      "publishedAt": "2026-10-19T11:00:09.000Z",
-      "summary": "乃木坂46の井上和が『ほんとにあった怖い話』で主演を務めるなど、大河ドラマや映画声優、舞台千尋役へと急成長を遂げ、俳優・アイドル双方で躍進している。",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2557928.html",
+      "publishedAt": "2026-10-20T03:00:12.000Z",
+      "summary": "永野芽郁が主演・プロデュースを務める今冬配信のDMM TVオリジナルドラマ『ヒマチの嬢王』の追加キャストとして、平祐奈、梅澤美波、小西桜子、佐藤菫、浅見姫香、斉藤由貴、高橋克実、高橋侃、田中美久、馬場ふみか、城田優の出",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "45f3d651e67de964",
+      "title": "『ヒマチの嬢王』主人公・アヤネと働くキャバ嬢役に平祐奈、梅澤美波、小西桜子、佐藤菫、浅見姫香",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/93772/",
+      "publishedAt": "2026-10-20T03:00:00.000Z",
+      "summary": "今冬よりDMM TVで独占配信される永野芽郁主演ドラマ『ヒマチの嬢王』の追加キャストが一挙解禁された。 原作は、茅原クレセのデビュー作でシリーズ累計1億7,000万PV、コミックス売上120万部を突破した同名コミック。鳥取県の歓楽街・朝日町（通称“ヒマチ”）を舞台に、歌舞伎町の元No.1キャバ嬢・一条アヤネがキャストではなく黒服となり、日本一のキャバクラ店経",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "37043363c0d51aab",
+      "title": "乃木坂46、神宮4days開幕！初の6期生全国ツアー決定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/662724.html",
+      "publishedAt": "2026-10-20T02:30:18.000Z",
+      "summary": "乃木坂46が8月20日、「真夏の全国ツアー 2026」ファイナルとなる東京・明治神宮野球場4daysの初日公演を開催。活動を休止していた6期生・増田三莉音がサプライズで登場し、活動再開を発表した。さらに、6期生初となる全国ツアーの開催も決定した。「真夏の全国ツアー 20 ... The post 乃木坂46、神宮4days開幕！初の6期生全国ツアー決定 fi",
       "groups": [
         "乃木坂46"
       ],
@@ -17,7 +177,7 @@
       ],
       "memberMatches": [
         {
-          "name": "井上和",
+          "name": "増田三莉音",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -85,8 +245,8 @@
     {
       "id": "9ba0f3f1b8adbdc4",
       "title": "愛猫2匹がエアコンに向かって鳴き続け…恐怖体験の乃木坂46井上和、『ほん怖』初出演で主演「思い出の番組」に感慨",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261019-5152030/",
       "publishedAt": "2026-10-18T22:30:00.000Z",
       "summary": "「台本を読んだだけでも、すごく怖くなってしまいました」――乃木坂46の井上和が、31日に放送されるフジテレビ系オムニバスドラマ『ほんとにあった怖い話 秋の特別編2026』(21:00～)の新作エピソード「隣人」で、『ほん怖』初出演にして主演を務める。",
@@ -166,33 +326,6 @@
         {
           "name": "井上和",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "afebbcc82ac287f9",
-      "title": "櫻坂46・松田里奈、山﨑天『JA 全農 COUNTDOWN JAPAN』公開生放送に！公式レポート",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/207300",
-      "publishedAt": "2026-10-17T13:56:16.000Z",
-      "summary": "『櫻坂46』の松田里奈、山﨑天が10月17日に東京・渋谷区立宮下公園芝生広場で開催されたTOKYO FM リスナー感謝祭 in 渋谷音楽祭 2026内の『JA 全農 COUNTDOWN JAPAN』（TOKYO FM）...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
