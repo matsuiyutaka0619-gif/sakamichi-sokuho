@@ -1,67 +1,24 @@
 {
-  "updatedAt": "2026-10-21T04:56:34.627Z",
+  "updatedAt": "2026-10-21T11:57:44.659Z",
   "articles": [
     {
-      "id": "dd27545b3ea4466a",
-      "title": "井上和、『千と千尋の神隠し』千尋役抜擢 生田絵梨花、奥田いろはから続く乃木坂46の舞台への挑戦",
+      "id": "ae74fcc9c285bec7",
+      "title": "渡邉美穂、“叔母活”でプリンセス姿の姪っ子とディズニー満喫 「親子みたい」「プリンセスが2人いる」",
       "sourceName": "リアルサウンド 音楽",
       "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2558056.html",
-      "publishedAt": "2026-10-21T03:10:56.000Z",
-      "summary": "乃木坂46の井上和が、舞台『千と千尋の神隠し』で千尋役に抜擢。生田絵梨花が在籍中に切り開いたミュージカルへの道は、奥田いろは、中村麗乃、林瑠奈らへどのように広がってきたのか。本稿では、乃木坂46とミュージカルの歩みを振り返る。",
+      "articleUrl": "https://realsound.jp/2026/10/post-2559505.html",
+      "publishedAt": "2026-10-21T07:00:10.000Z",
+      "summary": "渡邉美穂が自身のInstagramを更新。姪っ子とディズニーを満喫する様子を公開している。",
       "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "林瑠奈",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "奥田いろは",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "中村麗乃",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6b3d0f9d435feb81",
-      "title": "与田祐希、乃木坂46を経てたどり着いた“自分を大切にする”生き方 「基本、寝たら忘れる！」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2558245.html",
-      "publishedAt": "2026-10-21T02:30:55.000Z",
-      "summary": "乃木坂46を卒業し、俳優として着実にキャリアを重ねる与田祐希が、現在テレ東ほかで放送中のドラマNEXT『溺愛カレシの作り方 ～セから本命になる女の子の話～』で主演を務めている。相手役・野村周平とのアットホームな撮影現場の空気感から、役柄への共感、そしてグループ卒業後に芽生えた「自分を大切にする生き方」まで、たっぷりと語ってもらった。",
-      "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "与田祐希",
-          "group": "乃木坂46",
+          "name": "渡邉美穂",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
