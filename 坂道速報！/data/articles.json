@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-21T11:57:44.659Z",
+  "updatedAt": "2026-10-21T17:17:19.728Z",
   "articles": [
+    {
+      "id": "279af31386a12435",
+      "title": "富田鈴花、日向坂46卒業後初のソロライブ開催決定！横浜でバンド編成のステージ",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/675726.html",
+      "publishedAt": "2026-10-21T14:00:46.000Z",
+      "summary": "富田鈴花が、12月20日に横浜・新都市ホールで、日向坂46卒業後初のソロライブ『SUZUKA TOMITA WINTER LIVE 2026「Bell Note」』を開催する。今回はバンド編成で、持ち前の歌唱力とパフォーマンス力を届ける。昼夜2公演を予定しており、昼公演 ... The post 富田鈴花、日向坂46卒業後初のソロライブ開催決定！横浜でバンド",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "富田鈴花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "5bfde62eb0e9a23d",
+      "title": "櫻坂46・谷口愛季の愛らしさに迫る！「B.L.T.12月号」表紙に登場、松田里奈の裏表紙＆松本和子の初ソログラビアも",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/675721.html",
+      "publishedAt": "2026-10-21T13:00:21.000Z",
+      "summary": "櫻坂46・谷口愛季が、10月28日発売の「B.L.T.2026年12月号」の表紙・巻頭に登場する。裏表紙と中面グラビアには松田里奈、中面には自身初のソログラビアとなる松本和子も登場する。16thシングル「愛MUST BE」で、自身初の表題曲センターを務める谷口。期別曲、 ... The post 櫻坂46・谷口愛季の愛らしさに迫る！「B.L.T.12月号」表",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "松本和子",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "ae74fcc9c285bec7",
       "title": "渡邉美穂、“叔母活”でプリンセス姿の姪っ子とディズニー満喫 「親子みたい」「プリンセスが2人いる」",
@@ -122,33 +176,6 @@
           "name": "梅澤美波",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5212c264d36d08f8",
-      "title": "櫻坂46・松田里奈、初ソロ曲をファンと聴き涙「卒業を実感しちゃいました」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/event/675227.html",
-      "publishedAt": "2026-10-19T04:30:22.000Z",
-      "summary": "櫻坂46の松田里奈と山﨑天が、10月17日（土）、渋谷区立宮下公園芝生広場で行われたTOKYO FM「JA全農 COUNTDOWN JAPAN」の公開生放送にゲスト出演。卒業を控える松田が、初のソロ曲への思いを涙ながらに語った。「TOKYO FM リスナー感謝祭 in ... The post 櫻坂46・松田里奈、初ソロ曲をファンと聴き涙「卒業を実感しちゃい",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     },
