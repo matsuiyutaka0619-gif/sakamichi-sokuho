@@ -1,46 +1,67 @@
 {
-  "updatedAt": "2026-10-20T21:41:10.903Z",
+  "updatedAt": "2026-10-21T04:56:34.627Z",
   "articles": [
     {
-      "id": "7b67dd511fccd458",
-      "title": "富田鈴花、グループ卒業後初のソロライブ開催決定「ずっとずっと待ち焦がれていました」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1085200/",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "summary": "元日向坂46で俳優の富田鈴花が、12月20日に横浜・新都市ホールにて、グループ卒業後初のソロライブ「SUZUKA TOMITA WINTER LIVE 2026 ≪Bell Note≫」を開催することが20日に発表された […]",
+      "id": "dd27545b3ea4466a",
+      "title": "井上和、『千と千尋の神隠し』千尋役抜擢 生田絵梨花、奥田いろはから続く乃木坂46の舞台への挑戦",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2558056.html",
+      "publishedAt": "2026-10-21T03:10:56.000Z",
+      "summary": "乃木坂46の井上和が、舞台『千と千尋の神隠し』で千尋役に抜擢。生田絵梨花が在籍中に切り開いたミュージカルへの道は、奥田いろは、中村麗乃、林瑠奈らへどのように広がってきたのか。本稿では、乃木坂46とミュージカルの歩みを振り返る。",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
       ],
       "statuses": [
+        "active",
         "og"
       ],
       "memberMatches": [
         {
-          "name": "富田鈴花",
-          "group": "日向坂46",
+          "name": "林瑠奈",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "中村麗乃",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "ffea80b0b7ab84b6",
-      "title": "齊藤京子、ソロ歌手デビュー曲「元気にしてた？」MV明日公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1099615",
-      "publishedAt": "2026-10-20T11:00:00.000Z",
-      "summary": "日向坂46を卒業後も俳優業と活躍の幅を広げる齊藤京子が、ソロデビュー曲「元気にしてた？」のMVをリリース日である明日20時に公開することを発表した。 「元気にしてた？」は、東京を拠点とするクリエイティブ・コレクティブ兼レーベルチームであるw.a.uが作曲を、作詞は齊藤自身も親交が深い緑黄色社会・長屋晴子が書き下ろした1曲。思わず家族や友人、大切な人に会いに行",
+      "id": "6b3d0f9d435feb81",
+      "title": "与田祐希、乃木坂46を経てたどり着いた“自分を大切にする”生き方 「基本、寝たら忘れる！」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2558245.html",
+      "publishedAt": "2026-10-21T02:30:55.000Z",
+      "summary": "乃木坂46を卒業し、俳優として着実にキャリアを重ねる与田祐希が、現在テレ東ほかで放送中のドラマNEXT『溺愛カレシの作り方 ～セから本命になる女の子の話～』で主演を務めている。相手役・野村周平とのアットホームな撮影現場の空気感から、役柄への共感、そしてグループ卒業後に芽生えた「自分を大切にする生き方」まで、たっぷりと語ってもらった。",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "齊藤京子",
-          "group": "日向坂46",
+          "name": "与田祐希",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -80,28 +101,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "5281607730f84620",
-      "title": "齊藤京子、静岡・伊東の“おすすめスポット”力説も… ヒコロヒーは困惑「伊東やなくても」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/10/20/20163592417/",
-      "publishedAt": "2026-10-20T07:45:00.000Z",
-      "summary": "19日深夜放送『キョコロヒー』（テレビ朝日系）で、女優・タレントの齊藤京子が静岡県・伊豆と伊東のおすすめスポットについて熱弁。 共演者の女性芸人・ヒコロヒーを戸惑わせる場面があった。 ■アテンドするなら… 齊藤とヒコロヒ…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齊藤京子",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "37043363c0d51aab",
@@ -144,28 +143,6 @@
           "name": "清水理央",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c5d5af7810a5fc05",
-      "title": "齊藤京子「この世で1番簡単」自宅調理にハマっているグルメに反響 ファンは「すげぇ」「意外」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/10/20/20163592384/",
-      "publishedAt": "2026-10-20T05:40:00.000Z",
-      "summary": "19日深夜放送『キョコロヒー』（テレビ朝日系）で、女優・タレントの齊藤京子が「意外な得意料理」を明かし、反響を呼んでいる。 ■齊藤におすすめの資格は？ 齊藤とお笑い芸人・ヒコロヒーがMCを務める同番組。この日は、芸能人が…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齊藤京子",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
