@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-10-21T21:46:42.524Z",
+  "updatedAt": "2026-10-22T04:56:45.723Z",
   "articles": [
+    {
+      "id": "fc139577d11202e9",
+      "title": "櫻坂46の石森璃花と日向坂46の坂井新奈、生い立ちを語る",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1099940",
+      "publishedAt": "2026-10-22T03:00:00.000Z",
+      "summary": "アイドルの生い立ちや今をロングインタビューで綴る“読むアイドルマガジン”こと『IDOL AND READ』の最新刊第47号が10月23日に発売となる。表紙巻頭は、10月14日に16thシングル「愛MUST BE」をリリースしたほか、11月14日および15日に千葉・ZOZOマリンスタジアムで6周年アニバーサリーライブを2DAYSで行う櫻坂46の石森璃花。 石森",
+      "groups": [
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "石森璃花",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "坂井新奈",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b5567e912c78659c",
+      "title": "『ブラッサム』に伊藤万理華、前原滉、sara、岩男海史、谷村美月、藤原さくらが出演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2560194.html",
+      "publishedAt": "2026-10-21T23:15:17.000Z",
+      "summary": "2026年度後期の連続テレビ小説『ブラッサム』に、伊藤万理華、前原滉、sara、岩男海史、谷村美月、藤原さくらが出演することが発表された。 NHK連続テレビ小説第115作目となる本作は、明治、大正、昭和を駆け抜け自由",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤万理華",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "279af31386a12435",
       "title": "富田鈴花、日向坂46卒業後初のソロライブ開催決定！横浜でバンド編成のステージ",
