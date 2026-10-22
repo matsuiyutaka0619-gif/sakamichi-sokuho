@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-22T11:59:47.838Z",
+  "updatedAt": "2026-10-22T17:15:25.732Z",
   "articles": [
+    {
+      "id": "a4509a372d1e66db",
+      "title": "遠藤さくら、井上和、池田瑛紗も!? 乃木坂46賀喜遥香が驚いたオーディションの奇跡とは？「もしかして8ってすごいんじゃない!?」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261022-5175915/",
+      "publishedAt": "2026-10-22T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月15日（木）の放送では、乃木坂46メンバーの“8”にまつわるエピソードを語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "池田瑛紗",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b33e4fb7b7e45cc5",
+      "title": "齊藤京子、ソロデビュー曲「元気にしてた？」MV公開！長屋晴子作詞で新たな一歩",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/music2/675853.html",
+      "publishedAt": "2026-10-22T12:00:35.000Z",
+      "summary": "齊藤京子が10月21日、ソロ歌手デビュー曲「元気にしてた？」を配信リリースし、同日ミュージックビデオを公開した。芸能活動10周年の節目に、ソロアーティストとして新たな一歩を踏み出す。本作は、東京を拠点に活動するクリエイティブ・コレクティブ兼レーベルチーム・w.a.uが作 ... The post 齊藤京子、ソロデビュー曲「元気にしてた？」MV公開！長屋晴子作",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齊藤京子",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8f23938bd0b7e16e",
+      "title": "日向坂46藤嶌果歩「結構鳥肌が立った！」念願の「ひなくり2026」開催に山下葉留花と大喜び！",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261022-5175745/",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。10月16日（金）",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "2f1070b090feb07c",
       "title": "堀未央奈、韓国で開催されるASIA CULTURE FESTIVAL KOREA 2026に出演が決定！",
@@ -41,34 +137,6 @@
         {
           "name": "岩本蓮加",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fc139577d11202e9",
-      "title": "櫻坂46の石森璃花と日向坂46の坂井新奈、生い立ちを語る",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1099940",
-      "publishedAt": "2026-10-22T03:00:00.000Z",
-      "summary": "アイドルの生い立ちや今をロングインタビューで綴る“読むアイドルマガジン”こと『IDOL AND READ』の最新刊第47号が10月23日に発売となる。表紙巻頭は、10月14日に16thシングル「愛MUST BE」をリリースしたほか、11月14日および15日に千葉・ZOZOマリンスタジアムで6周年アニバーサリーライブを2DAYSで行う櫻坂46の石森璃花。 石森",
-      "groups": [
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "石森璃花",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "坂井新奈",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
@@ -162,50 +230,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "37043363c0d51aab",
-      "title": "乃木坂46、神宮4days開幕！初の6期生全国ツアー決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/662724.html",
-      "publishedAt": "2026-10-20T06:24:18.000Z",
-      "summary": "乃木坂46が8月20日、「真夏の全国ツアー 2026」ファイナルとなる東京・明治神宮野球場4daysの初日公演を開催。活動を休止していた6期生・増田三莉音がサプライズで登場し、活動再開を発表した。さらに、6期生初となる全国ツアーの開催も決定した。「真夏の全国ツアー 20 ... The post 乃木坂46、神宮4days開幕！初の6期生全国ツアー決定 fi",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "増田三莉音",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "66368b15a5062a2a",
-      "title": "ひなた坂46、2daysライブでWアンコール！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/672535.html",
-      "publishedAt": "2026-10-20T06:23:19.000Z",
-      "summary": "日向坂46のアンダーグループ・ひなた坂46による『18th Single ひなた坂46 LIVE』が、10月6日、7日の2日間にわたり千葉・LaLa arena TOKYO-BAYで開催された。この記事では、2日目公演の模様をお届けする。今回のひなた坂46には、清水理央 ... The post ひなた坂46、2daysライブでWアンコール！ first a",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "清水理央",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "45f3d651e67de964",
@@ -417,34 +441,6 @@
       ]
     },
     {
-      "id": "83daf5f413ded821",
-      "title": "乃木坂46賀喜遥香「異次元にかわいい！」櫻坂46森田ひかるとの久々の共演で思わずファン目線に!?",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261014-5129511/",
-      "publishedAt": "2026-10-14T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月8日（木）の放送では、配信動画で共演した櫻坂46・森田ひかるさんについて語りました。",
-      "groups": [
-        "乃木坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
       "id": "d5fc0982e0e09311",
       "title": "櫻坂46「16th Single BACKS LIVE!!」12月に2days開催、座長・小田倉麗奈が過去最高を誓う",
       "sourceName": "Bezzy",
@@ -462,43 +458,6 @@
         {
           "name": "小田倉麗奈",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8890aaccd2021c18",
-      "title": "日向坂46藤嶌果歩「神のような方たちが目の前に…」“坂道選抜”参加で感じた坂道グループの凄さとは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261014-5129359/",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。10月9日（金）の",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "髙橋未来虹",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下葉留花",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
