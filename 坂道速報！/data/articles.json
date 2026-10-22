@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-22T04:56:45.723Z",
+  "updatedAt": "2026-10-22T11:59:47.838Z",
   "articles": [
+    {
+      "id": "2f1070b090feb07c",
+      "title": "堀未央奈、韓国で開催されるASIA CULTURE FESTIVAL KOREA 2026に出演が決定！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/675630.html",
+      "publishedAt": "2026-10-22T09:45:07.000Z",
+      "summary": "韓国・インスパイアリゾート ボールルームにて2026年11月14日(土)に開催される「ASIA CULTURE FESTIVAL KOREA 2026」(ACF)に、元乃木坂46で俳優・モデルとして幅広く活躍する堀未央奈の出演が決まった。 モデルとしてランウェ ... The post 堀未央奈、韓国で開催されるASIA CULTURE FESTIVAL K",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "堀未央奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "cb420caeba1fc668",
+      "title": "「守るべき存在が自分を変えた」乃木坂46・岩本蓮加が大人になった今、後輩に伝えたいこと",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/93745/",
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "summary": "12歳で乃木坂46に加入して、誰よりも早く大人になろうとしたと話す岩本蓮加。その後様々な葛藤と向き合い、本当の大人になって感じるのは、“等身大”でいることの大切さだ。さらに、そこで気づいたのは、大好きなダンスとの向き合い方や、メンバーの大切さだと言う。 そんな彼女が7年振りに出演する舞台が、『春よ来い、マジで来い』。自分とは違う性格の美樹を通して感じたことや",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "岩本蓮加",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "fc139577d11202e9",
       "title": "櫻坂46の石森璃花と日向坂46の坂井新奈、生い立ちを語る",
@@ -26,28 +70,6 @@
           "name": "坂井新奈",
           "group": "日向坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b5567e912c78659c",
-      "title": "『ブラッサム』に伊藤万理華、前原滉、sara、岩男海史、谷村美月、藤原さくらが出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2560194.html",
-      "publishedAt": "2026-10-21T23:15:17.000Z",
-      "summary": "2026年度後期の連続テレビ小説『ブラッサム』に、伊藤万理華、前原滉、sara、岩男海史、谷村美月、藤原さくらが出演することが発表された。 NHK連続テレビ小説第115作目となる本作は、明治、大正、昭和を駆け抜け自由",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "伊藤万理華",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -224,28 +246,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2ba38e32ac8bfb49",
-      "title": "前⽥拳太郎×久保史緒⾥ ネット発の最恐都市伝説がスクリーンへ 映画『巨頭ｵ』 予告映像公開",
-      "sourceName": "otocoto",
-      "sourceUrl": "https://otocoto.jp/feed/",
-      "articleUrl": "https://otocoto.jp/news/kyoto_o1018/",
-      "publishedAt": "2026-10-18T09:00:00.000Z",
-      "summary": "主演に前田拳太郎、ヒロインに久保史緒里を迎えた、近藤亮太監督(『ミッシング・チャイルド・ビデオテープ』)最新作、映画『巨頭ｵ』。このたび本作の主要キャストが発表...",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -1248,28 +1248,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "6be1a430cfd31edc",
-      "title": "King Gnu井口理の主演映画2作目『逃げろお嬢さん』10月2日公開決定、ヒロインは深川麻衣",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/90590/",
-      "publishedAt": "2026-08-12T22:00:00.000Z",
-      "summary": "井口理（King Gnu）が主演を務める映画『逃げろお嬢さん』が10月2日(金)に全国公開されることが決定し、本予告映像とポスタービジュアルが解禁された。 原作は、『国宝』『横道世之介』の著者として知られる吉田修一の短編集『逃亡小説集』（角川文庫／KADOKAWA刊）に収められた同名短編『逃げろお嬢さん』。誰かをずっと応援してきた人に訪れる小さな奇跡を描いた",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     }
   ]
 }
