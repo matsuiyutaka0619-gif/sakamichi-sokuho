@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-22T21:41:25.761Z",
+  "updatedAt": "2026-10-23T04:58:42.428Z",
   "articles": [
+    {
+      "id": "118c85a387065345",
+      "title": "『めおと日和』なつ美と瀧昌の幸せな日常に戦争の影…「不穏すぎる」 ラストには驚きの展開「これは…どういうこと?」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261023-5178754/",
+      "publishedAt": "2026-10-23T01:44:03.000Z",
+      "summary": "フジテレビ系ドラマ『波うららかに、めおと日和』(毎週木曜22:00～ ※FODで配信)の第2話が22日に放送された。なつ美の妹・ふゆ子(小川彩)の突然の来訪をきっかけに、戦争の影が少しずつ日常に忍び寄る。さらに、任務から帰らない瀧昌を案じるなつ美の姿が視聴者の涙を誘った一方、ラストに登場した“現代転生シーン”にも大きな反響が寄せられた。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "a4509a372d1e66db",
       "title": "遠藤さくら、井上和、池田瑛紗も!? 乃木坂46賀喜遥香が驚いたオーディションの奇跡とは？「もしかして8ってすごいんじゃない!?」",
@@ -218,20 +240,6 @@
       ]
     },
     {
-      "id": "6fc06712205581be",
-      "title": "櫻坂46＆JO1が表紙！HMVの無料情報誌最新号、全国の店舗で配布開始",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/675454.html",
-      "publishedAt": "2026-10-20T10:00:50.000Z",
-      "summary": "櫻坂46とJO1が表紙を飾るフリーペーパー『HMV the music & movie master ISSUE 403』が、10月20日（火）に発行された。全国のHMV、HMV&BOOKS、HMV record shopで無料配布される。櫻坂46からは ... The post 櫻坂46＆JO1が表紙！HMVの無料情報誌最新号、全国の店舗で配布開始 fir",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "45f3d651e67de964",
       "title": "『ヒマチの嬢王』主人公・アヤネと働くキャバ嬢役に平祐奈、梅澤美波、小西桜子、佐藤菫、浅見姫香",
       "sourceName": "Bezzy",
@@ -292,28 +300,6 @@
       "memberMatches": [
         {
           "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9cac163b92c2658c",
-      "title": "「駄目なところもまあいいかって思えるようになって」夫婦について聞かされる茶々(井上和)に視聴者最注目『豊臣兄弟！』第39話画面注視データを分析",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261018-5145952/",
-      "publishedAt": "2026-10-17T23:00:00.000Z",
-      "summary": "テレビ画面を注視していたかどうかが分かる視聴データを独自に取得・分析するREVISIOでは、11日に放送されたNHK大河ドラマ『豊臣兄弟!』(総合 毎週日曜20:00～ ほか)の第39話「茶々の本心」の視聴分析をまとめた。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         }
