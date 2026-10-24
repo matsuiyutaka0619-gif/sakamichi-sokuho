@@ -1,36 +1,48 @@
 {
-  "updatedAt": "2026-10-23T21:28:09.127Z",
+  "updatedAt": "2026-10-24T04:43:34.288Z",
   "articles": [
     {
-      "id": "8812c11dc5edf7fc",
-      "title": "乃木坂46、新曲『君ロス』最新ビジュアル解禁 センターは井上和…純白ドレス姿を披露",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1086781/",
-      "publishedAt": "2026-10-23T11:30:00.000Z",
-      "summary": "アイドルグループ・乃木坂46が23日、12月2日にリリースされる43枚目シングル『君ロス』の最新ビジュアルを公開した。12月2日発売 アイドルグループ・乃木坂46が23日、12月2日にリリースされる43枚目シングル『君 […]",
+      "id": "820f70779884cf87",
+      "title": "櫻坂46山﨑天「“愛の連鎖”を届けられたら」松田里奈と語る新曲「愛MUST BE」に込めた思い",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261024-5185218/",
+      "publishedAt": "2026-10-24T02:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月17日（土）の放送は、東京・渋谷区立宮下公園の芝生ひろばから公開生放送でお届け！ ゲストには、櫻坂46・松田里奈さん、山﨑天さんをお迎えして、10月14日にリリースされた16枚目のシング",
       "groups": [
-        "乃木坂46"
+        "櫻坂46",
+        "日向坂46"
       ],
       "statuses": [
-        "active"
+        "active",
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "井上和",
-          "group": "乃木坂46",
+          "name": "松田里奈",
+          "group": "櫻坂46",
           "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
     {
-      "id": "28ccf8d034cec283",
-      "title": "乃木坂46、5期生・井上和がセンターを務める43rdシングル「君ロス」ビジュアル公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1100265",
-      "publishedAt": "2026-10-23T11:30:00.000Z",
-      "summary": "乃木坂46が、2026年12月2日にリリースする43枚目シングル「君ロス」の最新ビジュアルを公開した。 「君ロス」の選抜メンバー18名によるビジュアルは、薄暮の雪原の中心に置かれた純白のメリーゴーランドの前に表題曲センターを務める井上和、フォーメーションのフロントを務める5期生・川﨑桜、6期生・瀬戸口心月が並ぶ。乃木坂46メンバーたちが身に纏う白いドレスが降",
+      "id": "474fe5133571e0bd",
+      "title": "乃木坂46、5期生・井上和がセンターを務める43枚目シングル「君ロス」、最新ビジュアル公開！",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/676130.html",
+      "publishedAt": "2026-10-23T23:15:15.000Z",
+      "summary": "12月2日(水)にリリースされる最新シングル乃木坂46「君ロス」の最新ビジュアルが公開された。43枚目シングル「君ロス」の選抜メンバー18名による最新ビジュアルは、薄暮の雪原の中心に置かれた純白のメリーゴーランドと、その前に表題曲センターを務める井上和、フォーメーション ... The post 乃木坂46、5期生・井上和がセンターを務める43枚目シングル「",
       "groups": [
         "乃木坂46"
       ],
@@ -40,16 +52,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "瀬戸口心月",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -90,8 +92,8 @@
     {
       "id": "118c85a387065345",
       "title": "『めおと日和』なつ美と瀧昌の幸せな日常に戦争の影…「不穏すぎる」 ラストには驚きの展開「これは…どういうこと?」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261023-5178754/",
       "publishedAt": "2026-10-23T01:44:03.000Z",
       "summary": "フジテレビ系ドラマ『波うららかに、めおと日和』(毎週木曜22:00～ ※FODで配信)の第2話が22日に放送された。なつ美の妹・ふゆ子(小川彩)の突然の来訪をきっかけに、戦争の影が少しずつ日常に忍び寄る。さらに、任務から帰らない瀧昌を案じるなつ美の姿が視聴者の涙を誘った一方、ラストに登場した“現代転生シーン”にも大きな反響が寄せられた。",
