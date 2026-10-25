@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T20:55:06.767Z",
+  "updatedAt": "2026-10-25T04:49:50.467Z",
   "articles": [
     {
       "id": "820f70779884cf87",
       "title": "櫻坂46山﨑天「“愛の連鎖”を届けられたら」松田里奈と語る新曲「愛MUST BE」に込めた思い",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261024-5185218/",
       "publishedAt": "2026-10-24T02:00:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月17日（土）の放送は、東京・渋谷区立宮下公園の芝生ひろばから公開生放送でお届け！ ゲストには、櫻坂46・松田里奈さん、山﨑天さんをお迎えして、10月14日にリリースされた16枚目のシング",
@@ -292,28 +292,6 @@
           "name": "川﨑桜",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c48337ab4ca54e3e",
-      "title": "“デビュー15周年”三代目JSB・ØMI「膨大な曲のなかで…」キュレーションアルバム『24/7 ～JSB FOREVER～』への思い",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261016-5140817/",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月10日（土）の放送には、三代目 J SOUL BROTHERS from EXILE TRIBE・ØMIさんが登場！ 10月21日（水）にリリースされるキュレーションアルバム『24/7",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
