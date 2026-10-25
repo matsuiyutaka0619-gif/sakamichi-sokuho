@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-25T04:49:50.467Z",
+  "updatedAt": "2026-10-25T11:39:27.384Z",
   "articles": [
+    {
+      "id": "bd604d3fddb6168f",
+      "title": "西野七瀬、役は引きずらず玄関でOFF 悪役ぶりを小栗旬が説明「この作品で一番狂っている」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1087708/",
+      "publishedAt": "2026-10-25T11:03:03.000Z",
+      "summary": "俳優の西野七瀬が25日、都内で行われた映画『バッド・ルーテナント：トウキョウ』公開記念舞台あいさつに、小栗旬、間宮祥太朗、野村周平、向里祐香、三池崇史監督、サム・プレスマン（プロデューサー）と共に出席した。『バッド・ルー […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "9be36d177ce8e8eb",
+      "title": "野村周平、舘ひろしとは「マブダチ」も「言えないことがたくさんあります」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1087702/",
+      "publishedAt": "2026-10-25T10:52:05.000Z",
+      "summary": "俳優の野村周平が25日、都内で行われた映画『バッド・ルーテナント：トウキョウ』公開記念舞台あいさつに、小栗旬、間宮祥太朗、西野七瀬、向里祐香、三池崇史監督、サム・プレスマン（プロデューサー）と共に出席した。『バッド・ルー […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "5ad0467fc9cf498c",
+      "title": "小栗旬、子ども誕生後の役作りに変化 日常生活との間に“境界線”「家に仕事を持ち帰れない」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1087459/",
+      "publishedAt": "2026-10-25T10:11:07.000Z",
+      "summary": "俳優の小栗旬が25日、都内で行われた映画『バッド・ルーテナント：トウキョウ』（公開中）公開記念舞台あいさつに、間宮祥太朗、野村周平、西野七瀬、向里祐香、三池崇史監督、サム・プレスマン（プロデューサー）と共に出席した。『バ […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "西野七瀬",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "820f70779884cf87",
       "title": "櫻坂46山﨑天「“愛の連鎖”を届けられたら」松田里奈と語る新曲「愛MUST BE」に込めた思い",
@@ -268,28 +334,6 @@
       "memberMatches": [
         {
           "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "8b08430e8400280e",
-      "title": "「3カ月で16公演」「そのあと1週間…」乃木坂46川崎桜、全国ツアー後の“燃え尽き症候群”を告白",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261017-5144316/",
-      "publishedAt": "2026-10-17T08:00:00.000Z",
-      "summary": "乃木坂46の川崎桜(※崎はたつさき)が、16日に行われた「2026-2027シーズン フィギュアスケート記者会見」に出席。自身の全国ツアー後の心境を明かした。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "川﨑桜",
           "group": "乃木坂46",
           "status": "active"
         }
