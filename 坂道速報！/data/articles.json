@@ -1,69 +1,50 @@
 {
-  "updatedAt": "2026-10-25T11:39:27.384Z",
+  "updatedAt": "2026-10-25T16:29:03.681Z",
   "articles": [
     {
-      "id": "bd604d3fddb6168f",
-      "title": "西野七瀬、役は引きずらず玄関でOFF 悪役ぶりを小栗旬が説明「この作品で一番狂っている」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1087708/",
-      "publishedAt": "2026-10-25T11:03:03.000Z",
-      "summary": "俳優の西野七瀬が25日、都内で行われた映画『バッド・ルーテナント：トウキョウ』公開記念舞台あいさつに、小栗旬、間宮祥太朗、野村周平、向里祐香、三池崇史監督、サム・プレスマン（プロデューサー）と共に出席した。『バッド・ルー […]",
+      "id": "7c15dcaefc125c73",
+      "title": "乃木坂46と会えるリアル文化祭に招待！『乃木恋』10周年企画で井上和ら6人の新ビジュアル公開",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/676480.html",
+      "publishedAt": "2026-10-25T12:00:50.000Z",
+      "summary": "乃木坂46の公式ゲームアプリ『乃木恋』が、10月26日午後3時から『乃木恋10th Anniversary 文化祭EVENT』を開催する。井上和、遠藤さくら、賀喜遥香、川﨑桜、菅原咲月、瀬戸口心月の6人による新キービジュアルも公開された。イベントでは、対象メンバーごとに ... The post 乃木坂46と会えるリアル文化祭に招待！『乃木恋』10周年企画で",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "西野七瀬",
+          "name": "遠藤さくら",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9be36d177ce8e8eb",
-      "title": "野村周平、舘ひろしとは「マブダチ」も「言えないことがたくさんあります」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1087702/",
-      "publishedAt": "2026-10-25T10:52:05.000Z",
-      "summary": "俳優の野村周平が25日、都内で行われた映画『バッド・ルーテナント：トウキョウ』公開記念舞台あいさつに、小栗旬、間宮祥太朗、西野七瀬、向里祐香、三池崇史監督、サム・プレスマン（プロデューサー）と共に出席した。『バッド・ルー […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
+          "status": "active"
+        },
         {
-          "name": "西野七瀬",
+          "name": "賀喜遥香",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "5ad0467fc9cf498c",
-      "title": "小栗旬、子ども誕生後の役作りに変化 日常生活との間に“境界線”「家に仕事を持ち帰れない」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1087459/",
-      "publishedAt": "2026-10-25T10:11:07.000Z",
-      "summary": "俳優の小栗旬が25日、都内で行われた映画『バッド・ルーテナント：トウキョウ』（公開中）公開記念舞台あいさつに、間宮祥太朗、野村周平、西野七瀬、向里祐香、三池崇史監督、サム・プレスマン（プロデューサー）と共に出席した。『バ […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
+          "status": "active"
+        },
         {
-          "name": "西野七瀬",
+          "name": "井上和",
           "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
+        },
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "瀬戸口心月",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
