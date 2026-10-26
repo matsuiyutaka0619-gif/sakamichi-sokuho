@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-10-26T04:54:38.825Z",
+  "updatedAt": "2026-10-26T13:12:06.823Z",
   "articles": [
+    {
+      "id": "65e429d8b1588ae8",
+      "title": "櫻坂46・森田ひかる＆山下瞳月、参加型生配信『サクコイパーティLIVE』に出演決定！計300名を招待",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/676798.html",
+      "publishedAt": "2026-10-26T13:00:44.000Z",
+      "summary": "櫻坂46の森田ひかると山下瞳月が出演する、ユーザー参加型生配信『サクコイパーティLIVE』の開催が決定した。公式スマートフォン向けゲームアプリ『サクコイ』のイベント入賞者など計300名を招待し、2026年度の冬ごろに配信を予定している。同企画は、櫻坂46のメンバーとユー ... The post 櫻坂46・森田ひかる＆山下瞳月、参加型生配信『サクコイパーティ",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下瞳月",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "da61feccdf26830b",
+      "title": "乃木坂46鈴木佑捺が最新シングル収録の６期生楽曲でセンターに ６期生全国ツアー初日に発表",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610260001683.html",
+      "publishedAt": "2026-10-26T12:30:00.000Z",
+      "summary": "乃木坂46が12月2日にリリースする43枚目シングル「君ロス」に6期生楽曲「一度好きになった人」が収録され、鈴木佑捺（20）がセンターを務めることが26日、発表された。 この日、KT Zepp Yokohamaで開催された「乃木坂46 …",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "fdb174c4c1182b98",
+      "title": "乃木坂46、最新シングル『君ロス』に6期生楽曲の収録決定 センターは鈴木佑捺…27日より先行配信",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1088387/",
+      "publishedAt": "2026-10-26T12:30:00.000Z",
+      "summary": "アイドルグループ・乃木坂46が12月2日にリリースする43枚目の最新シングル『君ロス』に、6期生楽曲『一度好きになった人』が収録されることが26日、発表された。KT Zepp Yokohama公演で初披露 アイドルグル […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "7b7f39ee163fc9df",
       "title": "乃木坂46・井上和、『美的』初登場で初表紙！大人のピンクメイクで魅了",
@@ -101,28 +172,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "474fe5133571e0bd",
-      "title": "乃木坂46、5期生・井上和がセンターを務める43枚目シングル「君ロス」、最新ビジュアル公開！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/676130.html",
-      "publishedAt": "2026-10-23T23:15:15.000Z",
-      "summary": "12月2日(水)にリリースされる最新シングル乃木坂46「君ロス」の最新ビジュアルが公開された。43枚目シングル「君ロス」の選抜メンバー18名による最新ビジュアルは、薄暮の雪原の中心に置かれた純白のメリーゴーランドと、その前に表題曲センターを務める井上和、フォーメーション ... The post 乃木坂46、5期生・井上和がセンターを務める43枚目シングル「",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -1117,20 +1166,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "93db14363b3290c3",
-      "title": "日向坂46がありたいと願う“らしさ”を表現、18thシングル『イチャイチャ虫』ジャケット公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/90746/",
-      "publishedAt": "2026-08-17T09:40:21.000Z",
-      "summary": "日向坂46が、9月30日(水)に発売する18thシングル『イチャイチャ虫』のジャケットアートワークを公開した。 高木公美子（ONPHA）がアートディレクションを手掛けた今作のジャケットのテーマは「わたしは、わたしの主人公！」。情報が溢れ常に何かと比べられてしまう時代に、何気ない日常こそが“わたし”を主人公にしてくれるというメッセージが込められており、大切な人",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
