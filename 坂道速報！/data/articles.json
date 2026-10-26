@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-26T13:12:06.823Z",
+  "updatedAt": "2026-10-26T22:43:35.712Z",
   "articles": [
+    {
+      "id": "97bdbf706c24ba88",
+      "title": "乃木坂46・鈴木佑捺がセンター！6期生楽曲「一度好きになった人」初披露＆先行配信決定",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/676866.html",
+      "publishedAt": "2026-10-26T22:30:54.000Z",
+      "summary": "乃木坂46が12月2日に発売する43rdシングル「君ロス」に、6期生楽曲「一度好きになった人」が収録されることが決定した。センターは鈴木佑捺が務める。同曲は、10月26日に開催された『乃木坂46 6期生全国ツアー2026』のKT Zepp Yokohama公演で発表され ... The post 乃木坂46・鈴木佑捺がセンター！6期生楽曲「一度好きになった人",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9cb56e8fbf5cae4e",
+      "title": "菅原咲月「乃木坂配信中」でサイクリング企画提案「長距離を１人でしゃべりながら走れたら」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610260001262.html",
+      "publishedAt": "2026-10-26T21:55:00.000Z",
+      "summary": "乃木坂46の菅原咲月（20）が26日、都内で「YouTubeおちゃのまスペシャル2026」（11月1日～15日開催）の記者発表会に出席した。企画のナビゲーターを務め「より多くの方に届けられるよう、全力でお届けしたい」と意気込んだ。「乃木…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "c736d2fba198c93a",
+      "title": "『南田南弁護士は天才肌』日本ローカライズの秀逸さ 久保史緒里がコメディエンヌ適性を発揮",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2565307.html",
+      "publishedAt": "2026-10-26T14:10:27.000Z",
+      "summary": "『南田南弁護士は天才肌』第2話は結婚式の賠償事件を通じ登場人物の本心を描出。日本の文化に合わせた丁寧な改変や原作への敬意、芦田愛菜や角田晃広の巧みな演技が光る秀逸なリメイクとなっている。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "65e429d8b1588ae8",
       "title": "櫻坂46・森田ひかる＆山下瞳月、参加型生配信『サクコイパーティLIVE』に出演決定！計300名を招待",
@@ -24,50 +90,6 @@
         {
           "name": "山下瞳月",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "da61feccdf26830b",
-      "title": "乃木坂46鈴木佑捺が最新シングル収録の６期生楽曲でセンターに ６期生全国ツアー初日に発表",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610260001683.html",
-      "publishedAt": "2026-10-26T12:30:00.000Z",
-      "summary": "乃木坂46が12月2日にリリースする43枚目シングル「君ロス」に6期生楽曲「一度好きになった人」が収録され、鈴木佑捺（20）がセンターを務めることが26日、発表された。 この日、KT Zepp Yokohamaで開催された「乃木坂46 …",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "鈴木佑捺",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "fdb174c4c1182b98",
-      "title": "乃木坂46、最新シングル『君ロス』に6期生楽曲の収録決定 センターは鈴木佑捺…27日より先行配信",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1088387/",
-      "publishedAt": "2026-10-26T12:30:00.000Z",
-      "summary": "アイドルグループ・乃木坂46が12月2日にリリースする43枚目の最新シングル『君ロス』に、6期生楽曲『一度好きになった人』が収録されることが26日、発表された。KT Zepp Yokohama公演で初披露 アイドルグル […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "鈴木佑捺",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
