@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-10-26T22:43:35.712Z",
+  "updatedAt": "2026-10-27T05:12:42.298Z",
   "articles": [
+    {
+      "id": "6429cb5afbdcdc85",
+      "title": "乃木坂46川端晃菜、私の色は－ グループ結成年に生まれ、ともに成長した15年間",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202610270000050.html",
+      "publishedAt": "2026-10-27T04:00:00.000Z",
+      "summary": "乃木坂46川端晃菜（15）が「6期生全国ツアー2026」で見せたい姿を思い描いた。全国5都市10公演を回るツアーで、今日27日はKT Zepp Yokohamaで神奈川公演の2日目に挑む。グループが結成された2011年に生まれた現在最年…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "川端晃菜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "866eaf681478bb5a",
+      "title": "乃木坂46、最新シングルに6期生楽曲「一度好きになった人」収録決定＆配信スタート",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1100814",
+      "publishedAt": "2026-10-27T02:50:18.000Z",
+      "summary": "乃木坂46が、2026年12月2日にリリースする43rdシングル「君ロス」に6期生楽曲「一度好きになった人」を収録することを発表した。 本発表は、昨日行われた＜乃木坂46 6期生全国ツアー2026＞神奈川・KT Zepp Yokohama公演にてアナウンスおよび初披露されたという。6期生楽曲となる「一度好きになった人」のフォーメーションセンターは鈴木佑捺が務",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "772f207ea35ecf82",
+      "title": "日向坂46・小西夏菜実＆藤嶌果歩ら4人が「ひなこい隊」に！『ひなこい』6周年で特番＆ドラマ連動イベント",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/676870.html",
+      "publishedAt": "2026-10-26T23:00:04.000Z",
+      "summary": "日向坂46公式ゲームアプリ『ひなこい』が、11月18日に迎えるサービス開始6周年を記念した企画を発表した。小西夏菜実、藤嶌果歩、片山紗希、松尾桜の4人による「ひなこい隊」が、ゲーム内外で周年を盛り上げる。ひなこい隊は、プレイヤーであるカントクにひそかに想いを寄せる仲良し ... The post 日向坂46・小西夏菜実＆藤嶌果歩ら4人が「ひなこい隊」に！『ひ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "小西夏菜実",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "片山紗希",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "97bdbf706c24ba88",
       "title": "乃木坂46・鈴木佑捺がセンター！6期生楽曲「一度好きになった人」初披露＆先行配信決定",
@@ -18,50 +104,6 @@
       "memberMatches": [
         {
           "name": "鈴木佑捺",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9cb56e8fbf5cae4e",
-      "title": "菅原咲月「乃木坂配信中」でサイクリング企画提案「長距離を１人でしゃべりながら走れたら」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610260001262.html",
-      "publishedAt": "2026-10-26T21:55:00.000Z",
-      "summary": "乃木坂46の菅原咲月（20）が26日、都内で「YouTubeおちゃのまスペシャル2026」（11月1日～15日開催）の記者発表会に出席した。企画のナビゲーターを務め「より多くの方に届けられるよう、全力でお届けしたい」と意気込んだ。「乃木…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "菅原咲月",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c736d2fba198c93a",
-      "title": "『南田南弁護士は天才肌』日本ローカライズの秀逸さ 久保史緒里がコメディエンヌ適性を発揮",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2565307.html",
-      "publishedAt": "2026-10-26T14:10:27.000Z",
-      "summary": "『南田南弁護士は天才肌』第2話は結婚式の賠償事件を通じ登場人物の本心を描出。日本の文化に合わせた丁寧な改変や原作への敬意、芦田愛菜や角田晃広の巧みな演技が光る秀逸なリメイクとなっている。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
           "group": "乃木坂46",
           "status": "active"
         }
