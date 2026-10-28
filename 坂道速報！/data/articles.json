@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T22:19:53.694Z",
+  "updatedAt": "2026-10-28T05:50:00.692Z",
   "articles": [
     {
-      "id": "4523d191b399b4db",
-      "title": "声優挑戦の乃木坂46井上和、一ノ瀬美空、冨里奈央、中西アルノ 同期４人で「東京国際映画祭」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610270001930.html",
-      "publishedAt": "2026-10-27T20:00:00.000Z",
-      "summary": "乃木坂46の5期生井上和（21）、一ノ瀬美空（23）、中西アルノ（23）、冨里奈央（20）が27日、都内で開催中の「第39回東京国際映画祭」で行われた映画「GROTESQQQUE－グロテスク－」（錦織敦史監督）舞台あいさつに登壇した。 …",
+      "id": "a11ed1359b34e4e5",
+      "title": "市ノ瀬加那、南沙良、乃木坂46 井上和ら登壇 『GROTESQQQUE-グロテスク-』をアピール",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2566791.html",
+      "publishedAt": "2026-10-28T05:00:14.000Z",
+      "summary": "錦織敦史監督とCloverWorksによるオリジナルアニメーション映画『GROTESQQQUE-グロテスク-』の舞台挨拶が第39回東京国際映画祭で開催。市ノ瀬加那、南沙良、乃木坂46の4人が登壇し作品の見どころを語った。",
       "groups": [
         "乃木坂46"
       ],
@@ -17,35 +17,20 @@
       ],
       "memberMatches": [
         {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "冨里奈央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "中西アルノ",
           "group": "乃木坂46",
           "status": "active"
         }
       ]
     },
     {
-      "id": "d17aff359d9c374f",
-      "title": "乃木坂46、6期生による日本武道館ワンマンライブ開催が決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1101020",
-      "publishedAt": "2026-10-27T14:46:54.000Z",
-      "summary": "乃木坂46が新たな公演として＜乃木坂46 6期生全国ツアー2026 FINAL!＞を12月16日(水)に開催することが発表された。 ＜乃木坂46 6期生全国ツアー2026 FINAL!”の開催は本日“乃木坂46 6期生全国ツアー2026” KT Zepp Yokohama＞公演2日目のアンコール中にサプライズで発表された。 ＜乃木坂46 6期生全国ツアー20",
+      "id": "98797f14e6f015d1",
+      "title": "乃木坂46 井上和、川﨑桜、瀬戸口心月が並ぶ新フロント 同期の信頼と後輩の憧れが交差する「君ロス」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2565474.html",
+      "publishedAt": "2026-10-28T03:10:21.000Z",
+      "summary": "43rdシングル『君ロス』で、井上和、川﨑桜、瀬戸口心月が初めてそろってフロントに立つ。同期として井上を支えたいと願ってきた川﨑と、憧れの先輩としてその背中を追う瀬戸口。本稿では、新たな布陣から浮かび上がる、3人の関係性を紐解く。",
       "groups": [
         "乃木坂46"
       ],
@@ -54,16 +39,35 @@
       ],
       "memberMatches": [
         {
-          "name": "菅原咲月",
+          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         },
         {
-          "name": "鈴木佑捺",
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "瀬戸口心月",
           "group": "乃木坂46",
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "e89358942e53027b",
+      "title": "乃木坂46・6期生、初の日本武道館単独公演が決定！サプライズ発表に11人が涙",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/677162.html",
+      "publishedAt": "2026-10-27T22:30:16.000Z",
+      "summary": "乃木坂46の6期生による単独ライブ『乃木坂46 6期生全国ツアー2026 FINAL!』が、12月16日に東京・日本武道館で開催されることが決定した。6期生単独での日本武道館公演は初となる。開催は10月27日、全国ツアーのKT Zepp Yokohama公演2日目のアン ... The post 乃木坂46・6期生、初の日本武道館単独公演が決定！サプライズ発",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
     },
     {
       "id": "3447b527ce55a74e",
@@ -100,50 +104,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "c7049c4703474858",
-      "title": "北野日奈子、夫・クレイ勇輝との前撮り報告 肩出し赤ドレス姿に「本当に美しい」「似合います」の声",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1088723/",
-      "publishedAt": "2026-10-27T12:20:00.000Z",
-      "summary": "元乃木坂46で俳優の北野日奈子（30）が、夫で歌手のクレイ勇輝（46）との前撮り写真を公開した。横須賀の猿島で撮影 元乃木坂46で俳優の北野日奈子（30）が、夫で歌手のクレイ勇輝（46）との前撮り写真を公開した。 2 […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "北野日奈子",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "15bfd4eae541c575",
-      "title": "元乃木坂46 北野日奈子＆キマグレン クレイ勇輝、“年齢差16歳”幸せ全開のウェディングフォト前撮り「ラブラブな二人の笑顔最高」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2566038.html",
-      "publishedAt": "2026-10-27T09:12:39.000Z",
-      "summary": "キマグレン クレイ勇輝と元乃木坂46 北野日奈子が、ウェディングフォトの前撮りをそれぞれのInstagramに公開している。 2025年12月に結婚を発表したクレイと北野。撮影が行われたのは、昨年8月にキマグレンの結",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "北野日奈子",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "772f207ea35ecf82",
@@ -227,28 +187,6 @@
         {
           "name": "山下瞳月",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7b7f39ee163fc9df",
-      "title": "乃木坂46・井上和、『美的』初登場で初表紙！大人のピンクメイクで魅了",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/676562.html",
-      "publishedAt": "2026-10-25T22:30:19.000Z",
-      "summary": "乃木坂46の井上和が、10月22日発売の『美的』12月号通常版で、同誌初登場にして初表紙を飾る。表紙では、赤のニットビスチェにヌーディピンクのメイクを合わせ、大人びたまなざしを披露。誌面では、ジャケットに青みピンクのメイクを合わせた、甘さとクールさを兼ね備えたルックにも ... The post 乃木坂46・井上和、『美的』初登場で初表紙！大人のピンクメイク",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
