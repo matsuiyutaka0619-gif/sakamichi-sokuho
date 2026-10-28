@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-28T05:50:00.692Z",
+  "updatedAt": "2026-10-28T13:03:26.509Z",
   "articles": [
+    {
+      "id": "c486012498fab5c2",
+      "title": "元欅坂46・志田愛佳、バニーガール姿にファン驚き「お似合いですね！」「垢抜けがレベチ」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1089361/",
+      "publishedAt": "2026-10-28T11:40:36.000Z",
+      "summary": "アイドルグループ・欅坂46（現・櫻坂46）の元メンバーで、現在は銀座のキャバクラ店で勤務する志田愛佳が28日、自身のSNSで見せたアイドル時代から“激変”したコスチュームに驚きの声が上がっている。2nd写真集の発売も控え […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "志田愛佳",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "a11ed1359b34e4e5",
       "title": "市ノ瀬加那、南沙良、乃木坂46 井上和ら登壇 『GROTESQQQUE-グロテスク-』をアピール",
@@ -18,38 +40,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "98797f14e6f015d1",
-      "title": "乃木坂46 井上和、川﨑桜、瀬戸口心月が並ぶ新フロント 同期の信頼と後輩の憧れが交差する「君ロス」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2565474.html",
-      "publishedAt": "2026-10-28T03:10:21.000Z",
-      "summary": "43rdシングル『君ロス』で、井上和、川﨑桜、瀬戸口心月が初めてそろってフロントに立つ。同期として井上を支えたいと願ってきた川﨑と、憧れの先輩としてその背中を追う瀬戸口。本稿では、新たな布陣から浮かび上がる、3人の関係性を紐解く。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "瀬戸口心月",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -1120,28 +1110,6 @@
         {
           "name": "清水理央",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "196757f79d9efad2",
-      "title": "乃木坂46、来週リリース「久保史緒里 卒業コンサート」Blu-ray＆DVDの商品画像公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/90867/",
-      "publishedAt": "2026-08-19T09:00:00.000Z",
-      "summary": "来週8月26日(水)に発売される乃木坂46のライブBlu-ray＆DVD『SHIORI KUBO GRADUATION CONCERT』の商品画像が公開された。 ソニー・ミュージックショップ限定商品となる今作は、昨年11月26日・27日に神奈川県・横浜アリーナにて開催された「乃木坂46 久保史緒里 卒業コンサート」の映像作品。ジャケットにはBlu-rayとD",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
