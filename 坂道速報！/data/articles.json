@@ -1,45 +1,129 @@
 {
-  "updatedAt": "2026-10-29T13:10:35.939Z",
+  "updatedAt": "2026-10-29T22:49:01.170Z",
   "articles": [
     {
-      "id": "62a9ddb374154b41",
-      "title": "大園桃子、白石麻衣・秋元真夏・与田祐希・山下美月ら乃木坂46OG＆3期生大集合ショット公開 「みんなだいすき」",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2568176.html",
-      "publishedAt": "2026-10-29T08:05:50.000Z",
-      "summary": "大園桃子が乃木坂46の1期生・3期生メンバーとの写真を自身のInstagramに公開している。",
+      "id": "c90056908fa2c98f",
+      "title": "稲垣吾郎「珍しく鳥肌が立ってしまった」 乃木坂46・井上和主演『ほん怖』新作は“じわじわ来る怖さ”",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261030-5218804/",
+      "publishedAt": "2026-10-29T21:00:00.000Z",
+      "summary": "「じわじわと来る怖さに珍しく鳥肌が立ってしまいました」――31日に放送されるフジテレビ系オムニバスドラマ『ほんとにあった怖い話 秋の特別編 2026』(21:00～)の収録を終えた稲垣吾郎が、乃木坂46・井上和主演の新作「隣人」に衝撃を受けたことを明かした。今回は新作1本に加え、神木隆之介、吉高由里子、橋本環奈らが主演した歴代の名作6本も放送される。",
       "groups": [
         "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bc9398ac3650b74a",
+      "title": "『ほん怖』リーダー・稲垣吾郎、井上和主演の新作を絶賛「じわじわと来る怖さに珍しく鳥肌が」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1089922/",
+      "publishedAt": "2026-10-29T21:00:00.000Z",
+      "summary": "俳優の稲垣吾郎がクラブリーダーを務める、フジテレビ系『ほんとにあった怖い話 秋の特別編 2026』が31日午後9時より放送される。新作エピソード1本と歴代の名作6本の放送を前に、稲垣のオフィシャルコメントが届いた。神木隆 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "5cad79f403818617",
+      "title": "シンガーソングライター・がらり「ややこしそうな感じではありますよね」新曲「Night Flight」の歌詞をめぐり遠山大輔＆潮紗理菜が激論!?",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261030-5220463/",
+      "publishedAt": "2026-10-29T20:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月24日（土）の放送には、シンガーソングライターのがらりさんが登場！ 10月28日（水）リリースのメジャーファーストシングル「Night Flight」について伺いました。",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "秋元真夏",
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "89d057babb7a3165",
+      "title": "乃木坂46賀喜遥香、白石麻衣＆梅澤美波と久々の再会に感激！「2026年に白石さんと会っていいんですか!?」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261029-5218633/",
+      "publishedAt": "2026-10-29T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、乃木坂46の卒業生である白石麻衣さん、梅澤美波さんとの再会やグループへの思いを語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og",
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
           "group": "乃木坂46",
           "status": "og"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
         },
         {
           "name": "白石麻衣",
           "group": "乃木坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "447aa22af361e2c2",
+      "title": "乃木坂46賀喜遥香「立派すぎるよ！」岩本蓮加の実家で撮影した“バーベキュー動画”裏話を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261029-5218454/",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、乃木坂46の公式YouTubeチャンネル「乃木坂配信中」に公開されている動画について語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "岩本蓮加",
+          "group": "乃木坂46",
+          "status": "active"
         },
         {
-          "name": "大園桃子",
+          "name": "賀喜遥香",
           "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
         }
       ]
     },
@@ -83,20 +167,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "e89358942e53027b",
-      "title": "乃木坂46・6期生、初の日本武道館単独公演が決定！サプライズ発表に11人が涙",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/677162.html",
-      "publishedAt": "2026-10-27T22:30:16.000Z",
-      "summary": "乃木坂46の6期生による単独ライブ『乃木坂46 6期生全国ツアー2026 FINAL!』が、12月16日に東京・日本武道館で開催されることが決定した。6期生単独での日本武道館公演は初となる。開催は10月27日、全国ツアーのKT Zepp Yokohama公演2日目のアン ... The post 乃木坂46・6期生、初の日本武道館単独公演が決定！サプライズ発",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "3447b527ce55a74e",
@@ -1027,28 +1097,6 @@
         {
           "name": "久保史緒里",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e9bbc480af2d8b14",
-      "title": "日向坂46新シングルの収録内容発表、ひなた坂46楽曲「風にキンモクセイ」のセンターは清水理央",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/90931/",
-      "publishedAt": "2026-08-20T13:45:00.000Z",
-      "summary": "日向坂46が、9月30日(水)に発売する18thシングル『イチャイチャ虫』の“ひなた坂46”メンバー楽曲「風にキンモクセイ」のフォーメーションを発表した。 共通カップリングとして収録される「風にキンモクセイ」でセンターを務めるのは四期生・清水理央。この発表はグループオフィシャルYouTubeチャンネル「日向坂ちゃんねる」での生配信にて行われたもので、配信内で",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "清水理央",
-          "group": "日向坂46",
           "status": "active"
         }
       ]
