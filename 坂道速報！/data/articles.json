@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-29T05:54:29.466Z",
+  "updatedAt": "2026-10-29T13:10:35.939Z",
   "articles": [
+    {
+      "id": "62a9ddb374154b41",
+      "title": "大園桃子、白石麻衣・秋元真夏・与田祐希・山下美月ら乃木坂46OG＆3期生大集合ショット公開 「みんなだいすき」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2568176.html",
+      "publishedAt": "2026-10-29T08:05:50.000Z",
+      "summary": "大園桃子が乃木坂46の1期生・3期生メンバーとの写真を自身のInstagramに公開している。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "秋元真夏",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "大園桃子",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "与田祐希",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "400e2b466a40ae8a",
       "title": "日向坂46×宮崎県、26市町村にタイアップ板木を設置！メンバーのメッセージ＆サインも",
@@ -18,8 +60,8 @@
     {
       "id": "52d7f5f6b6185e64",
       "title": "乃木坂46賀喜遥香「センターに立つべき存在」後輩・井上和の活躍に感激「うちの自慢のにゃんです！」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261028-5212278/",
       "publishedAt": "2026-10-28T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、12月2日（水）にリリースされる43枚目のシングル「君ロス」のフォーメーションについて語りました。",
@@ -73,65 +115,6 @@
       "memberMatches": [
         {
           "name": "菅原咲月",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "772f207ea35ecf82",
-      "title": "日向坂46・小西夏菜実＆藤嶌果歩ら4人が「ひなこい隊」に！『ひなこい』6周年で特番＆ドラマ連動イベント",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/676870.html",
-      "publishedAt": "2026-10-26T23:00:04.000Z",
-      "summary": "日向坂46公式ゲームアプリ『ひなこい』が、11月18日に迎えるサービス開始6周年を記念した企画を発表した。小西夏菜実、藤嶌果歩、片山紗希、松尾桜の4人による「ひなこい隊」が、ゲーム内外で周年を盛り上げる。ひなこい隊は、プレイヤーであるカントクにひそかに想いを寄せる仲良し ... The post 日向坂46・小西夏菜実＆藤嶌果歩ら4人が「ひなこい隊」に！『ひ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "小西夏菜実",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "片山紗希",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾桜",
-          "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "97bdbf706c24ba88",
-      "title": "乃木坂46・鈴木佑捺がセンター！6期生楽曲「一度好きになった人」初披露＆先行配信決定",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/676866.html",
-      "publishedAt": "2026-10-26T22:30:54.000Z",
-      "summary": "乃木坂46が12月2日に発売する43rdシングル「君ロス」に、6期生楽曲「一度好きになった人」が収録されることが決定した。センターは鈴木佑捺が務める。同曲は、10月26日に開催された『乃木坂46 6期生全国ツアー2026』のKT Zepp Yokohama公演で発表され ... The post 乃木坂46・鈴木佑捺がセンター！6期生楽曲「一度好きになった人",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "鈴木佑捺",
           "group": "乃木坂46",
           "status": "active"
         }
