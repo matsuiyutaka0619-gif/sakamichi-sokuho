@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-30T05:56:09.691Z",
+  "updatedAt": "2026-10-30T13:03:17.562Z",
   "articles": [
+    {
+      "id": "b7db96b38b3bf080",
+      "title": "乃木坂46、43rdシングルアンダー曲が「編集」に決定。日本武道館での43rdSGアンダーライブ2days開催も決定",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1101551",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "summary": "乃木坂46が12月2日（水）にリリースする43枚目となる最新シングル「君ロス」に収録されるアンダーメンバーによる楽曲のタイトルが「編集」に決定した。 本日の『乃木坂46分TV！アンダーメンバー大集合ハロウィンパーティー』生配信にて発表された「編集」は43枚目シングル「君ロス」に収録される楽曲で、アンダーメンバーのフォーメーションセンターはWセンターとなり、3",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤理々杏",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "岩本蓮加",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "dab065105a1c27d6",
+      "title": "乃木坂46・43rdシングルアンダー曲のセンターは伊藤理々杏と岩本蓮加、タイトルは「編集」",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/10/94310/",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "summary": "乃木坂46の43rdシングル『君ロス』に収録されるアンダーメンバー楽曲タイトルが「編集」に決定した。 グループは本日、YouTubeで「乃木坂46分TV！アンダーメンバー大集合ハロウィンパーティー」と題した生配信を実施。そこで発表された最新アンダー楽曲「編集」では、3期生の岩本蓮加に加え、今回のシングルをもってグループを卒業する伊藤理々杏がWセンターを務める",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "伊藤理々杏",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "岩本蓮加",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "e70529f38bf845ba",
       "title": "佐藤満春＆富田鈴花が初タッグ！新番組『2人におまかせ』11月17日配信開始、リスナーの挑戦を応援",
@@ -48,8 +102,8 @@
     {
       "id": "5cad79f403818617",
       "title": "シンガーソングライター・がらり「ややこしそうな感じではありますよね」新曲「Night Flight」の歌詞をめぐり遠山大輔＆潮紗理菜が激論!?",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261030-5220463/",
       "publishedAt": "2026-10-29T20:00:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月24日（土）の放送には、シンガーソングライターのがらりさんが登場！ 10月28日（水）リリースのメジャーファーストシングル「Night Flight」について伺いました。",
@@ -126,20 +180,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "400e2b466a40ae8a",
-      "title": "日向坂46×宮崎県、26市町村にタイアップ板木を設置！メンバーのメッセージ＆サインも",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/677216.html",
-      "publishedAt": "2026-10-28T21:00:22.000Z",
-      "summary": "宮崎県は、県内26市町村と日向坂46のメンバーがタイアップした板木26枚を、10月30日から2027年2月28日まで、各市町村の観光施設などに設置する。板木は、台風24号の影響で開催中止となった『ひなたフェス2026』の会場に設置する予定だったもの。ファンを迎えるために ... The post 日向坂46×宮崎県、26市町村にタイアップ板木を設置！メンバー",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "52d7f5f6b6185e64",
