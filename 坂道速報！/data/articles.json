@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-29T22:49:01.170Z",
+  "updatedAt": "2026-10-30T05:56:09.691Z",
   "articles": [
+    {
+      "id": "e70529f38bf845ba",
+      "title": "佐藤満春＆富田鈴花が初タッグ！新番組『2人におまかせ』11月17日配信開始、リスナーの挑戦を応援",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/radio/678178.html",
+      "publishedAt": "2026-10-30T00:00:19.000Z",
+      "summary": "佐藤満春と富田鈴花がパーソナリティを務める新番組『Looopでんき presents 佐藤満春・富田鈴花の2人におまかせ』が、11月17日18時より配信を開始する。お笑いコンビ・どきどきキャンプのメンバーで、放送作家としても活動する佐藤と、2025年に日向坂46を卒業し ... The post 佐藤満春＆富田鈴花が初タッグ！新番組『2人におまかせ』11月1",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "富田鈴花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "c90056908fa2c98f",
       "title": "稲垣吾郎「珍しく鳥肌が立ってしまった」 乃木坂46・井上和主演『ほん怖』新作は“じわじわ来る怖さ”",
@@ -9,28 +31,6 @@
       "articleUrl": "https://news.mynavi.jp/article/20261030-5218804/",
       "publishedAt": "2026-10-29T21:00:00.000Z",
       "summary": "「じわじわと来る怖さに珍しく鳥肌が立ってしまいました」――31日に放送されるフジテレビ系オムニバスドラマ『ほんとにあった怖い話 秋の特別編 2026』(21:00～)の収録を終えた稲垣吾郎が、乃木坂46・井上和主演の新作「隣人」に衝撃を受けたことを明かした。今回は新作1本に加え、神木隆之介、吉高由里子、橋本環奈らが主演した歴代の名作6本も放送される。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "bc9398ac3650b74a",
-      "title": "『ほん怖』リーダー・稲垣吾郎、井上和主演の新作を絶賛「じわじわと来る怖さに珍しく鳥肌が」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1089922/",
-      "publishedAt": "2026-10-29T21:00:00.000Z",
-      "summary": "俳優の稲垣吾郎がクラブリーダーを務める、フジテレビ系『ほんとにあった怖い話 秋の特別編 2026』が31日午後9時より放送される。新作エピソード1本と歴代の名作6本の放送を前に、稲垣のオフィシャルコメントが届いた。神木隆 […]",
       "groups": [
         "乃木坂46"
       ],
@@ -70,8 +70,8 @@
     {
       "id": "89d057babb7a3165",
       "title": "乃木坂46賀喜遥香、白石麻衣＆梅澤美波と久々の再会に感激！「2026年に白石さんと会っていいんですか!?」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261029-5218633/",
       "publishedAt": "2026-10-29T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、乃木坂46の卒業生である白石麻衣さん、梅澤美波さんとの再会やグループへの思いを語りました。",
@@ -103,8 +103,8 @@
     {
       "id": "447aa22af361e2c2",
       "title": "乃木坂46賀喜遥香「立派すぎるよ！」岩本蓮加の実家で撮影した“バーベキュー動画”裏話を明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261029-5218454/",
       "publishedAt": "2026-10-29T12:00:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、乃木坂46の公式YouTubeチャンネル「乃木坂配信中」に公開されている動画について語りました。",
@@ -1076,28 +1076,6 @@
           "name": "深川麻衣",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "abdd05ac1d798509",
-      "title": "“最恐”都市伝説『巨頭オ』を近藤亮太監督が映画化、前田拳太郎＆久保史緒里共演で12月公開へ",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/90924/",
-      "publishedAt": "2026-08-20T23:00:00.000Z",
-      "summary": "ネットで最恐と謳われる都市伝説「巨頭オ」が映画化され、前田拳太郎と久保史緒里の出演で12月25日(金)に公開されることが決定した。 2006年、インターネット掲示板に投稿されたわずか数行の体験談から始まった都市伝説「巨頭オ」。かつて旅行で訪れた小さな村へ再び向かった投稿者が道中で目にしたのは、村の名前ではなく「巨頭オ」と書かれた奇妙な看板だった。その先には変",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     }
