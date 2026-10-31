@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-30T22:25:59.429Z",
+  "updatedAt": "2026-10-31T05:52:26.270Z",
   "articles": [
+    {
+      "id": "e0ea480283458e31",
+      "title": "市ノ瀬加那×南沙良×井上和『GROTESQQQUE-グロテスク-』鼎談 三者三様の視点で語り合う",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/10/post-2567873.html",
+      "publishedAt": "2026-10-31T03:30:25.000Z",
+      "summary": "錦織敦史が監督・脚本・キャラクター原案を手がけ、CloverWorksが制作するオリジナルアニメーション映画『GROTESQQQUE-グロテスク-』。設定も舞台も異なる3つの物語で構成され、市ノ瀬加那は『エリィアンズ』",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b7db96b38b3bf080",
       "title": "乃木坂46、43rdシングルアンダー曲が「編集」に決定。日本武道館での43rdSGアンダーライブ2days開催も決定",
