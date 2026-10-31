@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-31T12:41:48.137Z",
+  "updatedAt": "2026-10-31T21:40:53.467Z",
   "articles": [
+    {
+      "id": "fb67294076cbc43a",
+      "title": "『放送作家松田好花』初のリアルイベントを開催 日向坂46卒業から1年の節目に昼夜2公演",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1090512/",
+      "publishedAt": "2026-10-31T21:00:00.000Z",
+      "summary": "テレビ東京で過去複数回特番として放送された『放送作家松田好花』が、初となるリアルイベント「放送作家松田好花 THE LIVE」を、2027年1月28日に東京・LINE CUBE SHIBUYA（渋谷公会堂）にて昼夜2公演 […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田好花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fc41758b9822e167",
+      "title": "影山優佳、『ミキティダイニング』出演 エプロン姿＆手料理に注目「綺麗です」「美味しそう」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1091065/",
+      "publishedAt": "2026-10-31T13:10:00.000Z",
+      "summary": "タレントの藤本美貴がMCを務めるフジテレビ系『ミキティダイニング』（土曜午前11時）に出演した25歳俳優が話題となっている。藤本美貴MCの料理バラエティー番組 タレントの藤本美貴がMCを務めるフジテレビ系『ミキティダイ […]",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "708af6e297c06f66",
       "title": "齋藤飛鳥、バラエティで見せる“新たな素顔” 『ハマスカ』から『アナザースカイ』まで、自由で温かなMC力の開花",
@@ -113,28 +157,6 @@
           "name": "岩本蓮加",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e70529f38bf845ba",
-      "title": "佐藤満春＆富田鈴花が初タッグ！新番組『2人におまかせ』11月17日配信開始、リスナーの挑戦を応援",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/radio/678178.html",
-      "publishedAt": "2026-10-30T00:00:19.000Z",
-      "summary": "佐藤満春と富田鈴花がパーソナリティを務める新番組『Looopでんき presents 佐藤満春・富田鈴花の2人におまかせ』が、11月17日18時より配信を開始する。お笑いコンビ・どきどきキャンプのメンバーで、放送作家としても活動する佐藤と、2025年に日向坂46を卒業し ... The post 佐藤満春＆富田鈴花が初タッグ！新番組『2人におまかせ』11月1",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "富田鈴花",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
