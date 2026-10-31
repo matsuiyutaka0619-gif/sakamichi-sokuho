@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-31T05:52:26.270Z",
+  "updatedAt": "2026-10-31T12:41:48.137Z",
   "articles": [
+    {
+      "id": "708af6e297c06f66",
+      "title": "齋藤飛鳥、バラエティで見せる“新たな素顔” 『ハマスカ』から『アナザースカイ』まで、自由で温かなMC力の開花",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2570838.html",
+      "publishedAt": "2026-10-31T11:00:54.000Z",
+      "summary": "齋藤飛鳥がバラエティでの活動の幅を広げている。10月から『Google Pixel presents ANOTHER SKY』（日本テレビ系）の新MCに就任したことを機に、『ハマスカ放送部』（テレビ朝日系）や『齋藤飛鳥の今夜は飲んで帰ろう』（日本テレビ系）など、齋藤がMCとして開花してきた歩みを辿る。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "05f2e289ce0d31a5",
+      "title": "【動画】深川麻衣、映画『逃げろお嬢さん』の見どころ語る！自身のアイドル人生にもなぞらえる。",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/cinema/678518.html",
+      "publishedAt": "2026-10-31T10:12:03.000Z",
+      "summary": "先ごろ、10月2日に公開された映画『逃げろお嬢さん』に出演している俳優の深川麻衣がWWSチャンネルのインタビューに応じ、作品の見どころから役柄に関して思いを語った。「逃げろお嬢さん」原作 吉田修一（『逃亡小説集』所収・角川文庫/KADOKAWA刊)深川は元乃木坂46のメ ... The post 【動画】深川麻衣、映画『逃げろお嬢さん』の見どころ語る！自身の",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "7d09c1509630a4e0",
+      "title": "MINMI、平手友梨奈ら擁するクラウドナイン所属を発表 デビュー25周年イヤーに向けて新章開幕",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/10/post-2569861.html",
+      "publishedAt": "2026-10-31T10:00:20.000Z",
+      "summary": "MINMIが、音楽芸能事務所 クラウドナインに所属することを発表した。 クラウドナインは、Ado、shallm、平手友梨奈などのアーティストやクリエイターが所属する音楽芸能事務所。MINMIは2027年の25周年イヤ",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "平手友梨奈",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "e0ea480283458e31",
       "title": "市ノ瀬加那×南沙良×井上和『GROTESQQQUE-グロテスク-』鼎談 三者三様の視点で語り合う",
@@ -18,33 +84,6 @@
       "memberMatches": [
         {
           "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b7db96b38b3bf080",
-      "title": "乃木坂46、43rdシングルアンダー曲が「編集」に決定。日本武道館での43rdSGアンダーライブ2days開催も決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1101551",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "summary": "乃木坂46が12月2日（水）にリリースする43枚目となる最新シングル「君ロス」に収録されるアンダーメンバーによる楽曲のタイトルが「編集」に決定した。 本日の『乃木坂46分TV！アンダーメンバー大集合ハロウィンパーティー』生配信にて発表された「編集」は43枚目シングル「君ロス」に収録される楽曲で、アンダーメンバーのフォーメーションセンターはWセンターとなり、3",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "伊藤理々杏",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "岩本蓮加",
           "group": "乃木坂46",
           "status": "active"
         }
