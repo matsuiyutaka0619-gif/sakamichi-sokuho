@@ -1,58 +1,14 @@
 {
-  "updatedAt": "2026-10-31T21:40:53.467Z",
+  "updatedAt": "2026-11-01T06:16:03.956Z",
   "articles": [
     {
-      "id": "fb67294076cbc43a",
-      "title": "『放送作家松田好花』初のリアルイベントを開催 日向坂46卒業から1年の節目に昼夜2公演",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1090512/",
-      "publishedAt": "2026-10-31T21:00:00.000Z",
-      "summary": "テレビ東京で過去複数回特番として放送された『放送作家松田好花』が、初となるリアルイベント「放送作家松田好花 THE LIVE」を、2027年1月28日に東京・LINE CUBE SHIBUYA（渋谷公会堂）にて昼夜2公演 […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田好花",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "fc41758b9822e167",
-      "title": "影山優佳、『ミキティダイニング』出演 エプロン姿＆手料理に注目「綺麗です」「美味しそう」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1091065/",
-      "publishedAt": "2026-10-31T13:10:00.000Z",
-      "summary": "タレントの藤本美貴がMCを務めるフジテレビ系『ミキティダイニング』（土曜午前11時）に出演した25歳俳優が話題となっている。藤本美貴MCの料理バラエティー番組 タレントの藤本美貴がMCを務めるフジテレビ系『ミキティダイ […]",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "影山優佳",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "708af6e297c06f66",
-      "title": "齋藤飛鳥、バラエティで見せる“新たな素顔” 『ハマスカ』から『アナザースカイ』まで、自由で温かなMC力の開花",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2570838.html",
-      "publishedAt": "2026-10-31T11:00:54.000Z",
-      "summary": "齋藤飛鳥がバラエティでの活動の幅を広げている。10月から『Google Pixel presents ANOTHER SKY』（日本テレビ系）の新MCに就任したことを機に、『ハマスカ放送部』（テレビ朝日系）や『齋藤飛鳥の今夜は飲んで帰ろう』（日本テレビ系）など、齋藤がMCとして開花してきた歩みを辿る。",
+      "id": "2fa61ac40d1d7ec3",
+      "title": "日曜トライアル 第49回 白洲迅、34歳の誕生日に寄せて――30歳目前に語った「役者として変化していきたい」から4年…難役への挑戦で広がった俳優としての可能性、松島聡・松村沙友理・イモトアヤコが明かした“周囲を思いやる素顔”",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-49/",
+      "publishedAt": "2026-11-01T03:00:00.000Z",
+      "summary": "11月1日に34歳の誕生日を迎えた俳優・白洲迅。30歳を目前にした2022年のインタビューでは、これからの俳優人生について「役者として変化していける大きなきっかけになると思います」と期待を語っていた。今回は白洲の誕生日にあわせ、過去のインタビューやイベント取材から、俳優としての挑戦と共演者が明かした素顔を振り返る。",
       "groups": [
         "乃木坂46"
       ],
@@ -61,9 +17,97 @@
       ],
       "memberMatches": [
         {
-          "name": "齋藤飛鳥",
+          "name": "松村沙友理",
           "group": "乃木坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1527fd242e656df9",
+      "title": "日向坂46金村美玖、2nd写真集は「メリハリのある体」も見どころ 主に下半身の筋トレに励んでボディメイク「意外とすごく効果が出る」「体重も3キロぐらい増やすことができて」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261101-kanemuramiku/",
+      "publishedAt": "2026-11-01T02:10:00.000Z",
+      "summary": "アイドルグループ・日向坂46のメンバーとして活躍中の金村美玖が10月20日、自身2作目となる写真集『機微』(2,750円 講談社)を発売した。写真集には撮影地・オーストリアでの開放感あるショットが盛り込まれており、4年前の1st写真集の時はあえて取り組まなかった筋トレにも挑戦し、体づくりに取り組んだという。金村に、2nd写真集への思いや見どころなど話を聞いた",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "金村美玖",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2757bb69684fd10c",
+      "title": "武元唯衣、ドバイの競馬場に仰天！競馬一家で育った幼少期と祖父への感謝を語る",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/radio/678684.html",
+      "publishedAt": "2026-11-01T02:00:46.000Z",
+      "summary": "今年5月に櫻坂46を卒業した武元唯衣が、10月26日から30日に放送されたニッポン放送『大沢あかね LUCKY 7 supported by 犬塚製作所』にゲスト出演。競馬一家で育った幼少期や、祖父との思い出を語った。祖父がJRAの元調教師、叔父の一人が厩務員、もう一人 ... The post 武元唯衣、ドバイの競馬場に仰天！競馬一家で育った幼少期と祖父へ",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "武元唯衣",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cd8931c60d18e703",
+      "title": "松村沙友理、新番組『Tasty's Secret』でケチャマヨの魅力を発見！「コロッケチャマヨ夫婦」など独自の命名も",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/web/678677.html",
+      "publishedAt": "2026-11-01T00:00:30.000Z",
+      "summary": "松村沙友理がゲスト出演する新番組『Tasty's Secret』の前編が、10月30日からTasty Japanの公式SNSで配信されている。カゴメとキユーピーが共同スポンサーを務める本番組は、トマトケチャップとマヨネーズを1対1で混ぜるケチャマヨがテーマ。MCのTas ... The post 松村沙友理、新番組『Tasty's Secret』でケチャマヨ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b14de2edbcc1d7a0",
+      "title": "櫻坂46・谷口愛季、赤いノースリーブ姿からクールな表情まで！『週刊少年チャンピオン』表紙＆巻頭グラビアに登場",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/magazine_book/678646.html",
+      "publishedAt": "2026-10-31T21:30:46.000Z",
+      "summary": "櫻坂46の谷口愛季が、10月22日発売の『週刊少年チャンピオン』47号の表紙＆巻頭グラビアに登場した。16thシングル『愛MUST BE』で初の表題曲センターを務める谷口。同誌には3度目の登場となり、新センターとしてグループを牽引する彼女の多彩な魅力を届ける。グラビアで ... The post 櫻坂46・谷口愛季、赤いノースリーブ姿からクールな表情まで！『",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
         }
       ]
     },
@@ -86,50 +130,6 @@
           "name": "深川麻衣",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "7d09c1509630a4e0",
-      "title": "MINMI、平手友梨奈ら擁するクラウドナイン所属を発表 デビュー25周年イヤーに向けて新章開幕",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/10/post-2569861.html",
-      "publishedAt": "2026-10-31T10:00:20.000Z",
-      "summary": "MINMIが、音楽芸能事務所 クラウドナインに所属することを発表した。 クラウドナインは、Ado、shallm、平手友梨奈などのアーティストやクリエイターが所属する音楽芸能事務所。MINMIは2027年の25周年イヤ",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "平手友梨奈",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "e0ea480283458e31",
-      "title": "市ノ瀬加那×南沙良×井上和『GROTESQQQUE-グロテスク-』鼎談 三者三様の視点で語り合う",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/10/post-2567873.html",
-      "publishedAt": "2026-10-31T03:30:25.000Z",
-      "summary": "錦織敦史が監督・脚本・キャラクター原案を手がけ、CloverWorksが制作するオリジナルアニメーション映画『GROTESQQQUE-グロテスク-』。設定も舞台も異なる3つの物語で構成され、市ノ瀬加那は『エリィアンズ』",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
