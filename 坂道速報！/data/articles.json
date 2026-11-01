@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:16:03.956Z",
+  "updatedAt": "2026-11-01T13:37:40.635Z",
   "articles": [
     {
       "id": "2fa61ac40d1d7ec3",
@@ -310,40 +310,6 @@
           "name": "菅原咲月",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "820f70779884cf87",
-      "title": "櫻坂46山﨑天「“愛の連鎖”を届けられたら」松田里奈と語る新曲「愛MUST BE」に込めた思い",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261024-5185218/",
-      "publishedAt": "2026-10-24T02:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月17日（土）の放送は、東京・渋谷区立宮下公園の芝生ひろばから公開生放送でお届け！ ゲストには、櫻坂46・松田里奈さん、山﨑天さんをお迎えして、10月14日にリリースされた16枚目のシング",
-      "groups": [
-        "櫻坂46",
-        "日向坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
