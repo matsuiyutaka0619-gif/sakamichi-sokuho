@@ -1,6 +1,133 @@
 {
-  "updatedAt": "2026-11-01T13:37:40.635Z",
+  "updatedAt": "2026-11-01T22:07:03.816Z",
   "articles": [
+    {
+      "id": "4b8e4bcdfa0aa34a",
+      "title": "乃木坂46・賀喜遥香、『グラビアチャンピオン』初表紙！小川彩が裏表紙＆瀬戸口心月も初登場",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/678810.html",
+      "publishedAt": "2026-11-01T22:00:33.000Z",
+      "summary": "乃木坂46の賀喜遥香が表紙＆巻頭特大グラビアを飾る『グラビアチャンピオン』VOL.14が、10月30日に発売された。同誌初表紙となる賀喜は、カラフルなビルや夜景の見える部屋などで撮影。25歳を迎え、大人の表情を見せている。ロングインタビューでは、先輩や後輩への想い、グル ... The post 乃木坂46・賀喜遥香、『グラビアチャンピオン』初表紙！小川彩が",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "瀬戸口心月",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "6de4baa76fd43e99",
+      "title": "乃木坂46奥田いろはの目はいつもキラキラ輝きを放つ 日常でも役柄でも「希望を与える存在」に",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202610250000407.html",
+      "publishedAt": "2026-11-01T20:10:00.000Z",
+      "summary": "あの目には、一体どんな景色が映っているのだろう－。 先日、乃木坂46奥田いろは（21）が出演するミュージカル「秘密の花園」のゲネプロを観劇し、会見を取材した。日頃さまざまな作品を取材するが、なかなかゲネプロを1本フルで見る時間を確保でき…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "奥田いろは",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "47175b1d25fe4e68",
+      "title": "乃木坂46「乃木坂工事中」新作Blu-rayが12月16日発売決定、“うめくぼ”卒業記念盤など4タイトル",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/94389/",
+      "publishedAt": "2026-11-01T15:50:00.000Z",
+      "summary": "乃木坂46のレギュラー番組『乃木坂工事中』のBlu-ray4タイトルが12月16日(水)に発売されることが決定した。 今回リリースとなる新作には、乃木坂46を卒業した3期生の久保史緒里と梅澤美波の卒業記念盤がラインナップ。また、食事にまつわる放送回にフォーカスした「乃木坂もぐもぐ中」、恒例のB級ネタをまとめた「乃木坂B級まとめ中」の計4タイトルとなっている。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "岩本蓮加",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "弓木奈於",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "五百城茉央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅原咲月",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "大越ひなの",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "矢田萌華",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "2fa61ac40d1d7ec3",
       "title": "日曜トライアル 第49回 白洲迅、34歳の誕生日に寄せて――30歳目前に語った「役者として変化していきたい」から4年…難役への挑戦で広がった俳優としての可能性、松島聡・松村沙友理・イモトアヤコが明かした“周囲を思いやる素顔”",
@@ -1069,28 +1196,6 @@
           "name": "菅原咲月",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "32228697f9036a96",
-      "title": "美絽×稲葉通陽W主演『17歳のプルーフ』2月19日公開決定、2人を見守る司書教諭役に深川麻衣",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/91098/",
-      "publishedAt": "2026-08-24T23:00:00.000Z",
-      "summary": "美絽と稲葉通陽（B＆ZAI）のW主演で贈る青春ミステリー映画『17歳のプルーフ』の公開日が2027年2月19日(金)に決定し、ティザービジュアル2種と特報映像が解禁された。 本作は、図書室で見つけた30年前の卒業生による小説をきっかけに、恋をしたことがない璃呼（りこ）と幼なじみで図書委員の港（みなと）が隠された秘密と互いへの想いに気づいていく青春ミステリー。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     }
