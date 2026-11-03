@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T01:02:10.213Z",
+  "updatedAt": "2026-11-03T14:24:38.253Z",
   "articles": [
     {
       "id": "57b86d9977e084da",
@@ -111,38 +111,6 @@
         {
           "name": "武元唯衣",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4b8e4bcdfa0aa34a",
-      "title": "乃木坂46・賀喜遥香、『グラビアチャンピオン』初表紙！小川彩が裏表紙＆瀬戸口心月も初登場",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/678810.html",
-      "publishedAt": "2026-11-01T22:00:33.000Z",
-      "summary": "乃木坂46の賀喜遥香が表紙＆巻頭特大グラビアを飾る『グラビアチャンピオン』VOL.14が、10月30日に発売された。同誌初表紙となる賀喜は、カラフルなビルや夜景の見える部屋などで撮影。25歳を迎え、大人の表情を見せている。ロングインタビューでは、先輩や後輩への想い、グル ... The post 乃木坂46・賀喜遥香、『グラビアチャンピオン』初表紙！小川彩が",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "小川彩",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "瀬戸口心月",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
