@@ -1,11 +1,55 @@
 {
-  "updatedAt": "2026-11-03T14:24:38.253Z",
+  "updatedAt": "2026-11-03T23:27:55.643Z",
   "articles": [
+    {
+      "id": "563b6aba9eedf098",
+      "title": "山里亮太、妻・蒼井優の倹約家な一面明かす「もったいないって」 故障したT-falを分解して修理",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1077672/",
+      "publishedAt": "2026-11-03T22:00:00.000Z",
+      "summary": "お笑いコンビ・南海キャンディーズの山里亮太がこのほど、ABEMAの新番組『この最低な夫婦の終わり』（4日午後11時スタート）の囲み取材に、松村沙友理、野々村友紀子とともに出席。3人は同番組でMCを務める。山里は、妻で俳優 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "36ba61b961e8384b",
+      "title": "松村沙友理、結婚の決め手を告白「この両親に育てられた人なら間違いない」 夫には強い信頼",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1082352/",
+      "publishedAt": "2026-11-03T22:00:00.000Z",
+      "summary": "タレントの松村沙友理がこのほど、ABEMAの新番組『この最低な夫婦の終わり』（4日午後11時スタート）の囲み取材に、お笑いコンビ・南海キャンディーズの山里亮太、野々村友紀子とともに出席。3人は同番組でMCを務める。松村は […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "57b86d9977e084da",
       "title": "日向坂46藤嶌果歩 二代目キャプテン・髙橋未来虹の意外な素顔を告白「何も深く考えずに…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261103-5245923/",
       "publishedAt": "2026-11-02T20:30:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。10月23日（金）",
@@ -232,28 +276,6 @@
         },
         {
           "name": "岩本蓮加",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "c90056908fa2c98f",
-      "title": "稲垣吾郎「珍しく鳥肌が立ってしまった」 乃木坂46・井上和主演『ほん怖』新作は“じわじわ来る怖さ”",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261030-5218804/",
-      "publishedAt": "2026-10-29T21:00:00.000Z",
-      "summary": "「じわじわと来る怖さに珍しく鳥肌が立ってしまいました」――31日に放送されるフジテレビ系オムニバスドラマ『ほんとにあった怖い話 秋の特別編 2026』(21:00～)の収録を終えた稲垣吾郎が、乃木坂46・井上和主演の新作「隣人」に衝撃を受けたことを明かした。今回は新作1本に加え、神木隆之介、吉高由里子、橋本環奈らが主演した歴代の名作6本も放送される。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
           "group": "乃木坂46",
           "status": "active"
         }
