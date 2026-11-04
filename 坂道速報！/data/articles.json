@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T06:34:05.877Z",
+  "updatedAt": "2026-11-04T19:50:08.023Z",
   "articles": [
     {
-      "id": "7cc6ad93655a62eb",
-      "title": "乃木坂46・井上和、『豊臣兄弟！』茶々役は「試行錯誤しながら」 今後の「変化も感じていただけたら」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1092902/",
-      "publishedAt": "2026-11-04T06:10:10.000Z",
-      "summary": "乃木坂46の井上和が3日、茶々役で出演するNHKの大河ドラマ『豊臣兄弟！』（日曜午後8時）のトークライブに出席した。トークライブに登壇「すごくアットホームな空間」 乃木坂46の井上和が3日、茶々役で出演するNHKの大河 […]",
+      "id": "ccfe45c3adef8d27",
+      "title": "乃木坂46・中西アルノ似と話題の美女、正体はさつまいも農家！畑でライブ＆チェキ会も『ななにー 地下ABEMA』",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/web/679390.html",
+      "publishedAt": "2026-11-04T12:00:21.000Z",
+      "summary": "11月1日に放送されたABEMA『ななにー 地下ABEMA』第140回に、SNSで話題の美女・上西萌々が登場。さつまいも農家として活動する意外な素顔を明かした。メロンを食べる動画が287万回再生を突破し、乃木坂46・中西アルノに似ていると注目を集めた上西。現在23歳で、 ... The post 乃木坂46・中西アルノ似と話題の美女、正体はさつまいも農家！畑",
       "groups": [
         "乃木坂46"
       ],
@@ -17,45 +17,72 @@
       ],
       "memberMatches": [
         {
-          "name": "井上和",
+          "name": "中西アルノ",
           "group": "乃木坂46",
           "status": "active"
         }
       ]
     },
     {
-      "id": "591a9a9e813349ac",
-      "title": "乃木坂46OGはなぜテレビで活躍し続ける？ 松村沙友理、齋藤飛鳥、白石麻衣、秋元真夏らに見る“個性”の活かし方",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2572013.html",
-      "publishedAt": "2026-11-04T03:10:14.000Z",
-      "summary": "乃木坂46の卒業生が、テレビや配信番組でMCやレギュラーを務める姿が目立っている。『この最低な夫婦の終わり』では松村沙友理がスタジオMCを担当、齋藤飛鳥は『ANOTHER SKY』の新MCに就任。乃木坂46の卒業生たちは、なぜこれほど多くの番組で活躍しているのだろうか。本稿では、彼女たちがテレビの現場で求められる背景を探っていきたい。",
+      "id": "75c6a9c2eee380ac",
+      "title": "日向坂46髙橋未来虹「山口陽世が私の腰に巻きついて…」同期メンバー4人と行ったUSJで大はしゃぎ！",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261104-5256836/",
+      "publishedAt": "2026-11-04T12:00:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。10月30日（金）",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山口陽世",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "3b32ce03fde46333",
+      "title": "齊藤京子、大女優との“親密関係”告白 旧知のオードリーも興奮「スゴいな」「2人で…」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/11/04/20163595736/",
+      "publishedAt": "2026-11-04T06:45:00.000Z",
+      "summary": "3日深夜放送『あちこちオードリー』（テレビ東京系）に、アイドルグループ「日向坂46」の元メンバーで女優の齊藤京子が登場。 芸能界での交友関係を明かし、グループ時代に共演していたお笑いコンビ・オードリーを驚かせた。 ■芸能…",
+      "groups": [
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "秋元真夏",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "松村沙友理",
-          "group": "乃木坂46",
+          "name": "齊藤京子",
+          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -148,28 +175,6 @@
         {
           "name": "鈴木佑捺",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "ecaa21e28c4de3a7",
-      "title": "元櫻坂46・武元唯衣、公式ファンクラブ『POWER FRIENDS』開設！限定ブログやライブ配信も",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/678961.html",
-      "publishedAt": "2026-11-02T04:00:36.000Z",
-      "summary": "元櫻坂46の武元唯衣が、11月1日、オフィシャルサイトとファンクラブ『POWER FRIENDS（パワーフレンズ）』をオープンした。ファンと同じ目線でつながり、お互いに力を届け合いながら未来をつくっていきたいという想いを込めたファンクラブ。愛称は「ぱわふれ」で、最新情報 ... The post 元櫻坂46・武元唯衣、公式ファンクラブ『POWER FRIEN",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "武元唯衣",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
