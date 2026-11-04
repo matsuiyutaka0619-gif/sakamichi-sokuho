@@ -1,14 +1,36 @@
 {
-  "updatedAt": "2026-11-03T23:27:55.643Z",
+  "updatedAt": "2026-11-04T06:34:05.877Z",
   "articles": [
     {
-      "id": "563b6aba9eedf098",
-      "title": "山里亮太、妻・蒼井優の倹約家な一面明かす「もったいないって」 故障したT-falを分解して修理",
+      "id": "7cc6ad93655a62eb",
+      "title": "乃木坂46・井上和、『豊臣兄弟！』茶々役は「試行錯誤しながら」 今後の「変化も感じていただけたら」",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1077672/",
-      "publishedAt": "2026-11-03T22:00:00.000Z",
-      "summary": "お笑いコンビ・南海キャンディーズの山里亮太がこのほど、ABEMAの新番組『この最低な夫婦の終わり』（4日午後11時スタート）の囲み取材に、松村沙友理、野々村友紀子とともに出席。3人は同番組でMCを務める。山里は、妻で俳優 […]",
+      "articleUrl": "https://encount.press/archives/1092902/",
+      "publishedAt": "2026-11-04T06:10:10.000Z",
+      "summary": "乃木坂46の井上和が3日、茶々役で出演するNHKの大河ドラマ『豊臣兄弟！』（日曜午後8時）のトークライブに出席した。トークライブに登壇「すごくアットホームな空間」 乃木坂46の井上和が3日、茶々役で出演するNHKの大河 […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "591a9a9e813349ac",
+      "title": "乃木坂46OGはなぜテレビで活躍し続ける？ 松村沙友理、齋藤飛鳥、白石麻衣、秋元真夏らに見る“個性”の活かし方",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2572013.html",
+      "publishedAt": "2026-11-04T03:10:14.000Z",
+      "summary": "乃木坂46の卒業生が、テレビや配信番組でMCやレギュラーを務める姿が目立っている。『この最低な夫婦の終わり』では松村沙友理がスタジオMCを担当、齋藤飛鳥は『ANOTHER SKY』の新MCに就任。乃木坂46の卒業生たちは、なぜこれほど多くの番組で活躍しているのだろうか。本稿では、彼女たちがテレビの現場で求められる背景を探っていきたい。",
       "groups": [
         "乃木坂46"
       ],
@@ -17,27 +39,20 @@
       ],
       "memberMatches": [
         {
-          "name": "松村沙友理",
+          "name": "秋元真夏",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "36ba61b961e8384b",
-      "title": "松村沙友理、結婚の決め手を告白「この両親に育てられた人なら間違いない」 夫には強い信頼",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1082352/",
-      "publishedAt": "2026-11-03T22:00:00.000Z",
-      "summary": "タレントの松村沙友理がこのほど、ABEMAの新番組『この最低な夫婦の終わり』（4日午後11時スタート）の囲み取材に、お笑いコンビ・南海キャンディーズの山里亮太、野々村友紀子とともに出席。3人は同番組でMCを務める。松村は […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
+        },
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        },
         {
           "name": "松村沙友理",
           "group": "乃木坂46",
