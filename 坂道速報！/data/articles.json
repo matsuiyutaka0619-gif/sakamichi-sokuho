@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:50:08.023Z",
+  "updatedAt": "2026-11-05T06:55:44.888Z",
   "articles": [
     {
       "id": "ccfe45c3adef8d27",
@@ -26,8 +26,8 @@
     {
       "id": "75c6a9c2eee380ac",
       "title": "日向坂46髙橋未来虹「山口陽世が私の腰に巻きついて…」同期メンバー4人と行ったUSJで大はしゃぎ！",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261104-5256836/",
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。10月30日（金）",
@@ -66,28 +66,6 @@
       ]
     },
     {
-      "id": "3b32ce03fde46333",
-      "title": "齊藤京子、大女優との“親密関係”告白 旧知のオードリーも興奮「スゴいな」「2人で…」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/11/04/20163595736/",
-      "publishedAt": "2026-11-04T06:45:00.000Z",
-      "summary": "3日深夜放送『あちこちオードリー』（テレビ東京系）に、アイドルグループ「日向坂46」の元メンバーで女優の齊藤京子が登場。 芸能界での交友関係を明かし、グループ時代に共演していたお笑いコンビ・オードリーを驚かせた。 ■芸能…",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齊藤京子",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "57b86d9977e084da",
       "title": "日向坂46藤嶌果歩 二代目キャプテン・髙橋未来虹の意外な素顔を告白「何も深く考えずに…」",
       "sourceName": "マイナビニュース 芸能",
@@ -120,34 +98,6 @@
         {
           "name": "松尾桜",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5f835a991bea83b3",
-      "title": "乃木坂46、『乃木坂工事中』Blu-ray4タイトルが12月16日発売！久保史緒里＆梅澤美波の卒業記念盤も",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/679023.html",
-      "publishedAt": "2026-11-02T12:00:43.000Z",
-      "summary": "乃木坂46のレギュラー番組『乃木坂工事中』のBlu-ray4タイトルが、2026年12月16日（水）に発売される。あわせて、各タイトルのジャケットアートワークが公開された。今回発売されるのは、グループを卒業した3期生・久保史緒里と梅澤美波の卒業記念盤に、食事にまつわる放 ... The post 乃木坂46、『乃木坂工事中』Blu-ray4タイトルが12月1",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "久保史緒里",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
