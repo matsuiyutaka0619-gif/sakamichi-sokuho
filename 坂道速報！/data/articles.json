@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-05T06:55:44.888Z",
+  "updatedAt": "2026-11-05T20:01:24.255Z",
   "articles": [
+    {
+      "id": "66e89f61a7510d54",
+      "title": "乃木坂46賀喜遥香「アリエルも好きだし、プリンセスも好き！」ミュージカル観劇に誘いたい同期メンバーとは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261105-5263684/",
+      "publishedAt": "2026-11-05T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月29日（木）の放送では、生徒（リスナー）から届いた“ハマっているもの”にまつわるメッセージを紹介しました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "115b477e78581a9d",
+      "title": "『けやき坂イルミネーション』今年は長谷川京子点灯で「非常に圧巻」！背中バックリ黒ドレス姿に",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/society/208366",
+      "publishedAt": "2026-11-05T09:07:34.000Z",
+      "summary": "俳優・長谷川京子が11月5日に東京・六本木ヒルズで『けやき坂イルミネーション点灯式』に登場した。 六本木ヒルズの冬の風物詩となっているけやき坂イルミネーションで今回で24回目。今年は約400メートル続く六本木けやき坂...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "ccfe45c3adef8d27",
       "title": "乃木坂46・中西アルノ似と話題の美女、正体はさつまいも農家！畑でライブ＆チェキ会も『ななにー 地下ABEMA』",
@@ -270,93 +306,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "89d057babb7a3165",
-      "title": "乃木坂46賀喜遥香、白石麻衣＆梅澤美波と久々の再会に感激！「2026年に白石さんと会っていいんですか!?」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261029-5218633/",
-      "publishedAt": "2026-10-29T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、乃木坂46の卒業生である白石麻衣さん、梅澤美波さんとの再会やグループへの思いを語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "447aa22af361e2c2",
-      "title": "乃木坂46賀喜遥香「立派すぎるよ！」岩本蓮加の実家で撮影した“バーベキュー動画”裏話を明かす",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261029-5218454/",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、乃木坂46の公式YouTubeチャンネル「乃木坂配信中」に公開されている動画について語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "岩本蓮加",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "52d7f5f6b6185e64",
-      "title": "乃木坂46賀喜遥香「センターに立つべき存在」後輩・井上和の活躍に感激「うちの自慢のにゃんです！」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261028-5212278/",
-      "publishedAt": "2026-10-28T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。10月22日（木）の放送では、12月2日（水）にリリースされる43枚目のシングル「君ロス」のフォーメーションについて語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
