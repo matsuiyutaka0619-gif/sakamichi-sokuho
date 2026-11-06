@@ -1,36 +1,14 @@
 {
-  "updatedAt": "2026-11-06T06:55:38.999Z",
+  "updatedAt": "2026-11-06T19:28:21.535Z",
   "articles": [
     {
-      "id": "6f3bf31c8747706f",
-      "title": "与田祐希、タンクトップでもぐもぐにファン釘付け「こういうの！」「無邪気」「わんぱく」 カレンダーを紹介",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1093965/",
-      "publishedAt": "2026-11-06T05:48:14.000Z",
-      "summary": "元乃木坂46で俳優の与田祐希のスタッフが運営するXが6日に更新された。発売が決定しているカレンダーを紹介し、注目を集めている。カレンダーの中面を紹介 元乃木坂46で俳優の与田祐希のスタッフが運営するXが6日に更新された […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "53b6825c9e9a1dc7",
-      "title": "道枝駿佑主演『リバイアサン』生徒役に櫻井海音、城桧吏、作間龍斗、正源司陽子、UTAら",
+      "id": "743a8817282549cb",
+      "title": "日向坂46 正源司陽子、『リバイアサン』で映画単独初出演 “まっすぐさ”を表現してきた演技力",
       "sourceName": "リアルサウンド 映画部",
       "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2576318.html",
-      "publishedAt": "2026-11-06T02:10:31.000Z",
-      "summary": "2027年2月11日に公開される道枝駿佑主演映画『リバイアサン』の生徒役キャスト36名が発表され、あわせて新ビジュアルと新映像が公開された。 本作は、AC Mediaより2022年に刊行された黒井白の同名漫画を実写映",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2577280.html",
+      "publishedAt": "2026-11-06T10:15:55.000Z",
+      "summary": "日向坂46の正源司陽子が、映画『リバイアサン』で初の単独映画出演を果たす。高い表現力を持つ彼女が、サバイバル劇で俳優として新境地を見せる。",
       "groups": [
         "日向坂46"
       ],
@@ -41,6 +19,43 @@
         {
           "name": "正源司陽子",
           "group": "日向坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "b129ce035c9d4258",
+      "title": "乃木坂46・井上和、中西アルノ、一ノ瀬美空、冨里奈央『GROTESQQQUE -グロテスク-』初日",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208400",
+      "publishedAt": "2026-11-06T09:33:33.000Z",
+      "summary": "アイドルグループ『乃木坂46』井上和、中西アルノ、一ノ瀬美空、冨里奈央が11月6日に東京・新宿バルト9で映画『GROTESQQQUE -グロテスク-』（監督：錦織敦史／配給：ANIMEC）初日舞台あいさつに錦織敦史監督...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "一ノ瀬美空",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "冨里奈央",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "中西アルノ",
+          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -328,28 +343,6 @@
           "name": "岩本蓮加",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "5cad79f403818617",
-      "title": "シンガーソングライター・がらり「ややこしそうな感じではありますよね」新曲「Night Flight」の歌詞をめぐり遠山大輔＆潮紗理菜が激論!?",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261030-5220463/",
-      "publishedAt": "2026-10-29T20:00:00.000Z",
-      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月24日（土）の放送には、シンガーソングライターのがらりさんが登場！ 10月28日（水）リリースのメジャーファーストシングル「Night Flight」について伺いました。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
         }
       ]
     },
@@ -1055,81 +1048,6 @@
         {
           "name": "藤嶌果歩",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "51568850dbcb6402",
-      "title": "のん×藤ヶ谷太輔『幸せカナコの殺し屋生活２』予告解禁、前シーズンを約3分で振り返る特別映像も",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/91355/",
-      "publishedAt": "2026-08-31T03:00:00.000Z",
-      "summary": "9月17日(木)より配信されるDMM TVオリジナルドラマ『幸せカナコの殺し屋生活２』の最新予告映像が解禁され、齋藤飛鳥が声の出演でシリーズ続投することが発表された。 本作は、ブラック企業で働いていた元社畜社員・西野カナコが転職先で殺し屋の才能を開花させ、伝説の殺し屋“K”として名を轟かせていく姿を描く“エナジードリンク系”アクションコメディ。原作は累計発行",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "ad2f52218be51e6b",
-      "title": "一ノ瀬美空が神宮で放ったロックアイコンの輝き、新体制・乃木坂46は全員でさらなる黄金期へ",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/08/91399/",
-      "publishedAt": "2026-08-30T06:00:00.000Z",
-      "summary": "毎夏恒例、乃木坂46の明治神宮野球場公演が2026年もやってきた！ 現メンバー33人体制となっての初の全国ツアーであり、5月に卒業した梅澤美波から5期生・菅原咲月が4代目キャプテンのタスキを受け取っての大舞台である。それにしてもここのところの乃木坂46は激動で、吉田綾乃クリスティーの卒業も遂にこの日が来てしまったかとショッキングだったし、昨年末から続く矢久保",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og",
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "梅澤美波",
-          "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "吉田綾乃クリスティー",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "佐藤璃果",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "松尾美佑",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "矢久保美緒",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "一ノ瀬美空",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅原咲月",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
