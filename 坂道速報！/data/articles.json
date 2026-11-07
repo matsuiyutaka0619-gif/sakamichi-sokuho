@@ -1,25 +1,69 @@
 {
-  "updatedAt": "2026-11-06T19:28:21.535Z",
+  "updatedAt": "2026-11-07T06:06:04.395Z",
   "articles": [
     {
-      "id": "743a8817282549cb",
-      "title": "日向坂46 正源司陽子、『リバイアサン』で映画単独初出演 “まっすぐさ”を表現してきた演技力",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2577280.html",
-      "publishedAt": "2026-11-06T10:15:55.000Z",
-      "summary": "日向坂46の正源司陽子が、映画『リバイアサン』で初の単独映画出演を果たす。高い表現力を持つ彼女が、サバイバル劇で俳優として新境地を見せる。",
+      "id": "9b9607e48c1e1875",
+      "title": "影山優佳、弟と2ショットに「にてる！」の声 仲良しぶりにネット「ギャップがあって面白いw」「こんな顔するんや」",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1094446/",
+      "publishedAt": "2026-11-07T04:25:47.000Z",
+      "summary": "元日向坂46で俳優の影山優佳が7日、自身のXを更新し、弟の誕生日を祝ったことを仲良し2ショットで報告。弟も別の写真を投稿し、表情のギャップも注目を集めている。弟は社会人サッカークラブの取締役 元日向坂46で俳優の影山優 […]",
       "groups": [
         "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "2b806468f0ba5d1e",
+      "title": "乃木坂46・田村真佑、『漫画クリスタル』11月ナレーターに！人生に影響を受けた漫画も紹介",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/radio/679693.html",
+      "publishedAt": "2026-11-06T23:00:53.000Z",
+      "summary": "乃木坂46の田村真佑が、野田クリスタル（マヂカルラブリー）がMCを務めるBSテレ東『漫画クリスタル』の11月マンスリーナレーターに就任した。漫画好きの著名人が月替わりでナレーションを担当する同番組。10月を担当したモナキのサカイJr.からバトンを受け取った田村は、自身の ... The post 乃木坂46・田村真佑、『漫画クリスタル』11月ナレーターに！人",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "active"
       ],
       "memberMatches": [
         {
-          "name": "正源司陽子",
-          "group": "日向坂46",
+          "name": "田村真佑",
+          "group": "乃木坂46",
           "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "da2dcbe6b0f98fe6",
+      "title": "潮紗理菜「全部の曲が大好きです！」と絶賛！名誉伝説メジャーファーストフルアルバム『OK集』のタイトルに込めた思いとは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261107-5272468/",
+      "publishedAt": "2026-11-06T20:30:00.000Z",
+      "summary": "グランジの遠山大輔と潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月31日（土）の放送には、名誉伝説のこたにさん（Vo.）とけっさくさん（作詞作曲/Gt.）が登場！ 10月28日にCDリリースされたメジャーファーストフルアルバム『OK集』について伺いま",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
         }
       ]
     },
