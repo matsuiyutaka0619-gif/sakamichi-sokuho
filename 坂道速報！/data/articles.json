@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-07T21:55:58.030Z",
+  "updatedAt": "2026-11-08T06:10:38.322Z",
   "articles": [
+    {
+      "id": "965306342064d16b",
+      "title": "上沼恵美子 三田寛子の“嫁指導”に口挟む中村芝翫に「あんたが言うな」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611080000473.html",
+      "publishedAt": "2026-11-08T04:36:00.000Z",
+      "summary": "タレント上沼恵美子（71）が8日放送の読売テレビ「上沼・高田のクギズケ！」（日曜午前11時40分＝関西、中京地区）に出演した。 番組ではタレントの三田寛子がラジオ番組で、長男中村橋之助の妻で第1子を妊娠中の元乃木坂46能條愛未への“しき…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "能條愛未",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "6bf3ec87fb402ee9",
+      "title": "乃木坂46、「君ロス」先行配信＆MV公開日が決定＋日本武道館で＜乃⽊坂46 ⼤感謝祭2026＞開催へ",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1103196",
+      "publishedAt": "2026-11-08T03:53:14.000Z",
+      "summary": "乃木坂46が、ニューシングル「君ロス」の先行配信とミュージックビデオの公開を11月11日(水)0時よりスタートさせることがわかった。 ニューシングル「君ロス」は12月2日(水)にCDリリースを迎える作品で、表題曲は5期生・井上和が4度目のフォーメーションセンターを務める。乃木坂46は11月7日に『乃木坂配信中5周年記念SP生配信』を実施し、その終了後にティザ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "2b806468f0ba5d1e",
       "title": "乃木坂46・田村真佑、『漫画クリスタル』11月ナレーターに！人生に影響を受けた漫画も紹介",
@@ -26,8 +70,8 @@
     {
       "id": "da2dcbe6b0f98fe6",
       "title": "潮紗理菜「全部の曲が大好きです！」と絶賛！名誉伝説メジャーファーストフルアルバム『OK集』のタイトルに込めた思いとは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261107-5272468/",
       "publishedAt": "2026-11-06T20:30:00.000Z",
       "summary": "グランジの遠山大輔と潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。10月31日（土）の放送には、名誉伝説のこたにさん（Vo.）とけっさくさん（作詞作曲/Gt.）が登場！ 10月28日にCDリリースされたメジャーファーストフルアルバム『OK集』について伺いま",
@@ -117,28 +161,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "ccfe45c3adef8d27",
-      "title": "乃木坂46・中西アルノ似と話題の美女、正体はさつまいも農家！畑でライブ＆チェキ会も『ななにー 地下ABEMA』",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/web/679390.html",
-      "publishedAt": "2026-11-04T12:00:21.000Z",
-      "summary": "11月1日に放送されたABEMA『ななにー 地下ABEMA』第140回に、SNSで話題の美女・上西萌々が登場。さつまいも農家として活動する意外な素顔を明かした。メロンを食べる動画が287万回再生を突破し、乃木坂46・中西アルノに似ていると注目を集めた上西。現在23歳で、 ... The post 乃木坂46・中西アルノ似と話題の美女、正体はさつまいも農家！畑",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "中西アルノ",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
     },
     {
       "id": "75c6a9c2eee380ac",
@@ -316,28 +338,6 @@
           "name": "矢田萌華",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "2fa61ac40d1d7ec3",
-      "title": "日曜トライアル 第49回 白洲迅、34歳の誕生日に寄せて――30歳目前に語った「役者として変化していきたい」から4年…難役への挑戦で広がった俳優としての可能性、松島聡・松村沙友理・イモトアヤコが明かした“周囲を思いやる素顔”",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/sunday_trial-49/",
-      "publishedAt": "2026-11-01T03:00:00.000Z",
-      "summary": "11月1日に34歳の誕生日を迎えた俳優・白洲迅。30歳を目前にした2022年のインタビューでは、これからの俳優人生について「役者として変化していける大きなきっかけになると思います」と期待を語っていた。今回は白洲の誕生日にあわせ、過去のインタビューやイベント取材から、俳優としての挑戦と共演者が明かした素顔を振り返る。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松村沙友理",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
