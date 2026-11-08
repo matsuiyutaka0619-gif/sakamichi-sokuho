@@ -1,47 +1,25 @@
 {
-  "updatedAt": "2026-11-08T06:10:38.322Z",
+  "updatedAt": "2026-11-08T13:32:47.615Z",
   "articles": [
     {
-      "id": "965306342064d16b",
-      "title": "上沼恵美子 三田寛子の“嫁指導”に口挟む中村芝翫に「あんたが言うな」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611080000473.html",
-      "publishedAt": "2026-11-08T04:36:00.000Z",
-      "summary": "タレント上沼恵美子（71）が8日放送の読売テレビ「上沼・高田のクギズケ！」（日曜午前11時40分＝関西、中京地区）に出演した。 番組ではタレントの三田寛子がラジオ番組で、長男中村橋之助の妻で第1子を妊娠中の元乃木坂46能條愛未への“しき…",
+      "id": "764fe5e4f4de705b",
+      "title": "「100円が23万円になった」リスナーの馬券報告に元日向坂46松田好花が語った本音――撮影の合間に帰宅するはずが東京競馬場へ、人生初の馬券で複勝的中も収支プラスにならずに「よかった」と思った理由とは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261108-5280297/",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "summary": "ドラマ撮影の合間、いったん帰宅するはずが、マネージャーとの会話から東京競馬場へ向かうことに。初めて買った馬券は的中したものの、収支はマイナス。その体験とリスナーからのメールを通じ、松田好花は自分なりの競馬の楽しみ方を考え始めた。4日放送のニッポン放送のラジオ番組『松田好花のオールナイトニッポン0(ZERO)』(毎週火曜27:00～28:30)で、一連の出来事",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "能條愛未",
-          "group": "乃木坂46",
+          "name": "松田好花",
+          "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "6bf3ec87fb402ee9",
-      "title": "乃木坂46、「君ロス」先行配信＆MV公開日が決定＋日本武道館で＜乃⽊坂46 ⼤感謝祭2026＞開催へ",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1103196",
-      "publishedAt": "2026-11-08T03:53:14.000Z",
-      "summary": "乃木坂46が、ニューシングル「君ロス」の先行配信とミュージックビデオの公開を11月11日(水)0時よりスタートさせることがわかった。 ニューシングル「君ロス」は12月2日(水)にCDリリースを迎える作品で、表題曲は5期生・井上和が4度目のフォーメーションセンターを務める。乃木坂46は11月7日に『乃木坂配信中5周年記念SP生配信』を実施し、その終了後にティザ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
