@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-08T13:32:47.615Z",
+  "updatedAt": "2026-11-08T22:12:08.319Z",
   "articles": [
+    {
+      "id": "f8baf24f51916ec9",
+      "title": "【ライブレポート】日向坂46、初出演でブチ上げ全開！最新曲「イチャイチャ虫」披露＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/680153.html",
+      "publishedAt": "2026-11-08T22:00:46.000Z",
+      "summary": "11月7日（土）、8日（日）の2日間、千葉・幕張メッセにて、氣志團が主催する音楽フェス「サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート」が開催された。初日の7日には、日向坂46が初出演。この記事では、同イベントのライブレポートをお届け ... The post 【ライブレポート】日向坂46、初出演でブチ上げ全開！最新曲「イ",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "e0e21b2e766c97fb",
+      "title": "乃木坂46川端晃菜、最年少15歳が描く「にごった紫色」から「クリアな紫色」への成長と挑戦",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611010002187.html",
+      "publishedAt": "2026-11-08T20:10:00.000Z",
+      "summary": "「先輩を参考にするのもいいけど、自分の手で何かを切り開かないと、新しい自分の道は作られない。」 乃木坂46の6期生、川端晃菜（15）が、10月26日から開催中の「6期生全国ツアー2026」のリハーサル中にライブチームのスタッフから掛けら…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "川端晃菜",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "764fe5e4f4de705b",
       "title": "「100円が23万円になった」リスナーの馬券報告に元日向坂46松田好花が語った本音――撮影の合間に帰宅するはずが東京競馬場へ、人生初の馬券で複勝的中も収支プラスにならずに「よかった」と思った理由とは",
