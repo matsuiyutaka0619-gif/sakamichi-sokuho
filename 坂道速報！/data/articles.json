@@ -1,91 +1,79 @@
 {
-  "updatedAt": "2026-11-10T07:25:50.201Z",
+  "updatedAt": "2026-11-10T19:48:05.850Z",
   "articles": [
     {
-      "id": "8a5a60e8d79b51b2",
-      "title": "齋藤飛鳥、愛用するヒートテックを「寒さに弱い親に送り付けちゃった」ほっこりエピ明かす",
+      "id": "0aa480d1cb2ab7e9",
+      "title": "乃木坂46、最新シングル「君ロス」MV公開 ラストシーンは選抜メンバー全員雨に打たれながら",
       "sourceName": "日刊スポーツ 芸能",
       "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611100000795.html",
-      "publishedAt": "2026-11-10T07:04:20.000Z",
-      "summary": "元乃木坂46齋藤飛鳥（28）が10日、都内で行われたユニクロ「ヒートテックの日」PR発表会に、スペシャルサポーターとしてM！LK塩﨑太智（26）とともに登壇した。「2枚、重ね着して、チラ見せして」と、カシミヤのヒートテックを2枚、重ね着…",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611100001850.html",
+      "publishedAt": "2026-11-10T15:00:00.000Z",
+      "summary": "乃木坂46が12月2日にリリースする43枚目シングル「君ロス」の先行配信が11日から開始され、ミュージックビデオ（MV）もグループの公式YouTubeチャンネルで公開となった。 今作のセンターは5期生井上和（21）が務める。MVは、楽曲…",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "齋藤飛鳥",
+          "name": "井上和",
           "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
         }
       ]
     },
     {
-      "id": "0b77e3c28915b6a1",
-      "title": "M！LK塩﨑太智「温められたからこそ、頑張って今がある」ヒートテックに感謝",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611100000738.html",
-      "publishedAt": "2026-11-10T06:39:12.000Z",
-      "summary": "M！LK塩﨑太智（26）が10日、都内で行われたユニクロ「ヒートテックの日」PR発表会に、スペシャルサポーターとして元乃木坂46齋藤飛鳥（28）とともに登壇した。 塩﨑は「ヒートテック、愛用しているので、うれしいです！」と満面の笑みを浮…",
+      "id": "825fa145d031a28a",
+      "title": "乃木坂46、ニューシングル「君ロス」先行配信開始。雨の中舞い踊るMVも公開",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1103753",
+      "publishedAt": "2026-11-10T15:00:00.000Z",
+      "summary": "乃木坂46が、12月2日(水)にリリースする最新シングル「君ロス」。本日より先行配信がスタートし、あわせてMVも公開された。 乃木坂46、43枚目となる最新シングル「君ロス」は5期生・井上和が4度目のフォーメーションセンターを務める楽曲で、12月2日(水)にシングルパッケージの発売が決定している。 そして「君ロス」は本日11月11日(水)0時より各配信サービ",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "齋藤飛鳥",
+          "name": "伊藤理々杏",
           "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
+        },
+        {
+          "name": "岩本蓮加",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
     {
-      "id": "a0e942b41520c109",
-      "title": "M!LK塩﨑太智、現在とデビュー時の“衣装の違い”告白「今は分厚い生地をですが…最初はペラペラ」",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1096164/",
-      "publishedAt": "2026-11-10T06:24:32.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの塩﨑太智、俳優の齋藤飛鳥が10日、都内で行われたユニクロ「ヒートテックの日」PR発表会に出席した。冬は自宅でヒートテック1枚 5人組ダンスボーカルグループ・M!LKの塩﨑太智、俳 […]",
+      "id": "ebcb6a8ba0d3998c",
+      "title": "乃木坂46が別れと向き合った「君ロス」配信スタート、雨に打たれながら踊るMVも同時公開",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/94753/",
+      "publishedAt": "2026-11-10T15:00:00.000Z",
+      "summary": "乃木坂46が12月2日(水)に発売する43rdシングルの表題曲「君ロス」の先行配信がスタートし、同時にMusic Videoが公開された。 5期生・井上和が4度目の表題曲センターを務める「君ロス」は、前作シングルの6期生楽曲「命の色」、今作シングルの6期生楽曲「一度好きになった人」に続きナスカが作曲を担当。そのMusic Videoでは「命の色」も手がけた大",
       "groups": [
         "乃木坂46"
       ],
       "statuses": [
-        "og"
+        "active"
       ],
       "memberMatches": [
         {
-          "name": "齋藤飛鳥",
+          "name": "井上和",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "c9e5ac833358f635",
-      "title": "齋藤飛鳥「めちゃ声がでかいです」 元気いっぱいのM!LK塩﨑太智との共演で苦笑い",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1095899/",
-      "publishedAt": "2026-11-10T05:59:19.000Z",
-      "summary": "5人組ダンスボーカルグループ・M!LKの塩﨑太智、俳優の齋藤飛鳥が10日、都内で行われたユニクロ「ヒートテックの日」PR発表会に出席した。「温まっているから腹から声が出るんですよ」笑顔でリアクション 5人組ダンスボーカ […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
+          "status": "active"
         }
       ]
     },
@@ -97,20 +85,6 @@
       "articleUrl": "https://www.wws-channel.com/actor/679839.html",
       "publishedAt": "2026-11-09T23:00:32.000Z",
       "summary": "11月5日、六本木ヒルズで「Roppongi Hills Christmas 2026」のけやき坂イルミネーション点灯式が行われ、俳優の長谷川京子が今年の「スノークイーン」として登場した。長谷川の「Merry Christmas！」の合図で約97万灯のLEDが一斉に点灯 ... The post 長谷川京子、「Merry Christmas！」の合図で約97",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "75c1fafbe9bd892a",
-      "title": "日向坂46 四期生が全国を駆け巡る特報も 『ゼンブ・オブ・ワールド』2027年2月26日公開へ",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2579322.html",
-      "publishedAt": "2026-11-09T23:00:00.000Z",
-      "summary": "日向坂46の四期生11人が出演する映画『ゼンブ・オブ・ワールド』が、2027年2月26日に全国公開されることが決定。あわせてメイキング特報と場面写真が公開された。 本作は、2024年10月に公開された映画『ゼンブ・オ",
       "groups": [
         "日向坂46"
       ],
