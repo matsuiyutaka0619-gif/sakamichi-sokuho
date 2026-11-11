@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T06:35:23.219Z",
+  "updatedAt": "2026-11-11T19:40:07.535Z",
   "articles": [
     {
-      "id": "9ba399afac0eded4",
-      "title": "乃木坂46黒見明香、NPBアワードでインタビュアーに「夢のように光栄で胸が震える思い」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611110000583.html",
-      "publishedAt": "2026-11-11T05:36:43.000Z",
-      "summary": "乃木坂46黒見明香（22）が、11月25日開催のNPB AWARDS 2026 supported byリポビタンDでインタビュアーを務める。11日、NPB公式サイトで発表された。 同アワードはプロ野球の今季のタイトルホルダーや最優秀選…",
+      "id": "c08e98cbfab3b9f6",
+      "title": "乃木坂46賀喜遥香「1枚描くだけでも大変なのに…」セル画制作の難しさに驚き！アニメ制作の裏側に感動",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261111-5303663/",
+      "publishedAt": "2026-11-11T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月5日（木）の放送では、遥香先生が出演したテレビ番組「探究!アニメをつくる」（NHK Eテレ）について語りました。",
       "groups": [
         "乃木坂46"
       ],
@@ -17,42 +17,42 @@
       ],
       "memberMatches": [
         {
-          "name": "黒見明香",
+          "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
         }
       ]
     },
     {
-      "id": "9c5a8adc2392459d",
-      "title": "櫻坂46の勢いはなぜ国立公演後も続くのか？ “成功をなぞらない”強さ、更新し続けるパフォーマンス",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2578945.html",
-      "publishedAt": "2026-11-11T03:10:30.000Z",
-      "summary": "MUFGスタジアム（国立競技場）で5周年の集大成を見せた櫻坂46。その後も谷口愛季の表題曲初センター、四期生の選抜入りや単独ライブなど、グループは変化を重ねてきた。世代交代が進むなか、成功体験をなぞらず、受け継いだ楽曲を新たな表現へ更新していく強さを紐解く。",
+      "id": "b8fa3368f6eb46b6",
+      "title": "桐山漣、中村麗乃ら、西山智樹主演ドラマ『ワンフォーオール・オールフォーマーダー』出演",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2580712.html",
+      "publishedAt": "2026-11-11T09:00:23.000Z",
+      "summary": "12月3日よりMBSドラマフィル枠で放送がスタートする西山智樹（TAGRIGHT）主演ドラマ『ワンフォーオール・オールフォーマーダー』の追加キャストとして、桐山漣、中村麗乃、田畑志真、渡邉蒼、久保田悠来、和田聰宏の出演",
       "groups": [
-        "櫻坂46"
+        "乃木坂46"
       ],
       "statuses": [
-        "active"
+        "og"
       ],
       "memberMatches": [
         {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
-          "status": "active"
+          "name": "中村麗乃",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
     {
-      "id": "825fa145d031a28a",
-      "title": "乃木坂46、ニューシングル「君ロス」先行配信開始。雨の中舞い踊るMVも公開",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1103753",
-      "publishedAt": "2026-11-10T15:00:00.000Z",
-      "summary": "乃木坂46が、12月2日(水)にリリースする最新シングル「君ロス」。本日より先行配信がスタートし、あわせてMVも公開された。 乃木坂46、43枚目となる最新シングル「君ロス」は5期生・井上和が4度目のフォーメーションセンターを務める楽曲で、12月2日(水)にシングルパッケージの発売が決定している。 そして「君ロス」は本日11月11日(水)0時より各配信サービ",
+      "id": "03d0d05fd7d4f5e9",
+      "title": "wacciの新曲「御節介」「天邪鬼」MVに久保史緒里が出演、一つの恋の物語を連作で描く",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/94803/",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "summary": "wacciが11月13日(金)に2曲同時配信リリースする新曲「御節介」「天邪鬼」のMusic Videoが同日夜にプレミア公開されることが決定し、2作ともに久保史緒里が出演していることが明らかになった。 「御節介」（読み：おせっかい）と「天邪鬼」（読み：あまのじゃく）は、一つの恋の物語を男女それぞれの視点から描いた連作。女性の視点から描かれた「御節介」は、素",
       "groups": [
         "乃木坂46"
       ],
@@ -61,17 +61,7 @@
       ],
       "memberMatches": [
         {
-          "name": "伊藤理々杏",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "岩本蓮加",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
+          "name": "久保史緒里",
           "group": "乃木坂46",
           "status": "active"
         }
