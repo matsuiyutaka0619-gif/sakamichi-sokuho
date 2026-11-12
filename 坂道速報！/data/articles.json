@@ -1,25 +1,110 @@
 {
-  "updatedAt": "2026-11-12T07:19:21.652Z",
+  "updatedAt": "2026-11-12T20:00:13.876Z",
   "articles": [
     {
-      "id": "e2fd008fbea0a478",
-      "title": "10年前の『紅白』誰が出ていた？ KinKi Kids、欅坂46……初出場組が背負った物語、時代の変わり目となった2016年",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2581058.html",
-      "publishedAt": "2026-11-11T20:50:43.000Z",
-      "summary": "今から10年前の2016年、12月31日に放送された『第67回NHK紅白歌合戦』（NHK総合）のテーマは、「夢を歌おう」。司会を有村架純と嵐の相葉雅紀が務めた同会に初出場を果たした10組を振り返る。",
+      "id": "e1257bf8ccc143b0",
+      "title": "山下美月 舞台『成瀬は天下を取りにいく』回想で「本当に素晴らしい経験」『YSL HOLIDAY PRIVATE PARTY』",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/beauty/208696",
+      "publishedAt": "2026-11-12T15:31:13.000Z",
+      "summary": "俳優・山下美月が11月12日に東京・表参道でイヴ・サンローラン・ボーテ ホリデーコレクション『YSL HOLIDAY PRIVATE PARTY』発売を記念した世界観を体感できる会場に来場した。 会場はムッシュイヴ・...",
       "groups": [
-        "櫻坂46"
+        "乃木坂46"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "e58a553886a80b25",
+      "title": "乃木坂46 賀喜遥香「全員4期生のことが大好き！」遠藤さくら発案の企画で感じた“同期の絆”",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261112-5310925/",
+      "publishedAt": "2026-11-12T12:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月5日（木）の放送では、乃木坂46の公式YouTubeチャンネル「乃木坂配信中」の撮影で、同期の4期生メンバーと行った東武動物公園（埼玉県）の思い出を語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "94d369c5fdb8fc39",
+      "title": "長濱ねる、大胆肩出しの大人スタイル 「デコルテ綺麗」「美可愛い」とファン注目",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1097352/",
+      "publishedAt": "2026-11-12T12:20:00.000Z",
+      "summary": "元欅坂46のメンバーで俳優・長濱ねるが、「YSL HOLIDAY PRIVATE PARTY」に参加したことを12日までに自身のインスタグラムで明かした。「YSL HOLIDAY PRIVATE PARTY」に参加 元 […]",
+      "groups": [
+        "櫻坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "438af432e190bdea",
+      "title": "山下美月“男前生徒会長”演じるため10センチ断髪「美容師のハサミ持つ手震えた」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611120001809.html",
+      "publishedAt": "2026-11-12T11:08:00.000Z",
+      "summary": "元乃木坂46の女優山下美月（27）が12日、都内で行われた、森七菜（25）蒔田彩珠（24）ダブル主演のAmazonプライムビデオのドラマ「地雷グリコ」（関和亮監督、13日から配信）配信記念イベントに登壇した。 劇中で、学園を支配する生徒…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
     },
     {
       "id": "c08e98cbfab3b9f6",
       "title": "乃木坂46賀喜遥香「1枚描くだけでも大変なのに…」セル画制作の難しさに驚き！アニメ制作の裏側に感動",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261111-5303663/",
       "publishedAt": "2026-11-11T12:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月5日（木）の放送では、遥香先生が出演したテレビ番組「探究!アニメをつくる」（NHK Eテレ）について語りました。",
