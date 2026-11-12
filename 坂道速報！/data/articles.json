@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-11T19:40:07.535Z",
+  "updatedAt": "2026-11-12T07:19:21.652Z",
   "articles": [
+    {
+      "id": "e2fd008fbea0a478",
+      "title": "10年前の『紅白』誰が出ていた？ KinKi Kids、欅坂46……初出場組が背負った物語、時代の変わり目となった2016年",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2581058.html",
+      "publishedAt": "2026-11-11T20:50:43.000Z",
+      "summary": "今から10年前の2016年、12月31日に放送された『第67回NHK紅白歌合戦』（NHK総合）のテーマは、「夢を歌おう」。司会を有村架純と嵐の相葉雅紀が務めた同会に初出場を果たした10組を振り返る。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
     {
       "id": "c08e98cbfab3b9f6",
       "title": "乃木坂46賀喜遥香「1枚描くだけでも大変なのに…」セル画制作の難しさに驚き！アニメ制作の裏側に感動",
@@ -20,28 +34,6 @@
           "name": "賀喜遥香",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b8fa3368f6eb46b6",
-      "title": "桐山漣、中村麗乃ら、西山智樹主演ドラマ『ワンフォーオール・オールフォーマーダー』出演",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2580712.html",
-      "publishedAt": "2026-11-11T09:00:23.000Z",
-      "summary": "12月3日よりMBSドラマフィル枠で放送がスタートする西山智樹（TAGRIGHT）主演ドラマ『ワンフォーオール・オールフォーマーダー』の追加キャストとして、桐山漣、中村麗乃、田畑志真、渡邉蒼、久保田悠来、和田聰宏の出演",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "中村麗乃",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
@@ -129,20 +121,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "f8baf24f51916ec9",
-      "title": "【ライブレポート】日向坂46、初出演でブチ上げ全開！最新曲「イチャイチャ虫」披露＜サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～＞",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/680153.html",
-      "publishedAt": "2026-11-08T22:00:46.000Z",
-      "summary": "11月7日（土）、8日（日）の2日間、千葉・幕張メッセにて、氣志團が主催する音楽フェス「サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート」が開催された。初日の7日には、日向坂46が初出演。この記事では、同イベントのライブレポートをお届け ... The post 【ライブレポート】日向坂46、初出演でブチ上げ全開！最新曲「イ",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     },
     {
       "id": "da2dcbe6b0f98fe6",
@@ -946,28 +924,6 @@
         {
           "name": "清水理央",
           "group": "日向坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a2b778adc068834a",
-      "title": "「長く続いているからこそ、今もこれからも大切にしたい」乃木坂46・井上和の夢を掴む原動力",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/09/91445/",
-      "publishedAt": "2026-09-04T09:00:00.000Z",
-      "summary": "この夏、日本のエンタメ界で最も中心にいた一人と言っていいだろう。 乃木坂46の井上和。グループでは42枚目のシングルをリリースし、毎年恒例の「真夏の全国ツアー」を過去最大規模で完走。その合間を縫って『オールナイトニッポン』のパーソナリティを毎週務め上げ、「TOKYO IDOL FESTIVAL」では3代目チェアマンの役目を全うした。NHK大河ドラマ『豊臣兄弟",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
