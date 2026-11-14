@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-13T19:47:53.563Z",
+  "updatedAt": "2026-11-14T06:34:31.293Z",
   "articles": [
+    {
+      "id": "600f5fdcc9bf6bff",
+      "title": "Base Ball Bear小出祐介「上手にキレようと思ったらラブソングに…」結成25周年シングル制作秘話を明かす",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261114-5320672/",
+      "publishedAt": "2026-11-13T20:50:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。11月7日（土）の放送には、Base Ball Bearの小出祐介さん(Vo.Gt)、関根史織さん(Ba,Cho)、堀之内大介さん(Dr.Cho)が登場！ 10月28日に配信リリースされた結成",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "9a442e6cd9e402b7",
       "title": "渡邉美穂ら主演4人が『嘘をついた私たち』後半を語る！撮影の合間には花火も",
@@ -47,34 +69,6 @@
         {
           "name": "潮紗理菜",
           "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "574f838b490c1da2",
-      "title": "長濱ねる、肩から背中の白肌あらわワンショルダー黒ロングドレス姿＆衝撃カメラ目線魅了動画公開",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611130001439.html",
-      "publishedAt": "2026-11-13T10:48:56.000Z",
-      "summary": "女優の長濱ねる（28）が13日までに、自身のインスタグラムやストーリーズを更新。黒いドレス姿を投稿した。 「YSL HOLIDAY PRIVATE PARTY ホリデーシーズンにぴったりのアイテムを体験してきました」と報告し、肩から背中…",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
           "status": "og"
         }
       ]
