@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-15T06:42:37.812Z",
+  "updatedAt": "2026-11-15T18:55:16.618Z",
   "articles": [
+    {
+      "id": "e0f18f2e515947a7",
+      "title": "櫻坂46 単独ライブ『6th YEAR ANNIVERSARY LIVE』＆松田里奈の卒業セレモニー公式レポート",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208809",
+      "publishedAt": "2026-11-15T15:29:42.000Z",
+      "summary": "アイドルグループ『櫻坂46』が11月14日と11月15日に千葉・ZOZOマリンスタジアムでの単独ライブ『6th YEAR ANNIVERSARY LIVE』を開催。2代目キャプテン・松田里奈の卒業セレモニーも行われるな...",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "d72a530989d78baa",
+      "title": "櫻坂46新キャプテンは山﨑天「聞いてないよ～！」 松田里奈が卒セレでサプライズ指名…来年アジアへ",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1098881/",
+      "publishedAt": "2026-11-15T15:16:26.000Z",
+      "summary": "アイドルグループ・櫻坂46は14、15の両日に千葉・ZOZOマリンスタジアムで「6th YEAR ANNIVERSARY LIVE」を開催した。2日目の15日は、2代目キャプテンの2期生・松田里奈の卒業セレモニーが行われ […]",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "9aa7f35f7f7fe077",
+      "title": "櫻坂46の２代目キャプテン松田里奈が卒業セレモニー「皆さんからの言葉は常備薬」感謝あふれる",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611150002187.html",
+      "publishedAt": "2026-11-15T15:01:00.000Z",
+      "summary": "櫻坂46松田里奈（27）の卒業セレモニーが15日、千葉・ZOZOマリンスタジアムで開催の「6th YEAR ANNIVERSARY LIVE」2日目公演で行われた。グループに捧げた約8年、という表現がふさわしい歩み。あふれる感謝を胸にグ…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "19ae32fe2d3f1621",
+      "title": "櫻坂46、来年のアリーナツアー開催をサプライズ発表 ３・10愛知を皮切りに６都市12公演",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611150002488.html",
+      "publishedAt": "2026-11-15T15:01:00.000Z",
+      "summary": "櫻坂46が14日、15日の2日間、ZOZOマリンスタジアムで「6th YEAR ANNIVERSARY LIVE」を開催した。2日目はグループ2代目キャプテン松田里奈（27）の卒業セレモニー。一時代に区切りをつける意味合いも持つ2日間で…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "acf33bfa25fa61ac",
+      "title": "櫻坂46、３代目キャプテンに山﨑天が就任 松田里奈が自身の卒業セレモニーでサプライズ発表",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611150002037.html",
+      "publishedAt": "2026-11-15T12:03:00.000Z",
+      "summary": "櫻坂46松田里奈（27）の卒業セレモニーが15日、千葉・ZOZOマリンスタジアムで開催の「6th YEAR ANNIVERSARY LIVE」2日目公演で行われた。 公演の最後に、2代目キャプテンを4年間務めてきた松田は、グループ3代目…",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "4b413c900b953a32",
       "title": "松村沙友理スタッフ公式X、不適切投稿で事務所が謝罪 タレント本人への同情相次ぐ「めっちゃとばっちり」",
@@ -60,28 +180,6 @@
       "memberMatches": []
     },
     {
-      "id": "5370845a785097d3",
-      "title": "白石麻衣、ミッキー仕様のバケハでお忍びディズニー 「寒くなってきたね」プライベートオフショ公開",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2584809.html",
-      "publishedAt": "2026-11-14T11:15:32.000Z",
-      "summary": "白石麻衣が、伊勢丹新宿店で開催されているバーバリーのポップアップストアに訪れたことを自身のInstagramにて報告している。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "b53a2d220dc4bc15",
       "title": "ロッキン2026のライブ映像をYouTubeで無料配信！BE:FIRST、櫻坂46、Vaundyらが登場",
       "sourceName": "WWSチャンネル",
@@ -112,28 +210,6 @@
       "memberMatches": [
         {
           "name": "潮紗理菜",
-          "group": "日向坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "9a442e6cd9e402b7",
-      "title": "渡邉美穂ら主演4人が『嘘をついた私たち』後半を語る！撮影の合間には花火も",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/tv/680642.html",
-      "publishedAt": "2026-11-13T12:00:04.000Z",
-      "summary": "渡邉美穂、砂田将宏（BALLISTIK BOYZ）、浅川梨奈、池田匡志が主演を務める恋愛サスペンスドラマ『嘘をついた私たち』（テレビ大阪ほか）。テレビ大阪が公開したインタビューで、4人はそれぞれが演じる人物の心情や、物語後半の見どころを語った。浅川は、すずの嘘には過去に ... The post 渡邉美穂ら主演4人が『嘘をついた私たち』後半を語る！撮影の合間",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "渡邉美穂",
           "group": "日向坂46",
           "status": "og"
         }
