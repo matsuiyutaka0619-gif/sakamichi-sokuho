@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-14T22:30:28.667Z",
+  "updatedAt": "2026-11-15T06:42:37.812Z",
   "articles": [
+    {
+      "id": "4b413c900b953a32",
+      "title": "松村沙友理スタッフ公式X、不適切投稿で事務所が謝罪 タレント本人への同情相次ぐ「めっちゃとばっちり」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261115-5330054/",
+      "publishedAt": "2026-11-15T05:25:04.000Z",
+      "summary": "「所属タレント本人の意向を反映したものではございません」――タレントの松村沙友理のスタッフ公式Xが15日、更新され、運用担当者による不適切な投稿について、所属事務所のFIRST AGENTが謝罪。投稿を削除した経緯や担当者の変更、再発防止に向けた対応を説明した。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "fa61070964e91223",
       "title": "秋元真夏、スウェット×ミニスカをさらりと着こなす美脚ショットに反響",
@@ -76,8 +98,8 @@
     {
       "id": "600f5fdcc9bf6bff",
       "title": "Base Ball Bear小出祐介「上手にキレようと思ったらラブソングに…」結成25周年シングル制作秘話を明かす",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261114-5320672/",
       "publishedAt": "2026-11-13T20:50:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティを務めるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。11月7日（土）の放送には、Base Ball Bearの小出祐介さん(Vo.Gt)、関根史織さん(Ba,Cho)、堀之内大介さん(Dr.Cho)が登場！ 10月28日に配信リリースされた結成",
@@ -142,50 +164,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "eac60370b4756912",
-      "title": "与田祐希、美肌みせ！いろんなスタイリングで魅力大爆発！",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/679911.html",
-      "publishedAt": "2026-11-13T03:00:11.000Z",
-      "summary": "11月6日、乃木坂46の元メンバーでモデルの与田祐希が自身のInstagramを更新した。与田祐希はピンクの立体的なフリルをあしらったクロップド丈トップスにウエストの肌見せと遊び心のある小物使いが印象的なガーリーカジュアルコーデや、ラフな衣装で中華料理を楽しむムービーを ... The post 与田祐希、美肌みせ！いろんなスタイリングで魅力大爆発！ fir",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "eb99ef6de90b4510",
-      "title": "櫻坂46、6周年ライブをLeminoで生配信！15日公演では松田里奈の卒業セレモニーも",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/680603.html",
-      "publishedAt": "2026-11-12T23:00:31.000Z",
-      "summary": "櫻坂46が11月14日（土）、15日（日）に千葉・ZOZOマリンスタジアムで開催する「6th YEAR ANNIVERSARY LIVE」が、Leminoで有料生配信される。15日公演では、キャプテンとしてグループを支えてきた松田里奈の卒業セレモニーも行われる。生配信は ... The post 櫻坂46、6周年ライブをLeminoで生配信！15日公演では松",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
         }
       ]
     },
