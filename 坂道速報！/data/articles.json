@@ -1,6 +1,143 @@
 {
-  "updatedAt": "2026-11-15T18:55:16.618Z",
+  "updatedAt": "2026-11-16T06:40:12.242Z",
   "articles": [
+    {
+      "id": "3026ecb9c2b92ebe",
+      "title": "【ライブレポート】櫻坂46、＜6th YEAR ANNIVERSARY LIVE＞開催。2代目キャプテン・松田里奈の卒業セレモニーも",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1104761",
+      "publishedAt": "2026-11-16T06:21:16.000Z",
+      "summary": "櫻坂46の単独ライブ＜6th YEAR ANNIVERSARY LIVE＞が11月14日、15日に千葉・ZOZOマリンスタジアムにて開催された。オフィシャルからのレポートをお届けする。 ◆ライブ写真 欅坂46から櫻坂46に改名し、2020年12月9日に1stシングル「Nobody’s fault」をリリースしてから、まもなく6周年を迎えようとするタイミングに",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "小田倉麗奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "谷口愛季",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "田村保乃",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "中嶋優月",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤吉夏鈴",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "的野美青",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "村井優",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "森田ひかる",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下瞳月",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "浅井恋乃未",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "松本和子",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "山田桃実",
+          "group": "櫻坂46",
+          "status": "active"
+        },
+        {
+          "name": "菅井友香",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "bcd4f86776c67ab6",
+      "title": "衛藤美彩、髪バッサリで雰囲気一変 イメチェン姿に「見惚れました」「凄く綺麗」と称賛の声",
+      "sourceName": "ENCOUNT",
+      "sourceUrl": "https://encount.press/feed/",
+      "articleUrl": "https://encount.press/archives/1099461/",
+      "publishedAt": "2026-11-16T05:45:49.000Z",
+      "summary": "西武・源田壮亮の妻で元乃木坂46の衛藤美彩（33）が16日までに、イメチェンした新ヘアスタイルを紹介した。「new camera」で自撮り 西武・源田壮亮の妻で元乃木坂46の衛藤美彩（33）が16日までに、イメチェンし […]",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "衛藤美彩",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fee8d15ccd8b8e1f",
+      "title": "乃木坂46、井上和がセンターの新曲「君ロス」MV公開！12月に日本武道館で大感謝祭",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/680756.html",
+      "publishedAt": "2026-11-16T03:00:55.000Z",
+      "summary": "乃木坂46が11月11日、43枚目のシングル「君ロス」の先行配信を開始し、ミュージックビデオを公開した。表題曲では、5期生の井上和が自身4度目のセンターを務める。CDは12月2日（水）に発売される。先行配信とMV公開の情報は、YouTubeチャンネル「乃木坂配信中」の5 ... The post 乃木坂46、井上和がセンターの新曲「君ロス」MV公開！12月に",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "e0f18f2e515947a7",
       "title": "櫻坂46 単独ライブ『6th YEAR ANNIVERSARY LIVE』＆松田里奈の卒業セレモニー公式レポート",
@@ -18,104 +155,6 @@
       "memberMatches": [
         {
           "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "d72a530989d78baa",
-      "title": "櫻坂46新キャプテンは山﨑天「聞いてないよ～！」 松田里奈が卒セレでサプライズ指名…来年アジアへ",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1098881/",
-      "publishedAt": "2026-11-15T15:16:26.000Z",
-      "summary": "アイドルグループ・櫻坂46は14、15の両日に千葉・ZOZOマリンスタジアムで「6th YEAR ANNIVERSARY LIVE」を開催した。2日目の15日は、2代目キャプテンの2期生・松田里奈の卒業セレモニーが行われ […]",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "9aa7f35f7f7fe077",
-      "title": "櫻坂46の２代目キャプテン松田里奈が卒業セレモニー「皆さんからの言葉は常備薬」感謝あふれる",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611150002187.html",
-      "publishedAt": "2026-11-15T15:01:00.000Z",
-      "summary": "櫻坂46松田里奈（27）の卒業セレモニーが15日、千葉・ZOZOマリンスタジアムで開催の「6th YEAR ANNIVERSARY LIVE」2日目公演で行われた。グループに捧げた約8年、という表現がふさわしい歩み。あふれる感謝を胸にグ…",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "19ae32fe2d3f1621",
-      "title": "櫻坂46、来年のアリーナツアー開催をサプライズ発表 ３・10愛知を皮切りに６都市12公演",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611150002488.html",
-      "publishedAt": "2026-11-15T15:01:00.000Z",
-      "summary": "櫻坂46が14日、15日の2日間、ZOZOマリンスタジアムで「6th YEAR ANNIVERSARY LIVE」を開催した。2日目はグループ2代目キャプテン松田里奈（27）の卒業セレモニー。一時代に区切りをつける意味合いも持つ2日間で…",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "acf33bfa25fa61ac",
-      "title": "櫻坂46、３代目キャプテンに山﨑天が就任 松田里奈が自身の卒業セレモニーでサプライズ発表",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611150002037.html",
-      "publishedAt": "2026-11-15T12:03:00.000Z",
-      "summary": "櫻坂46松田里奈（27）の卒業セレモニーが15日、千葉・ZOZOマリンスタジアムで開催の「6th YEAR ANNIVERSARY LIVE」2日目公演で行われた。 公演の最後に、2代目キャプテンを4年間務めてきた松田は、グループ3代目…",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
           "group": "櫻坂46",
           "status": "active"
         }
@@ -173,20 +212,6 @@
       "articleUrl": "https://bezzy.jp/2026/11/95032/",
       "publishedAt": "2026-11-14T12:00:00.000Z",
       "summary": "櫻坂46が、2027年3月より全国6都市12公演のアリーナツアーを開催することを発表した。 本日11月14日(土)、ZOZOマリンスタジアムにて「6th YEAR ANNIVERSARY LIVE」の初日公演を開催した櫻坂46。その終演後、会場のビジョンに突如映し出された映像でサプライズ発表された新たなアリーナツアーは、2027年3月10日(水)・11日(木",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "b53a2d220dc4bc15",
-      "title": "ロッキン2026のライブ映像をYouTubeで無料配信！BE:FIRST、櫻坂46、Vaundyらが登場",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/music2/680872.html",
-      "publishedAt": "2026-11-14T10:30:43.000Z",
-      "summary": "「ROCK IN JAPAN FESTIVAL 2026」のライブ映像を届ける「ROCK IN JAPAN特番」の配信アーティストが11月9日に発表された。9月に開催された4日間の公演から、ライブ映像を日別に編成し、公式YouTubeチャンネル「JフェスOFFICIAL ... The post ロッキン2026のライブ映像をYouTubeで無料配信！BE:",
       "groups": [
         "櫻坂46"
       ],
