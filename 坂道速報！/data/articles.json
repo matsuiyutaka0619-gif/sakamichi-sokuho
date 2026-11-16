@@ -1,107 +1,70 @@
 {
-  "updatedAt": "2026-11-16T06:40:12.242Z",
+  "updatedAt": "2026-11-16T22:12:55.757Z",
   "articles": [
     {
-      "id": "3026ecb9c2b92ebe",
-      "title": "【ライブレポート】櫻坂46、＜6th YEAR ANNIVERSARY LIVE＞開催。2代目キャプテン・松田里奈の卒業セレモニーも",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1104761",
-      "publishedAt": "2026-11-16T06:21:16.000Z",
-      "summary": "櫻坂46の単独ライブ＜6th YEAR ANNIVERSARY LIVE＞が11月14日、15日に千葉・ZOZOマリンスタジアムにて開催された。オフィシャルからのレポートをお届けする。 ◆ライブ写真 欅坂46から櫻坂46に改名し、2020年12月9日に1stシングル「Nobody’s fault」をリリースしてから、まもなく6周年を迎えようとするタイミングに",
+      "id": "58e836b520ad818f",
+      "title": "長濱ねる、『ハボウの轍』で主演のジェシーと“極秘バディ”結成 「関係性を築きやすかった」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2585469.html",
+      "publishedAt": "2026-11-16T21:00:26.000Z",
+      "summary": "フジテレビ系にて2027年1月より放送が始まる火曜9時枠ドラマ『ハボウの轍』で、長濱ねるが主演のジェシー（SixTONES）演じる公安調査官・土師空也のバディとなる新人調査官・葉月陽（はづき・あきら）役を演じることが発表された。",
       "groups": [
+        "日向坂46",
         "櫻坂46"
       ],
       "statuses": [
-        "active",
         "og"
       ],
       "memberMatches": [
         {
-          "name": "小田倉麗奈",
-          "group": "櫻坂46",
-          "status": "active"
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
         },
         {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "田村保乃",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "中嶋優月",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "藤吉夏鈴",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "的野美青",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "村井優",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "森田ひかる",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山下瞳月",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "浅井恋乃未",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "松本和子",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "山田桃実",
-          "group": "櫻坂46",
-          "status": "active"
-        },
-        {
-          "name": "菅井友香",
+          "name": "長濱ねる",
           "group": "櫻坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "bcd4f86776c67ab6",
-      "title": "衛藤美彩、髪バッサリで雰囲気一変 イメチェン姿に「見惚れました」「凄く綺麗」と称賛の声",
+      "id": "a58d5f6c5afe5a50",
+      "title": "長濱ねる、SixTONESジェシーと“極秘バディ”に 来年1月スタート『ハボウの轍』で新人公安調査官役",
       "sourceName": "ENCOUNT",
       "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1099461/",
-      "publishedAt": "2026-11-16T05:45:49.000Z",
-      "summary": "西武・源田壮亮の妻で元乃木坂46の衛藤美彩（33）が16日までに、イメチェンした新ヘアスタイルを紹介した。「new camera」で自撮り 西武・源田壮亮の妻で元乃木坂46の衛藤美彩（33）が16日までに、イメチェンし […]",
+      "articleUrl": "https://encount.press/archives/1099573/",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "summary": "俳優の長濱ねるが、2027年1月スタートのフジテレビ系連続ドラマ『ハボウの轍 公安調査官・テロを防ぐ公務員』（火曜午後9時）に出演することが17日、発表された。地上波連続ドラマ初「公安調査庁」がテーマ 俳優の長濱ねるが […]",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "45f3ec0ea9b2b7a1",
+      "title": "なにわ男子 西畑大吾が笑わない弁護士、深川麻衣が幽霊に 『僕と彼女の49日』1月期放送",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2586147.html",
+      "publishedAt": "2026-11-16T20:00:45.000Z",
+      "summary": "なにわ男子の西畑大吾が主演を務め、深川麻衣がヒロイン役を務める連続ドラマ『僕と彼女の49日』が、テレビ朝日系「オシドラサタデー」枠にて2027年1月より毎週土曜23時から放送されることが決定した。 本作は、決して笑わ",
       "groups": [
         "乃木坂46"
       ],
@@ -110,7 +73,116 @@
       ],
       "memberMatches": [
         {
-          "name": "衛藤美彩",
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b0e6cd5c3a9bbe5c",
+      "title": "なにわ男子西畑大吾、初の弁護士役に「とてもワクワク」テレビ朝日１月期に深川麻衣と共演",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611160000987.html",
+      "publishedAt": "2026-11-16T20:00:00.000Z",
+      "summary": "なにわ男子の西畑大吾（29）が、テレビ朝日系「僕と彼女の49日」（27年1月スタート、土曜午後11時）で初めて弁護士を演じることが16日、分かった。幽霊になった女性から体を探す依頼を受け、同居生活を送る中でひかれ合っていく物語。ヒロイン…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "cc2c484c2f7b9f04",
+      "title": "日向坂46山下葉留花、大好きな先輩・河田陽菜とプライベートで卓球へ！服装のギャップに驚き!?「河田さんはモコモコの服を着て…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261116-5340079/",
+      "publishedAt": "2026-11-16T12:50:00.000Z",
+      "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。11月6日（金）の",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "髙橋未来虹",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下葉留花",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "松尾桜",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "河田陽菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1cec0113ca6f475a",
+      "title": "齋藤飛鳥＆令和ロマン くるま、『サタデー・ナイト・シアター』出演 特報映像＆場面写真も",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2585554.html",
+      "publishedAt": "2026-11-16T10:00:41.000Z",
+      "summary": "2027年春に公開される坂東龍汰と髙石あかりのW主演映画『サタデー・ナイト・シアター』の追加キャストとして、齋藤飛鳥、くるま（令和ロマン）の出演が決定。あわせて特報映像と場面写真が公開された。 「夜に駆ける」「アイド",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8487972c50e9589a",
+      "title": "坂東龍汰×髙石あかり『サタデー・ナイト・シアター』に齋藤飛鳥とくるまが出演、特報映像も解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95039/",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "summary": "坂東龍汰と髙石あかりが主演を務め、2027年春に公開される映画『サタデー・ナイト・シアター』の追加キャストとして齋藤飛鳥とくるま（令和ロマン）が発表され、特報映像が解禁された。 原作は、オルタナティヴロックバンド・羊文学の楽曲「夜を越えて」から着想を得て生まれた同名短編小説（ゆきはる著）。小説投稿サイト「monogatary.com」と羊文学がコラボした新人",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "齋藤飛鳥",
           "group": "乃木坂46",
           "status": "og"
         }
@@ -163,8 +235,8 @@
     {
       "id": "4b413c900b953a32",
       "title": "松村沙友理スタッフ公式X、不適切投稿で事務所が謝罪 タレント本人への同情相次ぐ「めっちゃとばっちり」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261115-5330054/",
       "publishedAt": "2026-11-15T05:25:04.000Z",
       "summary": "「所属タレント本人の意向を反映したものではございません」――タレントの松村沙友理のスタッフ公式Xが15日、更新され、運用担当者による不適切な投稿について、所属事務所のFIRST AGENTが謝罪。投稿を削除した経緯や担当者の変更、再発防止に向けた対応を説明した。",
@@ -177,28 +249,6 @@
       "memberMatches": [
         {
           "name": "松村沙友理",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "fa61070964e91223",
-      "title": "秋元真夏、スウェット×ミニスカをさらりと着こなす美脚ショットに反響",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/680928.html",
-      "publishedAt": "2026-11-14T12:45:26.000Z",
-      "summary": "元乃木坂46でタレントの秋元真夏が11月11日、自身のInstagramを更新。「お仕事の日の私服」とつづり、美脚がのぞくカジュアルなコーディネートを公開した。写真では、ゆったりとしたグレーのスウェットに同系色のミニスカートを合わせ、足元には黒のロングブーツを取り入れて ... The post 秋元真夏、スウェット×ミニスカをさらりと着こなす美脚ショットに",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "秋元真夏",
           "group": "乃木坂46",
           "status": "og"
         }
