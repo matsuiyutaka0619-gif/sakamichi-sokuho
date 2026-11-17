@@ -1,36 +1,14 @@
 {
-  "updatedAt": "2026-11-17T08:01:09.342Z",
+  "updatedAt": "2026-11-17T21:00:05.777Z",
   "articles": [
     {
-      "id": "0061a689153af8a2",
-      "title": "乃木坂46森平麗心がインフルエンザ感染で療養、６期生ライブ大阪公演は予定通り開催へ",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611170000941.html",
-      "publishedAt": "2026-11-17T06:56:08.000Z",
-      "summary": "乃木坂46森平麗心（18）がインフルエンザ感染のため一定期間療養となることが17日、公式サイトで発表された。 「森平麗心ですが、インフルエンザの感染が確認されたため、一定期間療養させていただくことになりました。11月17日(火)・18日…",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "森平麗心",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "7f34f3a2810ad18f",
-      "title": "与田祐希、ヘアバンド姿でクッションをぎゅっ 愛くるしいオフショットに「かわいい」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2586526.html",
-      "publishedAt": "2026-11-17T04:50:18.000Z",
-      "summary": "与田祐希が主演を務めるドラマ『溺愛カレシの作り方 ～セから本命になる女の子の話～』（テレビ東京系）の公式Instagramが11月16日に更新され、与田の撮影中のオフショットが公開された。 同作は、市役所で働く白井桜",
+      "id": "41e70e1ec7e75cb6",
+      "title": "桑田佳祐、5年ぶりに『ベストアーティスト2026』出演決定。新曲「神々の襷（たすき）」TV歌唱も",
+      "sourceName": "BARKS",
+      "sourceUrl": "https://www.barks.jp/feed/",
+      "articleUrl": "https://barks.jp/news/1105066",
+      "publishedAt": "2026-11-17T20:00:00.000Z",
+      "summary": "桑田佳祐が、2026年11月28日に生放送される日本テレビ系音楽の祭典『ベストアーティスト2026』へ5年ぶりに出演することを発表した。 2001年の放送開始から今年で25周年を迎える『ベストアーティスト』。2026年は「音楽の旅」をテーマに、この1年を音楽とともに振り返りながら、総勢約40組のアーティストが出演する5時間の生放送で届けられる。その記念すべき",
       "groups": [
         "乃木坂46"
       ],
@@ -39,17 +17,71 @@
       ],
       "memberMatches": [
         {
-          "name": "与田祐希",
+          "name": "市來玲奈",
           "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
+      "id": "aaf7c629cee90c2e",
+      "title": "元乃木坂46の山崎怜奈、第１子出産発表 松村沙友理、衛藤美彩ら乃木坂46のOG出産相次ぐ",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611170001862.html",
+      "publishedAt": "2026-11-17T11:45:00.000Z",
+      "summary": "元乃木坂46の山崎怜奈（29）が17日、自身の公式サイトを更新し、第1子出産を発表した。 「お世話になっている皆さまへ」と題し、「私事で恐縮ではございますが、このたび第一子を出産いたしました」と報告。「生放送のレギュラー番組をはじめとす…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "衛藤美彩",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "松村沙友理",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "6e84955f0ba1985f",
+      "title": "生見愛瑠、山﨑天らが来場！ルイ・ヴィトンのホリデー企画が渋谷で開幕",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/680840.html",
+      "publishedAt": "2026-11-17T11:00:10.000Z",
+      "summary": "ルイ・ヴィトンは11月7日、東京・MIYASHITA PARKのルイ・ヴィトン 渋谷メンズ店で「ルイ・ヴィトン 2026 ホリデー・インスタレーション in 渋谷」をスタートした。前日の6日に行われたプレスイベントには、赤楚衛二、磯村勇斗、髙石あかり、生見愛瑠、山﨑天、 ... The post 生見愛瑠、山﨑天らが来場！ルイ・ヴィトンのホリデー企画が渋谷で",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "山﨑天",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
       "id": "cc2c484c2f7b9f04",
       "title": "日向坂46山下葉留花、大好きな先輩・河田陽菜とプライベートで卓球へ！服装のギャップに驚き!?「河田さんはモコモコの服を着て…」",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261116-5340079/",
       "publishedAt": "2026-11-16T12:50:00.000Z",
       "summary": "日向坂46の髙橋未来虹、藤嶌果歩、山下葉留花、松尾桜が週替わりでパーソナリティを務めるTOKYO FMのラジオ番組「ローソン presents 日向坂46のほっとひといき！」（毎週金曜 11:30～11:55）。この番組は、ランチ前に「ほっ」とするような“癒やし”の時間をお届けすることを目指していますが、たまに（？）脱線してしまう番組です。11月6日（金）の",
