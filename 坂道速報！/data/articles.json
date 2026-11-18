@@ -1,14 +1,64 @@
 {
-  "updatedAt": "2026-11-17T21:00:05.777Z",
+  "updatedAt": "2026-11-18T07:37:34.087Z",
   "articles": [
     {
-      "id": "41e70e1ec7e75cb6",
-      "title": "桑田佳祐、5年ぶりに『ベストアーティスト2026』出演決定。新曲「神々の襷（たすき）」TV歌唱も",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1105066",
-      "publishedAt": "2026-11-17T20:00:00.000Z",
-      "summary": "桑田佳祐が、2026年11月28日に生放送される日本テレビ系音楽の祭典『ベストアーティスト2026』へ5年ぶりに出演することを発表した。 2001年の放送開始から今年で25周年を迎える『ベストアーティスト』。2026年は「音楽の旅」をテーマに、この1年を音楽とともに振り返りながら、総勢約40組のアーティストが出演する5時間の生放送で届けられる。その記念すべき",
+      "id": "d6c33696efeab07c",
+      "title": "山崎怜奈の冠ラジオで第1子出産を祝福 代演の潮紗理菜「うれしいニュースがありました」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611180001224.html",
+      "publishedAt": "2026-11-18T06:49:07.000Z",
+      "summary": "元日向坂46でタレントの潮紗理菜（28）が18日、代打パーソナリティーを務めるTOKYO FM「山崎怜奈の誰かに話したかったこと。」（月～木曜午後1時）に出演。第1子出産を発表したパーソナリティーの元乃木坂46山崎怜奈を祝った。 山崎は…",
+      "groups": [
+        "乃木坂46",
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "山崎怜奈",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8416887c17af7af7",
+      "title": "「1日20時間」クイズ勉強する影山優佳 伊集院光が『Qさま』攻略法を伝授「今だから言えるけど…」",
+      "sourceName": "Sirabee",
+      "sourceUrl": "https://sirabee.com/feed/",
+      "articleUrl": "https://sirabee.com/2026/11/18/20163599635/",
+      "publishedAt": "2026-11-18T06:00:00.000Z",
+      "summary": "17日深夜放送『伊集院光＆佐久間宣行の勝手にテレ東批評』（テレビ東京系）で、芸能界屈指のクイズ実力者でもあるタレント・伊集院光が、人気クイズ番組『クイズプレゼンバラエティー Qさま!!』（テレビ朝日系）で好成績をおさめる…",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "影山優佳",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "74e886c2d2e29122",
+      "title": "与田祐希×吉川愛×菊地姫奈、3人の“凛子”が並ぶ 『ガチャ-廻世界-』メインビジュアル公開",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2587362.html",
+      "publishedAt": "2026-11-18T04:00:31.000Z",
+      "summary": "2027年2月19日より全国公開される、与田祐希、吉川愛、菊地姫奈がトリプル主演を務める映画『ガチャ-廻世界-』の本ビジュアルとメインカットが公開された。 本作は、廻すだけで生まれ変われる “転生ガチャ”を題材にした",
       "groups": [
         "乃木坂46"
       ],
@@ -17,20 +67,20 @@
       ],
       "memberMatches": [
         {
-          "name": "市來玲奈",
+          "name": "与田祐希",
           "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "aaf7c629cee90c2e",
-      "title": "元乃木坂46の山崎怜奈、第１子出産発表 松村沙友理、衛藤美彩ら乃木坂46のOG出産相次ぐ",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611170001862.html",
-      "publishedAt": "2026-11-17T11:45:00.000Z",
-      "summary": "元乃木坂46の山崎怜奈（29）が17日、自身の公式サイトを更新し、第1子出産を発表した。 「お世話になっている皆さまへ」と題し、「私事で恐縮ではございますが、このたび第一子を出産いたしました」と報告。「生放送のレギュラー番組をはじめとす…",
+      "id": "a108e48aadf52c80",
+      "title": "与田祐希×吉川愛×菊地姫奈の背後に謎の仮面、岩瀬洋志も恐怖する『ガチャ-廻世界-』本ビジュアル解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95128/",
+      "publishedAt": "2026-11-18T04:00:00.000Z",
+      "summary": "与田祐希、吉川愛、菊地姫奈がトリプル主演を務め、2027年2月19日(金)に全国公開される映画『ガチャ-廻世界-』（読み：かんせかい）の本ビジュアルが解禁された。 本作は、廻すだけで生まれ変われる“転生ガチャ”を題材にしたホラー映画。突如現れた謎のカプセルトイによって“理想の人生に転生できる”、そんな欲望をきっかけに動き出す恐怖の物語だ。脚本・監督は、ドラマ",
       "groups": [
         "乃木坂46"
       ],
@@ -39,19 +89,114 @@
       ],
       "memberMatches": [
         {
-          "name": "衛藤美彩",
+          "name": "与田祐希",
           "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "97d026b8c1c72f4a",
+      "title": "日向坂46とオードリー、“あだ名”が物語る8年間の関係性 かほりん、かとし、おたけ呼びに見る距離感の変化",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2585892.html",
+      "publishedAt": "2026-11-18T03:10:19.000Z",
+      "summary": "『日向坂で会いましょう』で若林正恭が藤嶌果歩を「かほりん」と呼んだことが話題に。高本彩花の「おたけ」、加藤史帆の「かとし」、そしてあだ名を求める五期生たちまで、“呼び方”にはオードリーと日向坂46が8年半かけて築いてきた関係性が映し出されている。世代交代の中で変化する両者の距離を辿る。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "藤嶌果歩",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "加藤史帆",
+          "group": "日向坂46",
           "status": "og"
         },
         {
-          "name": "松村沙友理",
+          "name": "高本彩花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8cde9476d6a03e87",
+      "title": "白石麻衣“11変化”SPルック！『MASH Illumination 2026 by BLACK FRIDAY』公式ミューズ",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/fashion/208916",
+      "publishedAt": "2026-11-18T03:00:17.000Z",
+      "summary": "俳優でモデル・白石麻衣が株式会社マッシュホールディングスのアパレルショップブランドのブラックフライデーイベント『MASH Illumination 2026 by BLACK FRIDAY』公式ミューズに起用されたこと...",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "白石麻衣",
           "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "62380f09f9181a22",
+      "title": "長濱ねる、黒の細ストラップコーデでYSLへ！旅好きの母に贈りたいコスメは",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/681436.html",
+      "publishedAt": "2026-11-18T01:00:31.000Z",
+      "summary": "長濱ねるが11月12日、東京・表参道で開かれたイヴ・サンローラン・ボーテのホリデープライベートパーティーに来場した。肩まわりをすっきり見せる黒の細ストラップの装いに、顔まわりの髪をゆるく流したヘアスタイルを合わせた。公開された写真では、ピンクのコスメを頬のそばに掲げ、柔 ... The post 長濱ねる、黒の細ストラップコーデでYSLへ！旅好きの母に贈りた",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
           "status": "og"
         },
         {
-          "name": "山崎怜奈",
-          "group": "乃木坂46",
+          "name": "長濱ねる",
+          "group": "櫻坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "fade5dc8c9383f22",
+      "title": "乃木坂46賀喜遥香「私も思っています（笑）」約2年間続いているアーティスト写真の共通点とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261118-5350006/",
+      "publishedAt": "2026-11-17T20:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月12日（木）の放送では、作品がリリースされるたびに撮影するアーティスト写真について語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -160,28 +305,6 @@
         {
           "name": "井上和",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e0f18f2e515947a7",
-      "title": "櫻坂46 単独ライブ『6th YEAR ANNIVERSARY LIVE』＆松田里奈の卒業セレモニー公式レポート",
-      "sourceName": "Edge Line",
-      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
-      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/208809",
-      "publishedAt": "2026-11-15T15:29:42.000Z",
-      "summary": "アイドルグループ『櫻坂46』が11月14日と11月15日に千葉・ZOZOマリンスタジアムでの単独ライブ『6th YEAR ANNIVERSARY LIVE』を開催。2代目キャプテン・松田里奈の卒業セレモニーも行われるな...",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "松田里奈",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
