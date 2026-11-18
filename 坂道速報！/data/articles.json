@@ -1,52 +1,60 @@
 {
-  "updatedAt": "2026-11-18T07:37:34.087Z",
+  "updatedAt": "2026-11-18T20:38:06.425Z",
   "articles": [
     {
-      "id": "d6c33696efeab07c",
-      "title": "山崎怜奈の冠ラジオで第1子出産を祝福 代演の潮紗理菜「うれしいニュースがありました」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611180001224.html",
-      "publishedAt": "2026-11-18T06:49:07.000Z",
-      "summary": "元日向坂46でタレントの潮紗理菜（28）が18日、代打パーソナリティーを務めるTOKYO FM「山崎怜奈の誰かに話したかったこと。」（月～木曜午後1時）に出演。第1子出産を発表したパーソナリティーの元乃木坂46山崎怜奈を祝った。 山崎は…",
+      "id": "51e32dfc9490065a",
+      "title": "高山一実、肩掛けジャケットと黒ミニスカートで魅せる美脚ショットを公開",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/681549.html",
+      "publishedAt": "2026-11-18T13:45:25.000Z",
+      "summary": "元乃木坂46でタレントの高山一実が先日、自身のInstagramを更新。ファッションブランド・Déci Coutureの一周年記念ポップアップを訪れ、美脚が目を引くコーディネートを公開した。高山は、大好きなブランドだと紹介し、「一周年記念POPUPにお邪魔してきました」 ... The post 高山一実、肩掛けジャケットと黒ミニスカートで魅せる美脚ショット",
       "groups": [
-        "乃木坂46",
-        "日向坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "山崎怜奈",
+          "name": "高山一実",
           "group": "乃木坂46",
-          "status": "og"
-        },
-        {
-          "name": "潮紗理菜",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "8416887c17af7af7",
-      "title": "「1日20時間」クイズ勉強する影山優佳 伊集院光が『Qさま』攻略法を伝授「今だから言えるけど…」",
-      "sourceName": "Sirabee",
-      "sourceUrl": "https://sirabee.com/feed/",
-      "articleUrl": "https://sirabee.com/2026/11/18/20163599635/",
-      "publishedAt": "2026-11-18T06:00:00.000Z",
-      "summary": "17日深夜放送『伊集院光＆佐久間宣行の勝手にテレ東批評』（テレビ東京系）で、芸能界屈指のクイズ実力者でもあるタレント・伊集院光が、人気クイズ番組『クイズプレゼンバラエティー Qさま!!』（テレビ朝日系）で好成績をおさめる…",
+      "id": "542f401dacd69298",
+      "title": "HYBE JAPAN、KeyHolderを買収へ SKE48・乃木坂46関連事業、『鬼レンチャン』『トークサバイバー!』制作会社などを傘下に",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261118-5353788/",
+      "publishedAt": "2026-11-18T09:50:26.000Z",
+      "summary": "韓国の大手エンターテインメント企業・HYBEの日本本社であるHYBE JAPANは18日、日本の総合エンターテインメント企業・KeyHolderを買収すると発表した。アーティストマネジメントからテレビ番組・映画制作まで幅広い事業を展開する同社を傘下に収め、日本市場における事業基盤の拡大を図る。",
       "groups": [
-        "日向坂46"
+        "乃木坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "21ecb1b7c64c4094",
+      "title": "「私の体を探して」――引っ越したばかりのマンションのクローゼットの中にいた自分にしか見えない女性と奇妙な同居生活 なにわ男子・西畑大吾、オシドラサタデー『僕と彼女の49日』主演で笑わない弁護士役",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261118-5345788/",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "summary": "なにわ男子の西畑大吾が、2027年1月スタートのテレビ朝日系オシドラサタデー『僕と彼女の49日』(毎週土曜23:00～23:30)で主演を務めることが決定した。ヒロインには深川麻衣を迎え、2人は今回が初共演となる。",
+      "groups": [
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "影山優佳",
-          "group": "日向坂46",
+          "name": "深川麻衣",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
@@ -91,39 +99,6 @@
         {
           "name": "与田祐希",
           "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "97d026b8c1c72f4a",
-      "title": "日向坂46とオードリー、“あだ名”が物語る8年間の関係性 かほりん、かとし、おたけ呼びに見る距離感の変化",
-      "sourceName": "リアルサウンド 音楽",
-      "sourceUrl": "https://realsound.jp/music/feed",
-      "articleUrl": "https://realsound.jp/2026/11/post-2585892.html",
-      "publishedAt": "2026-11-18T03:10:19.000Z",
-      "summary": "『日向坂で会いましょう』で若林正恭が藤嶌果歩を「かほりん」と呼んだことが話題に。高本彩花の「おたけ」、加藤史帆の「かとし」、そしてあだ名を求める五期生たちまで、“呼び方”にはオードリーと日向坂46が8年半かけて築いてきた関係性が映し出されている。世代交代の中で変化する両者の距離を辿る。",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [
-        "active",
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "藤嶌果歩",
-          "group": "日向坂46",
-          "status": "active"
-        },
-        {
-          "name": "加藤史帆",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "高本彩花",
-          "group": "日向坂46",
           "status": "og"
         }
       ]
@@ -181,8 +156,8 @@
     {
       "id": "fade5dc8c9383f22",
       "title": "乃木坂46賀喜遥香「私も思っています（笑）」約2年間続いているアーティスト写真の共通点とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261118-5350006/",
       "publishedAt": "2026-11-17T20:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月12日（木）の放送では、作品がリリースされるたびに撮影するアーティスト写真について語りました。",
@@ -284,28 +259,6 @@
           "name": "齋藤飛鳥",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "fee8d15ccd8b8e1f",
-      "title": "乃木坂46、井上和がセンターの新曲「君ロス」MV公開！12月に日本武道館で大感謝祭",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/680756.html",
-      "publishedAt": "2026-11-16T03:00:55.000Z",
-      "summary": "乃木坂46が11月11日、43枚目のシングル「君ロス」の先行配信を開始し、ミュージックビデオを公開した。表題曲では、5期生の井上和が自身4度目のセンターを務める。CDは12月2日（水）に発売される。先行配信とMV公開の情報は、YouTubeチャンネル「乃木坂配信中」の5 ... The post 乃木坂46、井上和がセンターの新曲「君ロス」MV公開！12月に",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
