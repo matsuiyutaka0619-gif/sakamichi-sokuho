@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-18T20:38:06.425Z",
+  "updatedAt": "2026-11-19T07:32:56.034Z",
   "articles": [
+    {
+      "id": "3e3e6b7fc5e85712",
+      "title": "乃木坂46賀喜遥香「よくお家で食べていて…」祖父母の故郷・徳島県の大好きな名産品とは？",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261119-5357536/",
+      "publishedAt": "2026-11-18T20:50:00.000Z",
+      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月12日（木）の放送では、遥香先生が出演したイベント「マチ★アソビ vol.31」のことや、開催地・徳島県の思い出を語りました。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "51e32dfc9490065a",
       "title": "高山一実、肩掛けジャケットと黒ミニスカートで魅せる美脚ショットを公開",
@@ -26,8 +48,8 @@
     {
       "id": "542f401dacd69298",
       "title": "HYBE JAPAN、KeyHolderを買収へ SKE48・乃木坂46関連事業、『鬼レンチャン』『トークサバイバー!』制作会社などを傘下に",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261118-5353788/",
       "publishedAt": "2026-11-18T09:50:26.000Z",
       "summary": "韓国の大手エンターテインメント企業・HYBEの日本本社であるHYBE JAPANは18日、日本の総合エンターテインメント企業・KeyHolderを買収すると発表した。アーティストマネジメントからテレビ番組・映画制作まで幅広い事業を展開する同社を傘下に収め、日本市場における事業基盤の拡大を図る。",
@@ -40,8 +62,8 @@
     {
       "id": "21ecb1b7c64c4094",
       "title": "「私の体を探して」――引っ越したばかりのマンションのクローゼットの中にいた自分にしか見えない女性と奇妙な同居生活 なにわ男子・西畑大吾、オシドラサタデー『僕と彼女の49日』主演で笑わない弁護士役",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261118-5345788/",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "summary": "なにわ男子の西畑大吾が、2027年1月スタートのテレビ朝日系オシドラサタデー『僕と彼女の49日』(毎週土曜23:00～23:30)で主演を務めることが決定した。ヒロインには深川麻衣を迎え、2人は今回が初共演となる。",
@@ -54,28 +76,6 @@
       "memberMatches": [
         {
           "name": "深川麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "74e886c2d2e29122",
-      "title": "与田祐希×吉川愛×菊地姫奈、3人の“凛子”が並ぶ 『ガチャ-廻世界-』メインビジュアル公開",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2587362.html",
-      "publishedAt": "2026-11-18T04:00:31.000Z",
-      "summary": "2027年2月19日より全国公開される、与田祐希、吉川愛、菊地姫奈がトリプル主演を務める映画『ガチャ-廻世界-』の本ビジュアルとメインカットが公開された。 本作は、廻すだけで生まれ変われる “転生ガチャ”を題材にした",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "与田祐希",
           "group": "乃木坂46",
           "status": "og"
         }
