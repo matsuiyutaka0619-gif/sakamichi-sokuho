@@ -1,11 +1,55 @@
 {
-  "updatedAt": "2026-11-19T07:32:56.034Z",
+  "updatedAt": "2026-11-19T20:43:23.262Z",
   "articles": [
+    {
+      "id": "8176ea0430bcc444",
+      "title": "『めおと日和』“瀧昌”本田響矢のキスに大人の色気 “ふかふみ”にも本作屈指の名シーンが",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2588859.html",
+      "publishedAt": "2026-11-19T14:10:15.000Z",
+      "summary": "『波うららかに、めおと日和』（フジテレビ系）続編の第6話では、なつ美（芳根京子）と瀧昌（本田響矢）、そして芙美子（生田絵梨花）と深見（小関裕太）という2組の夫婦が、それぞれの愛のかたちを確かめるようにキスを交わした。これまでの初々しさを脱ぎ捨て大胆な姿を見せた瀧昌と、軽口を交えながら妻の痛みを包み込む深見。対照的な2組のやりとりに、胸がぎゅっと締め付けられる",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "35574a399b2578ed",
+      "title": "「減った気が…」「誰もいない」8年間のアイドル時代と卒業後で誕生日にギャップ 元日向坂46富田鈴花、寂しさから始めたこととは",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261119-5353365/",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "summary": "元日向坂46の富田鈴花が、17日に配信されたニッポン放送のビデオポッドキャスト番組『Looopでんき presents 佐藤満春・富田鈴花の2人におまかせ』(毎週火曜18:00～)に出演。アイドル卒業後に迎えた誕生日を振り返り、寂しさを感じたことを明かした。",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "富田鈴花",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "3e3e6b7fc5e85712",
       "title": "乃木坂46賀喜遥香「よくお家で食べていて…」祖父母の故郷・徳島県の大好きな名産品とは？",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261119-5357536/",
       "publishedAt": "2026-11-18T20:50:00.000Z",
       "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月12日（木）の放送では、遥香先生が出演したイベント「マチ★アソビ vol.31」のことや、開催地・徳島県の思い出を語りました。",
@@ -171,28 +215,6 @@
         {
           "name": "賀喜遥香",
           "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "6e84955f0ba1985f",
-      "title": "生見愛瑠、山﨑天らが来場！ルイ・ヴィトンのホリデー企画が渋谷で開幕",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/fashion2/680840.html",
-      "publishedAt": "2026-11-17T11:00:10.000Z",
-      "summary": "ルイ・ヴィトンは11月7日、東京・MIYASHITA PARKのルイ・ヴィトン 渋谷メンズ店で「ルイ・ヴィトン 2026 ホリデー・インスタレーション in 渋谷」をスタートした。前日の6日に行われたプレスイベントには、赤楚衛二、磯村勇斗、髙石あかり、生見愛瑠、山﨑天、 ... The post 生見愛瑠、山﨑天らが来場！ルイ・ヴィトンのホリデー企画が渋谷で",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "山﨑天",
-          "group": "櫻坂46",
           "status": "active"
         }
       ]
