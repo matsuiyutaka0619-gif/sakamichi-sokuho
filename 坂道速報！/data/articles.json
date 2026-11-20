@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-20T07:25:15.283Z",
+  "updatedAt": "2026-11-20T20:27:52.216Z",
   "articles": [
+    {
+      "id": "1882269b35b1ec48",
+      "title": "ROIROM浜川路己「ピチピチの20歳でやってますよ！」遠山大輔からの“40代”疑惑に本多大夢も言及「鼻歌でふいに演歌を…」",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261120-5370015/",
+      "publishedAt": "2026-11-20T11:50:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。11月14日（土）の放送には、アイドルデュオ・ROIROM（本多大夢さん、浜川路己さん）が登場！ 今年10月に開催したライブツアー「ROIROM FANCLUB TOUR 2026 “LIG",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "潮紗理菜",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "37e5dea2167622ed",
+      "title": "櫻坂46が音楽的成熟を見せつけた6thアニラ、新体制前夜につないだ松田里奈の物語とは",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95200/",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "summary": "雨。嬉しくはない。だが、格好の舞台とパフォーマンスが用意されていれば、その冷たさは記憶に深く染み込んで鮮やかな血肉へと変わる。11月15日の千葉県の、ZOZOマリンスタジアムがそうであったように。 櫻坂46による「6th YEAR ANNIVERSARY LIVE」のDAY2。今春にはMUFGスタジアム（国立競技場）で「5th YEAR ANNIVERSAR",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "松田里奈",
+          "group": "櫻坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "b623772e3d3df924",
       "title": "『めおと日和』2組の夫婦の対照的な“KI”に悶絶「キュンしすぎて、キュンシする!」 うぶキュンと大人の色気",
@@ -273,33 +317,6 @@
           "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "e58a553886a80b25",
-      "title": "乃木坂46 賀喜遥香「全員4期生のことが大好き！」遠藤さくら発案の企画で感じた“同期の絆”",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261112-5310925/",
-      "publishedAt": "2026-11-12T12:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月5日（木）の放送では、乃木坂46の公式YouTubeチャンネル「乃木坂配信中」の撮影で、同期の4期生メンバーと行った東武動物公園（埼玉県）の思い出を語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "遠藤さくら",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
