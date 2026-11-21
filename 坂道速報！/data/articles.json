@@ -1,25 +1,83 @@
 {
-  "updatedAt": "2026-11-21T07:18:07.427Z",
+  "updatedAt": "2026-11-21T19:22:32.818Z",
   "articles": [
     {
-      "id": "cc5922986a671e60",
-      "title": "『第68回 輝く！日本レコード大賞』各賞受賞者が決定",
-      "sourceName": "BARKS",
-      "sourceUrl": "https://www.barks.jp/feed/",
-      "articleUrl": "https://barks.jp/news/1105921",
-      "publishedAt": "2026-11-21T02:08:39.000Z",
-      "summary": "2026年の『日本レコード大賞』候補となる「優秀作品賞」「最優秀新人賞」候補となる「新人賞」など、各賞の受賞者＆曲が決定した。 各賞受賞者＆曲は下記の通り。 なお、『第68回 輝く！日本レコード大賞』は、12月30日（水）よる5時30分から10時までの4時間半にわたり生放送される。 ◆ ◆ ◆ 【優秀作品賞】（※曲名50音順）「愛のFIRE」新浜レオン「It",
+      "id": "070b3305bc204026",
+      "title": "日向坂46、４年ぶり「ひなくり」開幕「年の瀬まで…夢中に」19枚目シングル発売も発表",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611210002301.html",
+      "publishedAt": "2026-11-21T13:39:44.000Z",
+      "summary": "日向坂46が21日、兵庫・神戸ワールド記念ホールで、「ひなくり2026」の初日を迎えた。 同公演は日向坂46が毎年12月に開催していたライブイベントで、4年ぶりの開催。今回はアリーナツアーとして兵庫、東京、愛知の3都市9公演を回る。 キ…",
       "groups": [
-        "櫻坂46"
+        "日向坂46"
       ],
       "statuses": [],
       "memberMatches": []
     },
     {
-      "id": "1882269b35b1ec48",
-      "title": "ROIROM浜川路己「ピチピチの20歳でやってますよ！」遠山大輔からの“40代”疑惑に本多大夢も言及「鼻歌でふいに演歌を…」",
+      "id": "6781a06b8671ebe0",
+      "title": "日向坂46アリーナツアー『ひなくり2026』開幕！新曲タイトルは『アーカイブ』に",
+      "sourceName": "Edge Line",
+      "sourceUrl": "https://www.edgeline-tokyo.com/feed",
+      "articleUrl": "https://www.edgeline-tokyo.com/entertainment/209135",
+      "publishedAt": "2026-11-21T12:31:31.000Z",
+      "summary": "アイドルグループ『日向坂46』が11月21日に兵庫・神戸ワールド記念ホールでARENA TOUR『ひなくり2026』にてツアー初日を開催した。 “ひなくり”は、『日向坂46』が毎年12月に開催していたライブイベントで...",
+      "groups": [
+        "日向坂46"
+      ],
+      "statuses": [],
+      "memberMatches": []
+    },
+    {
+      "id": "cd6d23585fff6211",
+      "title": "YENAが再び関コレへ！阪口珠美・中村ゆりから追加出演者発表「KANSAI COLLECTION 2027 SPRING＆SUMMER」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/682949.html",
+      "publishedAt": "2026-11-21T09:00:40.000Z",
+      "summary": "2027年2月23日に京セラドーム大阪で開催される「KANSAI COLLECTION 2027 SPRING＆SUMMER」の第2弾出演者が発表された。ライブステージには、IZ*ONE出身のソロアーティスト・YENAが再び登場。過去の関コレでもライブパフォーマンスとラ ... The post YENAが再び関コレへ！阪口珠美・中村ゆりから追加出演者発表「",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "阪口珠美",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "8d39155cdc842b01",
+      "title": "フジ原田葵アナは「出会ってきた人の中で一番メンタルが強い」 後輩・高崎春アナが明かす頼もしさ",
       "sourceName": "マイナビニュース エンタメ",
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261121-5370642/",
+      "publishedAt": "2026-11-21T09:00:00.000Z",
+      "summary": "フジテレビの原田葵アナウンサーと高崎春アナウンサーが、同局系情報番組『めざましテレビ』(毎週月～金曜5:25～)の新コーナー「アオハル旅」に登場。23日の放送では、紅葉シーズンを迎えた京都を巡る初めての2人旅を届ける。",
+      "groups": [
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "原田葵",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "1882269b35b1ec48",
+      "title": "ROIROM浜川路己「ピチピチの20歳でやってますよ！」遠山大輔からの“40代”疑惑に本多大夢も言及「鼻歌でふいに演歌を…」",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261120-5370015/",
       "publishedAt": "2026-11-20T11:50:00.000Z",
       "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。11月14日（土）の放送には、アイドルデュオ・ROIROM（本多大夢さん、浜川路己さん）が登場！ 今年10月に開催したライブツアー「ROIROM FANCLUB TOUR 2026 “LIG",
@@ -1109,28 +1167,6 @@
       "articleUrl": "https://bezzy.jp/2026/09/92208/",
       "publishedAt": "2026-09-16T15:10:00.000Z",
       "summary": "櫻坂46が、10月14日(水)にリリースする最新シングルの表題曲「愛MUST BE」のMusic Videoを公開した。 今作のセンターは、表題曲では初となる三期生の谷口愛季。優しさの連鎖により愛が愛を生み出す未来を願う楽曲となっており、Music Videoの監督は6thシングル「Start over!」や2ndアルバムリード曲「Addiction」、14",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "e5d4aefa8615b4e7",
-      "title": "櫻坂46、谷口愛季センターの『愛MUST BE』新ビジュアル解禁 ティザーではその撮影風景も",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/09/92065/",
-      "publishedAt": "2026-09-14T01:05:00.000Z",
-      "summary": "櫻坂46が、10月14日(水)にリリースする16thシングル『愛MUST BE』の新アーティストビジュアルを公開した。 昨夜放送されたレギュラー番組「そこ曲がったら、櫻坂？」内で発表された今作のフォーメーションでセンターを務めるのは三期生・谷口愛季。表題曲としては初めてのセンターとなり、番組内のインタビューで谷口は「不安な気持ちは、少しはあるんですけど、期待",
       "groups": [
         "櫻坂46"
       ],
