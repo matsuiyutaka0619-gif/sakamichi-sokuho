@@ -1,19 +1,66 @@
 {
-  "updatedAt": "2026-11-21T19:22:32.818Z",
+  "updatedAt": "2026-11-22T06:58:49.115Z",
   "articles": [
     {
-      "id": "070b3305bc204026",
-      "title": "日向坂46、４年ぶり「ひなくり」開幕「年の瀬まで…夢中に」19枚目シングル発売も発表",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611210002301.html",
-      "publishedAt": "2026-11-21T13:39:44.000Z",
-      "summary": "日向坂46が21日、兵庫・神戸ワールド記念ホールで、「ひなくり2026」の初日を迎えた。 同公演は日向坂46が毎年12月に開催していたライブイベントで、4年ぶりの開催。今回はアリーナツアーとして兵庫、東京、愛知の3都市9公演を回る。 キ…",
+      "id": "4ce4ed2613bfb5c2",
+      "title": "白石麻衣、冬を彩る華やかなスペシャルルックを披露！MASHブラックフライデー公式ミューズ就任「着替えるたびにワクワク」",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/683072.html",
+      "publishedAt": "2026-11-22T02:00:20.000Z",
+      "summary": "白石麻衣が、11月26日から12月2日まで開催される「MASH Illumination 2026 by BLACK FRIDAY」の公式ミューズに就任。キャンペーンページや限定CMで、冬にふさわしい華やかなスタイリングを披露している。今回のテーマは「きらめき」。白石は ... The post 白石麻衣、冬を彩る華やかなスペシャルルックを披露！MASHブラ",
       "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "bb03f8e73fb7b293",
+      "title": "山下美月・加藤史帆・生見愛瑠ら専属モデル9人が全員表紙！『CanCam』創刊45周年号で華やかなドレス姿＆本音インタビュー",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/fashion2/683042.html",
+      "publishedAt": "2026-11-21T21:00:24.000Z",
+      "summary": "山下美月、加藤史帆、小室安未、生見愛瑠、白宮みずほ、田鍋梨々花、大野愛実（日向坂46）、立花琴未（CANDY TUNE）、川﨑桜（乃木坂46）が、11月20日発売の『CanCam』1月号通常版の表紙を飾った。創刊45周年を迎えた記念号に、専属モデル9人が集結。現在のメン ... The post 山下美月・加藤史帆・生見愛瑠ら専属モデル9人が全員表紙！『Ca",
+      "groups": [
+        "乃木坂46",
         "日向坂46"
       ],
-      "statuses": [],
-      "memberMatches": []
+      "statuses": [
+        "active",
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "大野愛実",
+          "group": "日向坂46",
+          "status": "active"
+        },
+        {
+          "name": "山下美月",
+          "group": "乃木坂46",
+          "status": "og"
+        },
+        {
+          "name": "加藤史帆",
+          "group": "日向坂46",
+          "status": "og"
+        }
+      ]
     },
     {
       "id": "6781a06b8671ebe0",
@@ -54,8 +101,8 @@
     {
       "id": "8d39155cdc842b01",
       "title": "フジ原田葵アナは「出会ってきた人の中で一番メンタルが強い」 後輩・高崎春アナが明かす頼もしさ",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261121-5370642/",
       "publishedAt": "2026-11-21T09:00:00.000Z",
       "summary": "フジテレビの原田葵アナウンサーと高崎春アナウンサーが、同局系情報番組『めざましテレビ』(毎週月～金曜5:25～)の新コーナー「アオハル旅」に登場。23日の放送では、紅葉シーズンを迎えた京都を巡る初めての2人旅を届ける。",
