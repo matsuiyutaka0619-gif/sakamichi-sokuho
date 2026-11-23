@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-22T19:46:21.853Z",
+  "updatedAt": "2026-11-23T07:47:55.735Z",
   "articles": [
     {
-      "id": "1c4dd5f6eee3e0fa",
-      "title": "『豊臣兄弟！』秀長はなぜ秀吉を見捨てなかったのか？ 第2回と呼応する“兄弟の原点”",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2591363.html",
-      "publishedAt": "2026-11-22T11:45:39.000Z",
-      "summary": "NHK大河ドラマ『豊臣兄弟！』第45回「天下人の暴走」では、関白殿下・秀吉（池松壮亮）の暴走が止まらない。茶々（井上和）の懐妊に喜びを爆発させる秀吉だったが、茶々のお腹に宿る子は秀吉の子ではないと揶揄する落書きに憤慨。",
+      "id": "b4208c70cc2b2d8c",
+      "title": "乃木坂46金川紗耶、地元凱旋ランウェー「憧れだったステージに立てる日が来るなんて」",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611230000892.html",
+      "publishedAt": "2026-11-23T05:49:33.000Z",
+      "summary": "乃木坂46金川紗耶（25）が23日までに自身のインスタグラムを更新し、22日に北海道・札幌市で開催された「SAPPORO COLLECTION 2026 AW」出演を振り返った。 「SAPPORO COLLECTION 2026 AWあ…",
       "groups": [
         "乃木坂46"
       ],
@@ -17,9 +17,97 @@
       ],
       "memberMatches": [
         {
-          "name": "井上和",
+          "name": "金川紗耶",
           "group": "乃木坂46",
           "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2dfc66edf2707066",
+      "title": "白石麻衣、公園の遊具で遊ぶプライベートショット 友人と韓国旅を満喫する姿も「親友が撮ってくれた」",
+      "sourceName": "リアルサウンド 音楽",
+      "sourceUrl": "https://realsound.jp/music/feed",
+      "articleUrl": "https://realsound.jp/2026/11/post-2591759.html",
+      "publishedAt": "2026-11-23T02:00:48.000Z",
+      "summary": "白石麻衣が友人との韓国旅行の様子を自身のInstagramに公開している。 2025年5月、韓国スキンケアブランド「BIOHEAL BOH（バイオヒールボ）」日本公式アンバサダー就任発表会で「韓国に行ったことがない」",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "340276ed1ce5da55",
+      "title": "久保史緒里が語る『南田南弁護士は天才肌』への覚悟 裁判傍聴で掴んだ新米弁護士の佇まい",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2589783.html",
+      "publishedAt": "2026-11-22T22:30:27.000Z",
+      "summary": "『南田南弁護士は天才肌』（カンテレ・フジテレビ系）で、主人公・南田南（芦田愛菜）の同僚であり、強い正義感と不器用さを抱える新米弁護士・朝日小春役を演じている久保史緒里。乃木坂46を卒業してから約1年、俳優として着実に地歩を固めつつある彼女に話を聞いた。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "125807ee19fece88",
+      "title": "生田絵梨花、赤いワンピース姿でクリスマスマーケット点灯式に登場！ドイツで過ごした幼少期の思い出も披露",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/actor/683257.html",
+      "publishedAt": "2026-11-22T22:30:21.000Z",
+      "summary": "俳優・アーティストの生田絵梨花が11月20日、東京・新豊洲さくら広場で開催された「東京クリスマスマーケット2026 in 新豊洲」の点灯式に登場した。赤いワンピースに白いファージャケットを合わせた生田は、来場者と声をそろえてカウントダウン。ボタンを押すと、会場のシンボル ... The post 生田絵梨花、赤いワンピース姿でクリスマスマーケット点灯式に登場",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "b9660981ae0e5b8a",
+      "title": "美絽に秘めた想いをぶつける稲葉通陽、司書役・深川麻衣も交錯する『17歳のプルーフ』本予告解禁",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95310/",
+      "publishedAt": "2026-11-22T22:00:00.000Z",
+      "summary": "美絽と稲葉通陽（B＆ZAI）がW主演を務め、2027年2月19日(金)に全国公開される映画『17歳のプルーフ』の本予告映像とメインビジュアル2種が解禁された。 本作は、古い小説に隠された秘密と高校2年生の揺れる心情を映し出す青春ミステリー。原作は「TSUTAYA CREATORS’ PROGRAM」（2022年）で審査員特別賞を受賞した『風よふけ、僕らの熱い",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "深川麻衣",
+          "group": "乃木坂46",
+          "status": "og"
         }
       ]
     },
