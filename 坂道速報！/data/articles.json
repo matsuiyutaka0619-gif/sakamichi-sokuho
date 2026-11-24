@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-24T09:59:56.088Z",
+  "updatedAt": "2026-11-24T22:31:13.285Z",
   "articles": [
+    {
+      "id": "bdd3eed7dc19d05e",
+      "title": "前田拳太郎＆久保史緒里「何とか逃げられないかなと思った」ホラー初挑戦も…実は大の苦手",
+      "sourceName": "日刊スポーツ 芸能",
+      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
+      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611240001951.html",
+      "publishedAt": "2026-11-24T21:55:00.000Z",
+      "summary": "前田拳太郎（27）が24日、都内で単独初主演映画「巨頭オ」（12月25日公開）完成披露上映会に登壇した。 06年2月22日にインターネット掲示板「2ちゃんねる」（現5ちゃんねる）に投稿された、数行の体験談の投稿から広がった都市伝説・怪談…",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "久保史緒里",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "a6ef38d0b0a08f65",
       "title": "乃木坂46井上和センター『君ロス』収録内容解禁！賀喜遥香＆遠藤さくらのユニット曲や神宮ライブ映像も",
@@ -213,34 +235,6 @@
       ]
     },
     {
-      "id": "2f1152ec45b31527",
-      "title": "長濱ねる、スレンダー美脚で冬のカジュアルスタイル",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/682190.html",
-      "publishedAt": "2026-11-22T10:45:45.000Z",
-      "summary": "タレントの長濱ねるが11月18日までに自身のInstagramを更新した。長濱ねるは赤のロゴが印象的なニットトップスにチェック柄のボトムスを合わせたカジュアルスタイルから、深みのあるレッドのロゴ入りニットやネイビーのクマ柄トップスを取り入れた装いまで、ナチュ ... The post 長濱ねる、スレンダー美脚で冬のカジュアルスタイル first appear",
-      "groups": [
-        "日向坂46",
-        "櫻坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "8d39155cdc842b01",
       "title": "フジ原田葵アナは「出会ってきた人の中で一番メンタルが強い」 後輩・高崎春アナが明かす頼もしさ",
       "sourceName": "マイナビニュース テレビ",
@@ -446,28 +440,6 @@
       "memberMatches": [
         {
           "name": "齋藤飛鳥",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "4b413c900b953a32",
-      "title": "松村沙友理スタッフ公式X、不適切投稿で事務所が謝罪 タレント本人への同情相次ぐ「めっちゃとばっちり」",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261115-5330054/",
-      "publishedAt": "2026-11-15T05:25:04.000Z",
-      "summary": "「所属タレント本人の意向を反映したものではございません」――タレントの松村沙友理のスタッフ公式Xが15日、更新され、運用担当者による不適切な投稿について、所属事務所のFIRST AGENTが謝罪。投稿を削除した経緯や担当者の変更、再発防止に向けた対応を説明した。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "松村沙友理",
           "group": "乃木坂46",
           "status": "og"
         }
