@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-11-23T23:58:36.214Z",
+  "updatedAt": "2026-11-24T09:59:56.088Z",
   "articles": [
+    {
+      "id": "a6ef38d0b0a08f65",
+      "title": "乃木坂46井上和センター『君ロス』収録内容解禁！賀喜遥香＆遠藤さくらのユニット曲や神宮ライブ映像も",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/683564.html",
+      "publishedAt": "2026-11-24T02:00:20.000Z",
+      "summary": "乃木坂46が12月2日に発売する43rdシングル『君ロス』の収録楽曲と歌唱メンバー、初回仕様限定盤の特典映像の内容が解禁された。全形態共通で収録されるのは、5期生・井上和がセンターを務める表題曲『君ロス』と、鈴木佑捺がフォーメーションセンターを務める6期生曲『一度好きに ... The post 乃木坂46井上和センター『君ロス』収録内容解禁！賀喜遥香＆遠藤",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
     {
       "id": "4b9e6a052b1e120f",
       "title": "日向坂46、初の『おひさま感謝祭』を日本武道館で2DAYS開催！メンバー全員でファンと新春を祝う",
@@ -14,28 +51,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "a6aeb98ca62214cf",
-      "title": "山下美月、1年ぶりに『ラヴィット！』出演 「朝からビジュ良い」「なんでこんな可愛いん？」とファン称賛",
-      "sourceName": "ENCOUNT",
-      "sourceUrl": "https://encount.press/feed/",
-      "articleUrl": "https://encount.press/archives/1103459/",
-      "publishedAt": "2026-11-23T22:20:00.000Z",
-      "summary": "TBS系『ラヴィット！』（月～金曜午前8時）が23日に放送され、1年ぶりに出演した27歳の元アイドルが話題となっている。1年ぶりに出演 TBS系『ラヴィット！』（月～金曜午前8時）が23日に放送され、1年ぶりに出演した […]",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "山下美月",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
     },
     {
       "id": "89b12ab626a2edc1",
@@ -226,28 +241,6 @@
       ]
     },
     {
-      "id": "4ce4ed2613bfb5c2",
-      "title": "白石麻衣、冬を彩る華やかなスペシャルルックを披露！MASHブラックフライデー公式ミューズ就任「着替えるたびにワクワク」",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/fashion2/683072.html",
-      "publishedAt": "2026-11-22T02:00:20.000Z",
-      "summary": "白石麻衣が、11月26日から12月2日まで開催される「MASH Illumination 2026 by BLACK FRIDAY」の公式ミューズに就任。キャンペーンページや限定CMで、冬にふさわしい華やかなスタイリングを披露している。今回のテーマは「きらめき」。白石は ... The post 白石麻衣、冬を彩る華やかなスペシャルルックを披露！MASHブラ",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "白石麻衣",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
       "id": "8d39155cdc842b01",
       "title": "フジ原田葵アナは「出会ってきた人の中で一番メンタルが強い」 後輩・高崎春アナが明かす頼もしさ",
       "sourceName": "マイナビニュース テレビ",
@@ -310,28 +303,6 @@
           "name": "松田里奈",
           "group": "櫻坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "b623772e3d3df924",
-      "title": "『めおと日和』2組の夫婦の対照的な“KI”に悶絶「キュンしすぎて、キュンシする!」 うぶキュンと大人の色気",
-      "sourceName": "マイナビニュース テレビ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
-      "articleUrl": "https://news.mynavi.jp/article/20261120-5365845/",
-      "publishedAt": "2026-11-20T00:24:00.000Z",
-      "summary": "名前も顔も知らぬまま、「交際ゼロ日」で夫婦となったなつ美(芳根京子)と瀧昌(本田響矢)の、ささやかな日常のぬくもりと、深まっていく愛をうららかに描くフジテレビ系ドラマ『波うららかに、めおと日和』(毎週木曜22:00～ ※FODで配信)の第6話が、19日に放送された。SNSでは、「瀧なつ(瀧昌となつ美)のうぶキュン“KI”(キス)と、深見夫婦(小関裕太、生田絵",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
