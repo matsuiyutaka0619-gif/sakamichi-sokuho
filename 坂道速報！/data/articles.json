@@ -1,14 +1,58 @@
 {
-  "updatedAt": "2026-11-24T22:31:13.285Z",
+  "updatedAt": "2026-11-25T08:43:56.214Z",
   "articles": [
     {
-      "id": "bdd3eed7dc19d05e",
-      "title": "前田拳太郎＆久保史緒里「何とか逃げられないかなと思った」ホラー初挑戦も…実は大の苦手",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611240001951.html",
-      "publishedAt": "2026-11-24T21:55:00.000Z",
-      "summary": "前田拳太郎（27）が24日、都内で単独初主演映画「巨頭オ」（12月25日公開）完成披露上映会に登壇した。 06年2月22日にインターネット掲示板「2ちゃんねる」（現5ちゃんねる）に投稿された、数行の体験談の投稿から広がった都市伝説・怪談…",
+      "id": "74422a1a35e9ac1c",
+      "title": "藤原竜也VS亀梨和也『カイジ 人生リベンジゲーム』本予告公開 生瀬勝久＆光石研も続投へ",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2593803.html",
+      "publishedAt": "2026-11-25T04:30:06.000Z",
+      "summary": "2027年1月29日に公開される映画『カイジ 人生リベンジゲーム』の本予告と本ポスターが公開。また追加キャストとして、生瀬勝久、光石研、大貫勇輔、馬場徹、新納慎也、桜井玲香の出演が発表された。 本作は、1996年より",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "桜井玲香",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "73ba2fdbb1f3bcaa",
+      "title": "白石麻衣、6年ぶりに宣材写真を一新 ピンクのシャツ＆黒のノースリーブでの横顔も",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2594080.html",
+      "publishedAt": "2026-11-25T04:20:59.000Z",
+      "summary": "白石麻衣が11月24日、自身のInstagramを更新。6年ぶりに新しくなった宣材写真を公開した。 「新しくなった宣材写真」と白石が投稿したのは4枚。1枚目では淡いピンクのシャツにデニムを合わせ、立てた膝に腕をのせて",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "白石麻衣",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "0b956f49195e2c60",
+      "title": "乃木坂46新シングル『君ロス』特典映像ダイジェスト公開、今年の神宮ライブを一足先にプレイバック",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95444/",
+      "publishedAt": "2026-11-25T03:00:00.000Z",
+      "summary": "12月2日(水)に発売される乃木坂46の43rdシングル『君ロス』より、初回仕様限定盤各形態に付属する特典Blu-ray「Live at 明治神宮野球場2026」のダイジェスト映像が公開された。 本シングルには5期生・井上和がセンターを務める表題曲に加え、鈴木佑捺センターの6期生曲「一度好きになった人」を全形態に収録。また、今作の活動をもってグループを卒業す",
       "groups": [
         "乃木坂46"
       ],
@@ -17,7 +61,64 @@
       ],
       "memberMatches": [
         {
-          "name": "久保史緒里",
+          "name": "伊藤理々杏",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "岩本蓮加",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "遠藤さくら",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "井上和",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "小川彩",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川端晃菜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "鈴木佑捺",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "7b74104374c76c5f",
+      "title": "乃木坂46川崎桜、地上波ドラマ初出演で主演 村上佳菜子、無良崇人、樋口新葉らフィギュアスケーターと共演",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261125-5401121/",
+      "publishedAt": "2026-11-24T23:00:00.000Z",
+      "summary": "乃木坂46の川崎桜(※崎は「立つ崎」)が、フジテレビの4夜連続ドラマ『フレンチ オン アイス～聖夜のLevel4～』(12月21日～24日24:15～24:25 ※関東地区ほか)で主演を務めることが25日、発表された。川崎にとって、地上波ドラマ初出演にして主演となる。",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "川﨑桜",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -187,28 +288,6 @@
           "name": "金川紗耶",
           "group": "乃木坂46",
           "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "125807ee19fece88",
-      "title": "生田絵梨花、赤いワンピース姿でクリスマスマーケット点灯式に登場！ドイツで過ごした幼少期の思い出も披露",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/actor/683257.html",
-      "publishedAt": "2026-11-22T22:30:21.000Z",
-      "summary": "俳優・アーティストの生田絵梨花が11月20日、東京・新豊洲さくら広場で開催された「東京クリスマスマーケット2026 in 新豊洲」の点灯式に登場した。赤いワンピースに白いファージャケットを合わせた生田は、来場者と声をそろえてカウントダウン。ボタンを押すと、会場のシンボル ... The post 生田絵梨花、赤いワンピース姿でクリスマスマーケット点灯式に登場",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
-          "status": "og"
         }
       ]
     },
