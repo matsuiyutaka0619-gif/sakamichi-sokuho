@@ -1,31 +1,79 @@
 {
-  "updatedAt": "2026-11-25T21:46:08.367Z",
+  "updatedAt": "2026-11-26T08:28:39.354Z",
   "articles": [
     {
-      "id": "5846d86c303e3f10",
-      "title": "長濱ねる、白肌あらわノースリーブトップス上目遣い自撮り「旅、しふく」姿公開「今年は生の…」",
-      "sourceName": "日刊スポーツ 芸能",
-      "sourceUrl": "https://www.nikkansports.com/entertainment/atom.xml",
-      "articleUrl": "https://www.nikkansports.com/entertainment/news/202611250002344.html",
-      "publishedAt": "2026-11-25T20:55:00.000Z",
-      "summary": "女優の長濱ねる（28）が25日までに、自身のインスタグラムを更新。オフショットを投稿した。 「旅、しふく」と題し、ベージュ色のノースリーブトップス姿の自撮りショットをアップ。白肌があらわとなった上目遣いの表情が際立った。 さらに別の投稿…",
+      "id": "86406cbad0949704",
+      "title": "芳根京子×生田絵梨花、“急接近2ショット”が尊い！ 『めおと日和』衣装で「いくちゃんが撮ってくれた♡」",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2595883.html",
+      "publishedAt": "2026-11-26T07:00:25.000Z",
+      "summary": "芳根京子が11月25日にインスタグラムを投稿。生田絵梨花とのオフショットを披露した。 2人は『波うららかに、めおと日和』続編（フジテレビ系）にて共演中。芳根は主人公の江端なつ美、生田はなつ美の友人である深見芙美子を演",
       "groups": [
-        "日向坂46",
-        "櫻坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "長濱ねる",
-          "group": "日向坂46",
+          "name": "生田絵梨花",
+          "group": "乃木坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "d96d9cf95365f4f6",
+      "title": "藤間爽子×梅澤美波が姉妹役、栗山民也演出で描く家族の物語『もうひとつの場所』来年5月上演",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95475/",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "summary": "藤間爽子、梅澤美波、音月桂、眞島秀和らが出演する舞台『「もうひとつの場所」-The Other Place- after Antigone』が2027年5月に東京と兵庫で上演されることが決定した。 現代イギリスを代表する劇作家アレクサンダー・ゼルディンにより2024年に世界初演された本作は、英国ナショナル・シアターで高い評価を受け、その後ニューヨークやパリな",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "梅澤美波",
+          "group": "乃木坂46",
+          "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "ad9f8666e296425f",
+      "title": "乃木坂46・川﨑桜がレトロな街並みで魅せる！弓木奈於・川端晃菜も『アップトゥボーイ』登場",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/683902.html",
+      "publishedAt": "2026-11-25T22:00:27.000Z",
+      "summary": "乃木坂46の川﨑桜が表紙・巻頭を飾る『アップトゥボーイ Vol.369』が、11月24日に発売された。約2年ぶりの登場となる川﨑は、川越の街並みを舞台に撮影。大正浪漫を思わせる世界観の中、20ページのグラビアで魅力を届ける。インタビューでは、大学卒業や同期の活躍を振り返 ... The post 乃木坂46・川﨑桜がレトロな街並みで魅せる！弓木奈於・川端晃菜",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "弓木奈於",
+          "group": "乃木坂46",
+          "status": "active"
         },
         {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
-          "status": "og"
+          "name": "川﨑桜",
+          "group": "乃木坂46",
+          "status": "active"
+        },
+        {
+          "name": "川端晃菜",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -54,8 +102,8 @@
     {
       "id": "22a1878a4d185b8a",
       "title": "秋元真夏、バラエティ番組で共演した八村倫太郎の印象を語る「いつも肩をぶん回してバラエティに飛び込んできてくださる」「常に盛り上げ隊長」 ショートドラマ『0番ホームの掲示板』スペシャルイベント",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261125-5407294/",
       "publishedAt": "2026-11-25T10:56:44.000Z",
       "summary": "8月3日より配信中のショートドラマ作品『0番ホームの掲示板』のスペシャルイベント『STUDIO sauce presents 『0番ホームの掲示板』SPECIAL EVENT ―0番ホームへの招待状―』が行われ、桐谷健太、八村倫太郎(WATWING)、秋元真夏、角谷進之介が登壇した。",
@@ -155,8 +203,8 @@
     {
       "id": "7b74104374c76c5f",
       "title": "乃木坂46川崎桜、地上波ドラマ初出演で主演 村上佳菜子、無良崇人、樋口新葉らフィギュアスケーターと共演",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース テレビ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/television",
       "articleUrl": "https://news.mynavi.jp/article/20261125-5401121/",
       "publishedAt": "2026-11-24T23:00:00.000Z",
       "summary": "乃木坂46の川崎桜(※崎は「立つ崎」)が、フジテレビの4夜連続ドラマ『フレンチ オン アイス～聖夜のLevel4～』(12月21日～24日24:15～24:25 ※関東地区ほか)で主演を務めることが25日、発表された。川崎にとって、地上波ドラマ初出演にして主演となる。",
@@ -206,52 +254,6 @@
         },
         {
           "name": "鈴木佑捺",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "4b9e6a052b1e120f",
-      "title": "日向坂46、初の『おひさま感謝祭』を日本武道館で2DAYS開催！メンバー全員でファンと新春を祝う",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/683554.html",
-      "publishedAt": "2026-11-23T22:30:27.000Z",
-      "summary": "日向坂46が、2027年1月16日・17日の2日間、東京・日本武道館で『おひさま感謝祭 2027』を開催することが決定した。開催は、11月23日に行われたアリーナツアー『ひなくり2026』兵庫公演DAY3のアンコールMCでサプライズ発表された。日向坂46が「感謝祭」と銘 ... The post 日向坂46、初の『おひさま感謝祭』を日本武道館で2DAYS開催",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
-      "id": "89b12ab626a2edc1",
-      "title": "乃木坂46瀬戸口心月、『B.L.T.』初ソロ表紙で透明感！金川紗耶の裏表紙＆冨里奈央のニットグラビアも公開",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/683534.html",
-      "publishedAt": "2026-11-23T21:30:42.000Z",
-      "summary": "乃木坂46の瀬戸口心月が、11月28日発売の『B.L.T.2027年1月号』で初のソロ表紙を飾る。今回、表紙と金川紗耶の裏表紙カットが公開された。瀬戸口の表紙では、素直なまなざしと飾らない表情に焦点を当てた。対する金川は、青い光が差す室内で窓の前から振り向く姿を披露。落 ... The post 乃木坂46瀬戸口心月、『B.L.T.』初ソロ表紙で透明感！金川",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "金川紗耶",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "冨里奈央",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "瀬戸口心月",
           "group": "乃木坂46",
           "status": "active"
         }
@@ -408,20 +410,6 @@
       ]
     },
     {
-      "id": "542f401dacd69298",
-      "title": "HYBE JAPAN、KeyHolderを買収へ SKE48・乃木坂46関連事業、『鬼レンチャン』『トークサバイバー!』制作会社などを傘下に",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261118-5353788/",
-      "publishedAt": "2026-11-18T09:50:26.000Z",
-      "summary": "韓国の大手エンターテインメント企業・HYBEの日本本社であるHYBE JAPANは18日、日本の総合エンターテインメント企業・KeyHolderを買収すると発表した。アーティストマネジメントからテレビ番組・映画制作まで幅広い事業を展開する同社を傘下に収め、日本市場における事業基盤の拡大を図る。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
-    },
-    {
       "id": "a108e48aadf52c80",
       "title": "与田祐希×吉川愛×菊地姫奈の背後に謎の仮面、岩瀬洋志も恐怖する『ガチャ-廻世界-』本ビジュアル解禁",
       "sourceName": "Bezzy",
@@ -440,28 +428,6 @@
           "name": "与田祐希",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "fade5dc8c9383f22",
-      "title": "乃木坂46賀喜遥香「私も思っています（笑）」約2年間続いているアーティスト写真の共通点とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261118-5350006/",
-      "publishedAt": "2026-11-17T20:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月12日（木）の放送では、作品がリリースされるたびに撮影するアーティスト写真について語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },
@@ -1267,28 +1233,6 @@
       ],
       "statuses": [],
       "memberMatches": []
-    },
-    {
-      "id": "05e7fefa07c871f8",
-      "title": "櫻坂46・谷口愛季が純白ドレス姿で揺れる気持ちを表現、新シングル「愛MUST BE」MV公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/09/92208/",
-      "publishedAt": "2026-09-16T15:10:00.000Z",
-      "summary": "櫻坂46が、10月14日(水)にリリースする最新シングルの表題曲「愛MUST BE」のMusic Videoを公開した。 今作のセンターは、表題曲では初となる三期生の谷口愛季。優しさの連鎖により愛が愛を生み出す未来を願う楽曲となっており、Music Videoの監督は6thシングル「Start over!」や2ndアルバムリード曲「Addiction」、14",
-      "groups": [
-        "櫻坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "谷口愛季",
-          "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
     }
   ]
 }
