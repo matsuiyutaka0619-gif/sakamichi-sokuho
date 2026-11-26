@@ -1,25 +1,47 @@
 {
-  "updatedAt": "2026-11-26T08:28:39.354Z",
+  "updatedAt": "2026-11-26T21:39:25.049Z",
   "articles": [
     {
-      "id": "86406cbad0949704",
-      "title": "芳根京子×生田絵梨花、“急接近2ショット”が尊い！ 『めおと日和』衣装で「いくちゃんが撮ってくれた♡」",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2595883.html",
-      "publishedAt": "2026-11-26T07:00:25.000Z",
-      "summary": "芳根京子が11月25日にインスタグラムを投稿。生田絵梨花とのオフショットを披露した。 2人は『波うららかに、めおと日和』続編（フジテレビ系）にて共演中。芳根は主人公の江端なつ美、生田はなつ美の友人である深見芙美子を演",
+      "id": "a83502c57faea5cf",
+      "title": "後輩2人に喫茶店でごちそうした佐藤満春、2度目の来店で渡された“封筒”の中身とは――元日向坂46富田鈴花、おごる・おごられる双方の難しさを告白",
+      "sourceName": "マイナビニュース エンタメ",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "articleUrl": "https://news.mynavi.jp/article/20261126-5405954/",
+      "publishedAt": "2026-11-26T11:00:00.000Z",
+      "summary": "お笑いコンビ・どきどきキャンプの佐藤満春が、ニッポン放送のビデオポッドキャスト番組『Looopでんき presents 佐藤満春・富田鈴花の2人におまかせ』(毎週火曜18:00～)に出演。後輩との食事の際に受けた心遣いについて明かした。",
       "groups": [
-        "乃木坂46"
+        "日向坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "生田絵梨花",
-          "group": "乃木坂46",
+          "name": "富田鈴花",
+          "group": "日向坂46",
           "status": "og"
+        }
+      ]
+    },
+    {
+      "id": "880548e0d1e6a867",
+      "title": "乃木坂46・賀喜遥香の初個展「Heartrium」開催決定、自分を好きになるための“心の空間”に",
+      "sourceName": "Bezzy",
+      "sourceUrl": "https://bezzy.jp/feed/",
+      "articleUrl": "https://bezzy.jp/2026/11/95540/",
+      "publishedAt": "2026-11-26T09:00:00.000Z",
+      "summary": "乃木坂46・賀喜遥香による初の個展「Heartrium（ハートリウム）」が2027年1月15日(金)から2月7日(日)まで渋谷PARCO地下1階・GALLERY X BY PARCOで開催されることが決定した。 4期生として2018年に加入した賀喜遥香は、2019年に初の選抜入りを果たすと28thシングル『君に叱られた』で初めて表題曲センターを担当。以降もグ",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
         }
       ]
     },
@@ -80,8 +102,8 @@
     {
       "id": "1c63b597682cbb65",
       "title": "「好きじゃないけど…」勤め先のエース弁護士から突然のプロポーズ――阪口珠美、ショートドラマ『結婚しましょう、恋する前に』で“げんじぶ”武藤潤とW主演",
-      "sourceName": "マイナビニュース エンタメ",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
+      "sourceName": "マイナビニュース 芸能",
+      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
       "articleUrl": "https://news.mynavi.jp/article/20261125-5407100/",
       "publishedAt": "2026-11-25T11:00:00.000Z",
       "summary": "元乃木坂46の阪口珠美とダンスボーカルグループ・原因は自分にある。の武藤潤が、2027年1月配信開始予定のショートドラマ『結婚しましょう、恋する前に』(全37話)でW主演を務めることが決定した。",
@@ -217,43 +239,6 @@
       "memberMatches": [
         {
           "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "a6ef38d0b0a08f65",
-      "title": "乃木坂46井上和センター『君ロス』収録内容解禁！賀喜遥香＆遠藤さくらのユニット曲や神宮ライブ映像も",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/683564.html",
-      "publishedAt": "2026-11-24T02:00:20.000Z",
-      "summary": "乃木坂46が12月2日に発売する43rdシングル『君ロス』の収録楽曲と歌唱メンバー、初回仕様限定盤の特典映像の内容が解禁された。全形態共通で収録されるのは、5期生・井上和がセンターを務める表題曲『君ロス』と、鈴木佑捺がフォーメーションセンターを務める6期生曲『一度好きに ... The post 乃木坂46井上和センター『君ロス』収録内容解禁！賀喜遥香＆遠藤",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "遠藤さくら",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "井上和",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "鈴木佑捺",
           "group": "乃木坂46",
           "status": "active"
         }
