@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-26T21:39:25.049Z",
+  "updatedAt": "2026-11-27T08:43:25.474Z",
   "articles": [
+    {
+      "id": "c3385dbf0ce0e371",
+      "title": "長濱ねる、“意外なアウトドア趣味”に反響 登山姿も“セクシー”なオフショット",
+      "sourceName": "リアルサウンド 映画部",
+      "sourceUrl": "https://realsound.jp/movie/feed",
+      "articleUrl": "https://realsound.jp/movie/2026/11/post-2596896.html",
+      "publishedAt": "2026-11-27T03:30:51.000Z",
+      "summary": "俳優の長濱ねるが11月26日、自身のInstagramを更新。登山を満喫するプライベートショットを公開した。 長濱はInstagramに「⛰️」と山の絵文字を載せ、雪化粧に彩られた山でハイキングを楽しむ写真を投稿。",
+      "groups": [
+        "日向坂46",
+        "櫻坂46"
+      ],
+      "statuses": [
+        "og"
+      ],
+      "memberMatches": [
+        {
+          "name": "長濱ねる",
+          "group": "日向坂46",
+          "status": "og"
+        },
+        {
+          "name": "長濱ねる",
+          "group": "櫻坂46",
+          "status": "og"
+        }
+      ]
+    },
     {
       "id": "a83502c57faea5cf",
       "title": "後輩2人に喫茶店でごちそうした佐藤満春、2度目の来店で渡された“封筒”の中身とは――元日向坂46富田鈴花、おごる・おごられる双方の難しさを告白",
@@ -368,28 +396,6 @@
         {
           "name": "松田里奈",
           "group": "櫻坂46",
-          "status": "active"
-        }
-      ]
-    },
-    {
-      "id": "3e3e6b7fc5e85712",
-      "title": "乃木坂46賀喜遥香「よくお家で食べていて…」祖父母の故郷・徳島県の大好きな名産品とは？",
-      "sourceName": "マイナビニュース 芸能",
-      "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment/geinou",
-      "articleUrl": "https://news.mynavi.jp/article/20261119-5357536/",
-      "publishedAt": "2026-11-18T20:50:00.000Z",
-      "summary": "乃木坂46の賀喜遥香がパーソナリティを務めるTOKYO FMのラジオ番組「SCHOOL OF LOCK! 乃木坂LOCKS!」（毎週木曜23:08頃～）。11月12日（木）の放送では、遥香先生が出演したイベント「マチ★アソビ vol.31」のことや、開催地・徳島県の思い出を語りました。",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
           "status": "active"
         }
       ]
@@ -1204,20 +1210,6 @@
           "status": "active"
         }
       ]
-    },
-    {
-      "id": "89aa4c86e76533f2",
-      "title": "日向坂46、最新シングル特典映像から「17th Single ひなた坂46 LIVE」ダイジェスト公開",
-      "sourceName": "Bezzy",
-      "sourceUrl": "https://bezzy.jp/feed/",
-      "articleUrl": "https://bezzy.jp/2026/09/92303/",
-      "publishedAt": "2026-09-18T10:00:00.000Z",
-      "summary": "9月30日(水)に発売される日向坂46の18thシングル『イチャイチャ虫』TYPE-A、B、Cに収録される「17th Single ひなた坂46 LIVE ~Director’s Cut Collections~」のダイジェスト映像が公開された。 この映像は、6月16日・17日にTOYOTA ARENA TOKYOにて開催された「17th Single ひな",
-      "groups": [
-        "日向坂46"
-      ],
-      "statuses": [],
-      "memberMatches": []
     }
   ]
 }
