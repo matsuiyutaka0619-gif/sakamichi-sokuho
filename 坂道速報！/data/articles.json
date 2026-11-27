@@ -1,42 +1,58 @@
 {
-  "updatedAt": "2026-11-27T08:43:25.474Z",
+  "updatedAt": "2026-11-27T21:24:02.455Z",
   "articles": [
     {
-      "id": "c3385dbf0ce0e371",
-      "title": "長濱ねる、“意外なアウトドア趣味”に反響 登山姿も“セクシー”なオフショット",
-      "sourceName": "リアルサウンド 映画部",
-      "sourceUrl": "https://realsound.jp/movie/feed",
-      "articleUrl": "https://realsound.jp/movie/2026/11/post-2596896.html",
-      "publishedAt": "2026-11-27T03:30:51.000Z",
-      "summary": "俳優の長濱ねるが11月26日、自身のInstagramを更新。登山を満喫するプライベートショットを公開した。 長濱はInstagramに「⛰️」と山の絵文字を載せ、雪化粧に彩られた山でハイキングを楽しむ写真を投稿。",
+      "id": "1350ee9069c0213f",
+      "title": "相楽伊織、ブーツで美脚見せ！バースデーイベントをファンとお祝い",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/sns/683404.html",
+      "publishedAt": "2026-11-27T12:45:51.000Z",
+      "summary": "11月22日、元乃木坂46でタレントの相楽伊織が自身のInstagramを更新した。相楽伊織はグレーと白のオフショルダートップスに黒のショートパンツとロングブーツを合わせ、美しいデコルテと華やかな笑顔が印象的な、大人可愛いコーデを披露し、「バースデーイベント2026本当 ... The post 相楽伊織、ブーツで美脚見せ！バースデーイベントをファンとお祝い",
       "groups": [
-        "日向坂46",
-        "櫻坂46"
+        "乃木坂46"
       ],
       "statuses": [
         "og"
       ],
       "memberMatches": [
         {
-          "name": "長濱ねる",
-          "group": "日向坂46",
-          "status": "og"
-        },
-        {
-          "name": "長濱ねる",
-          "group": "櫻坂46",
+          "name": "相楽伊織",
+          "group": "乃木坂46",
           "status": "og"
         }
       ]
     },
     {
-      "id": "a83502c57faea5cf",
-      "title": "後輩2人に喫茶店でごちそうした佐藤満春、2度目の来店で渡された“封筒”の中身とは――元日向坂46富田鈴花、おごる・おごられる双方の難しさを告白",
+      "id": "2d3067d6c81224f3",
+      "title": "乃木坂46・賀喜遥香、初個展「Heartrium」を渋谷PARCOで開催！イラストや撮り下ろし写真を展示",
+      "sourceName": "WWSチャンネル",
+      "sourceUrl": "https://www.wws-channel.com/feed",
+      "articleUrl": "https://www.wws-channel.com/girls2/684213.html",
+      "publishedAt": "2026-11-27T12:00:21.000Z",
+      "summary": "乃木坂46の賀喜遥香が、2027年1月15日から2月7日まで、渋谷PARCO地下1階のGALLERY X BY PARCOで初の個展「Heartrium（ハートリウム）」を開催する。会場には賀喜が描いたイラストや撮り下ろし写真、オリジナルキャラクター、クリエイターとのコ ... The post 乃木坂46・賀喜遥香、初個展「Heartrium」を渋谷PAR",
+      "groups": [
+        "乃木坂46"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "memberMatches": [
+        {
+          "name": "賀喜遥香",
+          "group": "乃木坂46",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cbf020f8e9e72620",
+      "title": "“父は德永英明”レイニ「仕事の話もあまりしないです」親子ならではの関係性を告白",
       "sourceName": "マイナビニュース エンタメ",
       "sourceUrl": "https://news.mynavi.jp/rss/entertainment/entertainment",
-      "articleUrl": "https://news.mynavi.jp/article/20261126-5405954/",
-      "publishedAt": "2026-11-26T11:00:00.000Z",
-      "summary": "お笑いコンビ・どきどきキャンプの佐藤満春が、ニッポン放送のビデオポッドキャスト番組『Looopでんき presents 佐藤満春・富田鈴花の2人におまかせ』(毎週火曜18:00～)に出演。後輩との食事の際に受けた心遣いについて明かした。",
+      "articleUrl": "https://news.mynavi.jp/article/20261127-5424346/",
+      "publishedAt": "2026-11-27T11:00:00.000Z",
+      "summary": "グランジ・遠山大輔、潮紗理菜がパーソナリティをつとめるTOKYO FMの生放送ラジオ番組「ＪＡ全農 COUNTDOWN JAPAN」（毎週土曜 13:00～13:53）。11月21日（土）は、新潟県の新潟ふるさと村・特設ステージから公開生放送でお届け！ ゲストには、歌手・俳優のレイニさんが登場！ これまでの経歴や、自身初のアニメタイアップとなったシングル「ま",
       "groups": [
         "日向坂46"
       ],
@@ -45,7 +61,7 @@
       ],
       "memberMatches": [
         {
-          "name": "富田鈴花",
+          "name": "潮紗理菜",
           "group": "日向坂46",
           "status": "og"
         }
@@ -166,28 +182,6 @@
       "memberMatches": [
         {
           "name": "秋元真夏",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "ea39af573a9cfb2c",
-      "title": "櫻井翔が『デジタルTVガイド』表紙に登場！芦田愛菜＆高橋文哉、生田絵梨花＆小関裕太も掲載",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/magazine_book/683890.html",
-      "publishedAt": "2026-11-25T09:00:19.000Z",
-      "summary": "櫻井翔が表紙・巻頭特集を飾る『デジタルTVガイド2027年1月号』が、11月24日に発売された。『ベストアーティスト2026』で18回連続の総合司会を務める櫻井。巻頭では、これまでの放送で印象に残っている場面や今回の注目ポイントに加え、旅と音楽にまつわるエピソードを語っ ... The post 櫻井翔が『デジタルTVガイド』表紙に登場！芦田愛菜＆高橋文哉、",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "生田絵梨花",
           "group": "乃木坂46",
           "status": "og"
         }
