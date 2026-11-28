@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-11-27T21:24:02.455Z",
+  "updatedAt": "2026-11-28T07:56:59.991Z",
   "articles": [
-    {
-      "id": "1350ee9069c0213f",
-      "title": "相楽伊織、ブーツで美脚見せ！バースデーイベントをファンとお祝い",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/sns/683404.html",
-      "publishedAt": "2026-11-27T12:45:51.000Z",
-      "summary": "11月22日、元乃木坂46でタレントの相楽伊織が自身のInstagramを更新した。相楽伊織はグレーと白のオフショルダートップスに黒のショートパンツとロングブーツを合わせ、美しいデコルテと華やかな笑顔が印象的な、大人可愛いコーデを披露し、「バースデーイベント2026本当 ... The post 相楽伊織、ブーツで美脚見せ！バースデーイベントをファンとお祝い",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "og"
-      ],
-      "memberMatches": [
-        {
-          "name": "相楽伊織",
-          "group": "乃木坂46",
-          "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "2d3067d6c81224f3",
-      "title": "乃木坂46・賀喜遥香、初個展「Heartrium」を渋谷PARCOで開催！イラストや撮り下ろし写真を展示",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/684213.html",
-      "publishedAt": "2026-11-27T12:00:21.000Z",
-      "summary": "乃木坂46の賀喜遥香が、2027年1月15日から2月7日まで、渋谷PARCO地下1階のGALLERY X BY PARCOで初の個展「Heartrium（ハートリウム）」を開催する。会場には賀喜が描いたイラストや撮り下ろし写真、オリジナルキャラクター、クリエイターとのコ ... The post 乃木坂46・賀喜遥香、初個展「Heartrium」を渋谷PAR",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "賀喜遥香",
-          "group": "乃木坂46",
-          "status": "active"
-        }
-      ]
-    },
     {
       "id": "cbf020f8e9e72620",
       "title": "“父は德永英明”レイニ「仕事の話もあまりしないです」親子ならではの関係性を告白",
@@ -108,38 +64,6 @@
           "name": "梅澤美波",
           "group": "乃木坂46",
           "status": "og"
-        }
-      ]
-    },
-    {
-      "id": "ad9f8666e296425f",
-      "title": "乃木坂46・川﨑桜がレトロな街並みで魅せる！弓木奈於・川端晃菜も『アップトゥボーイ』登場",
-      "sourceName": "WWSチャンネル",
-      "sourceUrl": "https://www.wws-channel.com/feed",
-      "articleUrl": "https://www.wws-channel.com/girls2/683902.html",
-      "publishedAt": "2026-11-25T22:00:27.000Z",
-      "summary": "乃木坂46の川﨑桜が表紙・巻頭を飾る『アップトゥボーイ Vol.369』が、11月24日に発売された。約2年ぶりの登場となる川﨑は、川越の街並みを舞台に撮影。大正浪漫を思わせる世界観の中、20ページのグラビアで魅力を届ける。インタビューでは、大学卒業や同期の活躍を振り返 ... The post 乃木坂46・川﨑桜がレトロな街並みで魅せる！弓木奈於・川端晃菜",
-      "groups": [
-        "乃木坂46"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "memberMatches": [
-        {
-          "name": "弓木奈於",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川﨑桜",
-          "group": "乃木坂46",
-          "status": "active"
-        },
-        {
-          "name": "川端晃菜",
-          "group": "乃木坂46",
-          "status": "active"
         }
       ]
     },

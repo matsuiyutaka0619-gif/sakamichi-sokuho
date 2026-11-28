@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:24:02.456Z",
+  "updatedAt": "2026-11-28T07:56:59.992Z",
   "sources": [
     {
       "source": "日刊スポーツ 芸能",
@@ -95,8 +95,9 @@
     },
     {
       "source": "WWSチャンネル",
-      "count": 50,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "Edge Line",
